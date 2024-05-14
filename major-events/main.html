@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+    <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
     <meta property='og:title' content='PTCG Legends' />
     <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
@@ -13,7 +13,7 @@
     <meta property='og:url' content='www.ptcglegends.com' />
     <meta property='og:image:width' content='1200' />
     <meta property='og:image:height' content='627' />
-    <title>PTCG Legends | Major Events</title>
+    <title>Major Events</title>
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/worlds.css">
     <link rel="stylesheet" href="../css/nav.css">
@@ -29,6 +29,7 @@
 
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6650820008666327"
     crossorigin="anonymous"></script> -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 
 <body>
@@ -41,17 +42,14 @@
         </div>
         <div class='push-right1'>
             <ul id="nav-rightr">
-                <li><a href="../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
-                    <ul class='drop-it-down1'>
-                        <li><a href='../tournaments/upcoming'>Upcoming Events</a></li>
-                        <li><a href='../tournaments/completed'>Completed Events</a></li>
-                    </ul>
+                <li><a href="../tournaments/completed">Tournaments</a>
+                     
                 </li>
-                <li><a href="../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                <li><a href="../event-archive" class='move-left-five'>Event Archive <span class="material-symbols-outlined new-drop">expand_more</span></a>
                     <ul class='drop-it-down2'>
                         <li><a href='../worlds/main'>Worlds</a></li>
                         <li><a href='./main'>Major Events</a></li>
-                        <li><a href='../tournaments/regional-spe'>Regionals & SPEs</a></li>
+                        <!-- <li><a href='../tournaments/regional-spe'>Regionals & SPEs</a></li> -->
                     </ul>
                 </li>                
                 <li><a href="../decks-by-era/main">Decks by Era</a></li>
@@ -71,18 +69,18 @@
                                 <div></div>
                             </div>
                         </div>
-                        <li class='bold tittle'><a href="../tournaments/upcoming">Tournaments</a></li>
+                        <li class='bold tittle'><a href="../tournaments/completed">Tournaments</a></li>
                         <li class='sub-nav'><a href="../tournaments/upcoming">Upcoming Events</a></li>
                         <li class='sub-nav'><a href="../tournaments/completed">Completed Events</a></li>
                         <li class='bold tittle'><a href="../event-archive">Event Archive</a></li>
                         <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
-                        <li class='sub-nav'><a href="./main">Major Events (ICs, Nats, SCs)</a></li>
-                        <li class='sub-nav'><a href="../tournaments/regional-spe" >Regionals & SPEs</a>
-                        </li>
+                        <li class='sub-nav'><a href="./main">Major Events (ICs, Nats, STSs)</a></li>
+                        <!-- <li class='sub-nav'><a href="../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li> -->
                         <li class='bold tittle'><a href="../decks-by-era/main">Decks by Era</a></li>
                         <hr>
                         <li class='bold tittle'><a href="../articles/all"  >Articles</a></li><li class='sub-nav'><a href="../articles/all">All Articles</a></li>
-                        <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Week</a></li>
+                        <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Month</a></li>
                         <hr>
                         <li class='bold tittle'><a href="../other/main">Other</a></li>
                         <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
@@ -250,10 +248,14 @@
 
     <div class='contain-worlds'>
         <div class='worlds-icons'>
-            <!-- <a class='nats-box' href='./2024/laic/summary' aria-label='2024'>
+            <a class='nats-box' href='../tournaments/year/2024/euic/results' aria-label='2024'>
+                <img src='../assets/nats-logos/24-euic.jpg'>
+                <p>2024 EUIC</p>
+            </a>
+            <a class='nats-box' href='./2024/laic/summary' aria-label='2024'>
                 <img src='../assets/nats-logos/24-laic.jpg'>
                 <p>2024 LAIC</p>
-            </a> -->
+            </a>
             <a class='nats-box' href='./2023/naic/summary' aria-label='2023'>
                 <img src='../assets/nats-logos/23-naic.jpg'>
                 <p>2023 NAIC</p>
@@ -455,7 +457,7 @@
 
     <footer class='era-footer'>
         <div id='foot-top'>
-            <a href="../tournaments/upcoming">Tournaments</a>
+            <a href="../tournaments/completed">Tournaments</a>
             <a href="../event-archive">Event Archive</a>
             <a href="../decks-by-era/main">Decks by Era</a>
             <a href="../articles/all">Articles</a>

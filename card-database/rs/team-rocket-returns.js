@@ -1,8 +1,9 @@
-let teamRocketReturns = [
+let ex7 = [
     {
         "id": "ex7-1",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -43,9 +44,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -59,9 +58,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/1.png",
             "large": "https://images.pokemontcg.io/ex7/1_hires.png"
@@ -71,6 +68,7 @@ let teamRocketReturns = [
         "id": "ex7-2",
         "name": "Dark Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -126,9 +124,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -142,9 +138,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/2.png",
             "large": "https://images.pokemontcg.io/ex7/2_hires.png"
@@ -154,6 +148,7 @@ let teamRocketReturns = [
         "id": "ex7-3",
         "name": "Dark Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -214,9 +209,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -230,9 +223,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/3.png",
             "large": "https://images.pokemontcg.io/ex7/3_hires.png"
@@ -242,6 +233,7 @@ let teamRocketReturns = [
         "id": "ex7-4",
         "name": "Dark Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -285,9 +277,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -301,9 +291,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/4.png",
             "large": "https://images.pokemontcg.io/ex7/4_hires.png"
@@ -313,6 +301,7 @@ let teamRocketReturns = [
         "id": "ex7-5",
         "name": "Dark Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -367,9 +356,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -383,9 +370,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/5.png",
             "large": "https://images.pokemontcg.io/ex7/5_hires.png"
@@ -395,6 +380,7 @@ let teamRocketReturns = [
         "id": "ex7-6",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -441,9 +427,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -457,9 +441,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/6.png",
             "large": "https://images.pokemontcg.io/ex7/6_hires.png"
@@ -469,6 +451,7 @@ let teamRocketReturns = [
         "id": "ex7-7",
         "name": "Dark Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -517,9 +500,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -533,9 +514,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/7.png",
             "large": "https://images.pokemontcg.io/ex7/7_hires.png"
@@ -545,6 +524,7 @@ let teamRocketReturns = [
         "id": "ex7-8",
         "name": "Dark Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -591,9 +571,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -607,9 +585,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/8.png",
             "large": "https://images.pokemontcg.io/ex7/8_hires.png"
@@ -619,6 +595,7 @@ let teamRocketReturns = [
         "id": "ex7-9",
         "name": "Dark Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -663,9 +640,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -679,9 +654,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/9.png",
             "large": "https://images.pokemontcg.io/ex7/9_hires.png"
@@ -691,6 +664,7 @@ let teamRocketReturns = [
         "id": "ex7-10",
         "name": "Dark Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -746,9 +720,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -762,9 +734,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/10.png",
             "large": "https://images.pokemontcg.io/ex7/10_hires.png"
@@ -774,6 +744,7 @@ let teamRocketReturns = [
         "id": "ex7-11",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -818,9 +789,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -834,9 +803,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/11.png",
             "large": "https://images.pokemontcg.io/ex7/11_hires.png"
@@ -846,6 +813,7 @@ let teamRocketReturns = [
         "id": "ex7-12",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -897,9 +865,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -913,9 +879,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/12.png",
             "large": "https://images.pokemontcg.io/ex7/12_hires.png"
@@ -925,6 +889,7 @@ let teamRocketReturns = [
         "id": "ex7-13",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -973,9 +938,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -989,9 +952,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/13.png",
             "large": "https://images.pokemontcg.io/ex7/13_hires.png"
@@ -1001,6 +962,7 @@ let teamRocketReturns = [
         "id": "ex7-14",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1061,9 +1023,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1077,9 +1037,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/14.png",
             "large": "https://images.pokemontcg.io/ex7/14_hires.png"
@@ -1089,6 +1047,7 @@ let teamRocketReturns = [
         "id": "ex7-15",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1150,9 +1109,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1166,9 +1123,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/15.png",
             "large": "https://images.pokemontcg.io/ex7/15_hires.png"
@@ -1178,6 +1133,7 @@ let teamRocketReturns = [
         "id": "ex7-16",
         "name": "Dark Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1232,9 +1188,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1248,9 +1202,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/16.png",
             "large": "https://images.pokemontcg.io/ex7/16_hires.png"
@@ -1260,6 +1212,7 @@ let teamRocketReturns = [
         "id": "ex7-17",
         "name": "Dark Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1301,9 +1254,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1317,9 +1268,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/17.png",
             "large": "https://images.pokemontcg.io/ex7/17_hires.png"
@@ -1329,6 +1278,7 @@ let teamRocketReturns = [
         "id": "ex7-18",
         "name": "Dark Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1373,9 +1323,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1389,9 +1337,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/18.png",
             "large": "https://images.pokemontcg.io/ex7/18_hires.png"
@@ -1401,6 +1347,7 @@ let teamRocketReturns = [
         "id": "ex7-19",
         "name": "Dark Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1463,9 +1410,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1479,9 +1424,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/19.png",
             "large": "https://images.pokemontcg.io/ex7/19_hires.png"
@@ -1491,6 +1434,7 @@ let teamRocketReturns = [
         "id": "ex7-20",
         "name": "Dark Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1536,9 +1480,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1552,9 +1494,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/20.png",
             "large": "https://images.pokemontcg.io/ex7/20_hires.png"
@@ -1564,6 +1504,7 @@ let teamRocketReturns = [
         "id": "ex7-21",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1603,9 +1544,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1619,9 +1558,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/21.png",
             "large": "https://images.pokemontcg.io/ex7/21_hires.png"
@@ -1631,6 +1568,7 @@ let teamRocketReturns = [
         "id": "ex7-22",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1673,9 +1611,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1689,9 +1625,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/22.png",
             "large": "https://images.pokemontcg.io/ex7/22_hires.png"
@@ -1701,6 +1635,7 @@ let teamRocketReturns = [
         "id": "ex7-23",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1752,9 +1687,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1768,9 +1701,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/23.png",
             "large": "https://images.pokemontcg.io/ex7/23_hires.png"
@@ -1780,6 +1711,7 @@ let teamRocketReturns = [
         "id": "ex7-24",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1821,9 +1753,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1837,9 +1767,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/24.png",
             "large": "https://images.pokemontcg.io/ex7/24_hires.png"
@@ -1849,6 +1777,7 @@ let teamRocketReturns = [
         "id": "ex7-25",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1897,9 +1826,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1913,9 +1840,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/25.png",
             "large": "https://images.pokemontcg.io/ex7/25_hires.png"
@@ -1925,6 +1850,7 @@ let teamRocketReturns = [
         "id": "ex7-26",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1964,9 +1890,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -1980,9 +1904,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/26.png",
             "large": "https://images.pokemontcg.io/ex7/26_hires.png"
@@ -1992,6 +1914,7 @@ let teamRocketReturns = [
         "id": "ex7-27",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -2031,9 +1954,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2047,9 +1968,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/27.png",
             "large": "https://images.pokemontcg.io/ex7/27_hires.png"
@@ -2059,6 +1978,7 @@ let teamRocketReturns = [
         "id": "ex7-28",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -2108,9 +2028,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2124,9 +2042,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/28.png",
             "large": "https://images.pokemontcg.io/ex7/28_hires.png"
@@ -2136,6 +2052,7 @@ let teamRocketReturns = [
         "id": "ex7-29",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2182,9 +2099,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2198,9 +2113,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/29.png",
             "large": "https://images.pokemontcg.io/ex7/29_hires.png"
@@ -2210,6 +2123,7 @@ let teamRocketReturns = [
         "id": "ex7-30",
         "name": "Dark Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2257,9 +2171,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2273,9 +2185,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/30.png",
             "large": "https://images.pokemontcg.io/ex7/30_hires.png"
@@ -2285,6 +2195,7 @@ let teamRocketReturns = [
         "id": "ex7-31",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2338,9 +2249,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2354,9 +2263,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/31.png",
             "large": "https://images.pokemontcg.io/ex7/31_hires.png"
@@ -2366,6 +2273,7 @@ let teamRocketReturns = [
         "id": "ex7-32",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2423,9 +2331,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2439,9 +2345,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/32.png",
             "large": "https://images.pokemontcg.io/ex7/32_hires.png"
@@ -2451,6 +2355,7 @@ let teamRocketReturns = [
         "id": "ex7-33",
         "name": "Dark Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2500,9 +2405,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2516,9 +2419,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/33.png",
             "large": "https://images.pokemontcg.io/ex7/33_hires.png"
@@ -2528,6 +2429,7 @@ let teamRocketReturns = [
         "id": "ex7-34",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2566,9 +2468,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2582,9 +2482,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/34.png",
             "large": "https://images.pokemontcg.io/ex7/34_hires.png"
@@ -2594,6 +2492,7 @@ let teamRocketReturns = [
         "id": "ex7-35",
         "name": "Dark Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2642,9 +2541,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2658,9 +2555,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/35.png",
             "large": "https://images.pokemontcg.io/ex7/35_hires.png"
@@ -2670,6 +2565,7 @@ let teamRocketReturns = [
         "id": "ex7-36",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2731,9 +2627,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2747,9 +2641,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/36.png",
             "large": "https://images.pokemontcg.io/ex7/36_hires.png"
@@ -2759,6 +2651,7 @@ let teamRocketReturns = [
         "id": "ex7-37",
         "name": "Dark Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2804,9 +2697,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2820,9 +2711,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/37.png",
             "large": "https://images.pokemontcg.io/ex7/37_hires.png"
@@ -2832,6 +2721,7 @@ let teamRocketReturns = [
         "id": "ex7-38",
         "name": "Dark Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2879,9 +2769,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2895,9 +2783,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/38.png",
             "large": "https://images.pokemontcg.io/ex7/38_hires.png"
@@ -2907,6 +2793,7 @@ let teamRocketReturns = [
         "id": "ex7-39",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2958,9 +2845,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -2974,9 +2859,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/39.png",
             "large": "https://images.pokemontcg.io/ex7/39_hires.png"
@@ -2986,6 +2869,7 @@ let teamRocketReturns = [
         "id": "ex7-40",
         "name": "Dark Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3035,9 +2919,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3051,9 +2933,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/40.png",
             "large": "https://images.pokemontcg.io/ex7/40_hires.png"
@@ -3063,6 +2943,7 @@ let teamRocketReturns = [
         "id": "ex7-41",
         "name": "Dark Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3114,9 +2995,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3130,9 +3009,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/41.png",
             "large": "https://images.pokemontcg.io/ex7/41_hires.png"
@@ -3142,6 +3019,7 @@ let teamRocketReturns = [
         "id": "ex7-42",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3196,9 +3074,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3212,9 +3088,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/42.png",
             "large": "https://images.pokemontcg.io/ex7/42_hires.png"
@@ -3224,6 +3098,7 @@ let teamRocketReturns = [
         "id": "ex7-43",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3263,9 +3138,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3279,9 +3152,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/43.png",
             "large": "https://images.pokemontcg.io/ex7/43_hires.png"
@@ -3291,6 +3162,7 @@ let teamRocketReturns = [
         "id": "ex7-44",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3336,9 +3208,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3352,9 +3222,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/44.png",
             "large": "https://images.pokemontcg.io/ex7/44_hires.png"
@@ -3364,6 +3232,7 @@ let teamRocketReturns = [
         "id": "ex7-45",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3403,9 +3272,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3419,9 +3286,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/45.png",
             "large": "https://images.pokemontcg.io/ex7/45_hires.png"
@@ -3431,6 +3296,7 @@ let teamRocketReturns = [
         "id": "ex7-46",
         "name": "Rocket's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3475,9 +3341,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3491,9 +3355,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/46.png",
             "large": "https://images.pokemontcg.io/ex7/46_hires.png"
@@ -3503,6 +3365,7 @@ let teamRocketReturns = [
         "id": "ex7-47",
         "name": "Rocket's Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3544,9 +3407,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3560,9 +3421,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/47.png",
             "large": "https://images.pokemontcg.io/ex7/47_hires.png"
@@ -3572,6 +3431,7 @@ let teamRocketReturns = [
         "id": "ex7-48",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3619,9 +3479,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3635,9 +3493,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/48.png",
             "large": "https://images.pokemontcg.io/ex7/48_hires.png"
@@ -3647,6 +3503,7 @@ let teamRocketReturns = [
         "id": "ex7-49",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3694,9 +3551,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3710,9 +3565,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/49.png",
             "large": "https://images.pokemontcg.io/ex7/49_hires.png"
@@ -3722,6 +3575,7 @@ let teamRocketReturns = [
         "id": "ex7-50",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3766,9 +3620,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3782,9 +3634,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/50.png",
             "large": "https://images.pokemontcg.io/ex7/50_hires.png"
@@ -3794,6 +3644,7 @@ let teamRocketReturns = [
         "id": "ex7-51",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3837,9 +3688,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3853,9 +3702,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/51.png",
             "large": "https://images.pokemontcg.io/ex7/51_hires.png"
@@ -3865,6 +3712,7 @@ let teamRocketReturns = [
         "id": "ex7-52",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3893,9 +3741,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3909,9 +3755,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/52.png",
             "large": "https://images.pokemontcg.io/ex7/52_hires.png"
@@ -3921,6 +3765,7 @@ let teamRocketReturns = [
         "id": "ex7-53",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3975,9 +3820,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -3991,9 +3834,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/53.png",
             "large": "https://images.pokemontcg.io/ex7/53_hires.png"
@@ -4003,6 +3844,7 @@ let teamRocketReturns = [
         "id": "ex7-54",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4044,9 +3886,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4060,9 +3900,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/54.png",
             "large": "https://images.pokemontcg.io/ex7/54_hires.png"
@@ -4072,6 +3910,7 @@ let teamRocketReturns = [
         "id": "ex7-55",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4106,9 +3945,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4122,9 +3959,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/55.png",
             "large": "https://images.pokemontcg.io/ex7/55_hires.png"
@@ -4134,6 +3969,7 @@ let teamRocketReturns = [
         "id": "ex7-56",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4178,9 +4014,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4194,9 +4028,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/56.png",
             "large": "https://images.pokemontcg.io/ex7/56_hires.png"
@@ -4206,6 +4038,7 @@ let teamRocketReturns = [
         "id": "ex7-57",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4253,9 +4086,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4269,9 +4100,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/57.png",
             "large": "https://images.pokemontcg.io/ex7/57_hires.png"
@@ -4281,6 +4110,7 @@ let teamRocketReturns = [
         "id": "ex7-58",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4325,9 +4155,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4341,9 +4169,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/58.png",
             "large": "https://images.pokemontcg.io/ex7/58_hires.png"
@@ -4353,6 +4179,7 @@ let teamRocketReturns = [
         "id": "ex7-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4397,9 +4224,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4413,9 +4238,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/59.png",
             "large": "https://images.pokemontcg.io/ex7/59_hires.png"
@@ -4425,6 +4248,7 @@ let teamRocketReturns = [
         "id": "ex7-60",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4466,9 +4290,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4482,9 +4304,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/60.png",
             "large": "https://images.pokemontcg.io/ex7/60_hires.png"
@@ -4494,6 +4314,7 @@ let teamRocketReturns = [
         "id": "ex7-61",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4535,9 +4356,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4551,9 +4370,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/61.png",
             "large": "https://images.pokemontcg.io/ex7/61_hires.png"
@@ -4563,6 +4380,7 @@ let teamRocketReturns = [
         "id": "ex7-62",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4597,9 +4415,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4613,9 +4429,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/62.png",
             "large": "https://images.pokemontcg.io/ex7/62_hires.png"
@@ -4625,6 +4439,7 @@ let teamRocketReturns = [
         "id": "ex7-63",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4669,9 +4484,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4685,9 +4498,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/63.png",
             "large": "https://images.pokemontcg.io/ex7/63_hires.png"
@@ -4697,6 +4508,7 @@ let teamRocketReturns = [
         "id": "ex7-64",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4741,9 +4553,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4757,9 +4567,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/64.png",
             "large": "https://images.pokemontcg.io/ex7/64_hires.png"
@@ -4769,6 +4577,7 @@ let teamRocketReturns = [
         "id": "ex7-65",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4803,9 +4612,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4819,9 +4626,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/65.png",
             "large": "https://images.pokemontcg.io/ex7/65_hires.png"
@@ -4831,6 +4636,7 @@ let teamRocketReturns = [
         "id": "ex7-66",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4865,9 +4671,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4881,9 +4685,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/66.png",
             "large": "https://images.pokemontcg.io/ex7/66_hires.png"
@@ -4893,6 +4695,7 @@ let teamRocketReturns = [
         "id": "ex7-67",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4937,9 +4740,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -4953,9 +4754,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/67.png",
             "large": "https://images.pokemontcg.io/ex7/67_hires.png"
@@ -4965,6 +4764,7 @@ let teamRocketReturns = [
         "id": "ex7-68",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4999,9 +4799,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5015,9 +4813,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/68.png",
             "large": "https://images.pokemontcg.io/ex7/68_hires.png"
@@ -5027,6 +4823,7 @@ let teamRocketReturns = [
         "id": "ex7-69",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5071,9 +4868,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5087,9 +4882,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/69.png",
             "large": "https://images.pokemontcg.io/ex7/69_hires.png"
@@ -5099,6 +4892,7 @@ let teamRocketReturns = [
         "id": "ex7-70",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5142,9 +4936,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5158,9 +4950,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/70.png",
             "large": "https://images.pokemontcg.io/ex7/70_hires.png"
@@ -5170,6 +4960,7 @@ let teamRocketReturns = [
         "id": "ex7-71",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5211,9 +5002,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5227,9 +5016,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/71.png",
             "large": "https://images.pokemontcg.io/ex7/71_hires.png"
@@ -5239,6 +5026,7 @@ let teamRocketReturns = [
         "id": "ex7-72",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5282,9 +5070,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5298,9 +5084,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/72.png",
             "large": "https://images.pokemontcg.io/ex7/72_hires.png"
@@ -5310,6 +5094,7 @@ let teamRocketReturns = [
         "id": "ex7-73",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5353,9 +5138,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5369,9 +5152,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/73.png",
             "large": "https://images.pokemontcg.io/ex7/73_hires.png"
@@ -5381,6 +5162,7 @@ let teamRocketReturns = [
         "id": "ex7-74",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5425,9 +5207,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5441,9 +5221,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/74.png",
             "large": "https://images.pokemontcg.io/ex7/74_hires.png"
@@ -5453,6 +5231,7 @@ let teamRocketReturns = [
         "id": "ex7-75",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5496,9 +5275,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5512,9 +5289,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/75.png",
             "large": "https://images.pokemontcg.io/ex7/75_hires.png"
@@ -5524,6 +5299,7 @@ let teamRocketReturns = [
         "id": "ex7-76",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5566,9 +5342,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5582,9 +5356,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/76.png",
             "large": "https://images.pokemontcg.io/ex7/76_hires.png"
@@ -5594,6 +5366,7 @@ let teamRocketReturns = [
         "id": "ex7-77",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5638,9 +5411,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5654,9 +5425,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/77.png",
             "large": "https://images.pokemontcg.io/ex7/77_hires.png"
@@ -5666,6 +5435,7 @@ let teamRocketReturns = [
         "id": "ex7-78",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5710,9 +5480,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5726,9 +5494,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/78.png",
             "large": "https://images.pokemontcg.io/ex7/78_hires.png"
@@ -5738,6 +5504,7 @@ let teamRocketReturns = [
         "id": "ex7-79",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5782,9 +5549,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5798,9 +5563,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/79.png",
             "large": "https://images.pokemontcg.io/ex7/79_hires.png"
@@ -5810,6 +5573,7 @@ let teamRocketReturns = [
         "id": "ex7-80",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5853,9 +5617,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5869,9 +5631,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/80.png",
             "large": "https://images.pokemontcg.io/ex7/80_hires.png"
@@ -5881,6 +5641,7 @@ let teamRocketReturns = [
         "id": "ex7-81",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5922,9 +5683,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -5938,9 +5697,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/81.png",
             "large": "https://images.pokemontcg.io/ex7/81_hires.png"
@@ -5950,6 +5707,7 @@ let teamRocketReturns = [
         "id": "ex7-82",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5994,9 +5752,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6010,9 +5766,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/82.png",
             "large": "https://images.pokemontcg.io/ex7/82_hires.png"
@@ -6022,6 +5776,7 @@ let teamRocketReturns = [
         "id": "ex7-83",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -6035,9 +5790,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6048,11 +5801,7 @@ let teamRocketReturns = [
         "number": "83",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/83.png",
             "large": "https://images.pokemontcg.io/ex7/83_hires.png"
@@ -6062,6 +5811,7 @@ let teamRocketReturns = [
         "id": "ex7-84",
         "name": "Pokémon Retriever",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6074,9 +5824,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6087,9 +5835,7 @@ let teamRocketReturns = [
         "number": "84",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/84.png",
             "large": "https://images.pokemontcg.io/ex7/84_hires.png"
@@ -6099,6 +5845,7 @@ let teamRocketReturns = [
         "id": "ex7-85",
         "name": "Pow! Hand Extension",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6112,9 +5859,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6125,9 +5870,7 @@ let teamRocketReturns = [
         "number": "85",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/85.png",
             "large": "https://images.pokemontcg.io/ex7/85_hires.png"
@@ -6137,6 +5880,7 @@ let teamRocketReturns = [
         "id": "ex7-86",
         "name": "Rocket's Admin.",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -6150,9 +5894,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6163,9 +5905,7 @@ let teamRocketReturns = [
         "number": "86",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/86.png",
             "large": "https://images.pokemontcg.io/ex7/86_hires.png"
@@ -6175,6 +5915,7 @@ let teamRocketReturns = [
         "id": "ex7-87",
         "name": "Rocket's Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stadium"
         ],
@@ -6188,9 +5929,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6201,9 +5940,7 @@ let teamRocketReturns = [
         "number": "87",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/87.png",
             "large": "https://images.pokemontcg.io/ex7/87_hires.png"
@@ -6213,6 +5950,7 @@ let teamRocketReturns = [
         "id": "ex7-88",
         "name": "Rocket's Mission",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -6226,9 +5964,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6239,9 +5975,7 @@ let teamRocketReturns = [
         "number": "88",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/88.png",
             "large": "https://images.pokemontcg.io/ex7/88_hires.png"
@@ -6251,6 +5985,7 @@ let teamRocketReturns = [
         "id": "ex7-89",
         "name": "Rocket's Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Item"
         ],
@@ -6263,9 +5998,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6276,9 +6009,7 @@ let teamRocketReturns = [
         "number": "89",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/89.png",
             "large": "https://images.pokemontcg.io/ex7/89_hires.png"
@@ -6288,6 +6019,7 @@ let teamRocketReturns = [
         "id": "ex7-90",
         "name": "Rocket's Tricky Gym",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stadium"
         ],
@@ -6312,9 +6044,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6325,9 +6055,7 @@ let teamRocketReturns = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/90.png",
             "large": "https://images.pokemontcg.io/ex7/90_hires.png"
@@ -6337,6 +6065,7 @@ let teamRocketReturns = [
         "id": "ex7-91",
         "name": "Surprise! Time Machine",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6349,9 +6078,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6362,9 +6089,7 @@ let teamRocketReturns = [
         "number": "91",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/91.png",
             "large": "https://images.pokemontcg.io/ex7/91_hires.png"
@@ -6374,6 +6099,7 @@ let teamRocketReturns = [
         "id": "ex7-92",
         "name": "Swoop! Teleporter",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6386,9 +6112,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6399,9 +6123,7 @@ let teamRocketReturns = [
         "number": "92",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/92.png",
             "large": "https://images.pokemontcg.io/ex7/92_hires.png"
@@ -6411,6 +6133,7 @@ let teamRocketReturns = [
         "id": "ex7-93",
         "name": "Venture Bomb",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6423,9 +6146,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6436,9 +6157,7 @@ let teamRocketReturns = [
         "number": "93",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/93.png",
             "large": "https://images.pokemontcg.io/ex7/93_hires.png"
@@ -6448,6 +6167,7 @@ let teamRocketReturns = [
         "id": "ex7-94",
         "name": "Dark Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Special"
         ],
@@ -6460,9 +6180,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6473,9 +6191,7 @@ let teamRocketReturns = [
         "number": "94",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/94.png",
             "large": "https://images.pokemontcg.io/ex7/94_hires.png"
@@ -6485,6 +6201,7 @@ let teamRocketReturns = [
         "id": "ex7-95",
         "name": "R Energy",
         "supertype": "Energy",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Special"
         ],
@@ -6497,9 +6214,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6510,9 +6225,7 @@ let teamRocketReturns = [
         "number": "95",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/95.png",
             "large": "https://images.pokemontcg.io/ex7/95_hires.png"
@@ -6522,6 +6235,7 @@ let teamRocketReturns = [
         "id": "ex7-96",
         "name": "Rocket's Articuno ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6575,9 +6289,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6591,9 +6303,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/96.png",
             "large": "https://images.pokemontcg.io/ex7/96_hires.png"
@@ -6603,6 +6313,7 @@ let teamRocketReturns = [
         "id": "ex7-97",
         "name": "Rocket's Entei ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6656,9 +6367,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6672,9 +6381,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/97.png",
             "large": "https://images.pokemontcg.io/ex7/97_hires.png"
@@ -6684,6 +6391,7 @@ let teamRocketReturns = [
         "id": "ex7-98",
         "name": "Rocket's Hitmonchan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6737,9 +6445,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6753,9 +6459,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/98.png",
             "large": "https://images.pokemontcg.io/ex7/98_hires.png"
@@ -6765,6 +6469,7 @@ let teamRocketReturns = [
         "id": "ex7-99",
         "name": "Rocket's Mewtwo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6823,9 +6528,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6839,9 +6542,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/99.png",
             "large": "https://images.pokemontcg.io/ex7/99_hires.png"
@@ -6851,6 +6552,7 @@ let teamRocketReturns = [
         "id": "ex7-100",
         "name": "Rocket's Moltres ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6905,9 +6607,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -6921,9 +6621,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/100.png",
             "large": "https://images.pokemontcg.io/ex7/100_hires.png"
@@ -6933,6 +6631,7 @@ let teamRocketReturns = [
         "id": "ex7-101",
         "name": "Rocket's Scizor ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6984,9 +6683,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7000,9 +6697,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/101.png",
             "large": "https://images.pokemontcg.io/ex7/101_hires.png"
@@ -7012,6 +6707,7 @@ let teamRocketReturns = [
         "id": "ex7-102",
         "name": "Rocket's Scyther ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7074,9 +6770,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7090,9 +6784,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/102.png",
             "large": "https://images.pokemontcg.io/ex7/102_hires.png"
@@ -7102,6 +6794,7 @@ let teamRocketReturns = [
         "id": "ex7-103",
         "name": "Rocket's Sneasel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7157,9 +6850,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7173,9 +6864,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/103.png",
             "large": "https://images.pokemontcg.io/ex7/103_hires.png"
@@ -7185,6 +6874,7 @@ let teamRocketReturns = [
         "id": "ex7-104",
         "name": "Rocket's Snorlax ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7240,9 +6930,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7256,9 +6944,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/104.png",
             "large": "https://images.pokemontcg.io/ex7/104_hires.png"
@@ -7268,6 +6954,7 @@ let teamRocketReturns = [
         "id": "ex7-105",
         "name": "Rocket's Suicune ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7321,9 +7008,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7337,9 +7022,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/105.png",
             "large": "https://images.pokemontcg.io/ex7/105_hires.png"
@@ -7349,6 +7032,7 @@ let teamRocketReturns = [
         "id": "ex7-106",
         "name": "Rocket's Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7402,9 +7086,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7418,9 +7100,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/106.png",
             "large": "https://images.pokemontcg.io/ex7/106_hires.png"
@@ -7430,6 +7110,7 @@ let teamRocketReturns = [
         "id": "ex7-107",
         "name": "Mudkip ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7475,9 +7156,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7491,9 +7170,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/107.png",
             "large": "https://images.pokemontcg.io/ex7/107_hires.png"
@@ -7503,6 +7180,7 @@ let teamRocketReturns = [
         "id": "ex7-108",
         "name": "Torchic ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7548,9 +7226,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7564,9 +7240,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/108.png",
             "large": "https://images.pokemontcg.io/ex7/108_hires.png"
@@ -7576,6 +7250,7 @@ let teamRocketReturns = [
         "id": "ex7-109",
         "name": "Treecko ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7627,9 +7302,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7643,9 +7316,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/109.png",
             "large": "https://images.pokemontcg.io/ex7/109_hires.png"
@@ -7655,6 +7326,7 @@ let teamRocketReturns = [
         "id": "ex7-110",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7700,9 +7372,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7716,9 +7386,7 @@ let teamRocketReturns = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/110.png",
             "large": "https://images.pokemontcg.io/ex7/110_hires.png"
@@ -7728,6 +7396,7 @@ let teamRocketReturns = [
         "id": "ex7-111",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -7741,9 +7410,7 @@ let teamRocketReturns = [
             "series": "EX",
             "printedTotal": 109,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TRR",
             "releaseDate": "2004/11/01",
             "images": {
@@ -7754,10 +7421,7 @@ let teamRocketReturns = [
         "number": "111",
         "artist": "Ken Sugimori",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex7/111.png",
             "large": "https://images.pokemontcg.io/ex7/111_hires.png"

@@ -1,8 +1,9 @@
-let deoxys = [
+let ex8 = [
     {
         "id": "ex8-1",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -59,9 +60,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -75,9 +74,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/1.png",
             "large": "https://images.pokemontcg.io/ex8/1_hires.png"
@@ -87,6 +84,7 @@ let deoxys = [
         "id": "ex8-2",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -137,9 +135,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -153,9 +149,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             267
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/2.png",
             "large": "https://images.pokemontcg.io/ex8/2_hires.png"
@@ -165,6 +159,7 @@ let deoxys = [
         "id": "ex8-3",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -208,9 +203,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -224,9 +217,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/3.png",
             "large": "https://images.pokemontcg.io/ex8/3_hires.png"
@@ -236,6 +227,7 @@ let deoxys = [
         "id": "ex8-4",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -279,9 +271,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -295,9 +285,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/4.png",
             "large": "https://images.pokemontcg.io/ex8/4_hires.png"
@@ -307,6 +295,7 @@ let deoxys = [
         "id": "ex8-5",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -347,9 +336,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -363,9 +350,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/5.png",
             "large": "https://images.pokemontcg.io/ex8/5_hires.png"
@@ -375,6 +360,7 @@ let deoxys = [
         "id": "ex8-6",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -432,9 +418,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -448,9 +432,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/6.png",
             "large": "https://images.pokemontcg.io/ex8/6_hires.png"
@@ -460,6 +442,7 @@ let deoxys = [
         "id": "ex8-7",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -512,9 +495,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -528,9 +509,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/7.png",
             "large": "https://images.pokemontcg.io/ex8/7_hires.png"
@@ -540,6 +519,7 @@ let deoxys = [
         "id": "ex8-8",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -594,9 +574,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -610,9 +588,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/8.png",
             "large": "https://images.pokemontcg.io/ex8/8_hires.png"
@@ -622,6 +598,7 @@ let deoxys = [
         "id": "ex8-9",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -667,9 +644,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -683,9 +658,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/9.png",
             "large": "https://images.pokemontcg.io/ex8/9_hires.png"
@@ -695,6 +668,7 @@ let deoxys = [
         "id": "ex8-10",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -745,9 +719,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -761,9 +733,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/10.png",
             "large": "https://images.pokemontcg.io/ex8/10_hires.png"
@@ -773,6 +743,7 @@ let deoxys = [
         "id": "ex8-11",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -813,9 +784,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -829,9 +798,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/11.png",
             "large": "https://images.pokemontcg.io/ex8/11_hires.png"
@@ -841,6 +808,7 @@ let deoxys = [
         "id": "ex8-12",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -888,9 +856,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -904,9 +870,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/12.png",
             "large": "https://images.pokemontcg.io/ex8/12_hires.png"
@@ -916,6 +880,7 @@ let deoxys = [
         "id": "ex8-13",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -966,9 +931,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -982,9 +945,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/13.png",
             "large": "https://images.pokemontcg.io/ex8/13_hires.png"
@@ -994,6 +955,7 @@ let deoxys = [
         "id": "ex8-14",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1026,9 +988,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1042,9 +1002,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/14.png",
             "large": "https://images.pokemontcg.io/ex8/14_hires.png"
@@ -1054,6 +1012,7 @@ let deoxys = [
         "id": "ex8-15",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1106,9 +1065,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1122,9 +1079,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/15.png",
             "large": "https://images.pokemontcg.io/ex8/15_hires.png"
@@ -1134,6 +1089,7 @@ let deoxys = [
         "id": "ex8-16",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1173,9 +1129,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1189,9 +1143,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/16.png",
             "large": "https://images.pokemontcg.io/ex8/16_hires.png"
@@ -1201,6 +1153,7 @@ let deoxys = [
         "id": "ex8-17",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1241,9 +1194,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1257,9 +1208,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/17.png",
             "large": "https://images.pokemontcg.io/ex8/17_hires.png"
@@ -1269,6 +1218,7 @@ let deoxys = [
         "id": "ex8-18",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1308,9 +1258,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1324,9 +1272,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/18.png",
             "large": "https://images.pokemontcg.io/ex8/18_hires.png"
@@ -1336,6 +1282,7 @@ let deoxys = [
         "id": "ex8-19",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1377,9 +1324,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1393,9 +1338,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/19.png",
             "large": "https://images.pokemontcg.io/ex8/19_hires.png"
@@ -1405,6 +1348,7 @@ let deoxys = [
         "id": "ex8-20",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1455,9 +1399,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1471,9 +1413,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/20.png",
             "large": "https://images.pokemontcg.io/ex8/20_hires.png"
@@ -1483,6 +1423,7 @@ let deoxys = [
         "id": "ex8-21",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1532,9 +1473,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1548,9 +1487,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/21.png",
             "large": "https://images.pokemontcg.io/ex8/21_hires.png"
@@ -1560,6 +1497,7 @@ let deoxys = [
         "id": "ex8-22",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1599,9 +1537,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1615,9 +1551,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/22.png",
             "large": "https://images.pokemontcg.io/ex8/22_hires.png"
@@ -1627,6 +1561,7 @@ let deoxys = [
         "id": "ex8-23",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1674,9 +1609,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1690,9 +1623,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/23.png",
             "large": "https://images.pokemontcg.io/ex8/23_hires.png"
@@ -1702,6 +1633,7 @@ let deoxys = [
         "id": "ex8-24",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1743,9 +1675,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1759,9 +1689,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/24.png",
             "large": "https://images.pokemontcg.io/ex8/24_hires.png"
@@ -1771,6 +1699,7 @@ let deoxys = [
         "id": "ex8-25",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1812,9 +1741,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1828,9 +1755,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/25.png",
             "large": "https://images.pokemontcg.io/ex8/25_hires.png"
@@ -1840,6 +1765,7 @@ let deoxys = [
         "id": "ex8-26",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1894,9 +1820,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1910,9 +1834,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/26.png",
             "large": "https://images.pokemontcg.io/ex8/26_hires.png"
@@ -1922,6 +1844,7 @@ let deoxys = [
         "id": "ex8-27",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -1972,9 +1895,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -1988,9 +1909,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/27.png",
             "large": "https://images.pokemontcg.io/ex8/27_hires.png"
@@ -2000,6 +1919,7 @@ let deoxys = [
         "id": "ex8-28",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2043,9 +1963,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2059,9 +1977,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             340
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/28.png",
             "large": "https://images.pokemontcg.io/ex8/28_hires.png"
@@ -2071,6 +1987,7 @@ let deoxys = [
         "id": "ex8-29",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2125,9 +2042,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2141,9 +2056,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/29.png",
             "large": "https://images.pokemontcg.io/ex8/29_hires.png"
@@ -2153,6 +2066,7 @@ let deoxys = [
         "id": "ex8-30",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2196,9 +2110,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2212,9 +2124,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/30.png",
             "large": "https://images.pokemontcg.io/ex8/30_hires.png"
@@ -2224,6 +2134,7 @@ let deoxys = [
         "id": "ex8-31",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2266,9 +2177,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2282,9 +2191,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/31.png",
             "large": "https://images.pokemontcg.io/ex8/31_hires.png"
@@ -2294,6 +2201,7 @@ let deoxys = [
         "id": "ex8-32",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2345,9 +2253,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2361,9 +2267,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/32.png",
             "large": "https://images.pokemontcg.io/ex8/32_hires.png"
@@ -2373,6 +2277,7 @@ let deoxys = [
         "id": "ex8-33",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2416,9 +2321,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2432,9 +2335,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/33.png",
             "large": "https://images.pokemontcg.io/ex8/33_hires.png"
@@ -2444,6 +2345,7 @@ let deoxys = [
         "id": "ex8-34",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2487,9 +2389,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2503,9 +2403,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/34.png",
             "large": "https://images.pokemontcg.io/ex8/34_hires.png"
@@ -2515,6 +2413,7 @@ let deoxys = [
         "id": "ex8-35",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -2549,9 +2448,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2565,9 +2462,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/35.png",
             "large": "https://images.pokemontcg.io/ex8/35_hires.png"
@@ -2577,6 +2472,7 @@ let deoxys = [
         "id": "ex8-36",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -2625,9 +2521,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2641,9 +2535,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/36.png",
             "large": "https://images.pokemontcg.io/ex8/36_hires.png"
@@ -2653,6 +2545,7 @@ let deoxys = [
         "id": "ex8-37",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2696,9 +2589,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2712,9 +2603,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/37.png",
             "large": "https://images.pokemontcg.io/ex8/37_hires.png"
@@ -2724,6 +2613,7 @@ let deoxys = [
         "id": "ex8-38",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2773,9 +2663,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2789,9 +2677,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/38.png",
             "large": "https://images.pokemontcg.io/ex8/38_hires.png"
@@ -2801,6 +2687,7 @@ let deoxys = [
         "id": "ex8-39",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2845,9 +2732,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2861,9 +2746,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/39.png",
             "large": "https://images.pokemontcg.io/ex8/39_hires.png"
@@ -2873,6 +2756,7 @@ let deoxys = [
         "id": "ex8-40",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2920,9 +2804,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -2936,9 +2818,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/40.png",
             "large": "https://images.pokemontcg.io/ex8/40_hires.png"
@@ -2948,6 +2828,7 @@ let deoxys = [
         "id": "ex8-41",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -2988,9 +2869,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3004,9 +2883,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/41.png",
             "large": "https://images.pokemontcg.io/ex8/41_hires.png"
@@ -3016,6 +2893,7 @@ let deoxys = [
         "id": "ex8-42",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3057,9 +2935,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3073,9 +2949,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/42.png",
             "large": "https://images.pokemontcg.io/ex8/42_hires.png"
@@ -3085,6 +2959,7 @@ let deoxys = [
         "id": "ex8-43",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3131,9 +3006,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3147,9 +3020,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/43.png",
             "large": "https://images.pokemontcg.io/ex8/43_hires.png"
@@ -3159,6 +3030,7 @@ let deoxys = [
         "id": "ex8-44",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3199,9 +3071,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3215,9 +3085,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/44.png",
             "large": "https://images.pokemontcg.io/ex8/44_hires.png"
@@ -3227,6 +3095,7 @@ let deoxys = [
         "id": "ex8-45",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3280,9 +3149,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3296,9 +3163,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/45.png",
             "large": "https://images.pokemontcg.io/ex8/45_hires.png"
@@ -3308,6 +3173,7 @@ let deoxys = [
         "id": "ex8-46",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3353,9 +3219,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3369,9 +3233,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             266
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/46.png",
             "large": "https://images.pokemontcg.io/ex8/46_hires.png"
@@ -3381,6 +3243,7 @@ let deoxys = [
         "id": "ex8-47",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3428,9 +3291,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3444,9 +3305,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/47.png",
             "large": "https://images.pokemontcg.io/ex8/47_hires.png"
@@ -3456,6 +3315,7 @@ let deoxys = [
         "id": "ex8-48",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3504,9 +3364,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3520,9 +3378,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/48.png",
             "large": "https://images.pokemontcg.io/ex8/48_hires.png"
@@ -3532,6 +3388,7 @@ let deoxys = [
         "id": "ex8-49",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3580,9 +3437,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3596,9 +3451,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/49.png",
             "large": "https://images.pokemontcg.io/ex8/49_hires.png"
@@ -3608,6 +3461,7 @@ let deoxys = [
         "id": "ex8-50",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3651,9 +3505,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3667,9 +3519,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/50.png",
             "large": "https://images.pokemontcg.io/ex8/50_hires.png"
@@ -3679,6 +3529,7 @@ let deoxys = [
         "id": "ex8-51",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3721,9 +3572,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3737,9 +3586,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/51.png",
             "large": "https://images.pokemontcg.io/ex8/51_hires.png"
@@ -3749,6 +3596,7 @@ let deoxys = [
         "id": "ex8-52",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3802,9 +3650,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3818,9 +3664,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/52.png",
             "large": "https://images.pokemontcg.io/ex8/52_hires.png"
@@ -3830,6 +3674,7 @@ let deoxys = [
         "id": "ex8-53",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3874,9 +3719,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3890,9 +3733,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/53.png",
             "large": "https://images.pokemontcg.io/ex8/53_hires.png"
@@ -3902,6 +3743,7 @@ let deoxys = [
         "id": "ex8-54",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -3945,9 +3787,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -3961,9 +3801,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             339
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/54.png",
             "large": "https://images.pokemontcg.io/ex8/54_hires.png"
@@ -3973,6 +3811,7 @@ let deoxys = [
         "id": "ex8-55",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4008,9 +3847,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4024,9 +3861,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/55.png",
             "large": "https://images.pokemontcg.io/ex8/55_hires.png"
@@ -4036,6 +3871,7 @@ let deoxys = [
         "id": "ex8-56",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4086,9 +3922,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4102,9 +3936,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/56.png",
             "large": "https://images.pokemontcg.io/ex8/56_hires.png"
@@ -4114,6 +3946,7 @@ let deoxys = [
         "id": "ex8-57",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4155,9 +3988,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4171,9 +4002,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/57.png",
             "large": "https://images.pokemontcg.io/ex8/57_hires.png"
@@ -4183,6 +4012,7 @@ let deoxys = [
         "id": "ex8-58",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4233,9 +4063,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4249,9 +4077,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/58.png",
             "large": "https://images.pokemontcg.io/ex8/58_hires.png"
@@ -4261,6 +4087,7 @@ let deoxys = [
         "id": "ex8-59",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4311,9 +4138,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4327,9 +4152,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/59.png",
             "large": "https://images.pokemontcg.io/ex8/59_hires.png"
@@ -4339,6 +4162,7 @@ let deoxys = [
         "id": "ex8-60",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4383,9 +4207,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4399,9 +4221,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/60.png",
             "large": "https://images.pokemontcg.io/ex8/60_hires.png"
@@ -4411,6 +4231,7 @@ let deoxys = [
         "id": "ex8-61",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4454,9 +4275,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4470,9 +4289,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/61.png",
             "large": "https://images.pokemontcg.io/ex8/61_hires.png"
@@ -4482,6 +4299,7 @@ let deoxys = [
         "id": "ex8-62",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4516,9 +4334,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4532,9 +4348,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/62.png",
             "large": "https://images.pokemontcg.io/ex8/62_hires.png"
@@ -4544,6 +4358,7 @@ let deoxys = [
         "id": "ex8-63",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4588,9 +4403,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4604,9 +4417,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/63.png",
             "large": "https://images.pokemontcg.io/ex8/63_hires.png"
@@ -4616,6 +4427,7 @@ let deoxys = [
         "id": "ex8-64",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4660,9 +4472,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4676,9 +4486,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/64.png",
             "large": "https://images.pokemontcg.io/ex8/64_hires.png"
@@ -4688,6 +4496,7 @@ let deoxys = [
         "id": "ex8-65",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4732,9 +4541,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4748,9 +4555,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/65.png",
             "large": "https://images.pokemontcg.io/ex8/65_hires.png"
@@ -4760,6 +4565,7 @@ let deoxys = [
         "id": "ex8-66",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4801,9 +4607,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4817,9 +4621,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/66.png",
             "large": "https://images.pokemontcg.io/ex8/66_hires.png"
@@ -4829,6 +4631,7 @@ let deoxys = [
         "id": "ex8-67",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4873,9 +4676,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4889,9 +4690,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/67.png",
             "large": "https://images.pokemontcg.io/ex8/67_hires.png"
@@ -4901,6 +4700,7 @@ let deoxys = [
         "id": "ex8-68",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -4942,9 +4742,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -4958,9 +4756,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/68.png",
             "large": "https://images.pokemontcg.io/ex8/68_hires.png"
@@ -4970,6 +4766,7 @@ let deoxys = [
         "id": "ex8-69",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5014,9 +4811,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5030,9 +4825,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/69.png",
             "large": "https://images.pokemontcg.io/ex8/69_hires.png"
@@ -5042,6 +4835,7 @@ let deoxys = [
         "id": "ex8-70",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5092,9 +4886,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5108,9 +4900,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/70.png",
             "large": "https://images.pokemontcg.io/ex8/70_hires.png"
@@ -5120,6 +4910,7 @@ let deoxys = [
         "id": "ex8-71",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5163,9 +4954,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5179,9 +4968,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/71.png",
             "large": "https://images.pokemontcg.io/ex8/71_hires.png"
@@ -5191,6 +4978,7 @@ let deoxys = [
         "id": "ex8-72",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5240,9 +5028,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5256,9 +5042,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/72.png",
             "large": "https://images.pokemontcg.io/ex8/72_hires.png"
@@ -5268,6 +5052,7 @@ let deoxys = [
         "id": "ex8-73",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5311,9 +5096,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5327,9 +5110,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/73.png",
             "large": "https://images.pokemontcg.io/ex8/73_hires.png"
@@ -5339,6 +5120,7 @@ let deoxys = [
         "id": "ex8-74",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5382,9 +5164,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5398,9 +5178,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/74.png",
             "large": "https://images.pokemontcg.io/ex8/74_hires.png"
@@ -5410,6 +5188,7 @@ let deoxys = [
         "id": "ex8-75",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5454,9 +5233,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5470,9 +5247,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/75.png",
             "large": "https://images.pokemontcg.io/ex8/75_hires.png"
@@ -5482,6 +5257,7 @@ let deoxys = [
         "id": "ex8-76",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5526,9 +5302,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5542,9 +5316,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/76.png",
             "large": "https://images.pokemontcg.io/ex8/76_hires.png"
@@ -5554,6 +5326,7 @@ let deoxys = [
         "id": "ex8-77",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5588,9 +5361,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5604,9 +5375,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/77.png",
             "large": "https://images.pokemontcg.io/ex8/77_hires.png"
@@ -5616,6 +5385,7 @@ let deoxys = [
         "id": "ex8-78",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5650,9 +5420,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5666,9 +5434,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/78.png",
             "large": "https://images.pokemontcg.io/ex8/78_hires.png"
@@ -5678,6 +5444,7 @@ let deoxys = [
         "id": "ex8-79",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5725,9 +5492,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5741,9 +5506,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/79.png",
             "large": "https://images.pokemontcg.io/ex8/79_hires.png"
@@ -5753,6 +5516,7 @@ let deoxys = [
         "id": "ex8-80",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5793,9 +5557,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5809,9 +5571,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/80.png",
             "large": "https://images.pokemontcg.io/ex8/80_hires.png"
@@ -5821,6 +5581,7 @@ let deoxys = [
         "id": "ex8-81",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5862,9 +5623,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5878,9 +5637,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/81.png",
             "large": "https://images.pokemontcg.io/ex8/81_hires.png"
@@ -5890,6 +5647,7 @@ let deoxys = [
         "id": "ex8-82",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -5934,9 +5692,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -5950,9 +5706,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/82.png",
             "large": "https://images.pokemontcg.io/ex8/82_hires.png"
@@ -5962,6 +5716,7 @@ let deoxys = [
         "id": "ex8-83",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic"
         ],
@@ -6003,9 +5758,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6019,9 +5772,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/83.png",
             "large": "https://images.pokemontcg.io/ex8/83_hires.png"
@@ -6031,6 +5782,7 @@ let deoxys = [
         "id": "ex8-84",
         "name": "Balloon Berry",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6044,9 +5796,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6057,9 +5807,7 @@ let deoxys = [
         "number": "84",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/84.png",
             "large": "https://images.pokemontcg.io/ex8/84_hires.png"
@@ -6069,6 +5817,7 @@ let deoxys = [
         "id": "ex8-85",
         "name": "Crystal Shard",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6082,9 +5831,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6095,9 +5842,7 @@ let deoxys = [
         "number": "85",
         "artist": "Jungo Suzuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/85.png",
             "large": "https://images.pokemontcg.io/ex8/85_hires.png"
@@ -6107,6 +5852,7 @@ let deoxys = [
         "id": "ex8-86",
         "name": "Energy Charge",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "rules": [
             "Flip a coin. If heads, search your discard pile for 2 Energy cards (1 if there is only 1), show them to your opponent, and shuffle them into your deck."
         ],
@@ -6116,9 +5862,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6129,9 +5873,7 @@ let deoxys = [
         "number": "86",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/86.png",
             "large": "https://images.pokemontcg.io/ex8/86_hires.png"
@@ -6141,6 +5883,7 @@ let deoxys = [
         "id": "ex8-87",
         "name": "Lady Outing",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Supporter"
         ],
@@ -6154,9 +5897,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6167,9 +5908,7 @@ let deoxys = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/87.png",
             "large": "https://images.pokemontcg.io/ex8/87_hires.png"
@@ -6179,6 +5918,7 @@ let deoxys = [
         "id": "ex8-88",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Item"
         ],
@@ -6191,9 +5931,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6204,9 +5942,7 @@ let deoxys = [
         "number": "88",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/88.png",
             "large": "https://images.pokemontcg.io/ex8/88_hires.png"
@@ -6216,6 +5952,7 @@ let deoxys = [
         "id": "ex8-89",
         "name": "Meteor Falls",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stadium"
         ],
@@ -6229,9 +5966,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6242,9 +5977,7 @@ let deoxys = [
         "number": "89",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/89.png",
             "large": "https://images.pokemontcg.io/ex8/89_hires.png"
@@ -6254,6 +5987,7 @@ let deoxys = [
         "id": "ex8-90",
         "name": "Professor Cozmo's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Supporter"
         ],
@@ -6267,9 +6001,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6280,9 +6012,7 @@ let deoxys = [
         "number": "90",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/90.png",
             "large": "https://images.pokemontcg.io/ex8/90_hires.png"
@@ -6292,6 +6022,7 @@ let deoxys = [
         "id": "ex8-91",
         "name": "Space Center",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stadium"
         ],
@@ -6305,9 +6036,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6318,9 +6047,7 @@ let deoxys = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/91.png",
             "large": "https://images.pokemontcg.io/ex8/91_hires.png"
@@ -6330,6 +6057,7 @@ let deoxys = [
         "id": "ex8-92",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "DX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6343,9 +6071,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6356,9 +6082,7 @@ let deoxys = [
         "number": "92",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/92.png",
             "large": "https://images.pokemontcg.io/ex8/92_hires.png"
@@ -6368,6 +6092,7 @@ let deoxys = [
         "id": "ex8-93",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "DX",
         "subtypes": [
             "Special"
         ],
@@ -6380,9 +6105,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6393,9 +6116,7 @@ let deoxys = [
         "number": "93",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/93.png",
             "large": "https://images.pokemontcg.io/ex8/93_hires.png"
@@ -6405,6 +6126,7 @@ let deoxys = [
         "id": "ex8-94",
         "name": "Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "DX",
         "subtypes": [
             "Special"
         ],
@@ -6417,9 +6139,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6430,9 +6150,7 @@ let deoxys = [
         "number": "94",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/94.png",
             "large": "https://images.pokemontcg.io/ex8/94_hires.png"
@@ -6442,6 +6160,7 @@ let deoxys = [
         "id": "ex8-95",
         "name": "Scramble Energy",
         "supertype": "Energy",
+        "setAbbrev": "DX",
         "subtypes": [
             "Special"
         ],
@@ -6454,9 +6173,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6467,9 +6184,7 @@ let deoxys = [
         "number": "95",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/95.png",
             "large": "https://images.pokemontcg.io/ex8/95_hires.png"
@@ -6479,6 +6194,7 @@ let deoxys = [
         "id": "ex8-96",
         "name": "Crobat ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6539,9 +6255,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6555,9 +6269,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/96.png",
             "large": "https://images.pokemontcg.io/ex8/96_hires.png"
@@ -6567,6 +6279,7 @@ let deoxys = [
         "id": "ex8-97",
         "name": "Deoxys ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6610,9 +6323,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6626,9 +6337,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/97.png",
             "large": "https://images.pokemontcg.io/ex8/97_hires.png"
@@ -6638,6 +6347,7 @@ let deoxys = [
         "id": "ex8-98",
         "name": "Deoxys ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6682,9 +6392,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6698,9 +6406,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/98.png",
             "large": "https://images.pokemontcg.io/ex8/98_hires.png"
@@ -6710,6 +6416,7 @@ let deoxys = [
         "id": "ex8-99",
         "name": "Deoxys ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6754,9 +6461,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6770,9 +6475,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/99.png",
             "large": "https://images.pokemontcg.io/ex8/99_hires.png"
@@ -6782,6 +6485,7 @@ let deoxys = [
         "id": "ex8-100",
         "name": "Hariyama ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6837,9 +6541,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6853,9 +6555,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/100.png",
             "large": "https://images.pokemontcg.io/ex8/100_hires.png"
@@ -6865,6 +6565,7 @@ let deoxys = [
         "id": "ex8-101",
         "name": "Manectric ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6919,9 +6620,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -6935,9 +6634,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/101.png",
             "large": "https://images.pokemontcg.io/ex8/101_hires.png"
@@ -6947,6 +6644,7 @@ let deoxys = [
         "id": "ex8-102",
         "name": "Rayquaza ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7000,9 +6698,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7016,9 +6712,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/102.png",
             "large": "https://images.pokemontcg.io/ex8/102_hires.png"
@@ -7028,6 +6722,7 @@ let deoxys = [
         "id": "ex8-103",
         "name": "Salamence ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7094,9 +6789,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7110,9 +6803,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/103.png",
             "large": "https://images.pokemontcg.io/ex8/103_hires.png"
@@ -7122,6 +6813,7 @@ let deoxys = [
         "id": "ex8-104",
         "name": "Sharpedo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7175,9 +6867,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7191,9 +6881,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/104.png",
             "large": "https://images.pokemontcg.io/ex8/104_hires.png"
@@ -7203,6 +6891,7 @@ let deoxys = [
         "id": "ex8-105",
         "name": "Latias ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "Star"
@@ -7259,9 +6948,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7275,9 +6962,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/105.png",
             "large": "https://images.pokemontcg.io/ex8/105_hires.png"
@@ -7287,6 +6972,7 @@ let deoxys = [
         "id": "ex8-106",
         "name": "Latios ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "Star"
@@ -7339,9 +7025,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7355,9 +7039,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/106.png",
             "large": "https://images.pokemontcg.io/ex8/106_hires.png"
@@ -7367,6 +7049,7 @@ let deoxys = [
         "id": "ex8-107",
         "name": "Rayquaza ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "Star"
@@ -7425,9 +7108,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7441,9 +7122,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/107.png",
             "large": "https://images.pokemontcg.io/ex8/107_hires.png"
@@ -7453,6 +7132,7 @@ let deoxys = [
         "id": "ex8-108",
         "name": "Rocket's Raikou ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7497,9 +7177,7 @@ let deoxys = [
             "series": "EX",
             "printedTotal": 107,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DX",
             "releaseDate": "2005/02/01",
             "images": {
@@ -7513,9 +7191,7 @@ let deoxys = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex8/108.png",
             "large": "https://images.pokemontcg.io/ex8/108_hires.png"

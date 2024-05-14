@@ -3,6 +3,7 @@ let pgo = [
         "id": "pgo-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -51,11 +52,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -71,11 +68,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/1.png",
@@ -127,6 +119,7 @@ let pgo = [
         "id": "pgo-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -178,11 +171,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -198,11 +187,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/2.png",
@@ -254,6 +238,7 @@ let pgo = [
         "id": "pgo-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -302,11 +287,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -322,11 +303,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/3.png",
@@ -378,6 +354,7 @@ let pgo = [
         "id": "pgo-4",
         "name": "Radiant Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -427,11 +404,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -447,11 +420,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/4.png",
@@ -496,6 +464,7 @@ let pgo = [
         "id": "pgo-5",
         "name": "Alolan Exeggutor V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -547,11 +516,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -566,11 +531,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/5.png",
@@ -615,6 +575,7 @@ let pgo = [
         "id": "pgo-6",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -652,11 +613,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -672,11 +629,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/6.png",
@@ -728,6 +680,7 @@ let pgo = [
         "id": "pgo-7",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -773,11 +726,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -793,11 +742,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/7.png",
@@ -849,6 +793,7 @@ let pgo = [
         "id": "pgo-8",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -886,11 +831,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -906,11 +847,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/8.png",
@@ -962,6 +898,7 @@ let pgo = [
         "id": "pgo-9",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1014,11 +951,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1034,11 +967,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/9.png",
@@ -1090,6 +1018,7 @@ let pgo = [
         "id": "pgo-10",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1137,11 +1066,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1157,11 +1082,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/10.png",
@@ -1213,6 +1133,7 @@ let pgo = [
         "id": "pgo-11",
         "name": "Radiant Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -1264,11 +1185,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1284,11 +1201,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/11.png",
@@ -1333,6 +1245,7 @@ let pgo = [
         "id": "pgo-12",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1377,11 +1290,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1397,11 +1306,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/12.png",
@@ -1453,6 +1357,7 @@ let pgo = [
         "id": "pgo-13",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1504,11 +1409,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1524,11 +1425,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/13.png",
@@ -1580,6 +1476,7 @@ let pgo = [
         "id": "pgo-14",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1630,11 +1527,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1650,11 +1543,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/14.png",
@@ -1706,6 +1594,7 @@ let pgo = [
         "id": "pgo-15",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1743,11 +1632,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1763,11 +1648,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/15.png",
@@ -1819,6 +1699,7 @@ let pgo = [
         "id": "pgo-16",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1869,11 +1750,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -1889,11 +1766,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/16.png",
@@ -1945,6 +1817,7 @@ let pgo = [
         "id": "pgo-17",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1992,11 +1865,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2012,11 +1881,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/17.png",
@@ -2068,6 +1932,7 @@ let pgo = [
         "id": "pgo-18",
         "name": "Radiant Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -2116,11 +1981,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2136,11 +1997,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/18.png",
@@ -2185,6 +2041,7 @@ let pgo = [
         "id": "pgo-19",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2233,11 +2090,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2253,11 +2106,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/19.png",
@@ -2309,6 +2157,7 @@ let pgo = [
         "id": "pgo-20",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2356,11 +2205,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2376,11 +2221,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/20.png",
@@ -2432,6 +2272,7 @@ let pgo = [
         "id": "pgo-21",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2479,11 +2320,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2499,11 +2336,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/21.png",
@@ -2555,6 +2387,7 @@ let pgo = [
         "id": "pgo-22",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2604,11 +2437,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2624,11 +2453,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/22.png",
@@ -2680,6 +2504,7 @@ let pgo = [
         "id": "pgo-23",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2726,11 +2551,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2746,11 +2567,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/23.png",
@@ -2802,6 +2618,7 @@ let pgo = [
         "id": "pgo-24",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2846,11 +2663,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2866,11 +2679,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/24.png",
@@ -2922,6 +2730,7 @@ let pgo = [
         "id": "pgo-25",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2968,11 +2777,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -2988,11 +2793,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             767
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/25.png",
@@ -3044,6 +2844,7 @@ let pgo = [
         "id": "pgo-26",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3091,11 +2892,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3111,11 +2908,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/26.png",
@@ -3167,6 +2959,7 @@ let pgo = [
         "id": "pgo-27",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3206,11 +2999,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3226,11 +3015,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/27.png",
@@ -3282,6 +3066,7 @@ let pgo = [
         "id": "pgo-28",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3321,11 +3106,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3341,11 +3122,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/28.png",
@@ -3397,6 +3173,7 @@ let pgo = [
         "id": "pgo-29",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3441,11 +3218,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3461,11 +3234,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/29.png",
@@ -3517,6 +3285,7 @@ let pgo = [
         "id": "pgo-30",
         "name": "Mewtwo V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -3574,11 +3343,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3593,11 +3358,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/30.png",
@@ -3642,6 +3402,7 @@ let pgo = [
         "id": "pgo-31",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -3698,11 +3459,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3717,11 +3474,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/31.png",
@@ -3766,6 +3518,7 @@ let pgo = [
         "id": "pgo-32",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3819,11 +3572,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3839,11 +3588,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/32.png",
@@ -3895,6 +3639,7 @@ let pgo = [
         "id": "pgo-33",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3942,11 +3687,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -3962,11 +3703,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/33.png",
@@ -4018,6 +3754,7 @@ let pgo = [
         "id": "pgo-34",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4069,11 +3806,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4089,11 +3822,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/34.png",
@@ -4145,6 +3873,7 @@ let pgo = [
         "id": "pgo-35",
         "name": "Sylveon",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4191,11 +3920,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4211,11 +3936,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             700
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/35.png",
@@ -4267,6 +3987,7 @@ let pgo = [
         "id": "pgo-36",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4321,11 +4042,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4341,11 +4058,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/36.png",
@@ -4397,6 +4109,7 @@ let pgo = [
         "id": "pgo-37",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4434,11 +4147,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4454,11 +4163,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/37.png",
@@ -4510,6 +4214,7 @@ let pgo = [
         "id": "pgo-38",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4559,11 +4264,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4579,11 +4280,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/38.png",
@@ -4635,6 +4331,7 @@ let pgo = [
         "id": "pgo-39",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4677,11 +4374,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4697,11 +4390,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/39.png",
@@ -4753,6 +4441,7 @@ let pgo = [
         "id": "pgo-40",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -4804,11 +4493,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4823,11 +4508,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/40.png",
@@ -4872,6 +4552,7 @@ let pgo = [
         "id": "pgo-41",
         "name": "Alolan Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4910,11 +4591,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -4930,11 +4607,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/41.png",
@@ -4986,6 +4658,7 @@ let pgo = [
         "id": "pgo-42",
         "name": "Alolan Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5034,11 +4707,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5054,11 +4723,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/42.png",
@@ -5110,6 +4774,7 @@ let pgo = [
         "id": "pgo-43",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -5160,11 +4825,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5180,11 +4841,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/43.png",
@@ -5236,6 +4892,7 @@ let pgo = [
         "id": "pgo-44",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5294,11 +4951,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5314,11 +4967,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/44.png",
@@ -5370,6 +5018,7 @@ let pgo = [
         "id": "pgo-45",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -5415,11 +5064,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5435,11 +5080,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             808
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/45.png",
@@ -5491,6 +5131,7 @@ let pgo = [
         "id": "pgo-46",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5547,11 +5188,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5567,11 +5204,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/46.png",
@@ -5623,6 +5255,7 @@ let pgo = [
         "id": "pgo-47",
         "name": "Melmetal V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -5681,11 +5314,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5700,11 +5329,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/47.png",
@@ -5749,6 +5373,7 @@ let pgo = [
         "id": "pgo-48",
         "name": "Melmetal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VMAX"
         ],
@@ -5798,11 +5423,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5817,11 +5438,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/48.png",
@@ -5866,6 +5482,7 @@ let pgo = [
         "id": "pgo-49",
         "name": "Dragonite V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -5911,11 +5528,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -5930,11 +5543,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/49.png",
@@ -5979,6 +5587,7 @@ let pgo = [
         "id": "pgo-50",
         "name": "Dragonite VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -6024,11 +5633,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6043,11 +5648,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/50.png",
@@ -6092,6 +5692,7 @@ let pgo = [
         "id": "pgo-51",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6141,11 +5742,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6161,11 +5758,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/51.png",
@@ -6217,6 +5809,7 @@ let pgo = [
         "id": "pgo-52",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6266,11 +5859,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6286,11 +5875,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/52.png",
@@ -6342,6 +5926,7 @@ let pgo = [
         "id": "pgo-53",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6372,11 +5957,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6392,11 +5973,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/53.png",
@@ -6441,6 +6017,7 @@ let pgo = [
         "id": "pgo-54",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6495,11 +6072,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6515,11 +6088,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/54.png",
@@ -6571,6 +6139,7 @@ let pgo = [
         "id": "pgo-55",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6618,11 +6187,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6638,11 +6203,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/55.png",
@@ -6694,6 +6254,7 @@ let pgo = [
         "id": "pgo-56",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6742,11 +6303,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6762,11 +6319,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/56.png",
@@ -6818,6 +6370,7 @@ let pgo = [
         "id": "pgo-57",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6860,11 +6413,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -6880,11 +6429,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/57.png",
@@ -6936,6 +6480,7 @@ let pgo = [
         "id": "pgo-58",
         "name": "Slaking V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -6986,11 +6531,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7005,11 +6546,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/58.png",
@@ -7054,6 +6590,7 @@ let pgo = [
         "id": "pgo-59",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -7094,11 +6631,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7114,11 +6647,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/59.png",
@@ -7170,6 +6698,7 @@ let pgo = [
         "id": "pgo-60",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -7215,11 +6744,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7235,11 +6760,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/60.png",
@@ -7291,6 +6811,7 @@ let pgo = [
         "id": "pgo-61",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -7344,11 +6865,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7364,11 +6881,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/61.png",
@@ -7420,6 +6932,7 @@ let pgo = [
         "id": "pgo-62",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -7474,11 +6987,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7494,11 +7003,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             520
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/62.png",
@@ -7550,6 +7054,7 @@ let pgo = [
         "id": "pgo-63",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -7601,11 +7106,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7621,11 +7122,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             521
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/63.png",
@@ -7677,6 +7173,7 @@ let pgo = [
         "id": "pgo-64",
         "name": "Blanche",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -7690,11 +7187,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7706,11 +7199,7 @@ let pgo = [
         "number": "64",
         "artist": "Anesaki Dynamic",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/64.png",
@@ -7762,6 +7251,7 @@ let pgo = [
         "id": "pgo-65",
         "name": "Candela",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -7775,11 +7265,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7791,11 +7277,7 @@ let pgo = [
         "number": "65",
         "artist": "Ryuta Fuse",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/65.png",
@@ -7847,6 +7329,7 @@ let pgo = [
         "id": "pgo-66",
         "name": "Egg Incubator",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -7860,11 +7343,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7876,11 +7355,7 @@ let pgo = [
         "number": "66",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/66.png",
@@ -7932,6 +7407,7 @@ let pgo = [
         "id": "pgo-67",
         "name": "Lure Module",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -7945,11 +7421,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -7961,11 +7433,7 @@ let pgo = [
         "number": "67",
         "artist": "ORBITALLINK Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/67.png",
@@ -8017,6 +7485,7 @@ let pgo = [
         "id": "pgo-68",
         "name": "PokéStop",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stadium"
         ],
@@ -8029,11 +7498,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8045,11 +7510,7 @@ let pgo = [
         "number": "68",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/68.png",
@@ -8101,6 +7562,7 @@ let pgo = [
         "id": "pgo-69",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -8114,11 +7576,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8130,11 +7588,7 @@ let pgo = [
         "number": "69",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/69.png",
@@ -8186,6 +7640,7 @@ let pgo = [
         "id": "pgo-70",
         "name": "Spark",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -8199,11 +7654,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8215,11 +7666,7 @@ let pgo = [
         "number": "70",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/70.png",
@@ -8271,6 +7718,7 @@ let pgo = [
         "id": "pgo-71",
         "name": "Alolan Exeggutor V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8322,11 +7770,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8341,11 +7785,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/71.png",
@@ -8390,6 +7829,7 @@ let pgo = [
         "id": "pgo-72",
         "name": "Mewtwo V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8447,11 +7887,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8466,11 +7902,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/72.png",
@@ -8515,6 +7946,7 @@ let pgo = [
         "id": "pgo-73",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8566,11 +7998,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8585,11 +8013,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/73.png",
@@ -8634,6 +8057,7 @@ let pgo = [
         "id": "pgo-74",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8685,11 +8109,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8704,11 +8124,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/74.png",
@@ -8753,6 +8168,7 @@ let pgo = [
         "id": "pgo-75",
         "name": "Melmetal V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8811,11 +8227,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8830,11 +8242,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/75.png",
@@ -8879,6 +8286,7 @@ let pgo = [
         "id": "pgo-76",
         "name": "Dragonite V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8924,11 +8332,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -8943,11 +8347,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/76.png",
@@ -8992,6 +8391,7 @@ let pgo = [
         "id": "pgo-77",
         "name": "Slaking V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -9042,11 +8442,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9061,11 +8457,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/77.png",
@@ -9110,6 +8501,7 @@ let pgo = [
         "id": "pgo-78",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9123,11 +8515,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9140,11 +8528,7 @@ let pgo = [
         "artist": "Yusuke Kozaki",
         "rarity": "Rare Ultra",
         "flavorText": "Professor Willow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/78.png",
@@ -9189,6 +8573,7 @@ let pgo = [
         "id": "pgo-79",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -9245,11 +8630,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9264,11 +8645,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/79.png",
@@ -9313,6 +8689,7 @@ let pgo = [
         "id": "pgo-80",
         "name": "Melmetal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VMAX"
         ],
@@ -9362,11 +8739,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9381,11 +8754,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/80.png",
@@ -9430,6 +8798,7 @@ let pgo = [
         "id": "pgo-81",
         "name": "Dragonite VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -9475,11 +8844,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9494,11 +8859,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/81.png",
@@ -9543,6 +8903,7 @@ let pgo = [
         "id": "pgo-82",
         "name": "Blanche",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9556,11 +8917,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9572,11 +8929,7 @@ let pgo = [
         "number": "82",
         "artist": "Anesaki Dynamic",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/82.png",
@@ -9621,6 +8974,7 @@ let pgo = [
         "id": "pgo-83",
         "name": "Candela",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9634,11 +8988,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9650,11 +9000,7 @@ let pgo = [
         "number": "83",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/83.png",
@@ -9699,6 +9045,7 @@ let pgo = [
         "id": "pgo-84",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9712,11 +9059,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9729,11 +9072,7 @@ let pgo = [
         "artist": "Yusuke Kozaki",
         "rarity": "Rare Rainbow",
         "flavorText": "Professor Willow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/84.png",
@@ -9778,6 +9117,7 @@ let pgo = [
         "id": "pgo-85",
         "name": "Spark",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9791,11 +9131,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9807,11 +9143,7 @@ let pgo = [
         "number": "85",
         "artist": "Naoki Saito",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/85.png",
@@ -9856,6 +9188,7 @@ let pgo = [
         "id": "pgo-86",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -9912,11 +9245,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -9931,11 +9260,6 @@ let pgo = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/86.png",
@@ -9980,6 +9304,7 @@ let pgo = [
         "id": "pgo-87",
         "name": "Egg Incubator",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -9993,11 +9318,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -10009,11 +9330,7 @@ let pgo = [
         "number": "87",
         "artist": "sadaji",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/87.png",
@@ -10058,6 +9375,7 @@ let pgo = [
         "id": "pgo-88",
         "name": "Lure Module",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -10071,11 +9389,7 @@ let pgo = [
             "series": "Sword & Shield",
             "printedTotal": 78,
             "total": 88,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PGO",
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
@@ -10087,11 +9401,7 @@ let pgo = [
         "number": "88",
         "artist": "ORBITALLINK Inc.",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "F",
         "images": {
             "small": "https://images.pokemontcg.io/pgo/88.png",

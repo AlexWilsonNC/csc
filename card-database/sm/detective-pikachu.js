@@ -3,6 +3,7 @@ let det = [
         "id": "det-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -55,10 +53,7 @@ let det = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/1.png",
             "large": "https://images.pokemontcg.io/det1/1_hires.png"
@@ -68,6 +63,7 @@ let det = [
         "id": "det-2",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -109,10 +105,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -127,10 +120,7 @@ let det = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/2.png",
             "large": "https://images.pokemontcg.io/det1/2_hires.png"
@@ -140,6 +130,7 @@ let det = [
         "id": "det-3",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -174,10 +165,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -192,10 +180,7 @@ let det = [
         "nationalPokedexNumbers": [
             755
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/3.png",
             "large": "https://images.pokemontcg.io/det1/3_hires.png"
@@ -205,6 +190,7 @@ let det = [
         "id": "det-4",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -239,10 +225,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -257,10 +240,7 @@ let det = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/4.png",
             "large": "https://images.pokemontcg.io/det1/4_hires.png"
@@ -270,6 +250,7 @@ let det = [
         "id": "det-5",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -316,10 +297,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -334,10 +312,7 @@ let det = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/5.png",
             "large": "https://images.pokemontcg.io/det1/5_hires.png"
@@ -347,6 +322,7 @@ let det = [
         "id": "det-6",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 1"
         ],
@@ -388,10 +364,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -406,10 +379,7 @@ let det = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/6.png",
             "large": "https://images.pokemontcg.io/det1/6_hires.png"
@@ -419,6 +389,7 @@ let det = [
         "id": "det-7",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -453,10 +424,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -471,10 +439,7 @@ let det = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/7.png",
             "large": "https://images.pokemontcg.io/det1/7_hires.png"
@@ -484,6 +449,7 @@ let det = [
         "id": "det-8",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -518,10 +484,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -536,10 +499,7 @@ let det = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/8.png",
             "large": "https://images.pokemontcg.io/det1/8_hires.png"
@@ -549,6 +509,7 @@ let det = [
         "id": "det-9",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -589,10 +550,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -607,10 +565,7 @@ let det = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/9.png",
             "large": "https://images.pokemontcg.io/det1/9_hires.png"
@@ -620,6 +575,7 @@ let det = [
         "id": "det-10",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -671,10 +627,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -689,10 +642,7 @@ let det = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/10.png",
             "large": "https://images.pokemontcg.io/det1/10_hires.png"
@@ -702,6 +652,7 @@ let det = [
         "id": "det-11",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -741,10 +692,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -759,10 +707,7 @@ let det = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/11.png",
             "large": "https://images.pokemontcg.io/det1/11_hires.png"
@@ -772,6 +717,7 @@ let det = [
         "id": "det-12",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -815,10 +761,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -833,10 +776,7 @@ let det = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/12.png",
             "large": "https://images.pokemontcg.io/det1/12_hires.png"
@@ -846,6 +786,7 @@ let det = [
         "id": "det-13",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -888,10 +829,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -906,10 +844,7 @@ let det = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/13.png",
             "large": "https://images.pokemontcg.io/det1/13_hires.png"
@@ -919,6 +854,7 @@ let det = [
         "id": "det-14",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -959,10 +895,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -977,10 +910,7 @@ let det = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/14.png",
             "large": "https://images.pokemontcg.io/det1/14_hires.png"
@@ -990,6 +920,7 @@ let det = [
         "id": "det-15",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -1031,10 +962,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -1049,10 +977,7 @@ let det = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/15.png",
             "large": "https://images.pokemontcg.io/det1/15_hires.png"
@@ -1062,6 +987,7 @@ let det = [
         "id": "det-16",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -1097,10 +1023,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -1115,10 +1038,7 @@ let det = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/16.png",
             "large": "https://images.pokemontcg.io/det1/16_hires.png"
@@ -1128,6 +1048,7 @@ let det = [
         "id": "det-17",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -1159,10 +1080,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -1177,10 +1095,7 @@ let det = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/17.png",
             "large": "https://images.pokemontcg.io/det1/17_hires.png"
@@ -1190,6 +1105,7 @@ let det = [
         "id": "det-18",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1225,10 +1141,7 @@ let det = [
             "series": "Sun & Moon",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DET",
             "releaseDate": "2019/04/05",
             "images": {
@@ -1243,10 +1156,7 @@ let det = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/det1/18.png",
             "large": "https://images.pokemontcg.io/det1/18_hires.png"

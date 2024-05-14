@@ -1,8 +1,9 @@
-let legendsAwakened = [
+let dp6 = [
     {
         "id": "dp6-1",
         "name": "Deoxys Normal Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -42,9 +43,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -59,9 +58,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/1.png",
             "large": "https://images.pokemontcg.io/dp6/1_hires.png"
@@ -71,6 +68,7 @@ let legendsAwakened = [
         "id": "dp6-2",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -123,9 +121,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -140,9 +136,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/2.png",
             "large": "https://images.pokemontcg.io/dp6/2_hires.png"
@@ -152,6 +146,7 @@ let legendsAwakened = [
         "id": "dp6-3",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -194,9 +189,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -211,9 +204,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/3.png",
             "large": "https://images.pokemontcg.io/dp6/3_hires.png"
@@ -223,6 +214,7 @@ let legendsAwakened = [
         "id": "dp6-4",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -273,9 +265,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -290,9 +280,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/4.png",
             "large": "https://images.pokemontcg.io/dp6/4_hires.png"
@@ -302,6 +290,7 @@ let legendsAwakened = [
         "id": "dp6-5",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -348,9 +337,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -365,9 +352,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/5.png",
             "large": "https://images.pokemontcg.io/dp6/5_hires.png"
@@ -377,6 +362,7 @@ let legendsAwakened = [
         "id": "dp6-6",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -418,9 +404,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -435,9 +419,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/6.png",
             "large": "https://images.pokemontcg.io/dp6/6_hires.png"
@@ -447,6 +429,7 @@ let legendsAwakened = [
         "id": "dp6-7",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -486,9 +469,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -503,9 +484,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/7.png",
             "large": "https://images.pokemontcg.io/dp6/7_hires.png"
@@ -515,6 +494,7 @@ let legendsAwakened = [
         "id": "dp6-8",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -571,9 +551,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -588,9 +566,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/8.png",
             "large": "https://images.pokemontcg.io/dp6/8_hires.png"
@@ -600,6 +576,7 @@ let legendsAwakened = [
         "id": "dp6-9",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -652,9 +629,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -669,9 +644,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/9.png",
             "large": "https://images.pokemontcg.io/dp6/9_hires.png"
@@ -681,6 +654,7 @@ let legendsAwakened = [
         "id": "dp6-10",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -728,9 +702,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -745,9 +717,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/10.png",
             "large": "https://images.pokemontcg.io/dp6/10_hires.png"
@@ -757,6 +727,7 @@ let legendsAwakened = [
         "id": "dp6-11",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -799,9 +770,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -816,9 +785,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/11.png",
             "large": "https://images.pokemontcg.io/dp6/11_hires.png"
@@ -828,6 +795,7 @@ let legendsAwakened = [
         "id": "dp6-12",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -868,9 +836,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -885,9 +851,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             186
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/12.png",
             "large": "https://images.pokemontcg.io/dp6/12_hires.png"
@@ -897,6 +861,7 @@ let legendsAwakened = [
         "id": "dp6-13",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -938,9 +903,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -955,9 +918,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/13.png",
             "large": "https://images.pokemontcg.io/dp6/13_hires.png"
@@ -967,6 +928,7 @@ let legendsAwakened = [
         "id": "dp6-14",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1014,9 +976,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1031,9 +991,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/14.png",
             "large": "https://images.pokemontcg.io/dp6/14_hires.png"
@@ -1043,6 +1001,7 @@ let legendsAwakened = [
         "id": "dp6-15",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1084,9 +1043,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1101,9 +1058,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/15.png",
             "large": "https://images.pokemontcg.io/dp6/15_hires.png"
@@ -1113,6 +1068,7 @@ let legendsAwakened = [
         "id": "dp6-16",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1151,9 +1107,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1168,9 +1122,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/16.png",
             "large": "https://images.pokemontcg.io/dp6/16_hires.png"
@@ -1180,6 +1132,7 @@ let legendsAwakened = [
         "id": "dp6-17",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1227,9 +1180,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1244,9 +1195,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/17.png",
             "large": "https://images.pokemontcg.io/dp6/17_hires.png"
@@ -1256,6 +1205,7 @@ let legendsAwakened = [
         "id": "dp6-18",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1297,9 +1247,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1314,9 +1262,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/18.png",
             "large": "https://images.pokemontcg.io/dp6/18_hires.png"
@@ -1326,6 +1272,7 @@ let legendsAwakened = [
         "id": "dp6-19",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1364,9 +1311,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1381,9 +1326,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/19.png",
             "large": "https://images.pokemontcg.io/dp6/19_hires.png"
@@ -1393,6 +1336,7 @@ let legendsAwakened = [
         "id": "dp6-20",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1441,9 +1385,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1458,9 +1400,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/20.png",
             "large": "https://images.pokemontcg.io/dp6/20_hires.png"
@@ -1470,6 +1410,7 @@ let legendsAwakened = [
         "id": "dp6-21",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1513,9 +1454,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1530,9 +1469,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/21.png",
             "large": "https://images.pokemontcg.io/dp6/21_hires.png"
@@ -1542,6 +1479,7 @@ let legendsAwakened = [
         "id": "dp6-22",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1592,9 +1530,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1609,9 +1545,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/22.png",
             "large": "https://images.pokemontcg.io/dp6/22_hires.png"
@@ -1621,6 +1555,7 @@ let legendsAwakened = [
         "id": "dp6-23",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1660,9 +1595,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1677,9 +1610,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/23.png",
             "large": "https://images.pokemontcg.io/dp6/23_hires.png"
@@ -1689,6 +1620,7 @@ let legendsAwakened = [
         "id": "dp6-24",
         "name": "Deoxys Attack Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1729,9 +1661,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1746,9 +1676,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/24.png",
             "large": "https://images.pokemontcg.io/dp6/24_hires.png"
@@ -1758,6 +1686,7 @@ let legendsAwakened = [
         "id": "dp6-25",
         "name": "Deoxys Defense Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1798,9 +1727,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1815,9 +1742,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/25.png",
             "large": "https://images.pokemontcg.io/dp6/25_hires.png"
@@ -1827,6 +1752,7 @@ let legendsAwakened = [
         "id": "dp6-26",
         "name": "Deoxys Speed Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1865,9 +1791,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1882,9 +1806,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/26.png",
             "large": "https://images.pokemontcg.io/dp6/26_hires.png"
@@ -1894,6 +1816,7 @@ let legendsAwakened = [
         "id": "dp6-27",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1921,9 +1844,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1938,9 +1859,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/27.png",
             "large": "https://images.pokemontcg.io/dp6/27_hires.png"
@@ -1950,6 +1869,7 @@ let legendsAwakened = [
         "id": "dp6-28",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1998,9 +1918,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2015,9 +1933,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/28.png",
             "large": "https://images.pokemontcg.io/dp6/28_hires.png"
@@ -2027,6 +1943,7 @@ let legendsAwakened = [
         "id": "dp6-29",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2073,9 +1990,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2090,9 +2005,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/29.png",
             "large": "https://images.pokemontcg.io/dp6/29_hires.png"
@@ -2102,6 +2015,7 @@ let legendsAwakened = [
         "id": "dp6-30",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2142,9 +2056,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2159,9 +2071,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/30.png",
             "large": "https://images.pokemontcg.io/dp6/30_hires.png"
@@ -2171,6 +2081,7 @@ let legendsAwakened = [
         "id": "dp6-31",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2216,9 +2127,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2233,9 +2142,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/31.png",
             "large": "https://images.pokemontcg.io/dp6/31_hires.png"
@@ -2245,6 +2152,7 @@ let legendsAwakened = [
         "id": "dp6-32",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2285,9 +2193,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2302,9 +2208,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/32.png",
             "large": "https://images.pokemontcg.io/dp6/32_hires.png"
@@ -2314,6 +2218,7 @@ let legendsAwakened = [
         "id": "dp6-33",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2361,9 +2266,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2378,9 +2281,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/33.png",
             "large": "https://images.pokemontcg.io/dp6/33_hires.png"
@@ -2390,6 +2291,7 @@ let legendsAwakened = [
         "id": "dp6-34",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2429,9 +2331,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2446,9 +2346,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/34.png",
             "large": "https://images.pokemontcg.io/dp6/34_hires.png"
@@ -2458,6 +2356,7 @@ let legendsAwakened = [
         "id": "dp6-35",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2501,9 +2400,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2518,9 +2415,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/35.png",
             "large": "https://images.pokemontcg.io/dp6/35_hires.png"
@@ -2530,6 +2425,7 @@ let legendsAwakened = [
         "id": "dp6-36",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2570,9 +2466,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2587,9 +2481,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/36.png",
             "large": "https://images.pokemontcg.io/dp6/36_hires.png"
@@ -2599,6 +2491,7 @@ let legendsAwakened = [
         "id": "dp6-37",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2639,9 +2532,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2656,9 +2547,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/37.png",
             "large": "https://images.pokemontcg.io/dp6/37_hires.png"
@@ -2668,6 +2557,7 @@ let legendsAwakened = [
         "id": "dp6-38",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2708,9 +2598,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2725,9 +2613,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/38.png",
             "large": "https://images.pokemontcg.io/dp6/38_hires.png"
@@ -2737,6 +2623,7 @@ let legendsAwakened = [
         "id": "dp6-39",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2783,9 +2670,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2800,9 +2685,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/39.png",
             "large": "https://images.pokemontcg.io/dp6/39_hires.png"
@@ -2812,6 +2695,7 @@ let legendsAwakened = [
         "id": "dp6-40",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2844,9 +2728,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2861,9 +2743,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/40.png",
             "large": "https://images.pokemontcg.io/dp6/40_hires.png"
@@ -2873,6 +2753,7 @@ let legendsAwakened = [
         "id": "dp6-41",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2912,9 +2793,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2929,9 +2808,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/41.png",
             "large": "https://images.pokemontcg.io/dp6/41_hires.png"
@@ -2941,6 +2818,7 @@ let legendsAwakened = [
         "id": "dp6-42",
         "name": "Unown !",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2979,9 +2857,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2996,9 +2872,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/42.png",
             "large": "https://images.pokemontcg.io/dp6/42_hires.png"
@@ -3008,6 +2882,7 @@ let legendsAwakened = [
         "id": "dp6-43",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3046,9 +2921,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3063,9 +2936,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/43.png",
             "large": "https://images.pokemontcg.io/dp6/43_hires.png"
@@ -3075,6 +2946,7 @@ let legendsAwakened = [
         "id": "dp6-44",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -3116,9 +2988,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3133,9 +3003,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/44.png",
             "large": "https://images.pokemontcg.io/dp6/44_hires.png"
@@ -3145,6 +3013,7 @@ let legendsAwakened = [
         "id": "dp6-45",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -3186,9 +3055,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3203,9 +3070,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/45.png",
             "large": "https://images.pokemontcg.io/dp6/45_hires.png"
@@ -3215,6 +3080,7 @@ let legendsAwakened = [
         "id": "dp6-46",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3260,9 +3126,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3277,9 +3141,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/46.png",
             "large": "https://images.pokemontcg.io/dp6/46_hires.png"
@@ -3289,6 +3151,7 @@ let legendsAwakened = [
         "id": "dp6-47",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3333,9 +3196,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3350,9 +3211,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/47.png",
             "large": "https://images.pokemontcg.io/dp6/47_hires.png"
@@ -3362,6 +3221,7 @@ let legendsAwakened = [
         "id": "dp6-48",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3401,9 +3261,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3418,9 +3276,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/48.png",
             "large": "https://images.pokemontcg.io/dp6/48_hires.png"
@@ -3430,6 +3286,7 @@ let legendsAwakened = [
         "id": "dp6-49",
         "name": "Castform Rain Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3469,9 +3326,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3486,9 +3341,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/49.png",
             "large": "https://images.pokemontcg.io/dp6/49_hires.png"
@@ -3498,6 +3351,7 @@ let legendsAwakened = [
         "id": "dp6-50",
         "name": "Castform Snow-Cloud Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3537,9 +3391,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3554,9 +3406,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/50.png",
             "large": "https://images.pokemontcg.io/dp6/50_hires.png"
@@ -3566,6 +3416,7 @@ let legendsAwakened = [
         "id": "dp6-51",
         "name": "Castform Sunny Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3605,9 +3456,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3622,9 +3471,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/51.png",
             "large": "https://images.pokemontcg.io/dp6/51_hires.png"
@@ -3634,6 +3481,7 @@ let legendsAwakened = [
         "id": "dp6-52",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3681,9 +3529,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3698,9 +3544,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/52.png",
             "large": "https://images.pokemontcg.io/dp6/52_hires.png"
@@ -3710,6 +3554,7 @@ let legendsAwakened = [
         "id": "dp6-53",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3758,9 +3603,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3775,9 +3618,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/53.png",
             "large": "https://images.pokemontcg.io/dp6/53_hires.png"
@@ -3787,6 +3628,7 @@ let legendsAwakened = [
         "id": "dp6-54",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3826,9 +3668,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3843,9 +3683,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/54.png",
             "large": "https://images.pokemontcg.io/dp6/54_hires.png"
@@ -3855,6 +3693,7 @@ let legendsAwakened = [
         "id": "dp6-55",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3903,9 +3742,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3920,9 +3757,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/55.png",
             "large": "https://images.pokemontcg.io/dp6/55_hires.png"
@@ -3932,6 +3767,7 @@ let legendsAwakened = [
         "id": "dp6-56",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3972,9 +3808,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3989,9 +3823,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/56.png",
             "large": "https://images.pokemontcg.io/dp6/56_hires.png"
@@ -4001,6 +3833,7 @@ let legendsAwakened = [
         "id": "dp6-57",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4050,9 +3883,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4067,9 +3898,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/57.png",
             "large": "https://images.pokemontcg.io/dp6/57_hires.png"
@@ -4079,6 +3908,7 @@ let legendsAwakened = [
         "id": "dp6-58",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4122,9 +3952,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4139,9 +3967,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/58.png",
             "large": "https://images.pokemontcg.io/dp6/58_hires.png"
@@ -4151,6 +3977,7 @@ let legendsAwakened = [
         "id": "dp6-59",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4194,9 +4021,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4211,9 +4036,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/59.png",
             "large": "https://images.pokemontcg.io/dp6/59_hires.png"
@@ -4223,6 +4046,7 @@ let legendsAwakened = [
         "id": "dp6-60",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4271,9 +4095,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4288,9 +4110,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/60.png",
             "large": "https://images.pokemontcg.io/dp6/60_hires.png"
@@ -4300,6 +4120,7 @@ let legendsAwakened = [
         "id": "dp6-61",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4343,9 +4164,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4360,9 +4179,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/61.png",
             "large": "https://images.pokemontcg.io/dp6/61_hires.png"
@@ -4372,6 +4189,7 @@ let legendsAwakened = [
         "id": "dp6-62",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4425,9 +4243,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4442,9 +4258,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/62.png",
             "large": "https://images.pokemontcg.io/dp6/62_hires.png"
@@ -4454,6 +4268,7 @@ let legendsAwakened = [
         "id": "dp6-63",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4502,9 +4317,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4519,9 +4332,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/63.png",
             "large": "https://images.pokemontcg.io/dp6/63_hires.png"
@@ -4531,6 +4342,7 @@ let legendsAwakened = [
         "id": "dp6-64",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4584,9 +4396,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4601,9 +4411,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/64.png",
             "large": "https://images.pokemontcg.io/dp6/64_hires.png"
@@ -4613,6 +4421,7 @@ let legendsAwakened = [
         "id": "dp6-65",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4666,9 +4475,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4683,9 +4490,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/65.png",
             "large": "https://images.pokemontcg.io/dp6/65_hires.png"
@@ -4695,6 +4500,7 @@ let legendsAwakened = [
         "id": "dp6-66",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4743,9 +4549,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4760,9 +4564,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/66.png",
             "large": "https://images.pokemontcg.io/dp6/66_hires.png"
@@ -4772,6 +4574,7 @@ let legendsAwakened = [
         "id": "dp6-67",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4819,9 +4622,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4836,9 +4637,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/67.png",
             "large": "https://images.pokemontcg.io/dp6/67_hires.png"
@@ -4848,6 +4647,7 @@ let legendsAwakened = [
         "id": "dp6-68",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4890,9 +4690,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4907,9 +4705,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/68.png",
             "large": "https://images.pokemontcg.io/dp6/68_hires.png"
@@ -4919,6 +4715,7 @@ let legendsAwakened = [
         "id": "dp6-69",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4973,9 +4770,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4990,9 +4785,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/69.png",
             "large": "https://images.pokemontcg.io/dp6/69_hires.png"
@@ -5002,6 +4795,7 @@ let legendsAwakened = [
         "id": "dp6-70",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5048,9 +4842,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5065,9 +4857,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/70.png",
             "large": "https://images.pokemontcg.io/dp6/70_hires.png"
@@ -5077,6 +4867,7 @@ let legendsAwakened = [
         "id": "dp6-71",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5117,9 +4908,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5134,9 +4923,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/71.png",
             "large": "https://images.pokemontcg.io/dp6/71_hires.png"
@@ -5146,6 +4933,7 @@ let legendsAwakened = [
         "id": "dp6-72",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5190,9 +4978,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5207,9 +4993,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/72.png",
             "large": "https://images.pokemontcg.io/dp6/72_hires.png"
@@ -5219,6 +5003,7 @@ let legendsAwakened = [
         "id": "dp6-73",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5265,9 +5050,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5282,9 +5065,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/73.png",
             "large": "https://images.pokemontcg.io/dp6/73_hires.png"
@@ -5294,6 +5075,7 @@ let legendsAwakened = [
         "id": "dp6-74",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5337,9 +5119,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5354,9 +5134,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/74.png",
             "large": "https://images.pokemontcg.io/dp6/74_hires.png"
@@ -5366,6 +5144,7 @@ let legendsAwakened = [
         "id": "dp6-75",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5407,9 +5186,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5424,9 +5201,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/75.png",
             "large": "https://images.pokemontcg.io/dp6/75_hires.png"
@@ -5436,6 +5211,7 @@ let legendsAwakened = [
         "id": "dp6-76",
         "name": "Unown J",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5474,9 +5250,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5491,9 +5265,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/76.png",
             "large": "https://images.pokemontcg.io/dp6/76_hires.png"
@@ -5503,6 +5275,7 @@ let legendsAwakened = [
         "id": "dp6-77",
         "name": "Unown R",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5539,9 +5312,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5556,9 +5327,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/77.png",
             "large": "https://images.pokemontcg.io/dp6/77_hires.png"
@@ -5568,6 +5337,7 @@ let legendsAwakened = [
         "id": "dp6-78",
         "name": "Unown U",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5606,9 +5376,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5623,9 +5391,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/78.png",
             "large": "https://images.pokemontcg.io/dp6/78_hires.png"
@@ -5635,6 +5401,7 @@ let legendsAwakened = [
         "id": "dp6-79",
         "name": "Unown V",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5673,9 +5440,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5690,9 +5455,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/79.png",
             "large": "https://images.pokemontcg.io/dp6/79_hires.png"
@@ -5702,6 +5465,7 @@ let legendsAwakened = [
         "id": "dp6-80",
         "name": "Unown W",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5742,9 +5506,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5759,9 +5521,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/80.png",
             "large": "https://images.pokemontcg.io/dp6/80_hires.png"
@@ -5771,6 +5531,7 @@ let legendsAwakened = [
         "id": "dp6-81",
         "name": "Unown Y",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5810,9 +5571,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5827,9 +5586,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/81.png",
             "large": "https://images.pokemontcg.io/dp6/81_hires.png"
@@ -5839,6 +5596,7 @@ let legendsAwakened = [
         "id": "dp6-82",
         "name": "Unown ?",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5875,9 +5633,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5892,9 +5648,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/82.png",
             "large": "https://images.pokemontcg.io/dp6/82_hires.png"
@@ -5904,6 +5658,7 @@ let legendsAwakened = [
         "id": "dp6-83",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5952,9 +5707,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5969,9 +5722,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/83.png",
             "large": "https://images.pokemontcg.io/dp6/83_hires.png"
@@ -5981,6 +5732,7 @@ let legendsAwakened = [
         "id": "dp6-84",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6031,9 +5783,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6048,9 +5798,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/84.png",
             "large": "https://images.pokemontcg.io/dp6/84_hires.png"
@@ -6060,6 +5808,7 @@ let legendsAwakened = [
         "id": "dp6-85",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6103,9 +5852,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6120,9 +5867,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/85.png",
             "large": "https://images.pokemontcg.io/dp6/85_hires.png"
@@ -6132,6 +5877,7 @@ let legendsAwakened = [
         "id": "dp6-86",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6176,9 +5922,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6193,9 +5937,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/86.png",
             "large": "https://images.pokemontcg.io/dp6/86_hires.png"
@@ -6205,6 +5947,7 @@ let legendsAwakened = [
         "id": "dp6-87",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6248,9 +5991,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6265,9 +6006,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/87.png",
             "large": "https://images.pokemontcg.io/dp6/87_hires.png"
@@ -6277,6 +6016,7 @@ let legendsAwakened = [
         "id": "dp6-88",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6321,9 +6061,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6338,9 +6076,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/88.png",
             "large": "https://images.pokemontcg.io/dp6/88_hires.png"
@@ -6350,6 +6086,7 @@ let legendsAwakened = [
         "id": "dp6-89",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6394,9 +6131,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6411,9 +6146,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/89.png",
             "large": "https://images.pokemontcg.io/dp6/89_hires.png"
@@ -6423,6 +6156,7 @@ let legendsAwakened = [
         "id": "dp6-90",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6473,9 +6207,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6490,9 +6222,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/90.png",
             "large": "https://images.pokemontcg.io/dp6/90_hires.png"
@@ -6502,6 +6232,7 @@ let legendsAwakened = [
         "id": "dp6-91",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6546,9 +6277,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6563,9 +6292,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/91.png",
             "large": "https://images.pokemontcg.io/dp6/91_hires.png"
@@ -6575,6 +6302,7 @@ let legendsAwakened = [
         "id": "dp6-92",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6625,9 +6353,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6642,9 +6368,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/92.png",
             "large": "https://images.pokemontcg.io/dp6/92_hires.png"
@@ -6654,6 +6378,7 @@ let legendsAwakened = [
         "id": "dp6-93",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6697,9 +6422,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6714,9 +6437,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/93.png",
             "large": "https://images.pokemontcg.io/dp6/93_hires.png"
@@ -6726,6 +6447,7 @@ let legendsAwakened = [
         "id": "dp6-94",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6773,9 +6495,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6790,9 +6510,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/94.png",
             "large": "https://images.pokemontcg.io/dp6/94_hires.png"
@@ -6802,6 +6520,7 @@ let legendsAwakened = [
         "id": "dp6-95",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6852,9 +6571,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6869,9 +6586,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/95.png",
             "large": "https://images.pokemontcg.io/dp6/95_hires.png"
@@ -6881,6 +6596,7 @@ let legendsAwakened = [
         "id": "dp6-96",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6927,9 +6643,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6944,9 +6658,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/96.png",
             "large": "https://images.pokemontcg.io/dp6/96_hires.png"
@@ -6956,6 +6668,7 @@ let legendsAwakened = [
         "id": "dp6-97",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7000,9 +6713,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7017,9 +6728,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/97.png",
             "large": "https://images.pokemontcg.io/dp6/97_hires.png"
@@ -7029,6 +6738,7 @@ let legendsAwakened = [
         "id": "dp6-98",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7072,9 +6782,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7089,9 +6797,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/98.png",
             "large": "https://images.pokemontcg.io/dp6/98_hires.png"
@@ -7101,6 +6807,7 @@ let legendsAwakened = [
         "id": "dp6-99",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7142,9 +6849,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7159,9 +6864,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/99.png",
             "large": "https://images.pokemontcg.io/dp6/99_hires.png"
@@ -7171,6 +6874,7 @@ let legendsAwakened = [
         "id": "dp6-100",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7214,9 +6918,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7231,9 +6933,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/100.png",
             "large": "https://images.pokemontcg.io/dp6/100_hires.png"
@@ -7243,6 +6943,7 @@ let legendsAwakened = [
         "id": "dp6-101",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7286,9 +6987,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7303,9 +7002,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/101.png",
             "large": "https://images.pokemontcg.io/dp6/101_hires.png"
@@ -7315,6 +7012,7 @@ let legendsAwakened = [
         "id": "dp6-102",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7358,9 +7056,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7375,9 +7071,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/102.png",
             "large": "https://images.pokemontcg.io/dp6/102_hires.png"
@@ -7387,6 +7081,7 @@ let legendsAwakened = [
         "id": "dp6-103",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7436,9 +7131,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7453,9 +7146,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/103.png",
             "large": "https://images.pokemontcg.io/dp6/103_hires.png"
@@ -7465,6 +7156,7 @@ let legendsAwakened = [
         "id": "dp6-104",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7515,9 +7207,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7532,9 +7222,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/104.png",
             "large": "https://images.pokemontcg.io/dp6/104_hires.png"
@@ -7544,6 +7232,7 @@ let legendsAwakened = [
         "id": "dp6-105",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7589,9 +7278,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7606,9 +7293,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/105.png",
             "large": "https://images.pokemontcg.io/dp6/105_hires.png"
@@ -7618,6 +7303,7 @@ let legendsAwakened = [
         "id": "dp6-106",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7662,9 +7348,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7679,9 +7363,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/106.png",
             "large": "https://images.pokemontcg.io/dp6/106_hires.png"
@@ -7691,6 +7373,7 @@ let legendsAwakened = [
         "id": "dp6-107",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7738,9 +7421,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7755,9 +7436,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/107.png",
             "large": "https://images.pokemontcg.io/dp6/107_hires.png"
@@ -7767,6 +7446,7 @@ let legendsAwakened = [
         "id": "dp6-108",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7810,9 +7490,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7827,9 +7505,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/108.png",
             "large": "https://images.pokemontcg.io/dp6/108_hires.png"
@@ -7839,6 +7515,7 @@ let legendsAwakened = [
         "id": "dp6-109",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7883,9 +7560,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7900,9 +7575,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/109.png",
             "large": "https://images.pokemontcg.io/dp6/109_hires.png"
@@ -7912,6 +7585,7 @@ let legendsAwakened = [
         "id": "dp6-110",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7957,9 +7631,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7974,9 +7646,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/110.png",
             "large": "https://images.pokemontcg.io/dp6/110_hires.png"
@@ -7986,6 +7656,7 @@ let legendsAwakened = [
         "id": "dp6-111",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8029,9 +7700,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8046,9 +7715,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/111.png",
             "large": "https://images.pokemontcg.io/dp6/111_hires.png"
@@ -8058,6 +7725,7 @@ let legendsAwakened = [
         "id": "dp6-112",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8102,9 +7770,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8119,9 +7785,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/112.png",
             "large": "https://images.pokemontcg.io/dp6/112_hires.png"
@@ -8131,6 +7795,7 @@ let legendsAwakened = [
         "id": "dp6-113",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8175,9 +7840,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8192,9 +7855,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/113.png",
             "large": "https://images.pokemontcg.io/dp6/113_hires.png"
@@ -8204,6 +7865,7 @@ let legendsAwakened = [
         "id": "dp6-114",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8247,9 +7909,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8264,9 +7924,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/114.png",
             "large": "https://images.pokemontcg.io/dp6/114_hires.png"
@@ -8276,6 +7934,7 @@ let legendsAwakened = [
         "id": "dp6-115",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8324,9 +7983,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8341,9 +7998,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/115.png",
             "large": "https://images.pokemontcg.io/dp6/115_hires.png"
@@ -8353,6 +8008,7 @@ let legendsAwakened = [
         "id": "dp6-116",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8403,9 +8059,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8420,9 +8074,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/116.png",
             "large": "https://images.pokemontcg.io/dp6/116_hires.png"
@@ -8432,6 +8084,7 @@ let legendsAwakened = [
         "id": "dp6-117",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8476,9 +8129,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8493,9 +8144,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/117.png",
             "large": "https://images.pokemontcg.io/dp6/117_hires.png"
@@ -8505,6 +8154,7 @@ let legendsAwakened = [
         "id": "dp6-118",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8555,9 +8205,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8572,9 +8220,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/118.png",
             "large": "https://images.pokemontcg.io/dp6/118_hires.png"
@@ -8584,6 +8230,7 @@ let legendsAwakened = [
         "id": "dp6-119",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8627,9 +8274,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8644,9 +8289,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/119.png",
             "large": "https://images.pokemontcg.io/dp6/119_hires.png"
@@ -8656,6 +8299,7 @@ let legendsAwakened = [
         "id": "dp6-120",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8706,9 +8350,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8723,9 +8365,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/120.png",
             "large": "https://images.pokemontcg.io/dp6/120_hires.png"
@@ -8735,6 +8375,7 @@ let legendsAwakened = [
         "id": "dp6-121",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8779,9 +8420,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8796,9 +8435,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/121.png",
             "large": "https://images.pokemontcg.io/dp6/121_hires.png"
@@ -8808,6 +8445,7 @@ let legendsAwakened = [
         "id": "dp6-122",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8852,9 +8490,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8869,9 +8505,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/122.png",
             "large": "https://images.pokemontcg.io/dp6/122_hires.png"
@@ -8881,6 +8515,7 @@ let legendsAwakened = [
         "id": "dp6-123",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8931,9 +8566,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8948,9 +8581,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/123.png",
             "large": "https://images.pokemontcg.io/dp6/123_hires.png"
@@ -8960,6 +8591,7 @@ let legendsAwakened = [
         "id": "dp6-124",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -9009,9 +8641,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9026,9 +8656,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/124.png",
             "large": "https://images.pokemontcg.io/dp6/124_hires.png"
@@ -9038,6 +8666,7 @@ let legendsAwakened = [
         "id": "dp6-125",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -9081,9 +8710,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9098,9 +8725,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/125.png",
             "large": "https://images.pokemontcg.io/dp6/125_hires.png"
@@ -9110,6 +8735,7 @@ let legendsAwakened = [
         "id": "dp6-126",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -9153,9 +8779,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9170,9 +8794,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             236
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/126.png",
             "large": "https://images.pokemontcg.io/dp6/126_hires.png"
@@ -9182,6 +8804,7 @@ let legendsAwakened = [
         "id": "dp6-127",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9227,9 +8850,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9244,9 +8865,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/127.png",
             "large": "https://images.pokemontcg.io/dp6/127_hires.png"
@@ -9256,6 +8875,7 @@ let legendsAwakened = [
         "id": "dp6-128",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -9306,9 +8926,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9323,9 +8941,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/128.png",
             "large": "https://images.pokemontcg.io/dp6/128_hires.png"
@@ -9335,6 +8951,7 @@ let legendsAwakened = [
         "id": "dp6-129",
         "name": "Bubble Coat",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9348,9 +8965,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9361,9 +8976,7 @@ let legendsAwakened = [
         "number": "129",
         "artist": "Daisuke Ito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/129.png",
             "large": "https://images.pokemontcg.io/dp6/129_hires.png"
@@ -9373,6 +8986,7 @@ let legendsAwakened = [
         "id": "dp6-130",
         "name": "Buck's Training",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Supporter"
         ],
@@ -9386,9 +9000,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9399,9 +9011,7 @@ let legendsAwakened = [
         "number": "130",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/130.png",
             "large": "https://images.pokemontcg.io/dp6/130_hires.png"
@@ -9411,6 +9021,7 @@ let legendsAwakened = [
         "id": "dp6-131",
         "name": "Cynthia's Feelings",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Supporter"
         ],
@@ -9424,9 +9035,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9437,9 +9046,7 @@ let legendsAwakened = [
         "number": "131",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/131.png",
             "large": "https://images.pokemontcg.io/dp6/131_hires.png"
@@ -9449,6 +9056,7 @@ let legendsAwakened = [
         "id": "dp6-132",
         "name": "Energy Pickup",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9461,9 +9069,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9474,9 +9080,7 @@ let legendsAwakened = [
         "number": "132",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/132.png",
             "large": "https://images.pokemontcg.io/dp6/132_hires.png"
@@ -9486,6 +9090,7 @@ let legendsAwakened = [
         "id": "dp6-133",
         "name": "Poké Radar",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9498,9 +9103,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9511,9 +9114,7 @@ let legendsAwakened = [
         "number": "133",
         "artist": "Kazuaki Aihara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/133.png",
             "large": "https://images.pokemontcg.io/dp6/133_hires.png"
@@ -9523,6 +9124,7 @@ let legendsAwakened = [
         "id": "dp6-134",
         "name": "Snowpoint Temple",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stadium"
         ],
@@ -9536,9 +9138,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9549,9 +9149,7 @@ let legendsAwakened = [
         "number": "134",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/134.png",
             "large": "https://images.pokemontcg.io/dp6/134_hires.png"
@@ -9561,6 +9159,7 @@ let legendsAwakened = [
         "id": "dp6-135",
         "name": "Stark Mountain",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stadium"
         ],
@@ -9574,9 +9173,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9587,9 +9184,7 @@ let legendsAwakened = [
         "number": "135",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/135.png",
             "large": "https://images.pokemontcg.io/dp6/135_hires.png"
@@ -9599,6 +9194,7 @@ let legendsAwakened = [
         "id": "dp6-136",
         "name": "Technical Machine TS-1",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9620,9 +9216,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9633,9 +9227,7 @@ let legendsAwakened = [
         "number": "136",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/136.png",
             "large": "https://images.pokemontcg.io/dp6/136_hires.png"
@@ -9645,6 +9237,7 @@ let legendsAwakened = [
         "id": "dp6-137",
         "name": "Technical Machine TS-2",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9666,9 +9259,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9679,9 +9270,7 @@ let legendsAwakened = [
         "number": "137",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/137.png",
             "large": "https://images.pokemontcg.io/dp6/137_hires.png"
@@ -9691,6 +9280,7 @@ let legendsAwakened = [
         "id": "dp6-138",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9711,9 +9301,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9724,9 +9312,7 @@ let legendsAwakened = [
         "number": "138",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/138.png",
             "large": "https://images.pokemontcg.io/dp6/138_hires.png"
@@ -9736,6 +9322,7 @@ let legendsAwakened = [
         "id": "dp6-139",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9756,9 +9343,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9769,9 +9354,7 @@ let legendsAwakened = [
         "number": "139",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/139.png",
             "large": "https://images.pokemontcg.io/dp6/139_hires.png"
@@ -9781,6 +9364,7 @@ let legendsAwakened = [
         "id": "dp6-140",
         "name": "Azelf LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9823,9 +9407,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9839,9 +9421,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/140.png",
             "large": "https://images.pokemontcg.io/dp6/140_hires.png"
@@ -9851,6 +9431,7 @@ let legendsAwakened = [
         "id": "dp6-141",
         "name": "Gliscor LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9899,9 +9480,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9915,9 +9494,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/141.png",
             "large": "https://images.pokemontcg.io/dp6/141_hires.png"
@@ -9927,6 +9504,7 @@ let legendsAwakened = [
         "id": "dp6-142",
         "name": "Magnezone LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9976,9 +9554,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9992,9 +9568,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/142.png",
             "large": "https://images.pokemontcg.io/dp6/142_hires.png"
@@ -10004,6 +9578,7 @@ let legendsAwakened = [
         "id": "dp6-143",
         "name": "Mesprit LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -10047,9 +9622,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10063,9 +9636,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/143.png",
             "large": "https://images.pokemontcg.io/dp6/143_hires.png"
@@ -10075,6 +9646,7 @@ let legendsAwakened = [
         "id": "dp6-144",
         "name": "Mewtwo LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -10119,9 +9691,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10135,9 +9705,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/144.png",
             "large": "https://images.pokemontcg.io/dp6/144_hires.png"
@@ -10147,6 +9715,7 @@ let legendsAwakened = [
         "id": "dp6-145",
         "name": "Rhyperior LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -10197,9 +9766,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10213,9 +9780,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/145.png",
             "large": "https://images.pokemontcg.io/dp6/145_hires.png"
@@ -10225,6 +9790,7 @@ let legendsAwakened = [
         "id": "dp6-146",
         "name": "Uxie LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -10268,9 +9834,7 @@ let legendsAwakened = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10284,9 +9848,7 @@ let legendsAwakened = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/146.png",
             "large": "https://images.pokemontcg.io/dp6/146_hires.png"

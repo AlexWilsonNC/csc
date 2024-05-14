@@ -1,8 +1,9 @@
-let gymChallenge = [
+let gym2 = [
     {
         "id": "gym2-1",
         "name": "Blaine's Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -49,9 +50,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -65,9 +64,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/1.png",
             "large": "https://images.pokemontcg.io/gym2/1_hires.png"
@@ -77,6 +74,7 @@ let gymChallenge = [
         "id": "gym2-2",
         "name": "Blaine's Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -125,9 +123,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -141,9 +137,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/2.png",
             "large": "https://images.pokemontcg.io/gym2/2_hires.png"
@@ -153,6 +147,7 @@ let gymChallenge = [
         "id": "gym2-3",
         "name": "Brock's Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -193,9 +188,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -209,9 +202,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/3.png",
             "large": "https://images.pokemontcg.io/gym2/3_hires.png"
@@ -221,6 +212,7 @@ let gymChallenge = [
         "id": "gym2-4",
         "name": "Erika's Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -265,9 +257,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -281,9 +271,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/4.png",
             "large": "https://images.pokemontcg.io/gym2/4_hires.png"
@@ -293,6 +281,7 @@ let gymChallenge = [
         "id": "gym2-5",
         "name": "Giovanni's Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -343,9 +332,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -359,9 +346,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/5.png",
             "large": "https://images.pokemontcg.io/gym2/5_hires.png"
@@ -371,6 +356,7 @@ let gymChallenge = [
         "id": "gym2-6",
         "name": "Giovanni's Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -413,9 +399,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -429,9 +413,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/6.png",
             "large": "https://images.pokemontcg.io/gym2/6_hires.png"
@@ -441,6 +423,7 @@ let gymChallenge = [
         "id": "gym2-7",
         "name": "Giovanni's Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -485,9 +468,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -501,9 +482,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/7.png",
             "large": "https://images.pokemontcg.io/gym2/7_hires.png"
@@ -513,6 +492,7 @@ let gymChallenge = [
         "id": "gym2-8",
         "name": "Giovanni's Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -559,9 +539,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -575,9 +553,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/8.png",
             "large": "https://images.pokemontcg.io/gym2/8_hires.png"
@@ -587,6 +563,7 @@ let gymChallenge = [
         "id": "gym2-9",
         "name": "Koga's Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -636,9 +613,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -652,9 +627,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/9.png",
             "large": "https://images.pokemontcg.io/gym2/9_hires.png"
@@ -664,6 +637,7 @@ let gymChallenge = [
         "id": "gym2-10",
         "name": "Koga's Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -710,9 +684,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -726,9 +698,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/10.png",
             "large": "https://images.pokemontcg.io/gym2/10_hires.png"
@@ -738,6 +708,7 @@ let gymChallenge = [
         "id": "gym2-11",
         "name": "Lt. Surge's Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -783,9 +754,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -799,9 +768,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/11.png",
             "large": "https://images.pokemontcg.io/gym2/11_hires.png"
@@ -811,6 +778,7 @@ let gymChallenge = [
         "id": "gym2-12",
         "name": "Misty's Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -854,9 +822,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -870,9 +836,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/12.png",
             "large": "https://images.pokemontcg.io/gym2/12_hires.png"
@@ -882,6 +846,7 @@ let gymChallenge = [
         "id": "gym2-13",
         "name": "Misty's Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -930,9 +895,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -946,9 +909,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/13.png",
             "large": "https://images.pokemontcg.io/gym2/13_hires.png"
@@ -958,6 +919,7 @@ let gymChallenge = [
         "id": "gym2-14",
         "name": "Rocket's Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -1011,9 +973,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1027,9 +987,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/14.png",
             "large": "https://images.pokemontcg.io/gym2/14_hires.png"
@@ -1039,6 +997,7 @@ let gymChallenge = [
         "id": "gym2-15",
         "name": "Rocket's Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -1082,9 +1041,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1098,9 +1055,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/15.png",
             "large": "https://images.pokemontcg.io/gym2/15_hires.png"
@@ -1110,6 +1065,7 @@ let gymChallenge = [
         "id": "gym2-16",
         "name": "Sabrina's Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1152,9 +1108,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1168,9 +1122,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/16.png",
             "large": "https://images.pokemontcg.io/gym2/16_hires.png"
@@ -1180,6 +1132,7 @@ let gymChallenge = [
         "id": "gym2-17",
         "name": "Blaine",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "During this turn, instead of attaching your free Energy card, you may instead attach 2 Fire Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
         ],
@@ -1189,9 +1142,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1202,9 +1153,7 @@ let gymChallenge = [
         "number": "17",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/17.png",
             "large": "https://images.pokemontcg.io/gym2/17_hires.png"
@@ -1214,6 +1163,7 @@ let gymChallenge = [
         "id": "gym2-18",
         "name": "Giovanni",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Choose 1 of your Pokémon in play with Giovanni in its name. For the rest of your turn, you may evolve that Pokémon even if you just played or evolved it this turn or if this is your first turn. This effect also applies to the Pokémon it evolves into."
         ],
@@ -1223,9 +1173,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1236,9 +1184,7 @@ let gymChallenge = [
         "number": "18",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/18.png",
             "large": "https://images.pokemontcg.io/gym2/18_hires.png"
@@ -1248,6 +1194,7 @@ let gymChallenge = [
         "id": "gym2-19",
         "name": "Koga",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "If an attack from a Pokémon with Koga in its name does damage to a Defending Pokémon this turn, that Pokémon is then Poisoned."
         ],
@@ -1257,9 +1204,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1270,9 +1215,7 @@ let gymChallenge = [
         "number": "19",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/19.png",
             "large": "https://images.pokemontcg.io/gym2/19_hires.png"
@@ -1282,6 +1225,7 @@ let gymChallenge = [
         "id": "gym2-20",
         "name": "Sabrina",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Take all Energy cards attached to 1 of your Pokémon with Sabrina in its name and attach them to another 1 of your Pokémon with Sabrina in its name."
         ],
@@ -1291,9 +1235,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1304,9 +1246,7 @@ let gymChallenge = [
         "number": "20",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/20.png",
             "large": "https://images.pokemontcg.io/gym2/20_hires.png"
@@ -1316,6 +1256,7 @@ let gymChallenge = [
         "id": "gym2-21",
         "name": "Blaine's Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1356,9 +1297,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1372,9 +1311,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/21.png",
             "large": "https://images.pokemontcg.io/gym2/21_hires.png"
@@ -1384,6 +1321,7 @@ let gymChallenge = [
         "id": "gym2-22",
         "name": "Brock's Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1433,9 +1371,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1449,9 +1385,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/22.png",
             "large": "https://images.pokemontcg.io/gym2/22_hires.png"
@@ -1461,6 +1395,7 @@ let gymChallenge = [
         "id": "gym2-23",
         "name": "Giovanni's Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1507,9 +1442,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1523,9 +1456,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/23.png",
             "large": "https://images.pokemontcg.io/gym2/23_hires.png"
@@ -1535,6 +1466,7 @@ let gymChallenge = [
         "id": "gym2-24",
         "name": "Giovanni's Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -1578,9 +1510,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1594,9 +1524,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/24.png",
             "large": "https://images.pokemontcg.io/gym2/24_hires.png"
@@ -1606,6 +1534,7 @@ let gymChallenge = [
         "id": "gym2-25",
         "name": "Koga's Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1648,9 +1577,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1664,9 +1591,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/25.png",
             "large": "https://images.pokemontcg.io/gym2/25_hires.png"
@@ -1676,6 +1601,7 @@ let gymChallenge = [
         "id": "gym2-26",
         "name": "Koga's Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1717,9 +1643,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1733,9 +1657,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/26.png",
             "large": "https://images.pokemontcg.io/gym2/26_hires.png"
@@ -1745,6 +1667,7 @@ let gymChallenge = [
         "id": "gym2-27",
         "name": "Koga's Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1799,9 +1722,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1815,9 +1736,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/27.png",
             "large": "https://images.pokemontcg.io/gym2/27_hires.png"
@@ -1827,6 +1746,7 @@ let gymChallenge = [
         "id": "gym2-28",
         "name": "Lt. Surge's Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1871,9 +1791,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1887,9 +1805,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/28.png",
             "large": "https://images.pokemontcg.io/gym2/28_hires.png"
@@ -1899,6 +1815,7 @@ let gymChallenge = [
         "id": "gym2-29",
         "name": "Sabrina's Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1943,9 +1860,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1959,9 +1874,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/29.png",
             "large": "https://images.pokemontcg.io/gym2/29_hires.png"
@@ -1971,6 +1884,7 @@ let gymChallenge = [
         "id": "gym2-30",
         "name": "Sabrina's Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2015,9 +1929,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2031,9 +1943,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/30.png",
             "large": "https://images.pokemontcg.io/gym2/30_hires.png"
@@ -2043,6 +1953,7 @@ let gymChallenge = [
         "id": "gym2-31",
         "name": "Blaine's Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2090,9 +2001,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2106,9 +2015,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/31.png",
             "large": "https://images.pokemontcg.io/gym2/31_hires.png"
@@ -2118,6 +2025,7 @@ let gymChallenge = [
         "id": "gym2-32",
         "name": "Blaine's Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2157,9 +2065,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2173,9 +2079,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/32.png",
             "large": "https://images.pokemontcg.io/gym2/32_hires.png"
@@ -2185,6 +2089,7 @@ let gymChallenge = [
         "id": "gym2-33",
         "name": "Blaine's Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2227,9 +2132,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2243,9 +2146,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/33.png",
             "large": "https://images.pokemontcg.io/gym2/33_hires.png"
@@ -2255,6 +2156,7 @@ let gymChallenge = [
         "id": "gym2-34",
         "name": "Brock's Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2302,9 +2204,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2318,9 +2218,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/34.png",
             "large": "https://images.pokemontcg.io/gym2/34_hires.png"
@@ -2330,6 +2228,7 @@ let gymChallenge = [
         "id": "gym2-35",
         "name": "Brock's Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2371,9 +2270,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2387,9 +2284,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/35.png",
             "large": "https://images.pokemontcg.io/gym2/35_hires.png"
@@ -2399,6 +2294,7 @@ let gymChallenge = [
         "id": "gym2-36",
         "name": "Brock's Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2448,9 +2344,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2464,9 +2358,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/36.png",
             "large": "https://images.pokemontcg.io/gym2/36_hires.png"
@@ -2476,6 +2368,7 @@ let gymChallenge = [
         "id": "gym2-37",
         "name": "Brock's Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -2520,9 +2413,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2536,9 +2427,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/37.png",
             "large": "https://images.pokemontcg.io/gym2/37_hires.png"
@@ -2548,6 +2437,7 @@ let gymChallenge = [
         "id": "gym2-38",
         "name": "Erika's Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -2589,9 +2479,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2605,9 +2493,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/38.png",
             "large": "https://images.pokemontcg.io/gym2/38_hires.png"
@@ -2617,6 +2503,7 @@ let gymChallenge = [
         "id": "gym2-39",
         "name": "Erika's Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -2661,9 +2548,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2677,9 +2562,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/39.png",
             "large": "https://images.pokemontcg.io/gym2/39_hires.png"
@@ -2689,6 +2572,7 @@ let gymChallenge = [
         "id": "gym2-40",
         "name": "Erika's Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -2739,9 +2623,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2755,9 +2637,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/40.png",
             "large": "https://images.pokemontcg.io/gym2/40_hires.png"
@@ -2767,6 +2647,7 @@ let gymChallenge = [
         "id": "gym2-41",
         "name": "Erika's Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2811,9 +2692,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2827,9 +2706,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/41.png",
             "large": "https://images.pokemontcg.io/gym2/41_hires.png"
@@ -2839,6 +2716,7 @@ let gymChallenge = [
         "id": "gym2-42",
         "name": "Giovanni's Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2885,9 +2763,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2901,9 +2777,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/42.png",
             "large": "https://images.pokemontcg.io/gym2/42_hires.png"
@@ -2913,6 +2787,7 @@ let gymChallenge = [
         "id": "gym2-43",
         "name": "Giovanni's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -2963,9 +2838,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2979,9 +2852,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/43.png",
             "large": "https://images.pokemontcg.io/gym2/43_hires.png"
@@ -2991,6 +2862,7 @@ let gymChallenge = [
         "id": "gym2-44",
         "name": "Giovanni's Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3038,9 +2910,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3054,9 +2924,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/44.png",
             "large": "https://images.pokemontcg.io/gym2/44_hires.png"
@@ -3066,6 +2934,7 @@ let gymChallenge = [
         "id": "gym2-45",
         "name": "Giovanni's Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3103,9 +2972,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3119,9 +2986,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/45.png",
             "large": "https://images.pokemontcg.io/gym2/45_hires.png"
@@ -3131,6 +2996,7 @@ let gymChallenge = [
         "id": "gym2-46",
         "name": "Koga's Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3183,9 +3049,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3199,9 +3063,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/46.png",
             "large": "https://images.pokemontcg.io/gym2/46_hires.png"
@@ -3211,6 +3073,7 @@ let gymChallenge = [
         "id": "gym2-47",
         "name": "Koga's Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3253,9 +3116,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3269,9 +3130,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/47.png",
             "large": "https://images.pokemontcg.io/gym2/47_hires.png"
@@ -3281,6 +3140,7 @@ let gymChallenge = [
         "id": "gym2-48",
         "name": "Koga's Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -3325,9 +3185,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3341,9 +3199,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/48.png",
             "large": "https://images.pokemontcg.io/gym2/48_hires.png"
@@ -3353,6 +3209,7 @@ let gymChallenge = [
         "id": "gym2-49",
         "name": "Koga's Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -3403,9 +3260,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3419,9 +3274,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/49.png",
             "large": "https://images.pokemontcg.io/gym2/49_hires.png"
@@ -3431,6 +3284,7 @@ let gymChallenge = [
         "id": "gym2-50",
         "name": "Koga's Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3475,9 +3329,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3491,9 +3343,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/50.png",
             "large": "https://images.pokemontcg.io/gym2/50_hires.png"
@@ -3503,6 +3353,7 @@ let gymChallenge = [
         "id": "gym2-51",
         "name": "Lt. Surge's Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -3560,9 +3411,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3576,9 +3425,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/51.png",
             "large": "https://images.pokemontcg.io/gym2/51_hires.png"
@@ -3588,6 +3435,7 @@ let gymChallenge = [
         "id": "gym2-52",
         "name": "Lt. Surge's Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3629,9 +3477,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3645,9 +3491,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/52.png",
             "large": "https://images.pokemontcg.io/gym2/52_hires.png"
@@ -3657,6 +3501,7 @@ let gymChallenge = [
         "id": "gym2-53",
         "name": "Lt. Surge's Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3705,9 +3550,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3721,9 +3564,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/53.png",
             "large": "https://images.pokemontcg.io/gym2/53_hires.png"
@@ -3733,6 +3574,7 @@ let gymChallenge = [
         "id": "gym2-54",
         "name": "Misty's Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3778,9 +3620,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3794,9 +3634,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/54.png",
             "large": "https://images.pokemontcg.io/gym2/54_hires.png"
@@ -3806,6 +3644,7 @@ let gymChallenge = [
         "id": "gym2-55",
         "name": "Sabrina's Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3852,9 +3691,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3868,9 +3705,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/55.png",
             "large": "https://images.pokemontcg.io/gym2/55_hires.png"
@@ -3880,6 +3715,7 @@ let gymChallenge = [
         "id": "gym2-56",
         "name": "Sabrina's Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3922,9 +3758,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3938,9 +3772,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/56.png",
             "large": "https://images.pokemontcg.io/gym2/56_hires.png"
@@ -3950,6 +3782,7 @@ let gymChallenge = [
         "id": "gym2-57",
         "name": "Sabrina's Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -3991,9 +3824,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4007,9 +3838,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/57.png",
             "large": "https://images.pokemontcg.io/gym2/57_hires.png"
@@ -4019,6 +3848,7 @@ let gymChallenge = [
         "id": "gym2-58",
         "name": "Sabrina's Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4065,9 +3895,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4081,9 +3909,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/58.png",
             "large": "https://images.pokemontcg.io/gym2/58_hires.png"
@@ -4093,6 +3919,7 @@ let gymChallenge = [
         "id": "gym2-59",
         "name": "Sabrina's Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4125,9 +3952,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4141,9 +3966,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/59.png",
             "large": "https://images.pokemontcg.io/gym2/59_hires.png"
@@ -4153,6 +3976,7 @@ let gymChallenge = [
         "id": "gym2-60",
         "name": "Blaine's Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4187,9 +4011,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4203,9 +4025,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/60.png",
             "large": "https://images.pokemontcg.io/gym2/60_hires.png"
@@ -4215,6 +4035,7 @@ let gymChallenge = [
         "id": "gym2-61",
         "name": "Blaine's Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4264,9 +4085,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4280,9 +4099,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/61.png",
             "large": "https://images.pokemontcg.io/gym2/61_hires.png"
@@ -4292,6 +4109,7 @@ let gymChallenge = [
         "id": "gym2-62",
         "name": "Blaine's Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4337,9 +4155,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4353,9 +4169,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/62.png",
             "large": "https://images.pokemontcg.io/gym2/62_hires.png"
@@ -4365,6 +4179,7 @@ let gymChallenge = [
         "id": "gym2-63",
         "name": "Blaine's Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4407,9 +4222,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4423,9 +4236,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/63.png",
             "large": "https://images.pokemontcg.io/gym2/63_hires.png"
@@ -4435,6 +4246,7 @@ let gymChallenge = [
         "id": "gym2-64",
         "name": "Blaine's Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4470,9 +4282,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4486,9 +4296,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/64.png",
             "large": "https://images.pokemontcg.io/gym2/64_hires.png"
@@ -4498,6 +4306,7 @@ let gymChallenge = [
         "id": "gym2-65",
         "name": "Blaine's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4549,9 +4358,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4565,9 +4372,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/65.png",
             "large": "https://images.pokemontcg.io/gym2/65_hires.png"
@@ -4577,6 +4382,7 @@ let gymChallenge = [
         "id": "gym2-66",
         "name": "Blaine's Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4620,9 +4426,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4636,9 +4440,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/66.png",
             "large": "https://images.pokemontcg.io/gym2/66_hires.png"
@@ -4648,6 +4450,7 @@ let gymChallenge = [
         "id": "gym2-67",
         "name": "Brock's Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4698,9 +4501,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4714,9 +4515,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/67.png",
             "large": "https://images.pokemontcg.io/gym2/67_hires.png"
@@ -4726,6 +4525,7 @@ let gymChallenge = [
         "id": "gym2-68",
         "name": "Brock's Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4760,9 +4560,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4776,9 +4574,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/68.png",
             "large": "https://images.pokemontcg.io/gym2/68_hires.png"
@@ -4788,6 +4584,7 @@ let gymChallenge = [
         "id": "gym2-69",
         "name": "Erika's Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4838,9 +4635,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4854,9 +4649,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/69.png",
             "large": "https://images.pokemontcg.io/gym2/69_hires.png"
@@ -4866,6 +4659,7 @@ let gymChallenge = [
         "id": "gym2-70",
         "name": "Erika's Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4900,9 +4694,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4916,9 +4708,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/70.png",
             "large": "https://images.pokemontcg.io/gym2/70_hires.png"
@@ -4928,6 +4718,7 @@ let gymChallenge = [
         "id": "gym2-71",
         "name": "Erika's Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -4972,9 +4763,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4988,9 +4777,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/71.png",
             "large": "https://images.pokemontcg.io/gym2/71_hires.png"
@@ -5000,6 +4787,7 @@ let gymChallenge = [
         "id": "gym2-72",
         "name": "Giovanni's Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5044,9 +4832,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5060,9 +4846,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/72.png",
             "large": "https://images.pokemontcg.io/gym2/72_hires.png"
@@ -5072,6 +4856,7 @@ let gymChallenge = [
         "id": "gym2-73",
         "name": "Giovanni's Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5116,9 +4901,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5132,9 +4915,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/73.png",
             "large": "https://images.pokemontcg.io/gym2/73_hires.png"
@@ -5144,6 +4925,7 @@ let gymChallenge = [
         "id": "gym2-74",
         "name": "Giovanni's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5195,9 +4977,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5211,9 +4991,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/74.png",
             "large": "https://images.pokemontcg.io/gym2/74_hires.png"
@@ -5223,6 +5001,7 @@ let gymChallenge = [
         "id": "gym2-75",
         "name": "Giovanni's Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5267,9 +5046,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5283,9 +5060,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/75.png",
             "large": "https://images.pokemontcg.io/gym2/75_hires.png"
@@ -5295,6 +5070,7 @@ let gymChallenge = [
         "id": "gym2-76",
         "name": "Giovanni's Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5338,9 +5114,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5354,9 +5128,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/76.png",
             "large": "https://images.pokemontcg.io/gym2/76_hires.png"
@@ -5366,6 +5138,7 @@ let gymChallenge = [
         "id": "gym2-77",
         "name": "Koga's Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5400,9 +5173,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5416,9 +5187,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/77.png",
             "large": "https://images.pokemontcg.io/gym2/77_hires.png"
@@ -5428,6 +5197,7 @@ let gymChallenge = [
         "id": "gym2-78",
         "name": "Koga's Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5472,9 +5242,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5488,9 +5256,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/78.png",
             "large": "https://images.pokemontcg.io/gym2/78_hires.png"
@@ -5500,6 +5266,7 @@ let gymChallenge = [
         "id": "gym2-79",
         "name": "Koga's Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5534,9 +5301,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5550,9 +5315,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/79.png",
             "large": "https://images.pokemontcg.io/gym2/79_hires.png"
@@ -5562,6 +5325,7 @@ let gymChallenge = [
         "id": "gym2-80",
         "name": "Koga's Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5613,9 +5377,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5629,9 +5391,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/80.png",
             "large": "https://images.pokemontcg.io/gym2/80_hires.png"
@@ -5641,6 +5401,7 @@ let gymChallenge = [
         "id": "gym2-81",
         "name": "Koga's Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5685,9 +5446,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5701,9 +5460,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/81.png",
             "large": "https://images.pokemontcg.io/gym2/81_hires.png"
@@ -5713,6 +5470,7 @@ let gymChallenge = [
         "id": "gym2-82",
         "name": "Koga's Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5757,9 +5515,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5773,9 +5529,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/82.png",
             "large": "https://images.pokemontcg.io/gym2/82_hires.png"
@@ -5785,6 +5539,7 @@ let gymChallenge = [
         "id": "gym2-83",
         "name": "Koga's Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5825,9 +5580,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5841,9 +5594,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/83.png",
             "large": "https://images.pokemontcg.io/gym2/83_hires.png"
@@ -5853,6 +5604,7 @@ let gymChallenge = [
         "id": "gym2-84",
         "name": "Lt. Surge's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5887,9 +5639,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5903,9 +5653,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/84.png",
             "large": "https://images.pokemontcg.io/gym2/84_hires.png"
@@ -5915,6 +5663,7 @@ let gymChallenge = [
         "id": "gym2-85",
         "name": "Lt. Surge's Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -5964,9 +5713,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5980,9 +5727,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/85.png",
             "large": "https://images.pokemontcg.io/gym2/85_hires.png"
@@ -5992,6 +5737,7 @@ let gymChallenge = [
         "id": "gym2-86",
         "name": "Lt. Surge's Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6027,9 +5773,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6043,9 +5787,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/86.png",
             "large": "https://images.pokemontcg.io/gym2/86_hires.png"
@@ -6055,6 +5797,7 @@ let gymChallenge = [
         "id": "gym2-87",
         "name": "Misty's Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6089,9 +5832,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6105,9 +5846,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/87.png",
             "large": "https://images.pokemontcg.io/gym2/87_hires.png"
@@ -6117,6 +5856,7 @@ let gymChallenge = [
         "id": "gym2-88",
         "name": "Misty's Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6160,9 +5900,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6176,9 +5914,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/88.png",
             "large": "https://images.pokemontcg.io/gym2/88_hires.png"
@@ -6188,6 +5924,7 @@ let gymChallenge = [
         "id": "gym2-89",
         "name": "Misty's Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6232,9 +5969,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6248,9 +5983,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/89.png",
             "large": "https://images.pokemontcg.io/gym2/89_hires.png"
@@ -6260,6 +5993,7 @@ let gymChallenge = [
         "id": "gym2-90",
         "name": "Misty's Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6294,9 +6028,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6310,9 +6042,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/90.png",
             "large": "https://images.pokemontcg.io/gym2/90_hires.png"
@@ -6322,6 +6052,7 @@ let gymChallenge = [
         "id": "gym2-91",
         "name": "Misty's Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6366,9 +6097,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6382,9 +6111,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/91.png",
             "large": "https://images.pokemontcg.io/gym2/91_hires.png"
@@ -6394,6 +6121,7 @@ let gymChallenge = [
         "id": "gym2-92",
         "name": "Misty's Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6428,9 +6156,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6444,9 +6170,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/92.png",
             "large": "https://images.pokemontcg.io/gym2/92_hires.png"
@@ -6456,6 +6180,7 @@ let gymChallenge = [
         "id": "gym2-93",
         "name": "Sabrina's Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6499,9 +6224,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6515,9 +6238,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/93.png",
             "large": "https://images.pokemontcg.io/gym2/93_hires.png"
@@ -6527,6 +6248,7 @@ let gymChallenge = [
         "id": "gym2-94",
         "name": "Sabrina's Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6570,9 +6292,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6586,9 +6306,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/94.png",
             "large": "https://images.pokemontcg.io/gym2/94_hires.png"
@@ -6598,6 +6316,7 @@ let gymChallenge = [
         "id": "gym2-95",
         "name": "Sabrina's Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6642,9 +6361,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6658,9 +6375,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/95.png",
             "large": "https://images.pokemontcg.io/gym2/95_hires.png"
@@ -6670,6 +6385,7 @@ let gymChallenge = [
         "id": "gym2-96",
         "name": "Sabrina's Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6713,9 +6429,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6729,9 +6443,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/96.png",
             "large": "https://images.pokemontcg.io/gym2/96_hires.png"
@@ -6741,6 +6453,7 @@ let gymChallenge = [
         "id": "gym2-97",
         "name": "Sabrina's Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6783,9 +6496,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6799,9 +6510,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/97.png",
             "large": "https://images.pokemontcg.io/gym2/97_hires.png"
@@ -6811,6 +6520,7 @@ let gymChallenge = [
         "id": "gym2-98",
         "name": "Sabrina's Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6861,9 +6571,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6877,9 +6585,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/98.png",
             "large": "https://images.pokemontcg.io/gym2/98_hires.png"
@@ -6889,6 +6595,7 @@ let gymChallenge = [
         "id": "gym2-99",
         "name": "Sabrina's Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -6932,9 +6639,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6948,9 +6653,7 @@ let gymChallenge = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/99.png",
             "large": "https://images.pokemontcg.io/gym2/99_hires.png"
@@ -6960,6 +6663,7 @@ let gymChallenge = [
         "id": "gym2-100",
         "name": "Blaine",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "During this turn, instead of attaching your free Energy card, you may instead attach 2 Fire Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
         ],
@@ -6969,9 +6673,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6982,9 +6684,7 @@ let gymChallenge = [
         "number": "100",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/100.png",
             "large": "https://images.pokemontcg.io/gym2/100_hires.png"
@@ -6994,6 +6694,7 @@ let gymChallenge = [
         "id": "gym2-101",
         "name": "Brock's Protection",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Attach Brock's Protection to 1 of your Pokémon with Brock in its name. Energy cards attached to that Pokémon can't be removed by your opponent's attacks or Trainer cards. (This doesn't stop the rest of the attack or Trainer card from working normally.)"
         ],
@@ -7003,9 +6704,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7016,9 +6715,7 @@ let gymChallenge = [
         "number": "101",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/101.png",
             "large": "https://images.pokemontcg.io/gym2/101_hires.png"
@@ -7028,6 +6725,7 @@ let gymChallenge = [
         "id": "gym2-102",
         "name": "Chaos Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7041,9 +6739,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7054,9 +6750,7 @@ let gymChallenge = [
         "number": "102",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/102.png",
             "large": "https://images.pokemontcg.io/gym2/102_hires.png"
@@ -7066,6 +6760,7 @@ let gymChallenge = [
         "id": "gym2-103",
         "name": "Erika's Kindness",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Remove 2 damage counters from each Pokémon (yours and your opponent's) with any damage counters on it. If a Pokémon has just 1 damage counter, remove it."
         ],
@@ -7075,9 +6770,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7088,9 +6781,7 @@ let gymChallenge = [
         "number": "103",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/103.png",
             "large": "https://images.pokemontcg.io/gym2/103_hires.png"
@@ -7100,6 +6791,7 @@ let gymChallenge = [
         "id": "gym2-104",
         "name": "Giovanni",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Choose 1 of your Pokémon in play with Giovanni in its name. For the rest of your turn, you may evolve that Pokémon even if you just played or evolved it this turn or if this is your first turn. This effect also applies to the Pokémon it evolves into."
         ],
@@ -7109,9 +6801,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7122,9 +6812,7 @@ let gymChallenge = [
         "number": "104",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/104.png",
             "large": "https://images.pokemontcg.io/gym2/104_hires.png"
@@ -7134,6 +6822,7 @@ let gymChallenge = [
         "id": "gym2-105",
         "name": "Giovanni's Last Resort",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Remove all damage counters from 1 of your Pokémon with Giovanni in its name. Then discard your hand."
         ],
@@ -7143,9 +6832,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7156,9 +6843,7 @@ let gymChallenge = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/105.png",
             "large": "https://images.pokemontcg.io/gym2/105_hires.png"
@@ -7168,6 +6853,7 @@ let gymChallenge = [
         "id": "gym2-106",
         "name": "Koga",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "If an attack from a Pokémon with Koga in its name does damage to a Defending Pokémon this turn, that Pokémon is then Poisoned."
         ],
@@ -7177,9 +6863,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7190,9 +6874,7 @@ let gymChallenge = [
         "number": "106",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/106.png",
             "large": "https://images.pokemontcg.io/gym2/106_hires.png"
@@ -7202,6 +6884,7 @@ let gymChallenge = [
         "id": "gym2-107",
         "name": "Lt. Surge's Secret Plan",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Put 1 card from your hand face down onto your Bench. (You can't play this card if your Bench is full.) Treat that card as a Basic Pokémon as long as it's face down. Flip the card if either player needs to know what it is in order to use an attack, a Pokémon Power, or a Trainer card. Flip the card if it ever uses an attack or Pokémon Power, evolves, retreats, is damaged by an attack, or is otherwise affected by an attack. At any time during your turn, you may flip the card over. When you flip that card over, if it isn't a Basic Pokémon, discard it and all cards attached to it."
         ],
@@ -7211,9 +6894,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7224,9 +6905,7 @@ let gymChallenge = [
         "number": "107",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/107.png",
             "large": "https://images.pokemontcg.io/gym2/107_hires.png"
@@ -7236,6 +6915,7 @@ let gymChallenge = [
         "id": "gym2-108",
         "name": "Misty's Wish",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Look at 1 of your Prize cards. Then, ask your opponent if you may switch that card with 1 of the cards in your hand. If your opponent accepts and if you have any other cards in your hand, switch those cards. If your opponent declines, return the Prize card face down and draw a card."
         ],
@@ -7245,9 +6925,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7258,9 +6936,7 @@ let gymChallenge = [
         "number": "108",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/108.png",
             "large": "https://images.pokemontcg.io/gym2/108_hires.png"
@@ -7270,6 +6946,7 @@ let gymChallenge = [
         "id": "gym2-109",
         "name": "Resistance Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7283,9 +6960,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7296,9 +6971,7 @@ let gymChallenge = [
         "number": "109",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/109.png",
             "large": "https://images.pokemontcg.io/gym2/109_hires.png"
@@ -7308,6 +6981,7 @@ let gymChallenge = [
         "id": "gym2-110",
         "name": "Sabrina",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Take all Energy cards attached to 1 of your Pokémon with Sabrina in its name and attach them to another 1 of your Pokémon with Sabrina in its name."
         ],
@@ -7317,9 +6991,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7330,9 +7002,7 @@ let gymChallenge = [
         "number": "110",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/110.png",
             "large": "https://images.pokemontcg.io/gym2/110_hires.png"
@@ -7342,6 +7012,7 @@ let gymChallenge = [
         "id": "gym2-111",
         "name": "Blaine's Quiz #2",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Put a card from your hand face down in front of you. Your opponent guesses whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
         ],
@@ -7351,9 +7022,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7364,9 +7033,7 @@ let gymChallenge = [
         "number": "111",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/111.png",
             "large": "https://images.pokemontcg.io/gym2/111_hires.png"
@@ -7376,6 +7043,7 @@ let gymChallenge = [
         "id": "gym2-112",
         "name": "Blaine's Quiz #3",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Put a Basic or Evolution card from your hand face down in front of you and tell your opponent the name of an attack of that card. Your opponent guesses the name of that card. Flip the card over. If your opponent guessed right, he or she draws 3 cards. If your opponent guessed wrong, you draw 3 cards. Either way, return the card to your hand."
         ],
@@ -7385,9 +7053,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7398,9 +7064,7 @@ let gymChallenge = [
         "number": "112",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/112.png",
             "large": "https://images.pokemontcg.io/gym2/112_hires.png"
@@ -7410,6 +7074,7 @@ let gymChallenge = [
         "id": "gym2-113",
         "name": "Cinnabar City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7423,9 +7088,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7436,9 +7099,7 @@ let gymChallenge = [
         "number": "113",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/113.png",
             "large": "https://images.pokemontcg.io/gym2/113_hires.png"
@@ -7448,6 +7109,7 @@ let gymChallenge = [
         "id": "gym2-114",
         "name": "Fuchsia City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7461,9 +7123,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7474,9 +7134,7 @@ let gymChallenge = [
         "number": "114",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/114.png",
             "large": "https://images.pokemontcg.io/gym2/114_hires.png"
@@ -7486,6 +7144,7 @@ let gymChallenge = [
         "id": "gym2-115",
         "name": "Koga's Ninja Trick",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Attach Koga's Ninja Trick to your Active Pokémon with Koga in its name. If this Pokémon goes to your Bench, discard this card. When your opponent attacks, you may switch this Pokémon with 1 of your Benched Pokémon (before damage or other effects of attacks)."
         ],
@@ -7495,9 +7154,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7508,9 +7165,7 @@ let gymChallenge = [
         "number": "115",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/115.png",
             "large": "https://images.pokemontcg.io/gym2/115_hires.png"
@@ -7520,6 +7175,7 @@ let gymChallenge = [
         "id": "gym2-116",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Look at 7 cards from the top of your deck. You may choose a Basic Pokémon or Evolution card from those cards, show it to your opponent, then put it into your hand. Shuffle the rest into your deck."
         ],
@@ -7529,9 +7185,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7542,9 +7196,7 @@ let gymChallenge = [
         "number": "116",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/116.png",
             "large": "https://images.pokemontcg.io/gym2/116_hires.png"
@@ -7554,6 +7206,7 @@ let gymChallenge = [
         "id": "gym2-117",
         "name": "Max Revive",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Discard 2 Energy cards from your hand in order to put 1 Basic Pokémon from your discard pile onto your Bench. (You can't play Max Revive if your Bench is full.)"
         ],
@@ -7563,9 +7216,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7576,9 +7227,7 @@ let gymChallenge = [
         "number": "117",
         "artist": "Hikaru Koike",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/117.png",
             "large": "https://images.pokemontcg.io/gym2/117_hires.png"
@@ -7588,6 +7237,7 @@ let gymChallenge = [
         "id": "gym2-118",
         "name": "Misty's Tears",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Discard 1 of the other cards in your hand in order to search your deck for up to 2 Water Energy cards. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
         ],
@@ -7597,9 +7247,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7610,9 +7258,7 @@ let gymChallenge = [
         "number": "118",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/118.png",
             "large": "https://images.pokemontcg.io/gym2/118_hires.png"
@@ -7622,6 +7268,7 @@ let gymChallenge = [
         "id": "gym2-119",
         "name": "Rocket's Minefield Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7635,9 +7282,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7648,9 +7293,7 @@ let gymChallenge = [
         "number": "119",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/119.png",
             "large": "https://images.pokemontcg.io/gym2/119_hires.png"
@@ -7660,6 +7303,7 @@ let gymChallenge = [
         "id": "gym2-120",
         "name": "Rocket's Secret Experiment",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Flip a coin. If heads, search your deck for any card and put it into your hand. Shuffle your deck afterward. If tails, you can't play Trainer cards until the end of your next turn."
         ],
@@ -7669,9 +7313,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7682,9 +7324,7 @@ let gymChallenge = [
         "number": "120",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/120.png",
             "large": "https://images.pokemontcg.io/gym2/120_hires.png"
@@ -7694,6 +7334,7 @@ let gymChallenge = [
         "id": "gym2-121",
         "name": "Sabrina's Psychic Control",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Flip a coin. If heads, choose a Trainer card in your opponent's discard pile that isn't put in play (like PlusPower or Mysterious Fossil). You may use that card as if it were in your hand, if you do everything required in order to play that card (like discarding cards). The card stays in your opponent's discard pile."
         ],
@@ -7703,9 +7344,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7716,9 +7355,7 @@ let gymChallenge = [
         "number": "121",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/121.png",
             "large": "https://images.pokemontcg.io/gym2/121_hires.png"
@@ -7728,6 +7365,7 @@ let gymChallenge = [
         "id": "gym2-122",
         "name": "Saffron City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7741,9 +7379,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7754,9 +7390,7 @@ let gymChallenge = [
         "number": "122",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/122.png",
             "large": "https://images.pokemontcg.io/gym2/122_hires.png"
@@ -7766,6 +7400,7 @@ let gymChallenge = [
         "id": "gym2-123",
         "name": "Viridian City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "subtypes": [
             "Stadium"
         ],
@@ -7779,9 +7414,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7792,9 +7425,7 @@ let gymChallenge = [
         "number": "123",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/123.png",
             "large": "https://images.pokemontcg.io/gym2/123_hires.png"
@@ -7804,6 +7435,7 @@ let gymChallenge = [
         "id": "gym2-124",
         "name": "Fervor",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Show the top 3 cards of your deck to all players. Put any Fire Energy cards there into your hand and discard the rest."
         ],
@@ -7813,9 +7445,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7826,9 +7456,7 @@ let gymChallenge = [
         "number": "124",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/124.png",
             "large": "https://images.pokemontcg.io/gym2/124_hires.png"
@@ -7838,6 +7466,7 @@ let gymChallenge = [
         "id": "gym2-125",
         "name": "Transparent Walls",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "Until the end of your opponent's next turn, prevent all damage from attacks done to your Benched Pokémon. (Any other effects of attacks still happen.)"
         ],
@@ -7847,9 +7476,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7860,9 +7487,7 @@ let gymChallenge = [
         "number": "125",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/125.png",
             "large": "https://images.pokemontcg.io/gym2/125_hires.png"
@@ -7872,6 +7497,7 @@ let gymChallenge = [
         "id": "gym2-126",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "G2",
         "rules": [
             "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon."
         ],
@@ -7881,9 +7507,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7894,9 +7518,7 @@ let gymChallenge = [
         "number": "126",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/126.png",
             "large": "https://images.pokemontcg.io/gym2/126_hires.png"
@@ -7906,6 +7528,7 @@ let gymChallenge = [
         "id": "gym2-127",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -7915,9 +7538,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7927,11 +7548,7 @@ let gymChallenge = [
         },
         "number": "127",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/127.png",
             "large": "https://images.pokemontcg.io/gym2/127_hires.png"
@@ -7941,6 +7558,7 @@ let gymChallenge = [
         "id": "gym2-128",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -7950,9 +7568,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7962,11 +7578,7 @@ let gymChallenge = [
         },
         "number": "128",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/128.png",
             "large": "https://images.pokemontcg.io/gym2/128_hires.png"
@@ -7976,6 +7588,7 @@ let gymChallenge = [
         "id": "gym2-129",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -7985,9 +7598,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7997,11 +7608,7 @@ let gymChallenge = [
         },
         "number": "129",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/129.png",
             "large": "https://images.pokemontcg.io/gym2/129_hires.png"
@@ -8011,6 +7618,7 @@ let gymChallenge = [
         "id": "gym2-130",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -8020,9 +7628,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8032,11 +7638,7 @@ let gymChallenge = [
         },
         "number": "130",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/130.png",
             "large": "https://images.pokemontcg.io/gym2/130_hires.png"
@@ -8046,6 +7648,7 @@ let gymChallenge = [
         "id": "gym2-131",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -8055,9 +7658,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8067,11 +7668,7 @@ let gymChallenge = [
         },
         "number": "131",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/131.png",
             "large": "https://images.pokemontcg.io/gym2/131_hires.png"
@@ -8081,6 +7678,7 @@ let gymChallenge = [
         "id": "gym2-132",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "G2",
         "subtypes": [
             "Basic"
         ],
@@ -8090,9 +7688,7 @@ let gymChallenge = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8102,11 +7698,7 @@ let gymChallenge = [
         },
         "number": "132",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/132.png",
             "large": "https://images.pokemontcg.io/gym2/132_hires.png"

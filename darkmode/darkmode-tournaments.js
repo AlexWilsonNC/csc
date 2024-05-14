@@ -9,8 +9,9 @@ const navleftr = document.getElementById('nav-leftr');
 const upcomingeventstable = document.querySelectorAll('.upcoming-events-table');
 const featuredheaders = document.querySelectorAll('.featured-headers');
 const navrightr = document.getElementById('nav-rightr');
-const dropitdown1 = document.querySelector('.drop-it-down1');
-const sortevents = document.querySelector('.sort-events');
+const latestppr = document.querySelector('.latest-ppr');
+ 
+const sortevents = document.querySelectorAll('.sort-events');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const enableDarkMode = () => {
@@ -21,12 +22,16 @@ const enableDarkMode = () => {
     menuToggle.classList.add('darkon');
     navleftr.classList.add('darkon');
     navrightr.classList.add('darkon');
-    dropitdown1.classList.add('darkon');
+    if (latestppr) {
+      latestppr.classList.add('darkon');
+    }
+    // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     if (sortevents) {
-      sortevents.classList.add('darkon');
+      sortevents.forEach((sortevents) => {
+        sortevents.classList.add('darkon');
+      })   
     }
-
      featuredheaders.forEach((featuredheaders) => {
       featuredheaders.classList.add('darkon');
     })
@@ -45,10 +50,15 @@ const enableDarkMode = () => {
     menuToggle.classList.remove('darkon');
     navleftr.classList.remove('darkon');
     navrightr.classList.remove('darkon');
-    dropitdown1.classList.remove('darkon');
+    // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
     if (sortevents) {
-      sortevents.classList.remove('darkon');
+      sortevents.forEach((sortevents) => {
+        sortevents.classList.remove('darkon');
+      })   
+    }
+    if (latestppr) {
+      latestppr.classList.remove('darkon');
     }
     featuredheaders.forEach((featuredheaders) => {
       featuredheaders.classList.remove('darkon');

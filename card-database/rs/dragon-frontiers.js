@@ -1,8 +1,9 @@
-let dragonFrontiers = [
+let ex15 = [
     {
         "id": "ex15-1",
         "name": "Ampharos δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -60,9 +59,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/1.png",
             "large": "https://images.pokemontcg.io/ex15/1_hires.png"
@@ -72,6 +69,7 @@ let dragonFrontiers = [
         "id": "ex15-2",
         "name": "Feraligatr δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -123,9 +121,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -139,9 +135,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/2.png",
             "large": "https://images.pokemontcg.io/ex15/2_hires.png"
@@ -151,6 +145,7 @@ let dragonFrontiers = [
         "id": "ex15-3",
         "name": "Heracross δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -199,9 +194,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -215,9 +208,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/3.png",
             "large": "https://images.pokemontcg.io/ex15/3_hires.png"
@@ -227,6 +218,7 @@ let dragonFrontiers = [
         "id": "ex15-4",
         "name": "Meganium δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -284,9 +276,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -300,9 +290,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/4.png",
             "large": "https://images.pokemontcg.io/ex15/4_hires.png"
@@ -312,6 +300,7 @@ let dragonFrontiers = [
         "id": "ex15-5",
         "name": "Milotic δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -353,9 +342,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -369,9 +356,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/5.png",
             "large": "https://images.pokemontcg.io/ex15/5_hires.png"
@@ -381,6 +366,7 @@ let dragonFrontiers = [
         "id": "ex15-6",
         "name": "Nidoking δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -425,9 +411,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -441,9 +425,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/6.png",
             "large": "https://images.pokemontcg.io/ex15/6_hires.png"
@@ -453,6 +435,7 @@ let dragonFrontiers = [
         "id": "ex15-7",
         "name": "Nidoqueen δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -494,9 +477,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -510,9 +491,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/7.png",
             "large": "https://images.pokemontcg.io/ex15/7_hires.png"
@@ -522,6 +501,7 @@ let dragonFrontiers = [
         "id": "ex15-8",
         "name": "Ninetales δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -561,9 +541,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -577,9 +555,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/8.png",
             "large": "https://images.pokemontcg.io/ex15/8_hires.png"
@@ -589,6 +565,7 @@ let dragonFrontiers = [
         "id": "ex15-9",
         "name": "Pinsir δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -638,9 +615,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -654,9 +629,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/9.png",
             "large": "https://images.pokemontcg.io/ex15/9_hires.png"
@@ -666,6 +639,7 @@ let dragonFrontiers = [
         "id": "ex15-10",
         "name": "Snorlax δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -698,9 +672,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -714,9 +686,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/10.png",
             "large": "https://images.pokemontcg.io/ex15/10_hires.png"
@@ -726,6 +696,7 @@ let dragonFrontiers = [
         "id": "ex15-11",
         "name": "Togetic δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -777,9 +748,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -793,9 +762,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/11.png",
             "large": "https://images.pokemontcg.io/ex15/11_hires.png"
@@ -805,6 +772,7 @@ let dragonFrontiers = [
         "id": "ex15-12",
         "name": "Typhlosion δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -846,9 +814,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -862,9 +828,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/12.png",
             "large": "https://images.pokemontcg.io/ex15/12_hires.png"
@@ -874,6 +838,7 @@ let dragonFrontiers = [
         "id": "ex15-13",
         "name": "Arbok δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -917,9 +882,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -933,9 +896,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/13.png",
             "large": "https://images.pokemontcg.io/ex15/13_hires.png"
@@ -945,6 +906,7 @@ let dragonFrontiers = [
         "id": "ex15-14",
         "name": "Cloyster δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -984,9 +946,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1000,9 +960,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/14.png",
             "large": "https://images.pokemontcg.io/ex15/14_hires.png"
@@ -1012,6 +970,7 @@ let dragonFrontiers = [
         "id": "ex15-15",
         "name": "Dewgong δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1063,9 +1022,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1079,9 +1036,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/15.png",
             "large": "https://images.pokemontcg.io/ex15/15_hires.png"
@@ -1091,6 +1046,7 @@ let dragonFrontiers = [
         "id": "ex15-16",
         "name": "Gligar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1134,9 +1090,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1150,9 +1104,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/16.png",
             "large": "https://images.pokemontcg.io/ex15/16_hires.png"
@@ -1162,6 +1114,7 @@ let dragonFrontiers = [
         "id": "ex15-17",
         "name": "Jynx δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1201,9 +1154,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1217,9 +1168,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/17.png",
             "large": "https://images.pokemontcg.io/ex15/17_hires.png"
@@ -1229,6 +1178,7 @@ let dragonFrontiers = [
         "id": "ex15-18",
         "name": "Ledian δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1268,9 +1218,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1284,9 +1232,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/18.png",
             "large": "https://images.pokemontcg.io/ex15/18_hires.png"
@@ -1296,6 +1242,7 @@ let dragonFrontiers = [
         "id": "ex15-19",
         "name": "Lickitung δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1339,9 +1286,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1355,9 +1300,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/19.png",
             "large": "https://images.pokemontcg.io/ex15/19_hires.png"
@@ -1367,6 +1310,7 @@ let dragonFrontiers = [
         "id": "ex15-20",
         "name": "Mantine δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1405,9 +1349,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1421,9 +1363,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/20.png",
             "large": "https://images.pokemontcg.io/ex15/20_hires.png"
@@ -1433,6 +1373,7 @@ let dragonFrontiers = [
         "id": "ex15-21",
         "name": "Quagsire δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1474,9 +1415,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1490,9 +1429,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/21.png",
             "large": "https://images.pokemontcg.io/ex15/21_hires.png"
@@ -1502,6 +1439,7 @@ let dragonFrontiers = [
         "id": "ex15-22",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1549,9 +1487,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1565,9 +1501,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/22.png",
             "large": "https://images.pokemontcg.io/ex15/22_hires.png"
@@ -1577,6 +1511,7 @@ let dragonFrontiers = [
         "id": "ex15-23",
         "name": "Tropius δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1615,9 +1550,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1631,9 +1564,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/23.png",
             "large": "https://images.pokemontcg.io/ex15/23_hires.png"
@@ -1643,6 +1574,7 @@ let dragonFrontiers = [
         "id": "ex15-24",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1697,9 +1629,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1713,9 +1643,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/24.png",
             "large": "https://images.pokemontcg.io/ex15/24_hires.png"
@@ -1725,6 +1653,7 @@ let dragonFrontiers = [
         "id": "ex15-25",
         "name": "Xatu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1765,9 +1694,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1781,9 +1708,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/25.png",
             "large": "https://images.pokemontcg.io/ex15/25_hires.png"
@@ -1793,6 +1718,7 @@ let dragonFrontiers = [
         "id": "ex15-26",
         "name": "Bayleef δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1835,9 +1761,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1851,9 +1775,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/26.png",
             "large": "https://images.pokemontcg.io/ex15/26_hires.png"
@@ -1863,6 +1785,7 @@ let dragonFrontiers = [
         "id": "ex15-27",
         "name": "Croconaw δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1909,9 +1832,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1925,9 +1846,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/27.png",
             "large": "https://images.pokemontcg.io/ex15/27_hires.png"
@@ -1937,6 +1856,7 @@ let dragonFrontiers = [
         "id": "ex15-28",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1977,9 +1897,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -1993,9 +1911,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/28.png",
             "large": "https://images.pokemontcg.io/ex15/28_hires.png"
@@ -2005,6 +1921,7 @@ let dragonFrontiers = [
         "id": "ex15-29",
         "name": "Electabuzz δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2047,9 +1964,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2063,9 +1978,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/29.png",
             "large": "https://images.pokemontcg.io/ex15/29_hires.png"
@@ -2075,6 +1988,7 @@ let dragonFrontiers = [
         "id": "ex15-30",
         "name": "Flaaffy δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2111,9 +2025,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2127,9 +2039,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/30.png",
             "large": "https://images.pokemontcg.io/ex15/30_hires.png"
@@ -2139,6 +2049,7 @@ let dragonFrontiers = [
         "id": "ex15-31",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2183,9 +2094,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2199,9 +2108,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/31.png",
             "large": "https://images.pokemontcg.io/ex15/31_hires.png"
@@ -2211,6 +2118,7 @@ let dragonFrontiers = [
         "id": "ex15-32",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2259,9 +2167,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2275,9 +2181,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/32.png",
             "large": "https://images.pokemontcg.io/ex15/32_hires.png"
@@ -2287,6 +2191,7 @@ let dragonFrontiers = [
         "id": "ex15-33",
         "name": "Kirlia δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2335,9 +2240,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2351,9 +2254,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/33.png",
             "large": "https://images.pokemontcg.io/ex15/33_hires.png"
@@ -2363,6 +2264,7 @@ let dragonFrontiers = [
         "id": "ex15-34",
         "name": "Nidorina δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2410,9 +2312,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2426,9 +2326,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/34.png",
             "large": "https://images.pokemontcg.io/ex15/34_hires.png"
@@ -2438,6 +2336,7 @@ let dragonFrontiers = [
         "id": "ex15-35",
         "name": "Nidorino δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2485,9 +2384,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2501,9 +2398,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/35.png",
             "large": "https://images.pokemontcg.io/ex15/35_hires.png"
@@ -2513,6 +2408,7 @@ let dragonFrontiers = [
         "id": "ex15-36",
         "name": "Quilava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2560,9 +2456,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2576,9 +2470,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/36.png",
             "large": "https://images.pokemontcg.io/ex15/36_hires.png"
@@ -2588,6 +2480,7 @@ let dragonFrontiers = [
         "id": "ex15-37",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2635,9 +2528,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2651,9 +2542,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/37.png",
             "large": "https://images.pokemontcg.io/ex15/37_hires.png"
@@ -2663,6 +2552,7 @@ let dragonFrontiers = [
         "id": "ex15-38",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2704,9 +2594,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2720,9 +2608,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/38.png",
             "large": "https://images.pokemontcg.io/ex15/38_hires.png"
@@ -2732,6 +2618,7 @@ let dragonFrontiers = [
         "id": "ex15-39",
         "name": "Smeargle δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2772,9 +2659,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2788,9 +2673,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/39.png",
             "large": "https://images.pokemontcg.io/ex15/39_hires.png"
@@ -2800,6 +2683,7 @@ let dragonFrontiers = [
         "id": "ex15-40",
         "name": "Swellow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2845,9 +2729,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2861,9 +2743,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/40.png",
             "large": "https://images.pokemontcg.io/ex15/40_hires.png"
@@ -2873,6 +2753,7 @@ let dragonFrontiers = [
         "id": "ex15-41",
         "name": "Togepi δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2907,9 +2788,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2923,9 +2802,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/41.png",
             "large": "https://images.pokemontcg.io/ex15/41_hires.png"
@@ -2935,6 +2812,7 @@ let dragonFrontiers = [
         "id": "ex15-42",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2974,9 +2852,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -2990,9 +2866,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/42.png",
             "large": "https://images.pokemontcg.io/ex15/42_hires.png"
@@ -3002,6 +2876,7 @@ let dragonFrontiers = [
         "id": "ex15-43",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3030,9 +2905,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3046,9 +2919,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/43.png",
             "large": "https://images.pokemontcg.io/ex15/43_hires.png"
@@ -3058,6 +2929,7 @@ let dragonFrontiers = [
         "id": "ex15-44",
         "name": "Chikorita δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3108,9 +2980,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3124,9 +2994,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/44.png",
             "large": "https://images.pokemontcg.io/ex15/44_hires.png"
@@ -3136,6 +3004,7 @@ let dragonFrontiers = [
         "id": "ex15-45",
         "name": "Cyndaquil δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3171,9 +3040,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3187,9 +3054,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/45.png",
             "large": "https://images.pokemontcg.io/ex15/45_hires.png"
@@ -3199,6 +3064,7 @@ let dragonFrontiers = [
         "id": "ex15-46",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3227,9 +3093,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3243,9 +3107,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/46.png",
             "large": "https://images.pokemontcg.io/ex15/46_hires.png"
@@ -3255,6 +3117,7 @@ let dragonFrontiers = [
         "id": "ex15-47",
         "name": "Ekans δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3299,9 +3162,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3315,9 +3176,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/47.png",
             "large": "https://images.pokemontcg.io/ex15/47_hires.png"
@@ -3327,6 +3186,7 @@ let dragonFrontiers = [
         "id": "ex15-48",
         "name": "Elekid δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3368,9 +3228,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3384,9 +3242,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/48.png",
             "large": "https://images.pokemontcg.io/ex15/48_hires.png"
@@ -3396,6 +3252,7 @@ let dragonFrontiers = [
         "id": "ex15-49",
         "name": "Feebas δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3430,9 +3287,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3446,9 +3301,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/49.png",
             "large": "https://images.pokemontcg.io/ex15/49_hires.png"
@@ -3458,6 +3311,7 @@ let dragonFrontiers = [
         "id": "ex15-50",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3492,9 +3346,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3508,9 +3360,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/50.png",
             "large": "https://images.pokemontcg.io/ex15/50_hires.png"
@@ -3520,6 +3370,7 @@ let dragonFrontiers = [
         "id": "ex15-51",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3564,9 +3415,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3580,9 +3429,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/51.png",
             "large": "https://images.pokemontcg.io/ex15/51_hires.png"
@@ -3592,6 +3439,7 @@ let dragonFrontiers = [
         "id": "ex15-52",
         "name": "Larvitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3636,9 +3484,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3652,9 +3498,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/52.png",
             "large": "https://images.pokemontcg.io/ex15/52_hires.png"
@@ -3664,6 +3508,7 @@ let dragonFrontiers = [
         "id": "ex15-53",
         "name": "Ledyba δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3707,9 +3552,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3723,9 +3566,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/53.png",
             "large": "https://images.pokemontcg.io/ex15/53_hires.png"
@@ -3735,6 +3576,7 @@ let dragonFrontiers = [
         "id": "ex15-54",
         "name": "Mareep δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3769,9 +3611,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3785,9 +3625,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/54.png",
             "large": "https://images.pokemontcg.io/ex15/54_hires.png"
@@ -3797,6 +3635,7 @@ let dragonFrontiers = [
         "id": "ex15-55",
         "name": "Natu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3831,9 +3670,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3847,9 +3684,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/55.png",
             "large": "https://images.pokemontcg.io/ex15/55_hires.png"
@@ -3859,6 +3694,7 @@ let dragonFrontiers = [
         "id": "ex15-56",
         "name": "Nidoran ♀ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3902,9 +3738,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3918,9 +3752,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/56.png",
             "large": "https://images.pokemontcg.io/ex15/56_hires.png"
@@ -3930,6 +3762,7 @@ let dragonFrontiers = [
         "id": "ex15-57",
         "name": "Nidoran ♂ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3973,9 +3806,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -3989,9 +3820,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/57.png",
             "large": "https://images.pokemontcg.io/ex15/57_hires.png"
@@ -4001,6 +3830,7 @@ let dragonFrontiers = [
         "id": "ex15-58",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4036,9 +3866,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4052,9 +3880,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/58.png",
             "large": "https://images.pokemontcg.io/ex15/58_hires.png"
@@ -4064,6 +3890,7 @@ let dragonFrontiers = [
         "id": "ex15-59",
         "name": "Pupitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4100,9 +3927,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4116,9 +3941,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/59.png",
             "large": "https://images.pokemontcg.io/ex15/59_hires.png"
@@ -4128,6 +3951,7 @@ let dragonFrontiers = [
         "id": "ex15-60",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4171,9 +3995,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4187,9 +4009,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/60.png",
             "large": "https://images.pokemontcg.io/ex15/60_hires.png"
@@ -4199,6 +4019,7 @@ let dragonFrontiers = [
         "id": "ex15-61",
         "name": "Ralts δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4243,9 +4064,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4259,9 +4078,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/61.png",
             "large": "https://images.pokemontcg.io/ex15/61_hires.png"
@@ -4271,6 +4088,7 @@ let dragonFrontiers = [
         "id": "ex15-62",
         "name": "Seel δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4315,9 +4133,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4331,9 +4147,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/62.png",
             "large": "https://images.pokemontcg.io/ex15/62_hires.png"
@@ -4343,6 +4157,7 @@ let dragonFrontiers = [
         "id": "ex15-63",
         "name": "Shellder δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4377,9 +4192,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4393,9 +4206,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/63.png",
             "large": "https://images.pokemontcg.io/ex15/63_hires.png"
@@ -4405,6 +4216,7 @@ let dragonFrontiers = [
         "id": "ex15-64",
         "name": "Smoochum δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4446,9 +4258,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4462,9 +4272,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/64.png",
             "large": "https://images.pokemontcg.io/ex15/64_hires.png"
@@ -4474,6 +4282,7 @@ let dragonFrontiers = [
         "id": "ex15-65",
         "name": "Swablu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4514,9 +4323,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4530,9 +4337,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/65.png",
             "large": "https://images.pokemontcg.io/ex15/65_hires.png"
@@ -4542,6 +4347,7 @@ let dragonFrontiers = [
         "id": "ex15-66",
         "name": "Taillow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4582,9 +4388,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4598,9 +4402,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/66.png",
             "large": "https://images.pokemontcg.io/ex15/66_hires.png"
@@ -4610,6 +4412,7 @@ let dragonFrontiers = [
         "id": "ex15-67",
         "name": "Totodile δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4654,9 +4457,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4670,9 +4471,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/67.png",
             "large": "https://images.pokemontcg.io/ex15/67_hires.png"
@@ -4682,6 +4481,7 @@ let dragonFrontiers = [
         "id": "ex15-68",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4726,9 +4526,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4742,9 +4540,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/68.png",
             "large": "https://images.pokemontcg.io/ex15/68_hires.png"
@@ -4754,6 +4550,7 @@ let dragonFrontiers = [
         "id": "ex15-69",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4788,9 +4585,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4804,9 +4599,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/69.png",
             "large": "https://images.pokemontcg.io/ex15/69_hires.png"
@@ -4816,6 +4609,7 @@ let dragonFrontiers = [
         "id": "ex15-70",
         "name": "Vulpix δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4860,9 +4654,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4876,9 +4668,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/70.png",
             "large": "https://images.pokemontcg.io/ex15/70_hires.png"
@@ -4888,6 +4678,7 @@ let dragonFrontiers = [
         "id": "ex15-71",
         "name": "Wooper δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4932,9 +4723,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4948,9 +4737,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/71.png",
             "large": "https://images.pokemontcg.io/ex15/71_hires.png"
@@ -4960,6 +4747,7 @@ let dragonFrontiers = [
         "id": "ex15-72",
         "name": "Buffer Piece",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4973,9 +4761,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -4986,9 +4772,7 @@ let dragonFrontiers = [
         "number": "72",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/72.png",
             "large": "https://images.pokemontcg.io/ex15/72_hires.png"
@@ -4998,6 +4782,7 @@ let dragonFrontiers = [
         "id": "ex15-73",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5011,9 +4796,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5024,11 +4807,7 @@ let dragonFrontiers = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/73.png",
             "large": "https://images.pokemontcg.io/ex15/73_hires.png"
@@ -5038,6 +4817,7 @@ let dragonFrontiers = [
         "id": "ex15-74",
         "name": "Holon Legacy",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stadium"
         ],
@@ -5051,9 +4831,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5064,9 +4842,7 @@ let dragonFrontiers = [
         "number": "74",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/74.png",
             "large": "https://images.pokemontcg.io/ex15/74_hires.png"
@@ -5076,6 +4852,7 @@ let dragonFrontiers = [
         "id": "ex15-75",
         "name": "Holon Mentor",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5090,9 +4867,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5103,9 +4878,7 @@ let dragonFrontiers = [
         "number": "75",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/75.png",
             "large": "https://images.pokemontcg.io/ex15/75_hires.png"
@@ -5115,6 +4888,7 @@ let dragonFrontiers = [
         "id": "ex15-76",
         "name": "Island Hermit",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5128,9 +4902,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5141,9 +4913,7 @@ let dragonFrontiers = [
         "number": "76",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/76.png",
             "large": "https://images.pokemontcg.io/ex15/76_hires.png"
@@ -5153,6 +4923,7 @@ let dragonFrontiers = [
         "id": "ex15-77",
         "name": "Mr. Stone's Project",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5166,9 +4937,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5179,9 +4948,7 @@ let dragonFrontiers = [
         "number": "77",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/77.png",
             "large": "https://images.pokemontcg.io/ex15/77_hires.png"
@@ -5191,6 +4958,7 @@ let dragonFrontiers = [
         "id": "ex15-78",
         "name": "Old Rod",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Item"
         ],
@@ -5203,9 +4971,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5216,9 +4982,7 @@ let dragonFrontiers = [
         "number": "78",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/78.png",
             "large": "https://images.pokemontcg.io/ex15/78_hires.png"
@@ -5228,6 +4992,7 @@ let dragonFrontiers = [
         "id": "ex15-79",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5241,9 +5006,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5254,9 +5017,7 @@ let dragonFrontiers = [
         "number": "79",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/79.png",
             "large": "https://images.pokemontcg.io/ex15/79_hires.png"
@@ -5266,6 +5027,7 @@ let dragonFrontiers = [
         "id": "ex15-80",
         "name": "Professor Oak's Research",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5279,9 +5041,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5292,9 +5052,7 @@ let dragonFrontiers = [
         "number": "80",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/80.png",
             "large": "https://images.pokemontcg.io/ex15/80_hires.png"
@@ -5304,6 +5062,7 @@ let dragonFrontiers = [
         "id": "ex15-81",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5317,9 +5076,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5330,9 +5087,7 @@ let dragonFrontiers = [
         "number": "81",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/81.png",
             "large": "https://images.pokemontcg.io/ex15/81_hires.png"
@@ -5342,6 +5097,7 @@ let dragonFrontiers = [
         "id": "ex15-82",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5355,9 +5111,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5368,10 +5122,7 @@ let dragonFrontiers = [
         "number": "82",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/82.png",
             "large": "https://images.pokemontcg.io/ex15/82_hires.png"
@@ -5381,6 +5132,7 @@ let dragonFrontiers = [
         "id": "ex15-83",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Item"
         ],
@@ -5393,9 +5145,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5406,11 +5156,7 @@ let dragonFrontiers = [
         "number": "83",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/83.png",
             "large": "https://images.pokemontcg.io/ex15/83_hires.png"
@@ -5420,6 +5166,7 @@ let dragonFrontiers = [
         "id": "ex15-84",
         "name": "Holon Energy FF",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5433,9 +5180,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5446,9 +5191,7 @@ let dragonFrontiers = [
         "number": "84",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/84.png",
             "large": "https://images.pokemontcg.io/ex15/84_hires.png"
@@ -5458,6 +5201,7 @@ let dragonFrontiers = [
         "id": "ex15-85",
         "name": "Holon Energy GL",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5471,9 +5215,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5484,9 +5226,7 @@ let dragonFrontiers = [
         "number": "85",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/85.png",
             "large": "https://images.pokemontcg.io/ex15/85_hires.png"
@@ -5496,6 +5236,7 @@ let dragonFrontiers = [
         "id": "ex15-86",
         "name": "Holon Energy WP",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5509,9 +5250,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5522,9 +5261,7 @@ let dragonFrontiers = [
         "number": "86",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/86.png",
             "large": "https://images.pokemontcg.io/ex15/86_hires.png"
@@ -5534,6 +5271,7 @@ let dragonFrontiers = [
         "id": "ex15-87",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5546,9 +5284,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5559,9 +5295,7 @@ let dragonFrontiers = [
         "number": "87",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/87.png",
             "large": "https://images.pokemontcg.io/ex15/87_hires.png"
@@ -5571,6 +5305,7 @@ let dragonFrontiers = [
         "id": "ex15-88",
         "name": "δ Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5583,9 +5318,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5596,9 +5329,7 @@ let dragonFrontiers = [
         "number": "88",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/88.png",
             "large": "https://images.pokemontcg.io/ex15/88_hires.png"
@@ -5608,6 +5339,7 @@ let dragonFrontiers = [
         "id": "ex15-89",
         "name": "Scramble Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5620,9 +5352,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5633,9 +5363,7 @@ let dragonFrontiers = [
         "number": "89",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/89.png",
             "large": "https://images.pokemontcg.io/ex15/89_hires.png"
@@ -5645,6 +5373,7 @@ let dragonFrontiers = [
         "id": "ex15-90",
         "name": "Altaria ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5700,9 +5429,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5716,9 +5443,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/90.png",
             "large": "https://images.pokemontcg.io/ex15/90_hires.png"
@@ -5728,6 +5453,7 @@ let dragonFrontiers = [
         "id": "ex15-91",
         "name": "Dragonite ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5771,9 +5497,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5787,9 +5511,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/91.png",
             "large": "https://images.pokemontcg.io/ex15/91_hires.png"
@@ -5799,6 +5521,7 @@ let dragonFrontiers = [
         "id": "ex15-92",
         "name": "Flygon ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5838,9 +5561,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5854,9 +5575,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/92.png",
             "large": "https://images.pokemontcg.io/ex15/92_hires.png"
@@ -5866,6 +5585,7 @@ let dragonFrontiers = [
         "id": "ex15-93",
         "name": "Gardevoir ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5911,9 +5631,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -5927,9 +5645,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/93.png",
             "large": "https://images.pokemontcg.io/ex15/93_hires.png"
@@ -5939,6 +5655,7 @@ let dragonFrontiers = [
         "id": "ex15-94",
         "name": "Kingdra ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5994,9 +5711,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6010,9 +5725,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/94.png",
             "large": "https://images.pokemontcg.io/ex15/94_hires.png"
@@ -6022,6 +5735,7 @@ let dragonFrontiers = [
         "id": "ex15-95",
         "name": "Latias ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6066,9 +5780,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6082,9 +5794,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/95.png",
             "large": "https://images.pokemontcg.io/ex15/95_hires.png"
@@ -6094,6 +5804,7 @@ let dragonFrontiers = [
         "id": "ex15-96",
         "name": "Latios ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6148,9 +5859,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6164,9 +5873,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/96.png",
             "large": "https://images.pokemontcg.io/ex15/96_hires.png"
@@ -6176,6 +5883,7 @@ let dragonFrontiers = [
         "id": "ex15-97",
         "name": "Rayquaza ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6225,9 +5933,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6241,9 +5947,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/97.png",
             "large": "https://images.pokemontcg.io/ex15/97_hires.png"
@@ -6253,6 +5957,7 @@ let dragonFrontiers = [
         "id": "ex15-98",
         "name": "Salamence ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6320,9 +6025,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6336,9 +6039,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/98.png",
             "large": "https://images.pokemontcg.io/ex15/98_hires.png"
@@ -6348,6 +6049,7 @@ let dragonFrontiers = [
         "id": "ex15-99",
         "name": "Tyranitar ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6407,9 +6109,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6423,9 +6123,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/99.png",
             "large": "https://images.pokemontcg.io/ex15/99_hires.png"
@@ -6435,6 +6133,7 @@ let dragonFrontiers = [
         "id": "ex15-100",
         "name": "Charizard ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "Star"
@@ -6484,9 +6183,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6500,9 +6197,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/100.png",
             "large": "https://images.pokemontcg.io/ex15/100_hires.png"
@@ -6512,6 +6207,7 @@ let dragonFrontiers = [
         "id": "ex15-101",
         "name": "Mew ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "Star"
@@ -6556,9 +6252,7 @@ let dragonFrontiers = [
             "series": "EX",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DF",
             "releaseDate": "2006/11/01",
             "images": {
@@ -6572,9 +6266,7 @@ let dragonFrontiers = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex15/101.png",
             "large": "https://images.pokemontcg.io/ex15/101_hires.png"

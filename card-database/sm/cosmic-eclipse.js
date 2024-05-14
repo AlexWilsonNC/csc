@@ -3,6 +3,7 @@ let sm12 = [
         "id": "sm12-1",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -63,10 +64,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -81,10 +79,7 @@ let sm12 = [
             3,
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/1.png",
             "large": "https://images.pokemontcg.io/sm12/1_hires.png"
@@ -94,6 +89,7 @@ let sm12 = [
         "id": "sm12-2",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -128,10 +124,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -146,10 +139,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/2.png",
             "large": "https://images.pokemontcg.io/sm12/2_hires.png"
@@ -159,6 +149,7 @@ let sm12 = [
         "id": "sm12-3",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -195,10 +186,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -213,10 +201,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/3.png",
             "large": "https://images.pokemontcg.io/sm12/3_hires.png"
@@ -226,6 +211,7 @@ let sm12 = [
         "id": "sm12-4",
         "name": "Vileplume-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -279,10 +265,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -296,10 +279,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/4.png",
             "large": "https://images.pokemontcg.io/sm12/4_hires.png"
@@ -309,6 +289,7 @@ let sm12 = [
         "id": "sm12-5",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -343,10 +324,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -361,10 +339,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/5.png",
             "large": "https://images.pokemontcg.io/sm12/5_hires.png"
@@ -374,6 +349,7 @@ let sm12 = [
         "id": "sm12-6",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -417,10 +393,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -435,10 +408,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/6.png",
             "large": "https://images.pokemontcg.io/sm12/6_hires.png"
@@ -448,6 +418,7 @@ let sm12 = [
         "id": "sm12-7",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -482,10 +453,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -500,10 +468,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             191
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/7.png",
             "large": "https://images.pokemontcg.io/sm12/7_hires.png"
@@ -513,6 +478,7 @@ let sm12 = [
         "id": "sm12-8",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -557,10 +523,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -575,10 +538,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             192
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/8.png",
             "large": "https://images.pokemontcg.io/sm12/8_hires.png"
@@ -588,6 +548,7 @@ let sm12 = [
         "id": "sm12-9",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -630,10 +591,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -648,10 +606,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/9.png",
             "large": "https://images.pokemontcg.io/sm12/9_hires.png"
@@ -661,6 +616,7 @@ let sm12 = [
         "id": "sm12-10",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -707,10 +663,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -725,10 +678,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/10.png",
             "large": "https://images.pokemontcg.io/sm12/10_hires.png"
@@ -738,6 +688,7 @@ let sm12 = [
         "id": "sm12-11",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -779,10 +730,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -797,10 +745,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/11.png",
             "large": "https://images.pokemontcg.io/sm12/11_hires.png"
@@ -810,6 +755,7 @@ let sm12 = [
         "id": "sm12-12",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -851,10 +797,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -869,10 +812,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/12.png",
             "large": "https://images.pokemontcg.io/sm12/12_hires.png"
@@ -882,6 +822,7 @@ let sm12 = [
         "id": "sm12-13",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -925,10 +866,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -943,10 +881,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/13.png",
             "large": "https://images.pokemontcg.io/sm12/13_hires.png"
@@ -956,6 +891,7 @@ let sm12 = [
         "id": "sm12-14",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -988,10 +924,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1006,10 +939,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/14.png",
             "large": "https://images.pokemontcg.io/sm12/14_hires.png"
@@ -1019,6 +949,7 @@ let sm12 = [
         "id": "sm12-15",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1053,10 +984,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1071,10 +999,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             585
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/15.png",
             "large": "https://images.pokemontcg.io/sm12/15_hires.png"
@@ -1084,6 +1009,7 @@ let sm12 = [
         "id": "sm12-16",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1124,10 +1050,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1142,10 +1065,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             586
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/16.png",
             "large": "https://images.pokemontcg.io/sm12/16_hires.png"
@@ -1155,6 +1075,7 @@ let sm12 = [
         "id": "sm12-17",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1199,10 +1120,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1217,10 +1135,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/17.png",
             "large": "https://images.pokemontcg.io/sm12/17_hires.png"
@@ -1230,6 +1145,7 @@ let sm12 = [
         "id": "sm12-18",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1264,10 +1180,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1282,10 +1195,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/18.png",
             "large": "https://images.pokemontcg.io/sm12/18_hires.png"
@@ -1295,6 +1205,7 @@ let sm12 = [
         "id": "sm12-19",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1340,10 +1251,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1358,10 +1266,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             723
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/19.png",
             "large": "https://images.pokemontcg.io/sm12/19_hires.png"
@@ -1371,6 +1276,7 @@ let sm12 = [
         "id": "sm12-20",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1413,10 +1319,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1431,10 +1334,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/20.png",
             "large": "https://images.pokemontcg.io/sm12/20_hires.png"
@@ -1444,6 +1344,7 @@ let sm12 = [
         "id": "sm12-21",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -1484,10 +1385,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1502,10 +1400,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/21.png",
             "large": "https://images.pokemontcg.io/sm12/21_hires.png"
@@ -1515,6 +1410,7 @@ let sm12 = [
         "id": "sm12-22",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -1566,10 +1462,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1584,10 +1477,7 @@ let sm12 = [
             6,
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/22.png",
             "large": "https://images.pokemontcg.io/sm12/22_hires.png"
@@ -1597,6 +1487,7 @@ let sm12 = [
         "id": "sm12-23",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1640,10 +1531,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1658,10 +1546,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/23.png",
             "large": "https://images.pokemontcg.io/sm12/23_hires.png"
@@ -1671,6 +1556,7 @@ let sm12 = [
         "id": "sm12-24",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1712,10 +1598,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1730,10 +1613,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/24.png",
             "large": "https://images.pokemontcg.io/sm12/24_hires.png"
@@ -1743,6 +1623,7 @@ let sm12 = [
         "id": "sm12-25",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1784,10 +1665,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1802,10 +1680,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/25.png",
             "large": "https://images.pokemontcg.io/sm12/25_hires.png"
@@ -1815,6 +1690,7 @@ let sm12 = [
         "id": "sm12-26",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1849,10 +1725,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1867,10 +1740,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/26.png",
             "large": "https://images.pokemontcg.io/sm12/26_hires.png"
@@ -1880,6 +1750,7 @@ let sm12 = [
         "id": "sm12-27",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1922,10 +1793,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -1940,10 +1808,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/27.png",
             "large": "https://images.pokemontcg.io/sm12/27_hires.png"
@@ -1953,6 +1818,7 @@ let sm12 = [
         "id": "sm12-28",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -1996,10 +1862,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2014,10 +1877,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/28.png",
             "large": "https://images.pokemontcg.io/sm12/28_hires.png"
@@ -2027,6 +1887,7 @@ let sm12 = [
         "id": "sm12-29",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2069,10 +1930,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2087,10 +1945,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/29.png",
             "large": "https://images.pokemontcg.io/sm12/29_hires.png"
@@ -2100,6 +1955,7 @@ let sm12 = [
         "id": "sm12-30",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2139,10 +1995,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2157,10 +2010,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/30.png",
             "large": "https://images.pokemontcg.io/sm12/30_hires.png"
@@ -2170,6 +2020,7 @@ let sm12 = [
         "id": "sm12-31",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2215,10 +2066,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2233,10 +2081,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/31.png",
             "large": "https://images.pokemontcg.io/sm12/31_hires.png"
@@ -2246,6 +2091,7 @@ let sm12 = [
         "id": "sm12-32",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2293,10 +2139,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2311,10 +2154,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/32.png",
             "large": "https://images.pokemontcg.io/sm12/32_hires.png"
@@ -2324,6 +2164,7 @@ let sm12 = [
         "id": "sm12-33",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2366,10 +2207,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2384,10 +2222,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/33.png",
             "large": "https://images.pokemontcg.io/sm12/33_hires.png"
@@ -2397,6 +2232,7 @@ let sm12 = [
         "id": "sm12-34",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2442,10 +2278,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2460,10 +2293,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/34.png",
             "large": "https://images.pokemontcg.io/sm12/34_hires.png"
@@ -2473,6 +2303,7 @@ let sm12 = [
         "id": "sm12-35",
         "name": "Volcarona-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2527,10 +2358,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2544,10 +2372,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/35.png",
             "large": "https://images.pokemontcg.io/sm12/35_hires.png"
@@ -2557,6 +2382,7 @@ let sm12 = [
         "id": "sm12-36",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2601,10 +2427,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2619,10 +2442,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/36.png",
             "large": "https://images.pokemontcg.io/sm12/36_hires.png"
@@ -2632,6 +2452,7 @@ let sm12 = [
         "id": "sm12-37",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2678,10 +2499,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2696,10 +2514,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/37.png",
             "large": "https://images.pokemontcg.io/sm12/37_hires.png"
@@ -2709,6 +2524,7 @@ let sm12 = [
         "id": "sm12-38",
         "name": "Blastoise & Piplup-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -2761,10 +2577,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2779,10 +2592,7 @@ let sm12 = [
             9,
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/38.png",
             "large": "https://images.pokemontcg.io/sm12/38_hires.png"
@@ -2792,6 +2602,7 @@ let sm12 = [
         "id": "sm12-39",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2831,10 +2642,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2849,10 +2657,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/39.png",
             "large": "https://images.pokemontcg.io/sm12/39_hires.png"
@@ -2862,6 +2667,7 @@ let sm12 = [
         "id": "sm12-40",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -2906,10 +2712,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2924,10 +2727,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/40.png",
             "large": "https://images.pokemontcg.io/sm12/40_hires.png"
@@ -2937,6 +2737,7 @@ let sm12 = [
         "id": "sm12-41",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2979,10 +2780,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -2997,10 +2795,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/41.png",
             "large": "https://images.pokemontcg.io/sm12/41_hires.png"
@@ -3010,6 +2805,7 @@ let sm12 = [
         "id": "sm12-42",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3051,10 +2847,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3069,10 +2862,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/42.png",
             "large": "https://images.pokemontcg.io/sm12/42_hires.png"
@@ -3082,6 +2872,7 @@ let sm12 = [
         "id": "sm12-43",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3116,10 +2907,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3134,10 +2922,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/43.png",
             "large": "https://images.pokemontcg.io/sm12/43_hires.png"
@@ -3147,6 +2932,7 @@ let sm12 = [
         "id": "sm12-44",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3189,10 +2975,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3207,10 +2990,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/44.png",
             "large": "https://images.pokemontcg.io/sm12/44_hires.png"
@@ -3220,6 +3000,7 @@ let sm12 = [
         "id": "sm12-45",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3255,10 +3036,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3273,10 +3051,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/45.png",
             "large": "https://images.pokemontcg.io/sm12/45_hires.png"
@@ -3286,6 +3061,7 @@ let sm12 = [
         "id": "sm12-46",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3332,10 +3108,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3350,10 +3123,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/46.png",
             "large": "https://images.pokemontcg.io/sm12/46_hires.png"
@@ -3363,6 +3133,7 @@ let sm12 = [
         "id": "sm12-47",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3398,10 +3169,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3416,10 +3184,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/47.png",
             "large": "https://images.pokemontcg.io/sm12/47_hires.png"
@@ -3429,6 +3194,7 @@ let sm12 = [
         "id": "sm12-48",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3475,10 +3241,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3493,10 +3256,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/48.png",
             "large": "https://images.pokemontcg.io/sm12/48_hires.png"
@@ -3506,6 +3266,7 @@ let sm12 = [
         "id": "sm12-49",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3550,10 +3311,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3568,10 +3326,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/49.png",
             "large": "https://images.pokemontcg.io/sm12/49_hires.png"
@@ -3581,6 +3336,7 @@ let sm12 = [
         "id": "sm12-50",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3617,10 +3373,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3635,10 +3388,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/50.png",
             "large": "https://images.pokemontcg.io/sm12/50_hires.png"
@@ -3648,6 +3398,7 @@ let sm12 = [
         "id": "sm12-51",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3695,10 +3446,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3713,10 +3461,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/51.png",
             "large": "https://images.pokemontcg.io/sm12/51_hires.png"
@@ -3726,6 +3471,7 @@ let sm12 = [
         "id": "sm12-52",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -3770,10 +3516,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3788,10 +3531,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/52.png",
             "large": "https://images.pokemontcg.io/sm12/52_hires.png"
@@ -3801,6 +3541,7 @@ let sm12 = [
         "id": "sm12-53",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3844,10 +3585,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3862,10 +3600,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/53.png",
             "large": "https://images.pokemontcg.io/sm12/53_hires.png"
@@ -3875,6 +3610,7 @@ let sm12 = [
         "id": "sm12-54",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -3911,10 +3647,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -3929,10 +3662,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/54.png",
             "large": "https://images.pokemontcg.io/sm12/54_hires.png"
@@ -3942,6 +3672,7 @@ let sm12 = [
         "id": "sm12-55",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3988,10 +3719,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4006,10 +3734,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             394
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/55.png",
             "large": "https://images.pokemontcg.io/sm12/55_hires.png"
@@ -4019,6 +3744,7 @@ let sm12 = [
         "id": "sm12-56",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4061,10 +3787,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4079,10 +3802,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/56.png",
             "large": "https://images.pokemontcg.io/sm12/56_hires.png"
@@ -4092,6 +3812,7 @@ let sm12 = [
         "id": "sm12-57",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4130,10 +3851,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4148,10 +3866,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             489
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/57.png",
             "large": "https://images.pokemontcg.io/sm12/57_hires.png"
@@ -4161,6 +3876,7 @@ let sm12 = [
         "id": "sm12-58",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4195,10 +3911,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4213,10 +3926,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/58.png",
             "large": "https://images.pokemontcg.io/sm12/58_hires.png"
@@ -4226,6 +3936,7 @@ let sm12 = [
         "id": "sm12-59",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4267,10 +3978,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4285,10 +3993,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/59.png",
             "large": "https://images.pokemontcg.io/sm12/59_hires.png"
@@ -4298,6 +4003,7 @@ let sm12 = [
         "id": "sm12-60",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4346,10 +4052,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4364,10 +4067,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/60.png",
             "large": "https://images.pokemontcg.io/sm12/60_hires.png"
@@ -4377,6 +4077,7 @@ let sm12 = [
         "id": "sm12-61",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4421,10 +4122,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4439,10 +4137,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/61.png",
             "large": "https://images.pokemontcg.io/sm12/61_hires.png"
@@ -4452,6 +4147,7 @@ let sm12 = [
         "id": "sm12-62",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4492,10 +4188,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4510,10 +4203,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             746
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/62.png",
             "large": "https://images.pokemontcg.io/sm12/62_hires.png"
@@ -4523,6 +4213,7 @@ let sm12 = [
         "id": "sm12-63",
         "name": "Wishiwashi-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "GX"
@@ -4568,10 +4259,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4585,10 +4273,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             746
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/63.png",
             "large": "https://images.pokemontcg.io/sm12/63_hires.png"
@@ -4598,6 +4283,7 @@ let sm12 = [
         "id": "sm12-64",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4644,10 +4330,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4662,10 +4345,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             751
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/64.png",
             "large": "https://images.pokemontcg.io/sm12/64_hires.png"
@@ -4675,6 +4355,7 @@ let sm12 = [
         "id": "sm12-65",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4719,10 +4400,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4737,10 +4415,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             752
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/65.png",
             "large": "https://images.pokemontcg.io/sm12/65_hires.png"
@@ -4750,6 +4425,7 @@ let sm12 = [
         "id": "sm12-66",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4801,10 +4477,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4819,10 +4492,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/66.png",
             "large": "https://images.pokemontcg.io/sm12/66_hires.png"
@@ -4832,6 +4502,7 @@ let sm12 = [
         "id": "sm12-67",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4879,10 +4550,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4897,10 +4565,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/67.png",
             "large": "https://images.pokemontcg.io/sm12/67_hires.png"
@@ -4910,6 +4575,7 @@ let sm12 = [
         "id": "sm12-68",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -4950,10 +4616,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -4968,10 +4631,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/68.png",
             "large": "https://images.pokemontcg.io/sm12/68_hires.png"
@@ -4981,6 +4641,7 @@ let sm12 = [
         "id": "sm12-69",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5031,10 +4692,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5049,10 +4707,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/69.png",
             "large": "https://images.pokemontcg.io/sm12/69_hires.png"
@@ -5062,6 +4717,7 @@ let sm12 = [
         "id": "sm12-70",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5108,10 +4764,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5126,10 +4779,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/70.png",
             "large": "https://images.pokemontcg.io/sm12/70_hires.png"
@@ -5139,6 +4789,7 @@ let sm12 = [
         "id": "sm12-71",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5188,10 +4839,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5206,10 +4854,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/71.png",
             "large": "https://images.pokemontcg.io/sm12/71_hires.png"
@@ -5219,6 +4864,7 @@ let sm12 = [
         "id": "sm12-72",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5265,10 +4911,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5283,10 +4926,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/72.png",
             "large": "https://images.pokemontcg.io/sm12/72_hires.png"
@@ -5296,6 +4936,7 @@ let sm12 = [
         "id": "sm12-73",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5342,10 +4983,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5360,10 +4998,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/73.png",
             "large": "https://images.pokemontcg.io/sm12/73_hires.png"
@@ -5373,6 +5008,7 @@ let sm12 = [
         "id": "sm12-74",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5411,10 +5047,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5429,10 +5062,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/74.png",
             "large": "https://images.pokemontcg.io/sm12/74_hires.png"
@@ -5442,6 +5072,7 @@ let sm12 = [
         "id": "sm12-75",
         "name": "Solgaleo & Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -5492,10 +5123,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5510,10 +5138,7 @@ let sm12 = [
             791,
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/75.png",
             "large": "https://images.pokemontcg.io/sm12/75_hires.png"
@@ -5523,6 +5148,7 @@ let sm12 = [
         "id": "sm12-76",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5565,10 +5191,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5583,10 +5206,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/76.png",
             "large": "https://images.pokemontcg.io/sm12/76_hires.png"
@@ -5596,6 +5216,7 @@ let sm12 = [
         "id": "sm12-77",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5636,10 +5257,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5654,10 +5272,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/77.png",
             "large": "https://images.pokemontcg.io/sm12/77_hires.png"
@@ -5667,6 +5282,7 @@ let sm12 = [
         "id": "sm12-78",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5707,10 +5323,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5725,10 +5338,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/78.png",
             "large": "https://images.pokemontcg.io/sm12/78_hires.png"
@@ -5738,6 +5348,7 @@ let sm12 = [
         "id": "sm12-79",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5786,10 +5397,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5804,10 +5412,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/79.png",
             "large": "https://images.pokemontcg.io/sm12/79_hires.png"
@@ -5817,6 +5422,7 @@ let sm12 = [
         "id": "sm12-80",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -5860,10 +5466,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5878,10 +5481,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/80.png",
             "large": "https://images.pokemontcg.io/sm12/80_hires.png"
@@ -5891,6 +5491,7 @@ let sm12 = [
         "id": "sm12-81",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5937,10 +5538,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -5955,10 +5553,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/81.png",
             "large": "https://images.pokemontcg.io/sm12/81_hires.png"
@@ -5968,6 +5563,7 @@ let sm12 = [
         "id": "sm12-82",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -6008,10 +5604,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6026,10 +5619,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             475
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/82.png",
             "large": "https://images.pokemontcg.io/sm12/82_hires.png"
@@ -6039,6 +5629,7 @@ let sm12 = [
         "id": "sm12-83",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6086,10 +5677,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6104,10 +5692,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/83.png",
             "large": "https://images.pokemontcg.io/sm12/83_hires.png"
@@ -6117,6 +5702,7 @@ let sm12 = [
         "id": "sm12-84",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6158,10 +5744,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6176,10 +5759,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/84.png",
             "large": "https://images.pokemontcg.io/sm12/84_hires.png"
@@ -6189,6 +5769,7 @@ let sm12 = [
         "id": "sm12-85",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -6234,10 +5815,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6252,10 +5830,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/85.png",
             "large": "https://images.pokemontcg.io/sm12/85_hires.png"
@@ -6265,6 +5840,7 @@ let sm12 = [
         "id": "sm12-86",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6311,10 +5887,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6329,10 +5902,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/86.png",
             "large": "https://images.pokemontcg.io/sm12/86_hires.png"
@@ -6342,6 +5912,7 @@ let sm12 = [
         "id": "sm12-87",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6391,10 +5962,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6409,10 +5977,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/87.png",
             "large": "https://images.pokemontcg.io/sm12/87_hires.png"
@@ -6422,6 +5987,7 @@ let sm12 = [
         "id": "sm12-88",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6469,10 +6035,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6487,10 +6050,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/88.png",
             "large": "https://images.pokemontcg.io/sm12/88_hires.png"
@@ -6500,6 +6060,7 @@ let sm12 = [
         "id": "sm12-89",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6540,10 +6101,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6558,10 +6116,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/89.png",
             "large": "https://images.pokemontcg.io/sm12/89_hires.png"
@@ -6571,6 +6126,7 @@ let sm12 = [
         "id": "sm12-90",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6619,10 +6175,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6637,10 +6190,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/90.png",
             "large": "https://images.pokemontcg.io/sm12/90_hires.png"
@@ -6650,6 +6200,7 @@ let sm12 = [
         "id": "sm12-91",
         "name": "Skrelp",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6684,10 +6235,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6702,10 +6250,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             690
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/91.png",
             "large": "https://images.pokemontcg.io/sm12/91_hires.png"
@@ -6715,6 +6260,7 @@ let sm12 = [
         "id": "sm12-92",
         "name": "Dragalge",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6756,10 +6302,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6774,10 +6317,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             691
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/92.png",
             "large": "https://images.pokemontcg.io/sm12/92_hires.png"
@@ -6787,6 +6327,7 @@ let sm12 = [
         "id": "sm12-93",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -6837,10 +6378,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6855,10 +6393,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             708
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/93.png",
             "large": "https://images.pokemontcg.io/sm12/93_hires.png"
@@ -6868,6 +6403,7 @@ let sm12 = [
         "id": "sm12-94",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6917,10 +6453,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -6935,10 +6468,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             709
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/94.png",
             "large": "https://images.pokemontcg.io/sm12/94_hires.png"
@@ -6948,6 +6478,7 @@ let sm12 = [
         "id": "sm12-95",
         "name": "Oricorio-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "GX"
@@ -7009,10 +6540,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7026,10 +6554,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/95.png",
             "large": "https://images.pokemontcg.io/sm12/95_hires.png"
@@ -7039,6 +6564,7 @@ let sm12 = [
         "id": "sm12-96",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7073,10 +6599,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7091,10 +6614,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/96.png",
             "large": "https://images.pokemontcg.io/sm12/96_hires.png"
@@ -7104,6 +6624,7 @@ let sm12 = [
         "id": "sm12-97",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7137,10 +6658,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7155,10 +6673,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/97.png",
             "large": "https://images.pokemontcg.io/sm12/97_hires.png"
@@ -7168,6 +6683,7 @@ let sm12 = [
         "id": "sm12-98",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7216,10 +6732,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7234,10 +6747,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             781
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/98.png",
             "large": "https://images.pokemontcg.io/sm12/98_hires.png"
@@ -7247,6 +6757,7 @@ let sm12 = [
         "id": "sm12-99",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7281,10 +6792,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7299,10 +6807,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/99.png",
             "large": "https://images.pokemontcg.io/sm12/99_hires.png"
@@ -7312,6 +6817,7 @@ let sm12 = [
         "id": "sm12-100",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7353,10 +6859,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7371,10 +6874,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/100.png",
             "large": "https://images.pokemontcg.io/sm12/100_hires.png"
@@ -7384,6 +6884,7 @@ let sm12 = [
         "id": "sm12-101",
         "name": "Cosmoem",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7420,10 +6921,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7438,10 +6936,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             790
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/101.png",
             "large": "https://images.pokemontcg.io/sm12/101_hires.png"
@@ -7451,6 +6946,7 @@ let sm12 = [
         "id": "sm12-102",
         "name": "Lunala",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -7498,10 +6994,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7516,10 +7009,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/102.png",
             "large": "https://images.pokemontcg.io/sm12/102_hires.png"
@@ -7529,6 +7019,7 @@ let sm12 = [
         "id": "sm12-103",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7568,10 +7059,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7586,10 +7074,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             802
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/103.png",
             "large": "https://images.pokemontcg.io/sm12/103_hires.png"
@@ -7599,6 +7084,7 @@ let sm12 = [
         "id": "sm12-104",
         "name": "Blacephalon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7638,10 +7124,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7656,10 +7139,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             806
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/104.png",
             "large": "https://images.pokemontcg.io/sm12/104_hires.png"
@@ -7669,6 +7149,7 @@ let sm12 = [
         "id": "sm12-105",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7714,10 +7195,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7732,10 +7210,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/105.png",
             "large": "https://images.pokemontcg.io/sm12/105_hires.png"
@@ -7745,6 +7220,7 @@ let sm12 = [
         "id": "sm12-106",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7791,10 +7267,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7809,10 +7282,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/106.png",
             "large": "https://images.pokemontcg.io/sm12/106_hires.png"
@@ -7822,6 +7292,7 @@ let sm12 = [
         "id": "sm12-107",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7865,10 +7336,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7883,10 +7351,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/107.png",
             "large": "https://images.pokemontcg.io/sm12/107_hires.png"
@@ -7896,6 +7361,7 @@ let sm12 = [
         "id": "sm12-108",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -7931,10 +7397,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -7949,10 +7412,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/108.png",
             "large": "https://images.pokemontcg.io/sm12/108_hires.png"
@@ -7962,6 +7422,7 @@ let sm12 = [
         "id": "sm12-109",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8005,10 +7466,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8023,10 +7481,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/109.png",
             "large": "https://images.pokemontcg.io/sm12/109_hires.png"
@@ -8036,6 +7491,7 @@ let sm12 = [
         "id": "sm12-110",
         "name": "Flygon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8092,10 +7548,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8109,10 +7562,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/110.png",
             "large": "https://images.pokemontcg.io/sm12/110_hires.png"
@@ -8122,6 +7572,7 @@ let sm12 = [
         "id": "sm12-111",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8169,10 +7620,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8187,10 +7635,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/111.png",
             "large": "https://images.pokemontcg.io/sm12/111_hires.png"
@@ -8200,6 +7645,7 @@ let sm12 = [
         "id": "sm12-112",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -8244,10 +7690,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8262,10 +7705,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/112.png",
             "large": "https://images.pokemontcg.io/sm12/112_hires.png"
@@ -8275,6 +7715,7 @@ let sm12 = [
         "id": "sm12-113",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -8317,10 +7758,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8335,10 +7773,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/113.png",
             "large": "https://images.pokemontcg.io/sm12/113_hires.png"
@@ -8348,6 +7783,7 @@ let sm12 = [
         "id": "sm12-114",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -8391,10 +7827,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8409,10 +7842,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/114.png",
             "large": "https://images.pokemontcg.io/sm12/114_hires.png"
@@ -8422,6 +7852,7 @@ let sm12 = [
         "id": "sm12-115",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8463,10 +7894,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8481,10 +7909,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/115.png",
             "large": "https://images.pokemontcg.io/sm12/115_hires.png"
@@ -8494,6 +7919,7 @@ let sm12 = [
         "id": "sm12-116",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8529,10 +7955,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8547,10 +7970,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/116.png",
             "large": "https://images.pokemontcg.io/sm12/116_hires.png"
@@ -8560,6 +7980,7 @@ let sm12 = [
         "id": "sm12-117",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -8602,10 +8023,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8620,10 +8038,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             537
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/117.png",
             "large": "https://images.pokemontcg.io/sm12/117_hires.png"
@@ -8633,6 +8048,7 @@ let sm12 = [
         "id": "sm12-118",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -8665,10 +8081,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8683,10 +8096,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             538
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/118.png",
             "large": "https://images.pokemontcg.io/sm12/118_hires.png"
@@ -8696,6 +8106,7 @@ let sm12 = [
         "id": "sm12-119",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -8730,10 +8141,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8748,10 +8156,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             674
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/119.png",
             "large": "https://images.pokemontcg.io/sm12/119_hires.png"
@@ -8761,6 +8166,7 @@ let sm12 = [
         "id": "sm12-120",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8804,10 +8210,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8822,10 +8225,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             675
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/120.png",
             "large": "https://images.pokemontcg.io/sm12/120_hires.png"
@@ -8835,6 +8235,7 @@ let sm12 = [
         "id": "sm12-121",
         "name": "Crabrawler",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -8879,10 +8280,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8897,10 +8295,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             739
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/121.png",
             "large": "https://images.pokemontcg.io/sm12/121_hires.png"
@@ -8910,6 +8305,7 @@ let sm12 = [
         "id": "sm12-122",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8951,10 +8347,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -8969,10 +8362,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             740
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/122.png",
             "large": "https://images.pokemontcg.io/sm12/122_hires.png"
@@ -8982,6 +8372,7 @@ let sm12 = [
         "id": "sm12-123",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9027,10 +8418,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9045,10 +8433,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             744
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/123.png",
             "large": "https://images.pokemontcg.io/sm12/123_hires.png"
@@ -9058,6 +8443,7 @@ let sm12 = [
         "id": "sm12-124",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -9099,10 +8485,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9117,10 +8500,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/124.png",
             "large": "https://images.pokemontcg.io/sm12/124_hires.png"
@@ -9130,6 +8510,7 @@ let sm12 = [
         "id": "sm12-125",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9172,10 +8553,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9190,10 +8568,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             766
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/125.png",
             "large": "https://images.pokemontcg.io/sm12/125_hires.png"
@@ -9203,6 +8578,7 @@ let sm12 = [
         "id": "sm12-126",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9247,10 +8623,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9265,10 +8638,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             769
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/126.png",
             "large": "https://images.pokemontcg.io/sm12/126_hires.png"
@@ -9278,6 +8648,7 @@ let sm12 = [
         "id": "sm12-127",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -9324,10 +8695,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9342,10 +8710,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             770
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/127.png",
             "large": "https://images.pokemontcg.io/sm12/127_hires.png"
@@ -9355,6 +8720,7 @@ let sm12 = [
         "id": "sm12-128",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9405,10 +8771,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9423,10 +8786,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/128.png",
             "large": "https://images.pokemontcg.io/sm12/128_hires.png"
@@ -9436,6 +8796,7 @@ let sm12 = [
         "id": "sm12-129",
         "name": "Alolan Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9498,10 +8859,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9515,10 +8873,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/129.png",
             "large": "https://images.pokemontcg.io/sm12/129_hires.png"
@@ -9528,6 +8883,7 @@ let sm12 = [
         "id": "sm12-130",
         "name": "Alolan Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9578,10 +8934,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9596,10 +8949,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/130.png",
             "large": "https://images.pokemontcg.io/sm12/130_hires.png"
@@ -9609,6 +8959,7 @@ let sm12 = [
         "id": "sm12-131",
         "name": "Alolan Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -9659,10 +9010,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9677,10 +9025,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/131.png",
             "large": "https://images.pokemontcg.io/sm12/131_hires.png"
@@ -9690,6 +9035,7 @@ let sm12 = [
         "id": "sm12-132",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9730,10 +9076,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9748,10 +9091,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/132.png",
             "large": "https://images.pokemontcg.io/sm12/132_hires.png"
@@ -9761,6 +9101,7 @@ let sm12 = [
         "id": "sm12-133",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9808,10 +9149,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9826,10 +9164,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/133.png",
             "large": "https://images.pokemontcg.io/sm12/133_hires.png"
@@ -9839,6 +9174,7 @@ let sm12 = [
         "id": "sm12-134",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -9889,10 +9225,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9907,10 +9240,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/134.png",
             "large": "https://images.pokemontcg.io/sm12/134_hires.png"
@@ -9920,6 +9250,7 @@ let sm12 = [
         "id": "sm12-135",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -9968,10 +9299,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -9986,10 +9314,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/135.png",
             "large": "https://images.pokemontcg.io/sm12/135_hires.png"
@@ -9999,6 +9324,7 @@ let sm12 = [
         "id": "sm12-136",
         "name": "Guzzlord",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -10049,10 +9375,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10067,10 +9390,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/136.png",
             "large": "https://images.pokemontcg.io/sm12/136_hires.png"
@@ -10080,6 +9400,7 @@ let sm12 = [
         "id": "sm12-137",
         "name": "Alolan Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -10128,10 +9449,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10146,10 +9464,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/137.png",
             "large": "https://images.pokemontcg.io/sm12/137_hires.png"
@@ -10159,6 +9474,7 @@ let sm12 = [
         "id": "sm12-138",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -10206,10 +9522,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10224,10 +9537,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/138.png",
             "large": "https://images.pokemontcg.io/sm12/138_hires.png"
@@ -10237,6 +9547,7 @@ let sm12 = [
         "id": "sm12-139",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -10288,10 +9599,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10306,10 +9614,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/139.png",
             "large": "https://images.pokemontcg.io/sm12/139_hires.png"
@@ -10319,6 +9624,7 @@ let sm12 = [
         "id": "sm12-140",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -10365,10 +9671,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10383,10 +9686,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/140.png",
             "large": "https://images.pokemontcg.io/sm12/140_hires.png"
@@ -10396,6 +9696,7 @@ let sm12 = [
         "id": "sm12-141",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -10448,10 +9749,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10466,10 +9764,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/141.png",
             "large": "https://images.pokemontcg.io/sm12/141_hires.png"
@@ -10479,6 +9774,7 @@ let sm12 = [
         "id": "sm12-142",
         "name": "Solgaleo",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -10527,10 +9823,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10545,10 +9838,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/142.png",
             "large": "https://images.pokemontcg.io/sm12/142_hires.png"
@@ -10558,6 +9848,7 @@ let sm12 = [
         "id": "sm12-143",
         "name": "Togepi & Cleffa & Igglybuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10615,10 +9906,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10634,10 +9922,7 @@ let sm12 = [
             174,
             175
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/143.png",
             "large": "https://images.pokemontcg.io/sm12/143_hires.png"
@@ -10647,6 +9932,7 @@ let sm12 = [
         "id": "sm12-143a",
         "name": "Togepi & Cleffa & Igglybuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10704,10 +9990,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10723,10 +10006,7 @@ let sm12 = [
             174,
             175
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/143a.png",
             "large": "https://images.pokemontcg.io/sm12/143a_hires.png"
@@ -10736,6 +10016,7 @@ let sm12 = [
         "id": "sm12-144",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -10778,10 +10059,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10796,10 +10074,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/144.png",
             "large": "https://images.pokemontcg.io/sm12/144_hires.png"
@@ -10809,6 +10084,7 @@ let sm12 = [
         "id": "sm12-145",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -10845,10 +10121,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10863,10 +10136,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/145.png",
             "large": "https://images.pokemontcg.io/sm12/145_hires.png"
@@ -10876,6 +10146,7 @@ let sm12 = [
         "id": "sm12-146",
         "name": "Azurill",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -10899,10 +10170,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10917,10 +10185,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             298
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/146.png",
             "large": "https://images.pokemontcg.io/sm12/146_hires.png"
@@ -10930,6 +10195,7 @@ let sm12 = [
         "id": "sm12-147",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -10971,10 +10237,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -10989,10 +10252,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/147.png",
             "large": "https://images.pokemontcg.io/sm12/147_hires.png"
@@ -11002,6 +10262,7 @@ let sm12 = [
         "id": "sm12-148",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -11049,10 +10310,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11067,10 +10325,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/148.png",
             "large": "https://images.pokemontcg.io/sm12/148_hires.png"
@@ -11080,6 +10335,7 @@ let sm12 = [
         "id": "sm12-149",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -11120,10 +10376,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11138,10 +10391,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/149.png",
             "large": "https://images.pokemontcg.io/sm12/149_hires.png"
@@ -11151,6 +10401,7 @@ let sm12 = [
         "id": "sm12-150",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -11191,10 +10442,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11209,10 +10457,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/150.png",
             "large": "https://images.pokemontcg.io/sm12/150_hires.png"
@@ -11222,6 +10467,7 @@ let sm12 = [
         "id": "sm12-151",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -11271,10 +10517,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11289,10 +10532,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/151.png",
             "large": "https://images.pokemontcg.io/sm12/151_hires.png"
@@ -11302,6 +10542,7 @@ let sm12 = [
         "id": "sm12-152",
         "name": "Florges",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -11348,10 +10589,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11366,10 +10604,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             671
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/152.png",
             "large": "https://images.pokemontcg.io/sm12/152_hires.png"
@@ -11379,6 +10614,7 @@ let sm12 = [
         "id": "sm12-153",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -11419,10 +10655,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11437,10 +10670,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             684
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/153.png",
             "large": "https://images.pokemontcg.io/sm12/153_hires.png"
@@ -11450,6 +10680,7 @@ let sm12 = [
         "id": "sm12-154",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -11497,10 +10728,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11515,10 +10743,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             685
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/154.png",
             "large": "https://images.pokemontcg.io/sm12/154_hires.png"
@@ -11528,6 +10753,7 @@ let sm12 = [
         "id": "sm12-155",
         "name": "Sylveon",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -11577,10 +10803,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11595,10 +10818,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             700
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/155.png",
             "large": "https://images.pokemontcg.io/sm12/155_hires.png"
@@ -11608,6 +10828,7 @@ let sm12 = [
         "id": "sm12-156",
         "name": "Arceus & Dialga & Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11655,10 +10876,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11674,10 +10892,7 @@ let sm12 = [
             484,
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/156.png",
             "large": "https://images.pokemontcg.io/sm12/156_hires.png"
@@ -11687,6 +10902,7 @@ let sm12 = [
         "id": "sm12-157",
         "name": "Reshiram & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11736,10 +10952,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11754,10 +10967,7 @@ let sm12 = [
             643,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/157.png",
             "large": "https://images.pokemontcg.io/sm12/157_hires.png"
@@ -11767,6 +10977,7 @@ let sm12 = [
         "id": "sm12-158",
         "name": "Naganadel & Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11822,10 +11033,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11840,10 +11048,7 @@ let sm12 = [
             799,
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/158.png",
             "large": "https://images.pokemontcg.io/sm12/158_hires.png"
@@ -11853,6 +11058,7 @@ let sm12 = [
         "id": "sm12-159",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -11895,10 +11101,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11913,10 +11116,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             780
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/159.png",
             "large": "https://images.pokemontcg.io/sm12/159_hires.png"
@@ -11926,6 +11126,7 @@ let sm12 = [
         "id": "sm12-160",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -11961,10 +11162,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -11979,10 +11177,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             782
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/160.png",
             "large": "https://images.pokemontcg.io/sm12/160_hires.png"
@@ -11992,6 +11187,7 @@ let sm12 = [
         "id": "sm12-161",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12037,10 +11233,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12055,10 +11248,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             782
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/161.png",
             "large": "https://images.pokemontcg.io/sm12/161_hires.png"
@@ -12068,6 +11258,7 @@ let sm12 = [
         "id": "sm12-162",
         "name": "Hakamo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -12111,10 +11302,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12129,10 +11317,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             783
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/162.png",
             "large": "https://images.pokemontcg.io/sm12/162_hires.png"
@@ -12142,6 +11327,7 @@ let sm12 = [
         "id": "sm12-163",
         "name": "Kommo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -12184,10 +11370,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12202,10 +11385,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             784
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/163.png",
             "large": "https://images.pokemontcg.io/sm12/163_hires.png"
@@ -12215,6 +11395,7 @@ let sm12 = [
         "id": "sm12-164",
         "name": "Ultra Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -12255,10 +11436,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12273,10 +11451,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/164.png",
             "large": "https://images.pokemontcg.io/sm12/164_hires.png"
@@ -12286,6 +11461,7 @@ let sm12 = [
         "id": "sm12-165",
         "name": "Mega Lopunny & Jigglypuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12336,10 +11512,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12354,10 +11527,7 @@ let sm12 = [
             39,
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/165.png",
             "large": "https://images.pokemontcg.io/sm12/165_hires.png"
@@ -12367,6 +11537,7 @@ let sm12 = [
         "id": "sm12-166",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12418,10 +11589,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12436,10 +11604,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/166.png",
             "large": "https://images.pokemontcg.io/sm12/166_hires.png"
@@ -12449,6 +11614,7 @@ let sm12 = [
         "id": "sm12-167",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12499,10 +11665,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12517,10 +11680,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/167.png",
             "large": "https://images.pokemontcg.io/sm12/167_hires.png"
@@ -12530,6 +11690,7 @@ let sm12 = [
         "id": "sm12-168",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12553,10 +11714,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12571,10 +11729,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/168.png",
             "large": "https://images.pokemontcg.io/sm12/168_hires.png"
@@ -12584,6 +11739,7 @@ let sm12 = [
         "id": "sm12-169",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12626,10 +11782,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12644,10 +11797,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/169.png",
             "large": "https://images.pokemontcg.io/sm12/169_hires.png"
@@ -12657,6 +11807,7 @@ let sm12 = [
         "id": "sm12-170",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -12699,10 +11850,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12717,10 +11865,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/170.png",
             "large": "https://images.pokemontcg.io/sm12/170_hires.png"
@@ -12730,6 +11875,7 @@ let sm12 = [
         "id": "sm12-171",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12774,10 +11920,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12792,10 +11935,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/171.png",
             "large": "https://images.pokemontcg.io/sm12/171_hires.png"
@@ -12805,6 +11945,7 @@ let sm12 = [
         "id": "sm12-172",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -12850,10 +11991,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12868,10 +12006,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/172.png",
             "large": "https://images.pokemontcg.io/sm12/172_hires.png"
@@ -12881,6 +12016,7 @@ let sm12 = [
         "id": "sm12-173",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12922,10 +12058,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -12940,10 +12073,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/173.png",
             "large": "https://images.pokemontcg.io/sm12/173_hires.png"
@@ -12953,6 +12083,7 @@ let sm12 = [
         "id": "sm12-174",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -12998,10 +12129,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13016,10 +12144,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/174.png",
             "large": "https://images.pokemontcg.io/sm12/174_hires.png"
@@ -13029,6 +12154,7 @@ let sm12 = [
         "id": "sm12-175",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -13075,10 +12201,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13093,10 +12216,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/175.png",
             "large": "https://images.pokemontcg.io/sm12/175_hires.png"
@@ -13106,6 +12226,7 @@ let sm12 = [
         "id": "sm12-176",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -13147,10 +12268,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13165,10 +12283,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/176.png",
             "large": "https://images.pokemontcg.io/sm12/176_hires.png"
@@ -13178,6 +12293,7 @@ let sm12 = [
         "id": "sm12-177",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -13218,10 +12334,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13236,10 +12349,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/177.png",
             "large": "https://images.pokemontcg.io/sm12/177_hires.png"
@@ -13249,6 +12359,7 @@ let sm12 = [
         "id": "sm12-178",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -13299,10 +12410,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13317,10 +12425,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             628
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/178.png",
             "large": "https://images.pokemontcg.io/sm12/178_hires.png"
@@ -13330,6 +12435,7 @@ let sm12 = [
         "id": "sm12-179",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -13375,10 +12481,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13393,10 +12496,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             694
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/179.png",
             "large": "https://images.pokemontcg.io/sm12/179_hires.png"
@@ -13406,6 +12506,7 @@ let sm12 = [
         "id": "sm12-180",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -13449,10 +12550,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13467,10 +12565,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             695
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/180.png",
             "large": "https://images.pokemontcg.io/sm12/180_hires.png"
@@ -13480,6 +12575,7 @@ let sm12 = [
         "id": "sm12-181",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -13515,10 +12611,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13533,10 +12626,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             759
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/181.png",
             "large": "https://images.pokemontcg.io/sm12/181_hires.png"
@@ -13546,6 +12636,7 @@ let sm12 = [
         "id": "sm12-182",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -13587,10 +12678,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13605,10 +12693,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/182.png",
             "large": "https://images.pokemontcg.io/sm12/182_hires.png"
@@ -13618,6 +12703,7 @@ let sm12 = [
         "id": "sm12-183",
         "name": "Type: Null",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -13650,10 +12736,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13668,10 +12751,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             772
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/183.png",
             "large": "https://images.pokemontcg.io/sm12/183_hires.png"
@@ -13681,6 +12761,7 @@ let sm12 = [
         "id": "sm12-184",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13735,10 +12816,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13752,10 +12830,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/184.png",
             "large": "https://images.pokemontcg.io/sm12/184_hires.png"
@@ -13765,6 +12840,7 @@ let sm12 = [
         "id": "sm12-185",
         "name": "Beastite",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13779,10 +12855,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13793,10 +12866,7 @@ let sm12 = [
         "number": "185",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/185.png",
             "large": "https://images.pokemontcg.io/sm12/185_hires.png"
@@ -13806,6 +12876,7 @@ let sm12 = [
         "id": "sm12-186",
         "name": "Bellelba & Brycen-Man",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -13821,10 +12892,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13835,10 +12903,7 @@ let sm12 = [
         "number": "186",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/186.png",
             "large": "https://images.pokemontcg.io/sm12/186_hires.png"
@@ -13848,6 +12913,7 @@ let sm12 = [
         "id": "sm12-187",
         "name": "Chaotic Swell",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stadium"
         ],
@@ -13861,10 +12927,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13875,10 +12938,7 @@ let sm12 = [
         "number": "187",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/187.png",
             "large": "https://images.pokemontcg.io/sm12/187_hires.png"
@@ -13888,6 +12948,7 @@ let sm12 = [
         "id": "sm12-188",
         "name": "Clay",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -13901,10 +12962,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13915,10 +12973,7 @@ let sm12 = [
         "number": "188",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/188.png",
             "large": "https://images.pokemontcg.io/sm12/188_hires.png"
@@ -13928,6 +12983,7 @@ let sm12 = [
         "id": "sm12-189",
         "name": "Cynthia & Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -13943,10 +12999,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -13957,10 +13010,7 @@ let sm12 = [
         "number": "189",
         "artist": "Ken Sugimori/Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/189.png",
             "large": "https://images.pokemontcg.io/sm12/189_hires.png"
@@ -13970,6 +13020,7 @@ let sm12 = [
         "id": "sm12-190",
         "name": "Dragonium Z: Dragon Claw",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13997,10 +13048,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14011,10 +13059,7 @@ let sm12 = [
         "number": "190",
         "artist": "aky CG Works",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/190.png",
             "large": "https://images.pokemontcg.io/sm12/190_hires.png"
@@ -14024,6 +13069,7 @@ let sm12 = [
         "id": "sm12-191",
         "name": "Erika",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14037,10 +13083,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14051,10 +13094,7 @@ let sm12 = [
         "number": "191",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/191.png",
             "large": "https://images.pokemontcg.io/sm12/191_hires.png"
@@ -14064,6 +13104,7 @@ let sm12 = [
         "id": "sm12-192",
         "name": "Great Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -14078,10 +13119,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14092,10 +13130,7 @@ let sm12 = [
         "number": "192",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/192.png",
             "large": "https://images.pokemontcg.io/sm12/192_hires.png"
@@ -14105,6 +13140,7 @@ let sm12 = [
         "id": "sm12-193",
         "name": "Guzma & Hala",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -14120,10 +13156,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14134,10 +13167,7 @@ let sm12 = [
         "number": "193",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/193.png",
             "large": "https://images.pokemontcg.io/sm12/193_hires.png"
@@ -14147,6 +13177,7 @@ let sm12 = [
         "id": "sm12-194",
         "name": "Island Challenge Amulet",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14161,10 +13192,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14188,6 +13216,7 @@ let sm12 = [
         "id": "sm12-195",
         "name": "Lana's Fishing Rod",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -14201,10 +13230,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14215,10 +13241,7 @@ let sm12 = [
         "number": "195",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/195.png",
             "large": "https://images.pokemontcg.io/sm12/195_hires.png"
@@ -14228,6 +13251,7 @@ let sm12 = [
         "id": "sm12-196",
         "name": "Lillie's Full Force",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14242,10 +13266,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14256,10 +13277,7 @@ let sm12 = [
         "number": "196",
         "artist": "kodama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/196.png",
             "large": "https://images.pokemontcg.io/sm12/196_hires.png"
@@ -14269,6 +13287,7 @@ let sm12 = [
         "id": "sm12-197",
         "name": "Lillie's Poké Doll",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -14284,10 +13303,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14298,10 +13314,7 @@ let sm12 = [
         "number": "197",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/197.png",
             "large": "https://images.pokemontcg.io/sm12/197_hires.png"
@@ -14311,6 +13324,7 @@ let sm12 = [
         "id": "sm12-198",
         "name": "Mallow & Lana",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -14326,10 +13340,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14340,10 +13351,7 @@ let sm12 = [
         "number": "198",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/198.png",
             "large": "https://images.pokemontcg.io/sm12/198_hires.png"
@@ -14353,6 +13361,7 @@ let sm12 = [
         "id": "sm12-199",
         "name": "Misty & Lorelei",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -14368,10 +13377,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14382,10 +13388,7 @@ let sm12 = [
         "number": "199",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/199.png",
             "large": "https://images.pokemontcg.io/sm12/199_hires.png"
@@ -14395,6 +13398,7 @@ let sm12 = [
         "id": "sm12-200",
         "name": "N's Resolve",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14408,10 +13412,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14422,10 +13423,7 @@ let sm12 = [
         "number": "200",
         "artist": "Ryuta Fuse",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/200.png",
             "large": "https://images.pokemontcg.io/sm12/200_hires.png"
@@ -14435,6 +13433,7 @@ let sm12 = [
         "id": "sm12-201",
         "name": "Professor Oak's Setup",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14448,10 +13447,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14462,10 +13458,7 @@ let sm12 = [
         "number": "201",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/201.png",
             "large": "https://images.pokemontcg.io/sm12/201_hires.png"
@@ -14475,6 +13468,7 @@ let sm12 = [
         "id": "sm12-202",
         "name": "Red & Blue",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -14490,10 +13484,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14504,10 +13495,7 @@ let sm12 = [
         "number": "202",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/202.png",
             "large": "https://images.pokemontcg.io/sm12/202_hires.png"
@@ -14517,6 +13505,7 @@ let sm12 = [
         "id": "sm12-203",
         "name": "Roller Skater",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14530,10 +13519,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14544,10 +13530,7 @@ let sm12 = [
         "number": "203",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/203.png",
             "large": "https://images.pokemontcg.io/sm12/203_hires.png"
@@ -14557,6 +13540,7 @@ let sm12 = [
         "id": "sm12-204",
         "name": "Rosa",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14571,10 +13555,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14585,10 +13566,7 @@ let sm12 = [
         "number": "204",
         "artist": "Yusuke Ohmura",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/204.png",
             "large": "https://images.pokemontcg.io/sm12/204_hires.png"
@@ -14598,6 +13576,7 @@ let sm12 = [
         "id": "sm12-205",
         "name": "Roxie",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14611,10 +13590,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14625,10 +13601,7 @@ let sm12 = [
         "number": "205",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/205.png",
             "large": "https://images.pokemontcg.io/sm12/205_hires.png"
@@ -14638,6 +13611,7 @@ let sm12 = [
         "id": "sm12-206",
         "name": "Tag Call",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -14651,10 +13625,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14665,10 +13636,7 @@ let sm12 = [
         "number": "206",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/206.png",
             "large": "https://images.pokemontcg.io/sm12/206_hires.png"
@@ -14678,6 +13646,7 @@ let sm12 = [
         "id": "sm12-207",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -14693,10 +13662,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14707,10 +13673,7 @@ let sm12 = [
         "number": "207",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/207.png",
             "large": "https://images.pokemontcg.io/sm12/207_hires.png"
@@ -14720,6 +13683,7 @@ let sm12 = [
         "id": "sm12-208",
         "name": "Will",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -14733,10 +13697,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14747,10 +13708,7 @@ let sm12 = [
         "number": "208",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/208.png",
             "large": "https://images.pokemontcg.io/sm12/208_hires.png"
@@ -14760,6 +13718,7 @@ let sm12 = [
         "id": "sm12-209",
         "name": "Draw Energy",
         "supertype": "Energy",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Special"
         ],
@@ -14773,10 +13732,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14786,10 +13742,7 @@ let sm12 = [
         },
         "number": "209",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/209.png",
             "large": "https://images.pokemontcg.io/sm12/209_hires.png"
@@ -14799,6 +13752,7 @@ let sm12 = [
         "id": "sm12-210",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14859,10 +13813,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14877,10 +13828,7 @@ let sm12 = [
             3,
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/210.png",
             "large": "https://images.pokemontcg.io/sm12/210_hires.png"
@@ -14890,6 +13838,7 @@ let sm12 = [
         "id": "sm12-211",
         "name": "Vileplume-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14943,10 +13892,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -14960,10 +13906,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/211.png",
             "large": "https://images.pokemontcg.io/sm12/211_hires.png"
@@ -14973,6 +13916,7 @@ let sm12 = [
         "id": "sm12-212",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15024,10 +13968,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15042,10 +13983,7 @@ let sm12 = [
             6,
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/212.png",
             "large": "https://images.pokemontcg.io/sm12/212_hires.png"
@@ -15055,6 +13993,7 @@ let sm12 = [
         "id": "sm12-213",
         "name": "Volcarona-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15109,10 +14048,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15126,10 +14062,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/213.png",
             "large": "https://images.pokemontcg.io/sm12/213_hires.png"
@@ -15139,6 +14072,7 @@ let sm12 = [
         "id": "sm12-214",
         "name": "Blastoise & Piplup-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15191,10 +14125,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15209,10 +14140,7 @@ let sm12 = [
             9,
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/214.png",
             "large": "https://images.pokemontcg.io/sm12/214_hires.png"
@@ -15222,6 +14150,7 @@ let sm12 = [
         "id": "sm12-215",
         "name": "Blastoise & Piplup-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15274,10 +14203,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15292,10 +14218,7 @@ let sm12 = [
             9,
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/215.png",
             "large": "https://images.pokemontcg.io/sm12/215_hires.png"
@@ -15305,6 +14228,7 @@ let sm12 = [
         "id": "sm12-216",
         "name": "Solgaleo & Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15355,10 +14279,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15373,10 +14294,7 @@ let sm12 = [
             791,
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/216.png",
             "large": "https://images.pokemontcg.io/sm12/216_hires.png"
@@ -15386,6 +14304,7 @@ let sm12 = [
         "id": "sm12-217",
         "name": "Oricorio-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "GX"
@@ -15447,10 +14366,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15464,10 +14380,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/217.png",
             "large": "https://images.pokemontcg.io/sm12/217_hires.png"
@@ -15477,6 +14390,7 @@ let sm12 = [
         "id": "sm12-218",
         "name": "Flygon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15533,10 +14447,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15550,10 +14461,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/218.png",
             "large": "https://images.pokemontcg.io/sm12/218_hires.png"
@@ -15563,6 +14471,7 @@ let sm12 = [
         "id": "sm12-219",
         "name": "Alolan Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15625,10 +14534,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15642,10 +14548,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/219.png",
             "large": "https://images.pokemontcg.io/sm12/219_hires.png"
@@ -15655,6 +14558,7 @@ let sm12 = [
         "id": "sm12-220",
         "name": "Arceus & Dialga & Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15702,10 +14606,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15721,10 +14622,7 @@ let sm12 = [
             484,
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/220.png",
             "large": "https://images.pokemontcg.io/sm12/220_hires.png"
@@ -15734,6 +14632,7 @@ let sm12 = [
         "id": "sm12-221",
         "name": "Arceus & Dialga & Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15781,10 +14680,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15800,10 +14696,7 @@ let sm12 = [
             484,
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/221.png",
             "large": "https://images.pokemontcg.io/sm12/221_hires.png"
@@ -15813,6 +14706,7 @@ let sm12 = [
         "id": "sm12-222",
         "name": "Reshiram & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15862,10 +14756,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15880,10 +14771,7 @@ let sm12 = [
             643,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/222.png",
             "large": "https://images.pokemontcg.io/sm12/222_hires.png"
@@ -15893,6 +14781,7 @@ let sm12 = [
         "id": "sm12-223",
         "name": "Naganadel & Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15948,10 +14837,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -15966,10 +14852,7 @@ let sm12 = [
             799,
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/223.png",
             "large": "https://images.pokemontcg.io/sm12/223_hires.png"
@@ -15979,6 +14862,7 @@ let sm12 = [
         "id": "sm12-224",
         "name": "Naganadel & Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16034,10 +14918,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16052,10 +14933,7 @@ let sm12 = [
             799,
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/224.png",
             "large": "https://images.pokemontcg.io/sm12/224_hires.png"
@@ -16065,6 +14943,7 @@ let sm12 = [
         "id": "sm12-225",
         "name": "Mega Lopunny & Jigglypuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16115,10 +14994,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16133,10 +15009,7 @@ let sm12 = [
             39,
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/225.png",
             "large": "https://images.pokemontcg.io/sm12/225_hires.png"
@@ -16146,6 +15019,7 @@ let sm12 = [
         "id": "sm12-226",
         "name": "Mega Lopunny & Jigglypuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16196,10 +15070,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16214,10 +15085,7 @@ let sm12 = [
             39,
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/226.png",
             "large": "https://images.pokemontcg.io/sm12/226_hires.png"
@@ -16227,6 +15095,7 @@ let sm12 = [
         "id": "sm12-227",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -16281,10 +15150,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16298,10 +15164,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/227.png",
             "large": "https://images.pokemontcg.io/sm12/227_hires.png"
@@ -16311,6 +15174,7 @@ let sm12 = [
         "id": "sm12-228",
         "name": "Cynthia & Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -16326,10 +15190,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16340,10 +15201,7 @@ let sm12 = [
         "number": "228",
         "artist": "Sakiko Maeda",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/228.png",
             "large": "https://images.pokemontcg.io/sm12/228_hires.png"
@@ -16353,6 +15211,7 @@ let sm12 = [
         "id": "sm12-229",
         "name": "Guzma & Hala",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -16368,10 +15227,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16382,10 +15238,7 @@ let sm12 = [
         "number": "229",
         "artist": "Junsei Kuninobu",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/229.png",
             "large": "https://images.pokemontcg.io/sm12/229_hires.png"
@@ -16395,6 +15248,7 @@ let sm12 = [
         "id": "sm12-230",
         "name": "Lillie's Full Force",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -16409,10 +15263,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16423,10 +15274,7 @@ let sm12 = [
         "number": "230",
         "artist": "Noriko Uono",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/230.png",
             "large": "https://images.pokemontcg.io/sm12/230_hires.png"
@@ -16436,6 +15284,7 @@ let sm12 = [
         "id": "sm12-231",
         "name": "Mallow & Lana",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -16451,10 +15300,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16465,10 +15311,7 @@ let sm12 = [
         "number": "231",
         "artist": "kirisAki",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/231.png",
             "large": "https://images.pokemontcg.io/sm12/231_hires.png"
@@ -16478,6 +15321,7 @@ let sm12 = [
         "id": "sm12-232",
         "name": "N's Resolve",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -16491,10 +15335,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16505,10 +15346,7 @@ let sm12 = [
         "number": "232",
         "artist": "Mana Ibe",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/232.png",
             "large": "https://images.pokemontcg.io/sm12/232_hires.png"
@@ -16518,6 +15356,7 @@ let sm12 = [
         "id": "sm12-233",
         "name": "Professor Oak's Setup",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -16531,10 +15370,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16545,10 +15381,7 @@ let sm12 = [
         "number": "233",
         "artist": "Nabana Kensaku",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/233.png",
             "large": "https://images.pokemontcg.io/sm12/233_hires.png"
@@ -16558,6 +15391,7 @@ let sm12 = [
         "id": "sm12-234",
         "name": "Red & Blue",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -16573,10 +15407,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16587,10 +15418,7 @@ let sm12 = [
         "number": "234",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/234.png",
             "large": "https://images.pokemontcg.io/sm12/234_hires.png"
@@ -16600,6 +15428,7 @@ let sm12 = [
         "id": "sm12-235",
         "name": "Roller Skater",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -16613,10 +15442,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16627,10 +15453,7 @@ let sm12 = [
         "number": "235",
         "artist": "nagimiso",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/235.png",
             "large": "https://images.pokemontcg.io/sm12/235_hires.png"
@@ -16640,6 +15463,7 @@ let sm12 = [
         "id": "sm12-236",
         "name": "Rosa",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Supporter"
         ],
@@ -16654,10 +15478,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16668,10 +15489,7 @@ let sm12 = [
         "number": "236",
         "artist": "kirisAki",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/236.png",
             "large": "https://images.pokemontcg.io/sm12/236_hires.png"
@@ -16681,6 +15499,7 @@ let sm12 = [
         "id": "sm12-237",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -16723,10 +15542,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16741,10 +15557,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/237.png",
             "large": "https://images.pokemontcg.io/sm12/237_hires.png"
@@ -16754,6 +15567,7 @@ let sm12 = [
         "id": "sm12-238",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -16796,10 +15610,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16814,10 +15625,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/238.png",
             "large": "https://images.pokemontcg.io/sm12/238_hires.png"
@@ -16827,6 +15635,7 @@ let sm12 = [
         "id": "sm12-239",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -16863,10 +15672,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16881,10 +15687,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/239.png",
             "large": "https://images.pokemontcg.io/sm12/239_hires.png"
@@ -16894,6 +15697,7 @@ let sm12 = [
         "id": "sm12-240",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -16934,10 +15738,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -16952,10 +15753,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             746
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/240.png",
             "large": "https://images.pokemontcg.io/sm12/240_hires.png"
@@ -16965,6 +15763,7 @@ let sm12 = [
         "id": "sm12-241",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -17016,10 +15815,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17034,10 +15830,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/241.png",
             "large": "https://images.pokemontcg.io/sm12/241_hires.png"
@@ -17047,6 +15840,7 @@ let sm12 = [
         "id": "sm12-242",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -17087,10 +15881,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17105,10 +15896,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/242.png",
             "large": "https://images.pokemontcg.io/sm12/242_hires.png"
@@ -17118,6 +15906,7 @@ let sm12 = [
         "id": "sm12-243",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -17160,10 +15949,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17178,10 +15964,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/243.png",
             "large": "https://images.pokemontcg.io/sm12/243_hires.png"
@@ -17191,6 +15974,7 @@ let sm12 = [
         "id": "sm12-244",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -17231,10 +16015,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17249,10 +16030,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             475
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/244.png",
             "large": "https://images.pokemontcg.io/sm12/244_hires.png"
@@ -17262,6 +16040,7 @@ let sm12 = [
         "id": "sm12-245",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic"
         ],
@@ -17296,10 +16075,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17314,10 +16090,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/245.png",
             "large": "https://images.pokemontcg.io/sm12/245_hires.png"
@@ -17327,6 +16100,7 @@ let sm12 = [
         "id": "sm12-246",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -17368,10 +16142,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17386,10 +16157,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/246.png",
             "large": "https://images.pokemontcg.io/sm12/246_hires.png"
@@ -17399,6 +16167,7 @@ let sm12 = [
         "id": "sm12-247",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1"
         ],
@@ -17450,10 +16219,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17468,10 +16234,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/247.png",
             "large": "https://images.pokemontcg.io/sm12/247_hires.png"
@@ -17481,6 +16244,7 @@ let sm12 = [
         "id": "sm12-248",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2"
         ],
@@ -17522,10 +16286,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17540,10 +16301,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/248.png",
             "large": "https://images.pokemontcg.io/sm12/248_hires.png"
@@ -17553,6 +16311,7 @@ let sm12 = [
         "id": "sm12-249",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17613,10 +16372,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17631,10 +16387,7 @@ let sm12 = [
             3,
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/249.png",
             "large": "https://images.pokemontcg.io/sm12/249_hires.png"
@@ -17644,6 +16397,7 @@ let sm12 = [
         "id": "sm12-250",
         "name": "Vileplume-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -17697,10 +16451,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17714,10 +16465,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/250.png",
             "large": "https://images.pokemontcg.io/sm12/250_hires.png"
@@ -17727,6 +16475,7 @@ let sm12 = [
         "id": "sm12-251",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17778,10 +16527,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17796,10 +16542,7 @@ let sm12 = [
             6,
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/251.png",
             "large": "https://images.pokemontcg.io/sm12/251_hires.png"
@@ -17809,6 +16552,7 @@ let sm12 = [
         "id": "sm12-252",
         "name": "Volcarona-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -17863,10 +16607,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17880,10 +16621,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/252.png",
             "large": "https://images.pokemontcg.io/sm12/252_hires.png"
@@ -17893,6 +16631,7 @@ let sm12 = [
         "id": "sm12-253",
         "name": "Blastoise & Piplup-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17945,10 +16684,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -17963,10 +16699,7 @@ let sm12 = [
             9,
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/253.png",
             "large": "https://images.pokemontcg.io/sm12/253_hires.png"
@@ -17976,6 +16709,7 @@ let sm12 = [
         "id": "sm12-254",
         "name": "Solgaleo & Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18026,10 +16760,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18044,10 +16775,7 @@ let sm12 = [
             791,
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/254.png",
             "large": "https://images.pokemontcg.io/sm12/254_hires.png"
@@ -18057,6 +16785,7 @@ let sm12 = [
         "id": "sm12-255",
         "name": "Oricorio-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "GX"
@@ -18118,10 +16847,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18135,10 +16861,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/255.png",
             "large": "https://images.pokemontcg.io/sm12/255_hires.png"
@@ -18148,6 +16871,7 @@ let sm12 = [
         "id": "sm12-256",
         "name": "Flygon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -18204,10 +16928,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18221,10 +16942,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/256.png",
             "large": "https://images.pokemontcg.io/sm12/256_hires.png"
@@ -18234,6 +16952,7 @@ let sm12 = [
         "id": "sm12-257",
         "name": "Alolan Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -18296,10 +17015,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18313,10 +17029,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/257.png",
             "large": "https://images.pokemontcg.io/sm12/257_hires.png"
@@ -18326,6 +17039,7 @@ let sm12 = [
         "id": "sm12-258",
         "name": "Arceus & Dialga & Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18373,10 +17087,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18392,10 +17103,7 @@ let sm12 = [
             484,
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/258.png",
             "large": "https://images.pokemontcg.io/sm12/258_hires.png"
@@ -18405,6 +17113,7 @@ let sm12 = [
         "id": "sm12-259",
         "name": "Reshiram & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18454,10 +17163,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18472,10 +17178,7 @@ let sm12 = [
             643,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/259.png",
             "large": "https://images.pokemontcg.io/sm12/259_hires.png"
@@ -18485,6 +17188,7 @@ let sm12 = [
         "id": "sm12-260",
         "name": "Naganadel & Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18540,10 +17244,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18558,10 +17259,7 @@ let sm12 = [
             799,
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/260.png",
             "large": "https://images.pokemontcg.io/sm12/260_hires.png"
@@ -18571,6 +17269,7 @@ let sm12 = [
         "id": "sm12-261",
         "name": "Mega Lopunny & Jigglypuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18621,10 +17320,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18639,10 +17335,7 @@ let sm12 = [
             39,
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/261.png",
             "large": "https://images.pokemontcg.io/sm12/261_hires.png"
@@ -18652,6 +17345,7 @@ let sm12 = [
         "id": "sm12-262",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -18706,10 +17400,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18723,10 +17414,7 @@ let sm12 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/262.png",
             "large": "https://images.pokemontcg.io/sm12/262_hires.png"
@@ -18736,6 +17424,7 @@ let sm12 = [
         "id": "sm12-263",
         "name": "Giant Hearth",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stadium"
         ],
@@ -18749,10 +17438,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18763,10 +17449,7 @@ let sm12 = [
         "number": "263",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/263.png",
             "large": "https://images.pokemontcg.io/sm12/263_hires.png"
@@ -18776,6 +17459,7 @@ let sm12 = [
         "id": "sm12-264",
         "name": "Great Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -18790,10 +17474,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18804,10 +17485,7 @@ let sm12 = [
         "number": "264",
         "artist": "Studio Bora Inc.",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/264.png",
             "large": "https://images.pokemontcg.io/sm12/264_hires.png"
@@ -18817,6 +17495,7 @@ let sm12 = [
         "id": "sm12-265",
         "name": "Island Challenge Amulet",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18831,10 +17510,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18858,6 +17534,7 @@ let sm12 = [
         "id": "sm12-266",
         "name": "Lana's Fishing Rod",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -18871,10 +17548,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18885,10 +17559,7 @@ let sm12 = [
         "number": "266",
         "artist": "Eske Yoshinob",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/266.png",
             "large": "https://images.pokemontcg.io/sm12/266_hires.png"
@@ -18898,6 +17569,7 @@ let sm12 = [
         "id": "sm12-267",
         "name": "Lillie's Poké Doll",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -18913,10 +17585,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18927,10 +17596,7 @@ let sm12 = [
         "number": "267",
         "artist": "Studio Bora Inc.",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/267.png",
             "large": "https://images.pokemontcg.io/sm12/267_hires.png"
@@ -18940,6 +17606,7 @@ let sm12 = [
         "id": "sm12-268",
         "name": "Martial Arts Dojo",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stadium"
         ],
@@ -18953,10 +17620,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -18967,10 +17631,7 @@ let sm12 = [
         "number": "268",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/268.png",
             "large": "https://images.pokemontcg.io/sm12/268_hires.png"
@@ -18980,6 +17641,7 @@ let sm12 = [
         "id": "sm12-269",
         "name": "Power Plant",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Stadium"
         ],
@@ -18993,10 +17655,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -19007,10 +17666,7 @@ let sm12 = [
         "number": "269",
         "artist": "aky CG Works",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/269.png",
             "large": "https://images.pokemontcg.io/sm12/269_hires.png"
@@ -19020,6 +17676,7 @@ let sm12 = [
         "id": "sm12-270",
         "name": "Tag Call",
         "supertype": "Trainer",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Item"
         ],
@@ -19033,10 +17690,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -19047,10 +17701,7 @@ let sm12 = [
         "number": "270",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/270.png",
             "large": "https://images.pokemontcg.io/sm12/270_hires.png"
@@ -19060,6 +17711,7 @@ let sm12 = [
         "id": "sm12-271",
         "name": "Draw Energy",
         "supertype": "Energy",
+        "setAbbrev": "CEC",
         "subtypes": [
             "Special"
         ],
@@ -19073,10 +17725,7 @@ let sm12 = [
             "series": "Sun & Moon",
             "printedTotal": 236,
             "total": 272,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEC",
             "releaseDate": "2019/11/01",
             "images": {
@@ -19086,10 +17735,7 @@ let sm12 = [
         },
         "number": "271",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm12/271.png",
             "large": "https://images.pokemontcg.io/sm12/271_hires.png"

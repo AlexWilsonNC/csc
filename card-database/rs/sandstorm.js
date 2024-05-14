@@ -1,8 +1,9 @@
-let sandstorm = [
+let ex2 = [
     {
         "id": "ex2-1",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -60,9 +59,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/1.png",
             "large": "https://images.pokemontcg.io/ex2/1_hires.png"
@@ -72,6 +69,7 @@ let sandstorm = [
         "id": "ex2-2",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -113,9 +111,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -129,9 +125,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/2.png",
             "large": "https://images.pokemontcg.io/ex2/2_hires.png"
@@ -141,6 +135,7 @@ let sandstorm = [
         "id": "ex2-3",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -191,9 +186,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -207,9 +200,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/3.png",
             "large": "https://images.pokemontcg.io/ex2/3_hires.png"
@@ -219,6 +210,7 @@ let sandstorm = [
         "id": "ex2-4",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -272,9 +264,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -288,9 +278,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/4.png",
             "large": "https://images.pokemontcg.io/ex2/4_hires.png"
@@ -300,6 +288,7 @@ let sandstorm = [
         "id": "ex2-5",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -345,9 +334,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -361,9 +348,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/5.png",
             "large": "https://images.pokemontcg.io/ex2/5_hires.png"
@@ -373,6 +358,7 @@ let sandstorm = [
         "id": "ex2-6",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -423,9 +409,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -439,9 +423,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/6.png",
             "large": "https://images.pokemontcg.io/ex2/6_hires.png"
@@ -451,6 +433,7 @@ let sandstorm = [
         "id": "ex2-7",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -492,9 +475,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -508,9 +489,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/7.png",
             "large": "https://images.pokemontcg.io/ex2/7_hires.png"
@@ -520,6 +499,7 @@ let sandstorm = [
         "id": "ex2-8",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -568,9 +548,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -584,9 +562,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/8.png",
             "large": "https://images.pokemontcg.io/ex2/8_hires.png"
@@ -596,6 +572,7 @@ let sandstorm = [
         "id": "ex2-9",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -637,9 +614,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -653,9 +628,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/9.png",
             "large": "https://images.pokemontcg.io/ex2/9_hires.png"
@@ -665,6 +638,7 @@ let sandstorm = [
         "id": "ex2-10",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -706,9 +680,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -722,9 +694,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/10.png",
             "large": "https://images.pokemontcg.io/ex2/10_hires.png"
@@ -734,6 +704,7 @@ let sandstorm = [
         "id": "ex2-11",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -775,9 +746,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -791,9 +760,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/11.png",
             "large": "https://images.pokemontcg.io/ex2/11_hires.png"
@@ -803,6 +770,7 @@ let sandstorm = [
         "id": "ex2-12",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -845,9 +813,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -861,9 +827,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/12.png",
             "large": "https://images.pokemontcg.io/ex2/12_hires.png"
@@ -873,6 +837,7 @@ let sandstorm = [
         "id": "ex2-13",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -922,9 +887,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -938,9 +901,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/13.png",
             "large": "https://images.pokemontcg.io/ex2/13_hires.png"
@@ -950,6 +911,7 @@ let sandstorm = [
         "id": "ex2-14",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -999,9 +961,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1015,9 +975,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/14.png",
             "large": "https://images.pokemontcg.io/ex2/14_hires.png"
@@ -1027,6 +985,7 @@ let sandstorm = [
         "id": "ex2-15",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1068,9 +1027,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1084,9 +1041,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/15.png",
             "large": "https://images.pokemontcg.io/ex2/15_hires.png"
@@ -1096,6 +1051,7 @@ let sandstorm = [
         "id": "ex2-16",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1139,9 +1095,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1155,9 +1109,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/16.png",
             "large": "https://images.pokemontcg.io/ex2/16_hires.png"
@@ -1167,6 +1119,7 @@ let sandstorm = [
         "id": "ex2-17",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1207,9 +1160,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1223,9 +1174,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/17.png",
             "large": "https://images.pokemontcg.io/ex2/17_hires.png"
@@ -1235,6 +1184,7 @@ let sandstorm = [
         "id": "ex2-18",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -1274,9 +1224,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1290,9 +1238,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             352
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/18.png",
             "large": "https://images.pokemontcg.io/ex2/18_hires.png"
@@ -1302,6 +1248,7 @@ let sandstorm = [
         "id": "ex2-19",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1344,9 +1291,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1360,9 +1305,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/19.png",
             "large": "https://images.pokemontcg.io/ex2/19_hires.png"
@@ -1372,6 +1315,7 @@ let sandstorm = [
         "id": "ex2-20",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -1413,9 +1357,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1429,9 +1371,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/20.png",
             "large": "https://images.pokemontcg.io/ex2/20_hires.png"
@@ -1441,6 +1381,7 @@ let sandstorm = [
         "id": "ex2-21",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1484,9 +1425,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1500,9 +1439,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/21.png",
             "large": "https://images.pokemontcg.io/ex2/21_hires.png"
@@ -1512,6 +1449,7 @@ let sandstorm = [
         "id": "ex2-22",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1558,9 +1496,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1574,9 +1510,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/22.png",
             "large": "https://images.pokemontcg.io/ex2/22_hires.png"
@@ -1586,6 +1520,7 @@ let sandstorm = [
         "id": "ex2-23",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1638,9 +1573,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1654,9 +1587,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/23.png",
             "large": "https://images.pokemontcg.io/ex2/23_hires.png"
@@ -1666,6 +1597,7 @@ let sandstorm = [
         "id": "ex2-24",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1715,9 +1647,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1731,9 +1661,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/24.png",
             "large": "https://images.pokemontcg.io/ex2/24_hires.png"
@@ -1743,6 +1671,7 @@ let sandstorm = [
         "id": "ex2-25",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1787,9 +1716,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1803,9 +1730,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/25.png",
             "large": "https://images.pokemontcg.io/ex2/25_hires.png"
@@ -1815,6 +1740,7 @@ let sandstorm = [
         "id": "ex2-26",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -1855,9 +1781,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1871,9 +1795,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/26.png",
             "large": "https://images.pokemontcg.io/ex2/26_hires.png"
@@ -1883,6 +1805,7 @@ let sandstorm = [
         "id": "ex2-27",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1928,9 +1851,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1944,9 +1865,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/27.png",
             "large": "https://images.pokemontcg.io/ex2/27_hires.png"
@@ -1956,6 +1875,7 @@ let sandstorm = [
         "id": "ex2-28",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2002,9 +1922,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2018,9 +1936,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/28.png",
             "large": "https://images.pokemontcg.io/ex2/28_hires.png"
@@ -2030,6 +1946,7 @@ let sandstorm = [
         "id": "ex2-29",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2071,9 +1988,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2087,9 +2002,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/29.png",
             "large": "https://images.pokemontcg.io/ex2/29_hires.png"
@@ -2099,6 +2012,7 @@ let sandstorm = [
         "id": "ex2-30",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2141,9 +2055,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2157,9 +2069,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/30.png",
             "large": "https://images.pokemontcg.io/ex2/30_hires.png"
@@ -2169,6 +2079,7 @@ let sandstorm = [
         "id": "ex2-31",
         "name": "Azurill",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -2210,9 +2121,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2226,9 +2135,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             298
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/31.png",
             "large": "https://images.pokemontcg.io/ex2/31_hires.png"
@@ -2238,6 +2145,7 @@ let sandstorm = [
         "id": "ex2-32",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -2272,9 +2180,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2288,9 +2194,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/32.png",
             "large": "https://images.pokemontcg.io/ex2/32_hires.png"
@@ -2300,6 +2204,7 @@ let sandstorm = [
         "id": "ex2-33",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2343,9 +2248,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2359,9 +2262,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/33.png",
             "large": "https://images.pokemontcg.io/ex2/33_hires.png"
@@ -2371,6 +2272,7 @@ let sandstorm = [
         "id": "ex2-34",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2415,9 +2317,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2431,9 +2331,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/34.png",
             "large": "https://images.pokemontcg.io/ex2/34_hires.png"
@@ -2443,6 +2341,7 @@ let sandstorm = [
         "id": "ex2-35",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -2494,9 +2393,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2510,9 +2407,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/35.png",
             "large": "https://images.pokemontcg.io/ex2/35_hires.png"
@@ -2522,6 +2417,7 @@ let sandstorm = [
         "id": "ex2-36",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -2563,9 +2459,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2579,9 +2473,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/36.png",
             "large": "https://images.pokemontcg.io/ex2/36_hires.png"
@@ -2591,6 +2483,7 @@ let sandstorm = [
         "id": "ex2-37",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2640,9 +2533,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2656,9 +2547,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/37.png",
             "large": "https://images.pokemontcg.io/ex2/37_hires.png"
@@ -2668,6 +2557,7 @@ let sandstorm = [
         "id": "ex2-38",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -2716,9 +2606,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2732,9 +2620,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/38.png",
             "large": "https://images.pokemontcg.io/ex2/38_hires.png"
@@ -2744,6 +2630,7 @@ let sandstorm = [
         "id": "ex2-39",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2796,9 +2683,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2812,9 +2697,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/39.png",
             "large": "https://images.pokemontcg.io/ex2/39_hires.png"
@@ -2824,6 +2707,7 @@ let sandstorm = [
         "id": "ex2-40",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2872,9 +2756,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2888,9 +2770,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/40.png",
             "large": "https://images.pokemontcg.io/ex2/40_hires.png"
@@ -2900,6 +2780,7 @@ let sandstorm = [
         "id": "ex2-41",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2952,9 +2833,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2968,9 +2847,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/41.png",
             "large": "https://images.pokemontcg.io/ex2/41_hires.png"
@@ -2980,6 +2857,7 @@ let sandstorm = [
         "id": "ex2-42",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3025,9 +2903,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3041,9 +2917,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/42.png",
             "large": "https://images.pokemontcg.io/ex2/42_hires.png"
@@ -3053,6 +2927,7 @@ let sandstorm = [
         "id": "ex2-43",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3099,9 +2974,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3115,9 +2988,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/43.png",
             "large": "https://images.pokemontcg.io/ex2/43_hires.png"
@@ -3127,6 +2998,7 @@ let sandstorm = [
         "id": "ex2-44",
         "name": "Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3168,9 +3040,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3184,9 +3054,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             264
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/44.png",
             "large": "https://images.pokemontcg.io/ex2/44_hires.png"
@@ -3196,6 +3064,7 @@ let sandstorm = [
         "id": "ex2-45",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3239,9 +3108,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3255,9 +3122,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/45.png",
             "large": "https://images.pokemontcg.io/ex2/45_hires.png"
@@ -3267,6 +3132,7 @@ let sandstorm = [
         "id": "ex2-46",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3312,9 +3178,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3328,9 +3192,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/46.png",
             "large": "https://images.pokemontcg.io/ex2/46_hires.png"
@@ -3340,6 +3202,7 @@ let sandstorm = [
         "id": "ex2-47",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -3390,9 +3253,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3406,9 +3267,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/47.png",
             "large": "https://images.pokemontcg.io/ex2/47_hires.png"
@@ -3418,6 +3277,7 @@ let sandstorm = [
         "id": "ex2-48",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3465,9 +3325,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3481,9 +3339,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/48.png",
             "large": "https://images.pokemontcg.io/ex2/48_hires.png"
@@ -3493,6 +3349,7 @@ let sandstorm = [
         "id": "ex2-49",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3540,9 +3397,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3556,9 +3411,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/49.png",
             "large": "https://images.pokemontcg.io/ex2/49_hires.png"
@@ -3568,6 +3421,7 @@ let sandstorm = [
         "id": "ex2-50",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3606,9 +3460,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3622,9 +3474,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/50.png",
             "large": "https://images.pokemontcg.io/ex2/50_hires.png"
@@ -3634,6 +3484,7 @@ let sandstorm = [
         "id": "ex2-51",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3681,9 +3532,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3697,9 +3546,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/51.png",
             "large": "https://images.pokemontcg.io/ex2/51_hires.png"
@@ -3709,6 +3556,7 @@ let sandstorm = [
         "id": "ex2-52",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3755,9 +3603,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3771,9 +3617,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/52.png",
             "large": "https://images.pokemontcg.io/ex2/52_hires.png"
@@ -3783,6 +3627,7 @@ let sandstorm = [
         "id": "ex2-53",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -3831,9 +3676,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3847,9 +3690,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/53.png",
             "large": "https://images.pokemontcg.io/ex2/53_hires.png"
@@ -3859,6 +3700,7 @@ let sandstorm = [
         "id": "ex2-54",
         "name": "Wynaut",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -3900,9 +3742,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3916,9 +3756,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             360
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/54.png",
             "large": "https://images.pokemontcg.io/ex2/54_hires.png"
@@ -3928,6 +3766,7 @@ let sandstorm = [
         "id": "ex2-55",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3973,9 +3812,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3989,9 +3826,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/55.png",
             "large": "https://images.pokemontcg.io/ex2/55_hires.png"
@@ -4001,6 +3836,7 @@ let sandstorm = [
         "id": "ex2-56",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4042,9 +3878,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4058,9 +3892,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/56.png",
             "large": "https://images.pokemontcg.io/ex2/56_hires.png"
@@ -4070,6 +3902,7 @@ let sandstorm = [
         "id": "ex2-57",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4111,9 +3944,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4127,9 +3958,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/57.png",
             "large": "https://images.pokemontcg.io/ex2/57_hires.png"
@@ -4139,6 +3968,7 @@ let sandstorm = [
         "id": "ex2-58",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4173,9 +4003,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4189,9 +4017,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/58.png",
             "large": "https://images.pokemontcg.io/ex2/58_hires.png"
@@ -4201,6 +4027,7 @@ let sandstorm = [
         "id": "ex2-59",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4244,9 +4071,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4260,9 +4085,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/59.png",
             "large": "https://images.pokemontcg.io/ex2/59_hires.png"
@@ -4272,6 +4095,7 @@ let sandstorm = [
         "id": "ex2-60",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4312,9 +4136,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4328,9 +4150,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/60.png",
             "large": "https://images.pokemontcg.io/ex2/60_hires.png"
@@ -4340,6 +4160,7 @@ let sandstorm = [
         "id": "ex2-61",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4389,9 +4210,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4405,9 +4224,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/61.png",
             "large": "https://images.pokemontcg.io/ex2/61_hires.png"
@@ -4417,6 +4234,7 @@ let sandstorm = [
         "id": "ex2-62",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4467,9 +4285,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4483,9 +4299,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/62.png",
             "large": "https://images.pokemontcg.io/ex2/62_hires.png"
@@ -4495,6 +4309,7 @@ let sandstorm = [
         "id": "ex2-63",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4545,9 +4360,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4561,9 +4374,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/63.png",
             "large": "https://images.pokemontcg.io/ex2/63_hires.png"
@@ -4573,6 +4384,7 @@ let sandstorm = [
         "id": "ex2-64",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4607,9 +4419,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4623,9 +4433,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/64.png",
             "large": "https://images.pokemontcg.io/ex2/64_hires.png"
@@ -4635,6 +4443,7 @@ let sandstorm = [
         "id": "ex2-65",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4677,9 +4486,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4693,9 +4500,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/65.png",
             "large": "https://images.pokemontcg.io/ex2/65_hires.png"
@@ -4705,6 +4510,7 @@ let sandstorm = [
         "id": "ex2-66",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4746,9 +4552,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4762,9 +4566,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/66.png",
             "large": "https://images.pokemontcg.io/ex2/66_hires.png"
@@ -4774,6 +4576,7 @@ let sandstorm = [
         "id": "ex2-67",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4818,9 +4621,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4834,9 +4635,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/67.png",
             "large": "https://images.pokemontcg.io/ex2/67_hires.png"
@@ -4846,6 +4645,7 @@ let sandstorm = [
         "id": "ex2-68",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4881,9 +4681,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4897,9 +4695,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/68.png",
             "large": "https://images.pokemontcg.io/ex2/68_hires.png"
@@ -4909,6 +4705,7 @@ let sandstorm = [
         "id": "ex2-69",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -4952,9 +4749,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4968,9 +4763,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/69.png",
             "large": "https://images.pokemontcg.io/ex2/69_hires.png"
@@ -4980,6 +4773,7 @@ let sandstorm = [
         "id": "ex2-70",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5025,9 +4819,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5041,9 +4833,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/70.png",
             "large": "https://images.pokemontcg.io/ex2/70_hires.png"
@@ -5053,6 +4843,7 @@ let sandstorm = [
         "id": "ex2-71",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5099,9 +4890,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5115,9 +4904,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/71.png",
             "large": "https://images.pokemontcg.io/ex2/71_hires.png"
@@ -5127,6 +4914,7 @@ let sandstorm = [
         "id": "ex2-72",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5172,9 +4960,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5188,9 +4974,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/72.png",
             "large": "https://images.pokemontcg.io/ex2/72_hires.png"
@@ -5200,6 +4984,7 @@ let sandstorm = [
         "id": "ex2-73",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5234,9 +5019,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5250,9 +5033,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/73.png",
             "large": "https://images.pokemontcg.io/ex2/73_hires.png"
@@ -5262,6 +5043,7 @@ let sandstorm = [
         "id": "ex2-74",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5305,9 +5087,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5321,9 +5101,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/74.png",
             "large": "https://images.pokemontcg.io/ex2/74_hires.png"
@@ -5333,6 +5111,7 @@ let sandstorm = [
         "id": "ex2-75",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5367,9 +5146,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5383,9 +5160,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/75.png",
             "large": "https://images.pokemontcg.io/ex2/75_hires.png"
@@ -5395,6 +5170,7 @@ let sandstorm = [
         "id": "ex2-76",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5429,9 +5205,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5445,9 +5219,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/76.png",
             "large": "https://images.pokemontcg.io/ex2/76_hires.png"
@@ -5457,6 +5229,7 @@ let sandstorm = [
         "id": "ex2-77",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5491,9 +5264,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5507,9 +5278,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/77.png",
             "large": "https://images.pokemontcg.io/ex2/77_hires.png"
@@ -5519,6 +5288,7 @@ let sandstorm = [
         "id": "ex2-78",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5569,9 +5339,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5585,9 +5353,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/78.png",
             "large": "https://images.pokemontcg.io/ex2/78_hires.png"
@@ -5597,6 +5363,7 @@ let sandstorm = [
         "id": "ex2-79",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5641,9 +5408,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5657,9 +5422,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/79.png",
             "large": "https://images.pokemontcg.io/ex2/79_hires.png"
@@ -5669,6 +5432,7 @@ let sandstorm = [
         "id": "ex2-80",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5703,9 +5467,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5719,9 +5481,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/80.png",
             "large": "https://images.pokemontcg.io/ex2/80_hires.png"
@@ -5731,6 +5491,7 @@ let sandstorm = [
         "id": "ex2-81",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5780,9 +5541,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5796,9 +5555,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/81.png",
             "large": "https://images.pokemontcg.io/ex2/81_hires.png"
@@ -5808,6 +5565,7 @@ let sandstorm = [
         "id": "ex2-82",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5852,9 +5610,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5868,9 +5624,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/82.png",
             "large": "https://images.pokemontcg.io/ex2/82_hires.png"
@@ -5880,6 +5634,7 @@ let sandstorm = [
         "id": "ex2-83",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5926,9 +5681,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5942,9 +5695,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/83.png",
             "large": "https://images.pokemontcg.io/ex2/83_hires.png"
@@ -5954,6 +5705,7 @@ let sandstorm = [
         "id": "ex2-84",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -5994,9 +5746,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6010,9 +5760,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/84.png",
             "large": "https://images.pokemontcg.io/ex2/84_hires.png"
@@ -6022,6 +5770,7 @@ let sandstorm = [
         "id": "ex2-85",
         "name": "Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Basic"
         ],
@@ -6066,9 +5815,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6082,9 +5829,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             263
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/85.png",
             "large": "https://images.pokemontcg.io/ex2/85_hires.png"
@@ -6094,6 +5839,7 @@ let sandstorm = [
         "id": "ex2-86",
         "name": "Double Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Item"
         ],
@@ -6106,9 +5852,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6119,9 +5863,7 @@ let sandstorm = [
         "number": "86",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/86.png",
             "large": "https://images.pokemontcg.io/ex2/86_hires.png"
@@ -6131,6 +5873,7 @@ let sandstorm = [
         "id": "ex2-87",
         "name": "Lanette's Net Search",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Supporter"
         ],
@@ -6144,9 +5887,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6157,9 +5898,7 @@ let sandstorm = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/87.png",
             "large": "https://images.pokemontcg.io/ex2/87_hires.png"
@@ -6169,6 +5908,7 @@ let sandstorm = [
         "id": "ex2-88",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Item"
         ],
@@ -6181,9 +5921,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6194,11 +5932,7 @@ let sandstorm = [
         "number": "88",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/88.png",
             "large": "https://images.pokemontcg.io/ex2/88_hires.png"
@@ -6208,6 +5942,7 @@ let sandstorm = [
         "id": "ex2-89",
         "name": "Wally's Training",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Supporter"
         ],
@@ -6221,9 +5956,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6234,9 +5967,7 @@ let sandstorm = [
         "number": "89",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/89.png",
             "large": "https://images.pokemontcg.io/ex2/89_hires.png"
@@ -6246,6 +5977,7 @@ let sandstorm = [
         "id": "ex2-90",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Item"
         ],
@@ -6266,9 +5998,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6279,9 +6009,7 @@ let sandstorm = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/90.png",
             "large": "https://images.pokemontcg.io/ex2/90_hires.png"
@@ -6291,6 +6019,7 @@ let sandstorm = [
         "id": "ex2-91",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Item"
         ],
@@ -6304,9 +6033,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6317,9 +6044,7 @@ let sandstorm = [
         "number": "91",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/91.png",
             "large": "https://images.pokemontcg.io/ex2/91_hires.png"
@@ -6329,6 +6054,7 @@ let sandstorm = [
         "id": "ex2-92",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "SS",
         "subtypes": [
             "Item"
         ],
@@ -6349,9 +6075,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6362,9 +6086,7 @@ let sandstorm = [
         "number": "92",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/92.png",
             "large": "https://images.pokemontcg.io/ex2/92_hires.png"
@@ -6374,6 +6096,7 @@ let sandstorm = [
         "id": "ex2-93",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "SS",
         "subtypes": [
             "Special"
         ],
@@ -6386,9 +6109,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6399,9 +6120,7 @@ let sandstorm = [
         "number": "93",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/93.png",
             "large": "https://images.pokemontcg.io/ex2/93_hires.png"
@@ -6411,6 +6130,7 @@ let sandstorm = [
         "id": "ex2-94",
         "name": "Aerodactyl ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6471,9 +6191,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6487,9 +6205,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/94.png",
             "large": "https://images.pokemontcg.io/ex2/94_hires.png"
@@ -6499,6 +6215,7 @@ let sandstorm = [
         "id": "ex2-95",
         "name": "Aggron ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6560,9 +6277,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6576,9 +6291,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/95.png",
             "large": "https://images.pokemontcg.io/ex2/95_hires.png"
@@ -6588,6 +6301,7 @@ let sandstorm = [
         "id": "ex2-96",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6641,9 +6355,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6657,9 +6369,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/96.png",
             "large": "https://images.pokemontcg.io/ex2/96_hires.png"
@@ -6669,6 +6379,7 @@ let sandstorm = [
         "id": "ex2-97",
         "name": "Kabutops ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6721,9 +6432,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6737,9 +6446,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/97.png",
             "large": "https://images.pokemontcg.io/ex2/97_hires.png"
@@ -6749,6 +6456,7 @@ let sandstorm = [
         "id": "ex2-98",
         "name": "Raichu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6796,9 +6504,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6812,9 +6518,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/98.png",
             "large": "https://images.pokemontcg.io/ex2/98_hires.png"
@@ -6824,6 +6528,7 @@ let sandstorm = [
         "id": "ex2-99",
         "name": "Typhlosion ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6879,9 +6584,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6895,9 +6598,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/99.png",
             "large": "https://images.pokemontcg.io/ex2/99_hires.png"
@@ -6907,6 +6608,7 @@ let sandstorm = [
         "id": "ex2-100",
         "name": "Wailord ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6959,9 +6661,7 @@ let sandstorm = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SS",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6975,9 +6675,7 @@ let sandstorm = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex2/100.png",
             "large": "https://images.pokemontcg.io/ex2/100_hires.png"

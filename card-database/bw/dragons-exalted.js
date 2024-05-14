@@ -1,8 +1,9 @@
-let dragonsExalted = [
+let bw6 = [
     {
         "id": "bw6-1",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -43,10 +44,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -61,10 +59,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/1.png",
             "large": "https://images.pokemontcg.io/bw6/1_hires.png"
@@ -74,6 +69,7 @@ let dragonsExalted = [
         "id": "bw6-2",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -114,10 +110,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -132,10 +125,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/2.png",
             "large": "https://images.pokemontcg.io/bw6/2_hires.png"
@@ -145,6 +135,7 @@ let dragonsExalted = [
         "id": "bw6-3",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -189,10 +180,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -207,10 +195,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/3.png",
             "large": "https://images.pokemontcg.io/bw6/3_hires.png"
@@ -220,6 +205,7 @@ let dragonsExalted = [
         "id": "bw6-4",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -261,10 +247,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -279,10 +262,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/4.png",
             "large": "https://images.pokemontcg.io/bw6/4_hires.png"
@@ -292,6 +272,7 @@ let dragonsExalted = [
         "id": "bw6-5",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -341,10 +322,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -359,10 +337,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/5.png",
             "large": "https://images.pokemontcg.io/bw6/5_hires.png"
@@ -372,6 +347,7 @@ let dragonsExalted = [
         "id": "bw6-6",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -407,10 +383,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -425,10 +398,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/6.png",
             "large": "https://images.pokemontcg.io/bw6/6_hires.png"
@@ -438,6 +408,7 @@ let dragonsExalted = [
         "id": "bw6-7",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -484,10 +455,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -502,10 +470,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             266
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/7.png",
             "large": "https://images.pokemontcg.io/bw6/7_hires.png"
@@ -515,6 +480,7 @@ let dragonsExalted = [
         "id": "bw6-8",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -558,10 +524,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -576,10 +539,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             267
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/8.png",
             "large": "https://images.pokemontcg.io/bw6/8_hires.png"
@@ -589,6 +549,7 @@ let dragonsExalted = [
         "id": "bw6-9",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -634,10 +595,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -652,10 +610,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             268
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/9.png",
             "large": "https://images.pokemontcg.io/bw6/9_hires.png"
@@ -665,6 +620,7 @@ let dragonsExalted = [
         "id": "bw6-10",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -699,10 +655,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -717,10 +670,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/10.png",
             "large": "https://images.pokemontcg.io/bw6/10_hires.png"
@@ -730,6 +680,7 @@ let dragonsExalted = [
         "id": "bw6-11",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -773,10 +724,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -791,10 +739,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/11.png",
             "large": "https://images.pokemontcg.io/bw6/11_hires.png"
@@ -804,6 +749,7 @@ let dragonsExalted = [
         "id": "bw6-12",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -853,10 +799,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -871,10 +814,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/12.png",
             "large": "https://images.pokemontcg.io/bw6/12_hires.png"
@@ -884,6 +824,7 @@ let dragonsExalted = [
         "id": "bw6-13",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -925,10 +866,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -943,10 +881,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/13.png",
             "large": "https://images.pokemontcg.io/bw6/13_hires.png"
@@ -956,6 +891,7 @@ let dragonsExalted = [
         "id": "bw6-14",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1005,10 +941,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1023,10 +956,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/14.png",
             "large": "https://images.pokemontcg.io/bw6/14_hires.png"
@@ -1036,6 +966,7 @@ let dragonsExalted = [
         "id": "bw6-15",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1082,10 +1013,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1100,10 +1028,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/15.png",
             "large": "https://images.pokemontcg.io/bw6/15_hires.png"
@@ -1113,6 +1038,7 @@ let dragonsExalted = [
         "id": "bw6-16",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1162,10 +1088,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1180,10 +1103,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/16.png",
             "large": "https://images.pokemontcg.io/bw6/16_hires.png"
@@ -1193,6 +1113,7 @@ let dragonsExalted = [
         "id": "bw6-17",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1233,10 +1154,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1251,10 +1169,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/17.png",
             "large": "https://images.pokemontcg.io/bw6/17_hires.png"
@@ -1264,6 +1179,7 @@ let dragonsExalted = [
         "id": "bw6-18",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1298,10 +1214,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1316,10 +1229,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/18.png",
             "large": "https://images.pokemontcg.io/bw6/18_hires.png"
@@ -1329,6 +1239,7 @@ let dragonsExalted = [
         "id": "bw6-19",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1368,10 +1279,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1386,10 +1294,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/19.png",
             "large": "https://images.pokemontcg.io/bw6/19_hires.png"
@@ -1399,6 +1304,7 @@ let dragonsExalted = [
         "id": "bw6-20",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1444,10 +1350,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1462,10 +1365,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/20.png",
             "large": "https://images.pokemontcg.io/bw6/20_hires.png"
@@ -1475,6 +1375,7 @@ let dragonsExalted = [
         "id": "bw6-21",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1518,10 +1419,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1536,10 +1434,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/21.png",
             "large": "https://images.pokemontcg.io/bw6/21_hires.png"
@@ -1549,6 +1444,7 @@ let dragonsExalted = [
         "id": "bw6-22",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -1599,10 +1495,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1616,10 +1509,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/22.png",
             "large": "https://images.pokemontcg.io/bw6/22_hires.png"
@@ -1629,6 +1519,7 @@ let dragonsExalted = [
         "id": "bw6-23",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1663,10 +1554,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1681,10 +1569,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/23.png",
             "large": "https://images.pokemontcg.io/bw6/23_hires.png"
@@ -1694,6 +1579,7 @@ let dragonsExalted = [
         "id": "bw6-24",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1740,10 +1626,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1758,10 +1641,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/24.png",
             "large": "https://images.pokemontcg.io/bw6/24_hires.png"
@@ -1771,6 +1651,7 @@ let dragonsExalted = [
         "id": "bw6-25",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1816,10 +1697,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1834,10 +1712,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/25.png",
             "large": "https://images.pokemontcg.io/bw6/25_hires.png"
@@ -1847,6 +1722,7 @@ let dragonsExalted = [
         "id": "bw6-26",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1891,10 +1767,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1909,10 +1782,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/26.png",
             "large": "https://images.pokemontcg.io/bw6/26_hires.png"
@@ -1922,6 +1792,7 @@ let dragonsExalted = [
         "id": "bw6-27",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1956,10 +1827,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -1974,10 +1842,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/27.png",
             "large": "https://images.pokemontcg.io/bw6/27_hires.png"
@@ -1987,6 +1852,7 @@ let dragonsExalted = [
         "id": "bw6-28",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2030,10 +1896,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2048,10 +1911,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/28.png",
             "large": "https://images.pokemontcg.io/bw6/28_hires.png"
@@ -2061,6 +1921,7 @@ let dragonsExalted = [
         "id": "bw6-29",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2096,10 +1957,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2114,10 +1972,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/29.png",
             "large": "https://images.pokemontcg.io/bw6/29_hires.png"
@@ -2127,6 +1982,7 @@ let dragonsExalted = [
         "id": "bw6-30",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2174,10 +2030,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2192,10 +2045,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/30.png",
             "large": "https://images.pokemontcg.io/bw6/30_hires.png"
@@ -2205,6 +2055,7 @@ let dragonsExalted = [
         "id": "bw6-31",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2251,10 +2102,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2269,10 +2117,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/31.png",
             "large": "https://images.pokemontcg.io/bw6/31_hires.png"
@@ -2282,6 +2127,7 @@ let dragonsExalted = [
         "id": "bw6-32",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2316,10 +2162,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2334,10 +2177,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/32.png",
             "large": "https://images.pokemontcg.io/bw6/32_hires.png"
@@ -2347,6 +2187,7 @@ let dragonsExalted = [
         "id": "bw6-33",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2389,10 +2230,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2407,10 +2245,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/33.png",
             "large": "https://images.pokemontcg.io/bw6/33_hires.png"
@@ -2420,6 +2255,7 @@ let dragonsExalted = [
         "id": "bw6-34",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2454,10 +2290,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2472,10 +2305,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/34.png",
             "large": "https://images.pokemontcg.io/bw6/34_hires.png"
@@ -2485,6 +2315,7 @@ let dragonsExalted = [
         "id": "bw6-35",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2531,10 +2362,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2549,10 +2377,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/35.png",
             "large": "https://images.pokemontcg.io/bw6/35_hires.png"
@@ -2562,6 +2387,7 @@ let dragonsExalted = [
         "id": "bw6-36",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2608,10 +2434,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2626,10 +2449,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             537
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/36.png",
             "large": "https://images.pokemontcg.io/bw6/36_hires.png"
@@ -2639,6 +2459,7 @@ let dragonsExalted = [
         "id": "bw6-37",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2682,10 +2503,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2700,10 +2518,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             594
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/37.png",
             "large": "https://images.pokemontcg.io/bw6/37_hires.png"
@@ -2713,6 +2528,7 @@ let dragonsExalted = [
         "id": "bw6-38",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2757,10 +2573,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2775,10 +2588,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/38.png",
             "large": "https://images.pokemontcg.io/bw6/38_hires.png"
@@ -2788,6 +2598,7 @@ let dragonsExalted = [
         "id": "bw6-39",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2834,10 +2645,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2852,10 +2660,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/39.png",
             "large": "https://images.pokemontcg.io/bw6/39_hires.png"
@@ -2865,6 +2670,7 @@ let dragonsExalted = [
         "id": "bw6-40",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2906,10 +2712,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2924,10 +2727,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/40.png",
             "large": "https://images.pokemontcg.io/bw6/40_hires.png"
@@ -2937,6 +2737,7 @@ let dragonsExalted = [
         "id": "bw6-41",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2981,10 +2782,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -2999,10 +2797,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/41.png",
             "large": "https://images.pokemontcg.io/bw6/41_hires.png"
@@ -3012,6 +2807,7 @@ let dragonsExalted = [
         "id": "bw6-42",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3047,10 +2843,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3065,10 +2858,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/42.png",
             "large": "https://images.pokemontcg.io/bw6/42_hires.png"
@@ -3078,6 +2868,7 @@ let dragonsExalted = [
         "id": "bw6-43",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3120,10 +2911,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3138,10 +2926,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/43.png",
             "large": "https://images.pokemontcg.io/bw6/43_hires.png"
@@ -3151,6 +2936,7 @@ let dragonsExalted = [
         "id": "bw6-44",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3193,10 +2979,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3211,10 +2994,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/44.png",
             "large": "https://images.pokemontcg.io/bw6/44_hires.png"
@@ -3224,6 +3004,7 @@ let dragonsExalted = [
         "id": "bw6-45",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3269,10 +3050,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3287,10 +3065,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/45.png",
             "large": "https://images.pokemontcg.io/bw6/45_hires.png"
@@ -3300,6 +3075,7 @@ let dragonsExalted = [
         "id": "bw6-46",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3342,10 +3118,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3359,10 +3132,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/46.png",
             "large": "https://images.pokemontcg.io/bw6/46_hires.png"
@@ -3372,6 +3142,7 @@ let dragonsExalted = [
         "id": "bw6-47",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3415,10 +3186,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3433,10 +3201,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             269
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/47.png",
             "large": "https://images.pokemontcg.io/bw6/47_hires.png"
@@ -3446,6 +3211,7 @@ let dragonsExalted = [
         "id": "bw6-48",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3478,10 +3244,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3496,10 +3259,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/48.png",
             "large": "https://images.pokemontcg.io/bw6/48_hires.png"
@@ -3509,6 +3269,7 @@ let dragonsExalted = [
         "id": "bw6-49",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3543,10 +3304,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3561,10 +3319,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/49.png",
             "large": "https://images.pokemontcg.io/bw6/49_hires.png"
@@ -3574,6 +3329,7 @@ let dragonsExalted = [
         "id": "bw6-50",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3618,10 +3374,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3636,10 +3389,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/50.png",
             "large": "https://images.pokemontcg.io/bw6/50_hires.png"
@@ -3649,6 +3399,7 @@ let dragonsExalted = [
         "id": "bw6-51",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3691,10 +3442,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3709,10 +3457,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/51.png",
             "large": "https://images.pokemontcg.io/bw6/51_hires.png"
@@ -3722,6 +3467,7 @@ let dragonsExalted = [
         "id": "bw6-52",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3762,10 +3508,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3780,10 +3523,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/52.png",
             "large": "https://images.pokemontcg.io/bw6/52_hires.png"
@@ -3793,6 +3533,7 @@ let dragonsExalted = [
         "id": "bw6-53",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3839,10 +3580,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3857,10 +3595,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/53.png",
             "large": "https://images.pokemontcg.io/bw6/53_hires.png"
@@ -3870,6 +3605,7 @@ let dragonsExalted = [
         "id": "bw6-54",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3911,10 +3647,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3929,10 +3662,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/54.png",
             "large": "https://images.pokemontcg.io/bw6/54_hires.png"
@@ -3942,6 +3672,7 @@ let dragonsExalted = [
         "id": "bw6-55",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3976,10 +3707,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -3994,10 +3722,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/55.png",
             "large": "https://images.pokemontcg.io/bw6/55_hires.png"
@@ -4007,6 +3732,7 @@ let dragonsExalted = [
         "id": "bw6-56",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4053,10 +3779,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4071,10 +3794,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/56.png",
             "large": "https://images.pokemontcg.io/bw6/56_hires.png"
@@ -4084,6 +3804,7 @@ let dragonsExalted = [
         "id": "bw6-57",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4128,10 +3849,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4146,10 +3864,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             576
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/57.png",
             "large": "https://images.pokemontcg.io/bw6/57_hires.png"
@@ -4159,6 +3874,7 @@ let dragonsExalted = [
         "id": "bw6-58",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4205,10 +3921,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4223,10 +3936,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/58.png",
             "large": "https://images.pokemontcg.io/bw6/58_hires.png"
@@ -4236,6 +3946,7 @@ let dragonsExalted = [
         "id": "bw6-59",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4282,10 +3993,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4300,10 +4008,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/59.png",
             "large": "https://images.pokemontcg.io/bw6/59_hires.png"
@@ -4313,6 +4018,7 @@ let dragonsExalted = [
         "id": "bw6-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4363,10 +4069,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4381,10 +4084,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/60.png",
             "large": "https://images.pokemontcg.io/bw6/60_hires.png"
@@ -4394,6 +4094,7 @@ let dragonsExalted = [
         "id": "bw6-61",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4443,10 +4144,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4461,10 +4159,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/61.png",
             "large": "https://images.pokemontcg.io/bw6/61_hires.png"
@@ -4474,6 +4169,7 @@ let dragonsExalted = [
         "id": "bw6-62",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4509,10 +4205,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4527,10 +4220,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/62.png",
             "large": "https://images.pokemontcg.io/bw6/62_hires.png"
@@ -4540,6 +4230,7 @@ let dragonsExalted = [
         "id": "bw6-63",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4584,10 +4275,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4602,10 +4290,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/63.png",
             "large": "https://images.pokemontcg.io/bw6/63_hires.png"
@@ -4615,6 +4300,7 @@ let dragonsExalted = [
         "id": "bw6-64",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4659,10 +4345,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4677,10 +4360,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/64.png",
             "large": "https://images.pokemontcg.io/bw6/64_hires.png"
@@ -4690,6 +4370,7 @@ let dragonsExalted = [
         "id": "bw6-65",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4736,10 +4417,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4754,10 +4432,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             524
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/65.png",
             "large": "https://images.pokemontcg.io/bw6/65_hires.png"
@@ -4767,6 +4442,7 @@ let dragonsExalted = [
         "id": "bw6-66",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4813,10 +4489,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4831,10 +4504,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             525
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/66.png",
             "large": "https://images.pokemontcg.io/bw6/66_hires.png"
@@ -4844,6 +4514,7 @@ let dragonsExalted = [
         "id": "bw6-67",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4890,10 +4561,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4908,10 +4576,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             526
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/67.png",
             "large": "https://images.pokemontcg.io/bw6/67_hires.png"
@@ -4921,6 +4586,7 @@ let dragonsExalted = [
         "id": "bw6-68",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4966,10 +4632,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -4984,10 +4647,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             538
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/68.png",
             "large": "https://images.pokemontcg.io/bw6/68_hires.png"
@@ -4997,6 +4657,7 @@ let dragonsExalted = [
         "id": "bw6-69",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5039,10 +4700,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5057,10 +4715,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             539
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/69.png",
             "large": "https://images.pokemontcg.io/bw6/69_hires.png"
@@ -5070,6 +4725,7 @@ let dragonsExalted = [
         "id": "bw6-70",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5117,10 +4773,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5135,10 +4788,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/70.png",
             "large": "https://images.pokemontcg.io/bw6/70_hires.png"
@@ -5148,6 +4798,7 @@ let dragonsExalted = [
         "id": "bw6-71",
         "name": "Terrakion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -5195,10 +4846,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5212,10 +4860,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/71.png",
             "large": "https://images.pokemontcg.io/bw6/71_hires.png"
@@ -5225,6 +4870,7 @@ let dragonsExalted = [
         "id": "bw6-72",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5275,10 +4921,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5293,10 +4936,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/72.png",
             "large": "https://images.pokemontcg.io/bw6/72_hires.png"
@@ -5306,6 +4946,7 @@ let dragonsExalted = [
         "id": "bw6-73",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5356,10 +4997,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5374,10 +5012,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             430
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/73.png",
             "large": "https://images.pokemontcg.io/bw6/73_hires.png"
@@ -5387,6 +5022,7 @@ let dragonsExalted = [
         "id": "bw6-74",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5438,10 +5074,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5456,10 +5089,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/74.png",
             "large": "https://images.pokemontcg.io/bw6/74_hires.png"
@@ -5469,6 +5099,7 @@ let dragonsExalted = [
         "id": "bw6-75",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5518,10 +5149,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5536,10 +5164,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/75.png",
             "large": "https://images.pokemontcg.io/bw6/75_hires.png"
@@ -5549,6 +5174,7 @@ let dragonsExalted = [
         "id": "bw6-76",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5589,10 +5215,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5607,10 +5230,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             434
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/76.png",
             "large": "https://images.pokemontcg.io/bw6/76_hires.png"
@@ -5620,6 +5240,7 @@ let dragonsExalted = [
         "id": "bw6-77",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5669,10 +5290,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5687,10 +5305,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/77.png",
             "large": "https://images.pokemontcg.io/bw6/77_hires.png"
@@ -5700,6 +5315,7 @@ let dragonsExalted = [
         "id": "bw6-78",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5741,10 +5357,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5759,10 +5372,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/78.png",
             "large": "https://images.pokemontcg.io/bw6/78_hires.png"
@@ -5772,6 +5382,7 @@ let dragonsExalted = [
         "id": "bw6-79",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5825,10 +5436,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5843,10 +5451,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/79.png",
             "large": "https://images.pokemontcg.io/bw6/79_hires.png"
@@ -5856,6 +5461,7 @@ let dragonsExalted = [
         "id": "bw6-80",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -5903,10 +5509,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -5921,10 +5524,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/80.png",
             "large": "https://images.pokemontcg.io/bw6/80_hires.png"
@@ -5934,6 +5534,7 @@ let dragonsExalted = [
         "id": "bw6-81",
         "name": "Registeel-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -5989,10 +5590,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6006,10 +5604,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/81.png",
             "large": "https://images.pokemontcg.io/bw6/81_hires.png"
@@ -6019,6 +5614,7 @@ let dragonsExalted = [
         "id": "bw6-82",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6069,10 +5665,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6087,10 +5680,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/82.png",
             "large": "https://images.pokemontcg.io/bw6/82_hires.png"
@@ -6100,6 +5690,7 @@ let dragonsExalted = [
         "id": "bw6-83",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6147,10 +5738,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6165,10 +5753,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/83.png",
             "large": "https://images.pokemontcg.io/bw6/83_hires.png"
@@ -6178,6 +5763,7 @@ let dragonsExalted = [
         "id": "bw6-84",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6219,10 +5805,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6237,10 +5820,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/84.png",
             "large": "https://images.pokemontcg.io/bw6/84_hires.png"
@@ -6250,6 +5830,7 @@ let dragonsExalted = [
         "id": "bw6-85",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6298,10 +5879,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6315,10 +5893,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/85.png",
             "large": "https://images.pokemontcg.io/bw6/85_hires.png"
@@ -6328,6 +5903,7 @@ let dragonsExalted = [
         "id": "bw6-86",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6372,10 +5948,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6390,10 +5963,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/86.png",
             "large": "https://images.pokemontcg.io/bw6/86_hires.png"
@@ -6403,6 +5973,7 @@ let dragonsExalted = [
         "id": "bw6-87",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6447,10 +6018,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6465,10 +6033,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/87.png",
             "large": "https://images.pokemontcg.io/bw6/87_hires.png"
@@ -6478,6 +6043,7 @@ let dragonsExalted = [
         "id": "bw6-88",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6523,10 +6089,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6541,10 +6104,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/88.png",
             "large": "https://images.pokemontcg.io/bw6/88_hires.png"
@@ -6554,6 +6114,7 @@ let dragonsExalted = [
         "id": "bw6-89",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6597,10 +6158,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6615,10 +6173,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/89.png",
             "large": "https://images.pokemontcg.io/bw6/89_hires.png"
@@ -6628,6 +6183,7 @@ let dragonsExalted = [
         "id": "bw6-90",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6670,10 +6226,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6688,10 +6241,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/90.png",
             "large": "https://images.pokemontcg.io/bw6/90_hires.png"
@@ -6701,6 +6251,7 @@ let dragonsExalted = [
         "id": "bw6-91",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6743,10 +6294,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6761,10 +6309,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/91.png",
             "large": "https://images.pokemontcg.io/bw6/91_hires.png"
@@ -6774,6 +6319,7 @@ let dragonsExalted = [
         "id": "bw6-92",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6823,10 +6369,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6840,10 +6383,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/92.png",
             "large": "https://images.pokemontcg.io/bw6/92_hires.png"
@@ -6853,6 +6393,7 @@ let dragonsExalted = [
         "id": "bw6-93",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6897,10 +6438,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6915,10 +6453,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/93.png",
             "large": "https://images.pokemontcg.io/bw6/93_hires.png"
@@ -6928,6 +6463,7 @@ let dragonsExalted = [
         "id": "bw6-94",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6973,10 +6509,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -6991,10 +6524,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/94.png",
             "large": "https://images.pokemontcg.io/bw6/94_hires.png"
@@ -7004,6 +6534,7 @@ let dragonsExalted = [
         "id": "bw6-95",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7051,10 +6582,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7069,10 +6597,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/95.png",
             "large": "https://images.pokemontcg.io/bw6/95_hires.png"
@@ -7082,6 +6607,7 @@ let dragonsExalted = [
         "id": "bw6-96",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7128,10 +6654,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7146,10 +6669,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/96.png",
             "large": "https://images.pokemontcg.io/bw6/96_hires.png"
@@ -7159,6 +6679,7 @@ let dragonsExalted = [
         "id": "bw6-97",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7201,10 +6722,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7219,10 +6737,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/97.png",
             "large": "https://images.pokemontcg.io/bw6/97_hires.png"
@@ -7232,6 +6747,7 @@ let dragonsExalted = [
         "id": "bw6-98",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7278,10 +6794,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7296,10 +6809,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/98.png",
             "large": "https://images.pokemontcg.io/bw6/98_hires.png"
@@ -7309,6 +6819,7 @@ let dragonsExalted = [
         "id": "bw6-99",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7343,10 +6854,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7361,10 +6869,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/99.png",
             "large": "https://images.pokemontcg.io/bw6/99_hires.png"
@@ -7374,6 +6879,7 @@ let dragonsExalted = [
         "id": "bw6-100",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7416,10 +6922,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7434,10 +6937,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/100.png",
             "large": "https://images.pokemontcg.io/bw6/100_hires.png"
@@ -7447,6 +6947,7 @@ let dragonsExalted = [
         "id": "bw6-101",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7481,10 +6982,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7499,10 +6997,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/101.png",
             "large": "https://images.pokemontcg.io/bw6/101_hires.png"
@@ -7512,6 +7007,7 @@ let dragonsExalted = [
         "id": "bw6-102",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7548,10 +7044,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7566,10 +7059,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/102.png",
             "large": "https://images.pokemontcg.io/bw6/102_hires.png"
@@ -7579,6 +7069,7 @@ let dragonsExalted = [
         "id": "bw6-103",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7621,10 +7112,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7639,10 +7127,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/103.png",
             "large": "https://images.pokemontcg.io/bw6/103_hires.png"
@@ -7652,6 +7137,7 @@ let dragonsExalted = [
         "id": "bw6-104",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7702,10 +7188,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7720,10 +7203,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/104.png",
             "large": "https://images.pokemontcg.io/bw6/104_hires.png"
@@ -7733,6 +7213,7 @@ let dragonsExalted = [
         "id": "bw6-105",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7773,10 +7254,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7791,10 +7269,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/105.png",
             "large": "https://images.pokemontcg.io/bw6/105_hires.png"
@@ -7804,6 +7279,7 @@ let dragonsExalted = [
         "id": "bw6-106",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7839,10 +7315,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7857,10 +7330,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/106.png",
             "large": "https://images.pokemontcg.io/bw6/106_hires.png"
@@ -7870,6 +7340,7 @@ let dragonsExalted = [
         "id": "bw6-107",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7916,10 +7387,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -7934,10 +7402,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/107.png",
             "large": "https://images.pokemontcg.io/bw6/107_hires.png"
@@ -7947,6 +7412,7 @@ let dragonsExalted = [
         "id": "bw6-108",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7990,10 +7456,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8008,10 +7471,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/108.png",
             "large": "https://images.pokemontcg.io/bw6/108_hires.png"
@@ -8021,6 +7481,7 @@ let dragonsExalted = [
         "id": "bw6-109",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -8065,10 +7526,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8083,10 +7541,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/109.png",
             "large": "https://images.pokemontcg.io/bw6/109_hires.png"
@@ -8096,6 +7551,7 @@ let dragonsExalted = [
         "id": "bw6-110",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -8136,10 +7592,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8154,10 +7607,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/110.png",
             "large": "https://images.pokemontcg.io/bw6/110_hires.png"
@@ -8167,6 +7617,7 @@ let dragonsExalted = [
         "id": "bw6-111",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -8217,10 +7668,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8235,10 +7683,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/111.png",
             "large": "https://images.pokemontcg.io/bw6/111_hires.png"
@@ -8248,6 +7693,7 @@ let dragonsExalted = [
         "id": "bw6-112",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -8296,10 +7742,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8314,10 +7757,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             628
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/112.png",
             "large": "https://images.pokemontcg.io/bw6/112_hires.png"
@@ -8327,6 +7767,7 @@ let dragonsExalted = [
         "id": "bw6-113",
         "name": "Devolution Spray",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Item"
         ],
@@ -8340,10 +7781,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8354,10 +7792,7 @@ let dragonsExalted = [
         "number": "113",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/113.png",
             "large": "https://images.pokemontcg.io/bw6/113_hires.png"
@@ -8367,6 +7802,7 @@ let dragonsExalted = [
         "id": "bw6-114",
         "name": "Giant Cape",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8381,10 +7817,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8395,10 +7828,7 @@ let dragonsExalted = [
         "number": "114",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/114.png",
             "large": "https://images.pokemontcg.io/bw6/114_hires.png"
@@ -8408,6 +7838,7 @@ let dragonsExalted = [
         "id": "bw6-115",
         "name": "Rescue Scarf",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8422,10 +7853,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8436,10 +7864,7 @@ let dragonsExalted = [
         "number": "115",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/115.png",
             "large": "https://images.pokemontcg.io/bw6/115_hires.png"
@@ -8449,6 +7874,7 @@ let dragonsExalted = [
         "id": "bw6-116",
         "name": "Tool Scrapper",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Item"
         ],
@@ -8462,10 +7888,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8476,11 +7899,7 @@ let dragonsExalted = [
         "number": "116",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/116.png",
             "large": "https://images.pokemontcg.io/bw6/116_hires.png"
@@ -8490,6 +7909,7 @@ let dragonsExalted = [
         "id": "bw6-117",
         "name": "Blend Energy GrassFirePsychicDarkness",
         "supertype": "Energy",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Special"
         ],
@@ -8502,10 +7922,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8516,10 +7933,7 @@ let dragonsExalted = [
         "number": "117",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/117.png",
             "large": "https://images.pokemontcg.io/bw6/117_hires.png"
@@ -8529,6 +7943,7 @@ let dragonsExalted = [
         "id": "bw6-118",
         "name": "Blend Energy WaterLightningFightingMetal",
         "supertype": "Energy",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Special"
         ],
@@ -8541,10 +7956,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8555,10 +7967,7 @@ let dragonsExalted = [
         "number": "118",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/118.png",
             "large": "https://images.pokemontcg.io/bw6/118_hires.png"
@@ -8568,6 +7977,7 @@ let dragonsExalted = [
         "id": "bw6-119",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8618,10 +8028,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8635,10 +8042,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/119.png",
             "large": "https://images.pokemontcg.io/bw6/119_hires.png"
@@ -8648,6 +8052,7 @@ let dragonsExalted = [
         "id": "bw6-120",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8690,10 +8095,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8707,10 +8109,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/120.png",
             "large": "https://images.pokemontcg.io/bw6/120_hires.png"
@@ -8720,6 +8119,7 @@ let dragonsExalted = [
         "id": "bw6-121",
         "name": "Terrakion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8767,10 +8167,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8784,10 +8181,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/121.png",
             "large": "https://images.pokemontcg.io/bw6/121_hires.png"
@@ -8797,6 +8191,7 @@ let dragonsExalted = [
         "id": "bw6-122",
         "name": "Registeel-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8852,10 +8247,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8869,10 +8261,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/122.png",
             "large": "https://images.pokemontcg.io/bw6/122_hires.png"
@@ -8882,6 +8271,7 @@ let dragonsExalted = [
         "id": "bw6-123",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8930,10 +8320,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -8947,10 +8334,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/123.png",
             "large": "https://images.pokemontcg.io/bw6/123_hires.png"
@@ -8960,6 +8344,7 @@ let dragonsExalted = [
         "id": "bw6-124",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -9009,10 +8394,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -9026,10 +8408,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/124.png",
             "large": "https://images.pokemontcg.io/bw6/124_hires.png"
@@ -9039,6 +8418,7 @@ let dragonsExalted = [
         "id": "bw6-125",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -9085,10 +8465,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -9103,10 +8480,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/125.png",
             "large": "https://images.pokemontcg.io/bw6/125_hires.png"
@@ -9116,6 +8490,7 @@ let dragonsExalted = [
         "id": "bw6-126",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -9157,10 +8532,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -9175,10 +8547,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/126.png",
             "large": "https://images.pokemontcg.io/bw6/126_hires.png"
@@ -9188,6 +8557,7 @@ let dragonsExalted = [
         "id": "bw6-127",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -9240,10 +8610,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -9258,10 +8625,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/127.png",
             "large": "https://images.pokemontcg.io/bw6/127_hires.png"
@@ -9271,6 +8635,7 @@ let dragonsExalted = [
         "id": "bw6-128",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -9313,10 +8678,7 @@ let dragonsExalted = [
             "series": "Black & White",
             "printedTotal": 124,
             "total": 128,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRX",
             "releaseDate": "2012/08/15",
             "images": {
@@ -9331,10 +8693,7 @@ let dragonsExalted = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw6/128.png",
             "large": "https://images.pokemontcg.io/bw6/128_hires.png"

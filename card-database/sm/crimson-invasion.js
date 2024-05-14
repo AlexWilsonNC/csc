@@ -3,6 +3,7 @@ let sm4 = [
         "id": "sm4-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -55,10 +53,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/1.png",
             "large": "https://images.pokemontcg.io/sm4/1_hires.png"
@@ -68,6 +63,7 @@ let sm4 = [
         "id": "sm4-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -103,10 +99,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -121,10 +114,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/2.png",
             "large": "https://images.pokemontcg.io/sm4/2_hires.png"
@@ -134,6 +124,7 @@ let sm4 = [
         "id": "sm4-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -174,10 +165,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -192,10 +180,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/3.png",
             "large": "https://images.pokemontcg.io/sm4/3_hires.png"
@@ -205,6 +190,7 @@ let sm4 = [
         "id": "sm4-4",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -248,10 +234,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -266,10 +249,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/4.png",
             "large": "https://images.pokemontcg.io/sm4/4_hires.png"
@@ -279,6 +259,7 @@ let sm4 = [
         "id": "sm4-5",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -313,10 +294,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -331,10 +309,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/5.png",
             "large": "https://images.pokemontcg.io/sm4/5_hires.png"
@@ -344,6 +319,7 @@ let sm4 = [
         "id": "sm4-6",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -386,10 +362,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -404,10 +377,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/6.png",
             "large": "https://images.pokemontcg.io/sm4/6_hires.png"
@@ -417,6 +387,7 @@ let sm4 = [
         "id": "sm4-7",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -460,10 +431,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -478,10 +446,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             588
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/7.png",
             "large": "https://images.pokemontcg.io/sm4/7_hires.png"
@@ -491,6 +456,7 @@ let sm4 = [
         "id": "sm4-8",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -525,10 +491,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -543,10 +506,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/8.png",
             "large": "https://images.pokemontcg.io/sm4/8_hires.png"
@@ -556,6 +516,7 @@ let sm4 = [
         "id": "sm4-9",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -598,10 +559,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -616,10 +574,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/9.png",
             "large": "https://images.pokemontcg.io/sm4/9_hires.png"
@@ -629,6 +584,7 @@ let sm4 = [
         "id": "sm4-10",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -664,10 +620,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -682,10 +635,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/10.png",
             "large": "https://images.pokemontcg.io/sm4/10_hires.png"
@@ -695,6 +645,7 @@ let sm4 = [
         "id": "sm4-11",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -736,10 +687,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -754,10 +702,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/11.png",
             "large": "https://images.pokemontcg.io/sm4/11_hires.png"
@@ -767,6 +712,7 @@ let sm4 = [
         "id": "sm4-12",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -808,10 +754,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -826,10 +769,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/12.png",
             "large": "https://images.pokemontcg.io/sm4/12_hires.png"
@@ -839,6 +779,7 @@ let sm4 = [
         "id": "sm4-13",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -874,10 +815,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -892,10 +830,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/13.png",
             "large": "https://images.pokemontcg.io/sm4/13_hires.png"
@@ -905,6 +840,7 @@ let sm4 = [
         "id": "sm4-14",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -951,10 +887,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -969,10 +902,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/14.png",
             "large": "https://images.pokemontcg.io/sm4/14_hires.png"
@@ -982,6 +912,7 @@ let sm4 = [
         "id": "sm4-15",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1016,10 +947,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1034,10 +962,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/15.png",
             "large": "https://images.pokemontcg.io/sm4/15_hires.png"
@@ -1047,6 +972,7 @@ let sm4 = [
         "id": "sm4-16",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1086,10 +1012,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1104,10 +1027,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/16.png",
             "large": "https://images.pokemontcg.io/sm4/16_hires.png"
@@ -1117,6 +1037,7 @@ let sm4 = [
         "id": "sm4-17",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1160,10 +1081,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1178,10 +1096,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/17.png",
             "large": "https://images.pokemontcg.io/sm4/17_hires.png"
@@ -1191,6 +1106,7 @@ let sm4 = [
         "id": "sm4-18",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1251,10 +1167,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1268,10 +1181,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/18.png",
             "large": "https://images.pokemontcg.io/sm4/18_hires.png"
@@ -1281,6 +1191,7 @@ let sm4 = [
         "id": "sm4-19",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1316,10 +1227,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1334,10 +1242,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/19.png",
             "large": "https://images.pokemontcg.io/sm4/19_hires.png"
@@ -1347,6 +1252,7 @@ let sm4 = [
         "id": "sm4-20",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1394,10 +1300,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1412,10 +1315,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/20.png",
             "large": "https://images.pokemontcg.io/sm4/20_hires.png"
@@ -1425,6 +1325,7 @@ let sm4 = [
         "id": "sm4-21",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -1471,10 +1372,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1489,10 +1387,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/21.png",
             "large": "https://images.pokemontcg.io/sm4/21_hires.png"
@@ -1502,6 +1397,7 @@ let sm4 = [
         "id": "sm4-22",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1537,10 +1433,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1555,10 +1448,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/22.png",
             "large": "https://images.pokemontcg.io/sm4/22_hires.png"
@@ -1568,6 +1458,7 @@ let sm4 = [
         "id": "sm4-23",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1610,10 +1501,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1628,10 +1516,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/23.png",
             "large": "https://images.pokemontcg.io/sm4/23_hires.png"
@@ -1641,6 +1526,7 @@ let sm4 = [
         "id": "sm4-24",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1676,10 +1562,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1694,10 +1577,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/24.png",
             "large": "https://images.pokemontcg.io/sm4/24_hires.png"
@@ -1707,6 +1587,7 @@ let sm4 = [
         "id": "sm4-25",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1742,10 +1623,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1760,10 +1638,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/25.png",
             "large": "https://images.pokemontcg.io/sm4/25_hires.png"
@@ -1773,6 +1648,7 @@ let sm4 = [
         "id": "sm4-26",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1807,10 +1683,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1825,10 +1698,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/26.png",
             "large": "https://images.pokemontcg.io/sm4/26_hires.png"
@@ -1838,6 +1708,7 @@ let sm4 = [
         "id": "sm4-27",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1882,10 +1753,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1900,10 +1768,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/27.png",
             "large": "https://images.pokemontcg.io/sm4/27_hires.png"
@@ -1913,6 +1778,7 @@ let sm4 = [
         "id": "sm4-28",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1953,10 +1819,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -1971,10 +1834,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/28.png",
             "large": "https://images.pokemontcg.io/sm4/28_hires.png"
@@ -1984,6 +1844,7 @@ let sm4 = [
         "id": "sm4-29",
         "name": "Shellos",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2027,10 +1888,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2045,10 +1903,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             422
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/29.png",
             "large": "https://images.pokemontcg.io/sm4/29_hires.png"
@@ -2058,6 +1913,7 @@ let sm4 = [
         "id": "sm4-30",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2108,10 +1964,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2126,10 +1979,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/30.png",
             "large": "https://images.pokemontcg.io/sm4/30_hires.png"
@@ -2139,6 +1989,7 @@ let sm4 = [
         "id": "sm4-31",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2186,10 +2037,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2204,10 +2052,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/31.png",
             "large": "https://images.pokemontcg.io/sm4/31_hires.png"
@@ -2217,6 +2062,7 @@ let sm4 = [
         "id": "sm4-32",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2265,10 +2111,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2283,10 +2126,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/32.png",
             "large": "https://images.pokemontcg.io/sm4/32_hires.png"
@@ -2296,6 +2136,7 @@ let sm4 = [
         "id": "sm4-33",
         "name": "Alolan Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2349,10 +2190,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2367,10 +2205,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/33.png",
             "large": "https://images.pokemontcg.io/sm4/33_hires.png"
@@ -2380,6 +2215,7 @@ let sm4 = [
         "id": "sm4-34",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2448,10 +2284,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2465,10 +2298,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/34.png",
             "large": "https://images.pokemontcg.io/sm4/34_hires.png"
@@ -2478,6 +2308,7 @@ let sm4 = [
         "id": "sm4-35",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2524,10 +2355,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2542,10 +2370,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/35.png",
             "large": "https://images.pokemontcg.io/sm4/35_hires.png"
@@ -2555,6 +2380,7 @@ let sm4 = [
         "id": "sm4-36",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2595,10 +2421,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2613,10 +2436,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/36.png",
             "large": "https://images.pokemontcg.io/sm4/36_hires.png"
@@ -2626,6 +2446,7 @@ let sm4 = [
         "id": "sm4-37",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2667,10 +2488,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2685,10 +2503,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/37.png",
             "large": "https://images.pokemontcg.io/sm4/37_hires.png"
@@ -2698,6 +2513,7 @@ let sm4 = [
         "id": "sm4-38",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -2744,10 +2560,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2762,10 +2575,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/38.png",
             "large": "https://images.pokemontcg.io/sm4/38_hires.png"
@@ -2775,6 +2585,7 @@ let sm4 = [
         "id": "sm4-39",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2815,10 +2626,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2833,10 +2641,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/39.png",
             "large": "https://images.pokemontcg.io/sm4/39_hires.png"
@@ -2846,6 +2651,7 @@ let sm4 = [
         "id": "sm4-40",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2895,10 +2701,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2913,10 +2716,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/40.png",
             "large": "https://images.pokemontcg.io/sm4/40_hires.png"
@@ -2926,6 +2726,7 @@ let sm4 = [
         "id": "sm4-41",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2960,10 +2761,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -2978,10 +2776,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/41.png",
             "large": "https://images.pokemontcg.io/sm4/41_hires.png"
@@ -2991,6 +2786,7 @@ let sm4 = [
         "id": "sm4-42",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3032,10 +2828,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3050,10 +2843,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/42.png",
             "large": "https://images.pokemontcg.io/sm4/42_hires.png"
@@ -3063,6 +2853,7 @@ let sm4 = [
         "id": "sm4-43",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3094,10 +2885,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3112,10 +2900,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/43.png",
             "large": "https://images.pokemontcg.io/sm4/43_hires.png"
@@ -3125,6 +2910,7 @@ let sm4 = [
         "id": "sm4-44",
         "name": "Pumpkaboo",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3165,10 +2951,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3183,10 +2966,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             710
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/44.png",
             "large": "https://images.pokemontcg.io/sm4/44_hires.png"
@@ -3196,6 +2976,7 @@ let sm4 = [
         "id": "sm4-45",
         "name": "Gourgeist",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3244,10 +3025,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3262,10 +3040,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             711
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/45.png",
             "large": "https://images.pokemontcg.io/sm4/45_hires.png"
@@ -3275,6 +3050,7 @@ let sm4 = [
         "id": "sm4-46",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3309,10 +3085,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3327,10 +3100,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             757
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/46.png",
             "large": "https://images.pokemontcg.io/sm4/46_hires.png"
@@ -3340,6 +3110,7 @@ let sm4 = [
         "id": "sm4-47",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3381,10 +3152,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3399,10 +3167,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             758
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/47.png",
             "large": "https://images.pokemontcg.io/sm4/47_hires.png"
@@ -3412,6 +3177,7 @@ let sm4 = [
         "id": "sm4-48",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3454,10 +3220,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3472,10 +3235,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             765
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/48.png",
             "large": "https://images.pokemontcg.io/sm4/48_hires.png"
@@ -3485,6 +3245,7 @@ let sm4 = [
         "id": "sm4-49",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -3541,10 +3302,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3558,10 +3316,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             793
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/49.png",
             "large": "https://images.pokemontcg.io/sm4/49_hires.png"
@@ -3571,6 +3326,7 @@ let sm4 = [
         "id": "sm4-50",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3605,10 +3361,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3623,10 +3376,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/50.png",
             "large": "https://images.pokemontcg.io/sm4/50_hires.png"
@@ -3636,6 +3386,7 @@ let sm4 = [
         "id": "sm4-51",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3679,10 +3430,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3697,10 +3445,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/51.png",
             "large": "https://images.pokemontcg.io/sm4/51_hires.png"
@@ -3710,6 +3455,7 @@ let sm4 = [
         "id": "sm4-52",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3754,10 +3500,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3772,10 +3515,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/52.png",
             "large": "https://images.pokemontcg.io/sm4/52_hires.png"
@@ -3785,6 +3525,7 @@ let sm4 = [
         "id": "sm4-53",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3825,10 +3566,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3843,10 +3581,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/53.png",
             "large": "https://images.pokemontcg.io/sm4/53_hires.png"
@@ -3856,6 +3591,7 @@ let sm4 = [
         "id": "sm4-54",
         "name": "Gastrodon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3900,10 +3636,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3918,10 +3651,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             423
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/54.png",
             "large": "https://images.pokemontcg.io/sm4/54_hires.png"
@@ -3931,6 +3661,7 @@ let sm4 = [
         "id": "sm4-55",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3966,10 +3697,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -3984,10 +3712,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             759
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/55.png",
             "large": "https://images.pokemontcg.io/sm4/55_hires.png"
@@ -3997,6 +3722,7 @@ let sm4 = [
         "id": "sm4-56",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4038,10 +3764,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4056,10 +3779,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/56.png",
             "large": "https://images.pokemontcg.io/sm4/56_hires.png"
@@ -4069,6 +3789,7 @@ let sm4 = [
         "id": "sm4-57",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4127,10 +3848,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4144,10 +3862,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/57.png",
             "large": "https://images.pokemontcg.io/sm4/57_hires.png"
@@ -4157,6 +3872,7 @@ let sm4 = [
         "id": "sm4-58",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4207,10 +3923,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4225,10 +3938,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/58.png",
             "large": "https://images.pokemontcg.io/sm4/58_hires.png"
@@ -4238,6 +3948,7 @@ let sm4 = [
         "id": "sm4-59",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4288,10 +3999,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4306,10 +4014,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/59.png",
             "large": "https://images.pokemontcg.io/sm4/59_hires.png"
@@ -4319,6 +4024,7 @@ let sm4 = [
         "id": "sm4-60",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4371,10 +4077,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4389,10 +4092,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/60.png",
             "large": "https://images.pokemontcg.io/sm4/60_hires.png"
@@ -4402,6 +4102,7 @@ let sm4 = [
         "id": "sm4-61",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4455,10 +4156,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4473,10 +4171,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/61.png",
             "large": "https://images.pokemontcg.io/sm4/61_hires.png"
@@ -4486,6 +4181,7 @@ let sm4 = [
         "id": "sm4-62",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -4533,10 +4229,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4551,10 +4244,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/62.png",
             "large": "https://images.pokemontcg.io/sm4/62_hires.png"
@@ -4564,6 +4254,7 @@ let sm4 = [
         "id": "sm4-63",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4632,10 +4323,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4649,10 +4337,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/63.png",
             "large": "https://images.pokemontcg.io/sm4/63_hires.png"
@@ -4662,6 +4347,7 @@ let sm4 = [
         "id": "sm4-63a",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4730,10 +4416,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4747,10 +4430,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/63a.png",
             "large": "https://images.pokemontcg.io/sm4/63a_hires.png"
@@ -4760,6 +4440,7 @@ let sm4 = [
         "id": "sm4-64",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4807,10 +4488,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4825,10 +4503,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/64.png",
             "large": "https://images.pokemontcg.io/sm4/64_hires.png"
@@ -4838,6 +4513,7 @@ let sm4 = [
         "id": "sm4-65",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4889,10 +4565,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4907,10 +4580,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/65.png",
             "large": "https://images.pokemontcg.io/sm4/65_hires.png"
@@ -4920,6 +4590,7 @@ let sm4 = [
         "id": "sm4-66",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4973,10 +4644,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -4991,10 +4659,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/66.png",
             "large": "https://images.pokemontcg.io/sm4/66_hires.png"
@@ -5004,6 +4669,7 @@ let sm4 = [
         "id": "sm4-67",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5056,10 +4722,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5074,10 +4737,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/67.png",
             "large": "https://images.pokemontcg.io/sm4/67_hires.png"
@@ -5087,6 +4747,7 @@ let sm4 = [
         "id": "sm4-68",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5135,10 +4796,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5153,10 +4811,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/68.png",
             "large": "https://images.pokemontcg.io/sm4/68_hires.png"
@@ -5166,6 +4821,7 @@ let sm4 = [
         "id": "sm4-69",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5215,10 +4871,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5233,10 +4886,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             589
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/69.png",
             "large": "https://images.pokemontcg.io/sm4/69_hires.png"
@@ -5246,6 +4896,7 @@ let sm4 = [
         "id": "sm4-70",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -5306,10 +4957,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5323,10 +4971,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             798
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/70.png",
             "large": "https://images.pokemontcg.io/sm4/70_hires.png"
@@ -5336,6 +4981,7 @@ let sm4 = [
         "id": "sm4-71",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5386,10 +5032,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5404,10 +5047,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/71.png",
             "large": "https://images.pokemontcg.io/sm4/71_hires.png"
@@ -5417,6 +5057,7 @@ let sm4 = [
         "id": "sm4-72",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5467,10 +5108,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5485,10 +5123,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/72.png",
             "large": "https://images.pokemontcg.io/sm4/72_hires.png"
@@ -5498,6 +5133,7 @@ let sm4 = [
         "id": "sm4-73",
         "name": "Xerneas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5546,10 +5182,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5564,10 +5197,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/73.png",
             "large": "https://images.pokemontcg.io/sm4/73_hires.png"
@@ -5577,6 +5207,7 @@ let sm4 = [
         "id": "sm4-74",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5637,10 +5268,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5654,10 +5282,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/74.png",
             "large": "https://images.pokemontcg.io/sm4/74_hires.png"
@@ -5667,6 +5292,7 @@ let sm4 = [
         "id": "sm4-75",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5711,10 +5337,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5729,10 +5352,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             782
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/75.png",
             "large": "https://images.pokemontcg.io/sm4/75_hires.png"
@@ -5742,6 +5362,7 @@ let sm4 = [
         "id": "sm4-76",
         "name": "Hakamo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5787,10 +5408,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5805,10 +5423,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             783
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/76.png",
             "large": "https://images.pokemontcg.io/sm4/76_hires.png"
@@ -5818,6 +5433,7 @@ let sm4 = [
         "id": "sm4-77",
         "name": "Kommo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5862,10 +5478,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5880,10 +5493,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             784
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/77.png",
             "large": "https://images.pokemontcg.io/sm4/77_hires.png"
@@ -5893,6 +5503,7 @@ let sm4 = [
         "id": "sm4-78",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5933,10 +5544,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -5951,10 +5559,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/78.png",
             "large": "https://images.pokemontcg.io/sm4/78_hires.png"
@@ -5964,6 +5569,7 @@ let sm4 = [
         "id": "sm4-79",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6004,10 +5610,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6022,10 +5625,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/79.png",
             "large": "https://images.pokemontcg.io/sm4/79_hires.png"
@@ -6035,6 +5635,7 @@ let sm4 = [
         "id": "sm4-80",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6082,10 +5683,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6100,10 +5698,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/80.png",
             "large": "https://images.pokemontcg.io/sm4/80_hires.png"
@@ -6113,6 +5708,7 @@ let sm4 = [
         "id": "sm4-81",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6163,10 +5759,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6181,10 +5774,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/81.png",
             "large": "https://images.pokemontcg.io/sm4/81_hires.png"
@@ -6194,6 +5784,7 @@ let sm4 = [
         "id": "sm4-82",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6246,10 +5837,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6264,10 +5852,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/82.png",
             "large": "https://images.pokemontcg.io/sm4/82_hires.png"
@@ -6277,6 +5862,7 @@ let sm4 = [
         "id": "sm4-83",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -6328,10 +5914,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6346,10 +5929,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/83.png",
             "large": "https://images.pokemontcg.io/sm4/83_hires.png"
@@ -6359,6 +5939,7 @@ let sm4 = [
         "id": "sm4-84",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6401,10 +5982,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6419,10 +5997,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/84.png",
             "large": "https://images.pokemontcg.io/sm4/84_hires.png"
@@ -6432,6 +6007,7 @@ let sm4 = [
         "id": "sm4-84a",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6474,10 +6050,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6492,10 +6065,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/84a.png",
             "large": "https://images.pokemontcg.io/sm4/84a_hires.png"
@@ -6505,6 +6075,7 @@ let sm4 = [
         "id": "sm4-85",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6539,10 +6110,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6557,10 +6125,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/85.png",
             "large": "https://images.pokemontcg.io/sm4/85_hires.png"
@@ -6570,6 +6135,7 @@ let sm4 = [
         "id": "sm4-86",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6602,10 +6168,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6620,10 +6183,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/86.png",
             "large": "https://images.pokemontcg.io/sm4/86_hires.png"
@@ -6633,6 +6193,7 @@ let sm4 = [
         "id": "sm4-87",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6668,10 +6229,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6686,10 +6244,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/87.png",
             "large": "https://images.pokemontcg.io/sm4/87_hires.png"
@@ -6699,6 +6254,7 @@ let sm4 = [
         "id": "sm4-88",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6745,10 +6301,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6763,10 +6316,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             660
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/88.png",
             "large": "https://images.pokemontcg.io/sm4/88_hires.png"
@@ -6776,6 +6326,7 @@ let sm4 = [
         "id": "sm4-89",
         "name": "Type: Null",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6819,10 +6370,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6837,10 +6385,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             772
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/89.png",
             "large": "https://images.pokemontcg.io/sm4/89_hires.png"
@@ -6850,6 +6395,7 @@ let sm4 = [
         "id": "sm4-90",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6906,10 +6452,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6923,10 +6466,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/90.png",
             "large": "https://images.pokemontcg.io/sm4/90_hires.png"
@@ -6936,6 +6476,7 @@ let sm4 = [
         "id": "sm4-91",
         "name": "Counter Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -6950,10 +6491,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -6964,10 +6502,7 @@ let sm4 = [
         "number": "91",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/91.png",
             "large": "https://images.pokemontcg.io/sm4/91_hires.png"
@@ -6977,6 +6512,7 @@ let sm4 = [
         "id": "sm4-92",
         "name": "Dashing Pouch",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6991,10 +6527,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7005,10 +6538,7 @@ let sm4 = [
         "number": "92",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/92.png",
             "large": "https://images.pokemontcg.io/sm4/92_hires.png"
@@ -7018,6 +6548,7 @@ let sm4 = [
         "id": "sm4-93",
         "name": "Devoured Field",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stadium"
         ],
@@ -7031,10 +6562,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7045,10 +6573,7 @@ let sm4 = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/93.png",
             "large": "https://images.pokemontcg.io/sm4/93_hires.png"
@@ -7058,6 +6583,7 @@ let sm4 = [
         "id": "sm4-94",
         "name": "Fighting Memory",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7072,10 +6598,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7086,10 +6609,7 @@ let sm4 = [
         "number": "94",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/94.png",
             "large": "https://images.pokemontcg.io/sm4/94_hires.png"
@@ -7099,6 +6619,7 @@ let sm4 = [
         "id": "sm4-95",
         "name": "Gladion",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -7112,10 +6633,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7126,10 +6644,7 @@ let sm4 = [
         "number": "95",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/95.png",
             "large": "https://images.pokemontcg.io/sm4/95_hires.png"
@@ -7139,6 +6654,7 @@ let sm4 = [
         "id": "sm4-96",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -7152,10 +6668,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7166,10 +6679,7 @@ let sm4 = [
         "number": "96",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/96.png",
             "large": "https://images.pokemontcg.io/sm4/96_hires.png"
@@ -7179,6 +6689,7 @@ let sm4 = [
         "id": "sm4-97",
         "name": "Peeking Red Card",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -7192,10 +6703,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7206,10 +6714,7 @@ let sm4 = [
         "number": "97",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/97.png",
             "large": "https://images.pokemontcg.io/sm4/97_hires.png"
@@ -7219,6 +6724,7 @@ let sm4 = [
         "id": "sm4-98",
         "name": "Psychic Memory",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7233,10 +6739,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7247,10 +6750,7 @@ let sm4 = [
         "number": "98",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/98.png",
             "large": "https://images.pokemontcg.io/sm4/98_hires.png"
@@ -7260,6 +6760,7 @@ let sm4 = [
         "id": "sm4-99",
         "name": "Sea of Nothingness",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stadium"
         ],
@@ -7273,10 +6774,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7287,10 +6785,7 @@ let sm4 = [
         "number": "99",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/99.png",
             "large": "https://images.pokemontcg.io/sm4/99_hires.png"
@@ -7300,6 +6795,7 @@ let sm4 = [
         "id": "sm4-100",
         "name": "Counter Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -7313,10 +6809,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7326,10 +6819,7 @@ let sm4 = [
         },
         "number": "100",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/100.png",
             "large": "https://images.pokemontcg.io/sm4/100_hires.png"
@@ -7339,6 +6829,7 @@ let sm4 = [
         "id": "sm4-101",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7399,10 +6890,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7416,10 +6904,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/101.png",
             "large": "https://images.pokemontcg.io/sm4/101_hires.png"
@@ -7429,6 +6914,7 @@ let sm4 = [
         "id": "sm4-102",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7497,10 +6983,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7514,10 +6997,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/102.png",
             "large": "https://images.pokemontcg.io/sm4/102_hires.png"
@@ -7527,6 +7007,7 @@ let sm4 = [
         "id": "sm4-103",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7583,10 +7064,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7600,10 +7078,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             793
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/103.png",
             "large": "https://images.pokemontcg.io/sm4/103_hires.png"
@@ -7613,6 +7088,7 @@ let sm4 = [
         "id": "sm4-104",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7671,10 +7147,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7688,10 +7161,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/104.png",
             "large": "https://images.pokemontcg.io/sm4/104_hires.png"
@@ -7701,6 +7171,7 @@ let sm4 = [
         "id": "sm4-105",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7769,10 +7240,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7786,10 +7254,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/105.png",
             "large": "https://images.pokemontcg.io/sm4/105_hires.png"
@@ -7799,6 +7264,7 @@ let sm4 = [
         "id": "sm4-106",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7859,10 +7325,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7876,10 +7339,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             798
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/106.png",
             "large": "https://images.pokemontcg.io/sm4/106_hires.png"
@@ -7889,6 +7349,7 @@ let sm4 = [
         "id": "sm4-107",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7949,10 +7410,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -7966,10 +7424,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/107.png",
             "large": "https://images.pokemontcg.io/sm4/107_hires.png"
@@ -7979,6 +7434,7 @@ let sm4 = [
         "id": "sm4-108",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8035,10 +7491,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8052,10 +7505,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/108.png",
             "large": "https://images.pokemontcg.io/sm4/108_hires.png"
@@ -8065,6 +7515,7 @@ let sm4 = [
         "id": "sm4-109",
         "name": "Gladion",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -8078,10 +7529,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8092,10 +7540,7 @@ let sm4 = [
         "number": "109",
         "artist": "TOKIYA",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/109.png",
             "large": "https://images.pokemontcg.io/sm4/109_hires.png"
@@ -8105,6 +7550,7 @@ let sm4 = [
         "id": "sm4-110",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -8118,10 +7564,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8132,10 +7575,7 @@ let sm4 = [
         "number": "110",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/110.png",
             "large": "https://images.pokemontcg.io/sm4/110_hires.png"
@@ -8145,6 +7585,7 @@ let sm4 = [
         "id": "sm4-111",
         "name": "Olivia",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -8158,10 +7599,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8172,10 +7610,7 @@ let sm4 = [
         "number": "111",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/111.png",
             "large": "https://images.pokemontcg.io/sm4/111_hires.png"
@@ -8185,6 +7620,7 @@ let sm4 = [
         "id": "sm4-112",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8245,10 +7681,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8262,10 +7695,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/112.png",
             "large": "https://images.pokemontcg.io/sm4/112_hires.png"
@@ -8275,6 +7705,7 @@ let sm4 = [
         "id": "sm4-113",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8343,10 +7774,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8360,10 +7788,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/113.png",
             "large": "https://images.pokemontcg.io/sm4/113_hires.png"
@@ -8373,6 +7798,7 @@ let sm4 = [
         "id": "sm4-114",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -8429,10 +7855,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8446,10 +7869,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             793
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/114.png",
             "large": "https://images.pokemontcg.io/sm4/114_hires.png"
@@ -8459,6 +7879,7 @@ let sm4 = [
         "id": "sm4-115",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -8517,10 +7938,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8534,10 +7952,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/115.png",
             "large": "https://images.pokemontcg.io/sm4/115_hires.png"
@@ -8547,6 +7962,7 @@ let sm4 = [
         "id": "sm4-116",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -8615,10 +8031,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8632,10 +8045,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/116.png",
             "large": "https://images.pokemontcg.io/sm4/116_hires.png"
@@ -8645,6 +8055,7 @@ let sm4 = [
         "id": "sm4-117",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -8705,10 +8116,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8722,10 +8130,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             798
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/117.png",
             "large": "https://images.pokemontcg.io/sm4/117_hires.png"
@@ -8735,6 +8140,7 @@ let sm4 = [
         "id": "sm4-118",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8795,10 +8201,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8812,10 +8215,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/118.png",
             "large": "https://images.pokemontcg.io/sm4/118_hires.png"
@@ -8825,6 +8225,7 @@ let sm4 = [
         "id": "sm4-119",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8881,10 +8282,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8898,10 +8296,7 @@ let sm4 = [
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/119.png",
             "large": "https://images.pokemontcg.io/sm4/119_hires.png"
@@ -8911,6 +8306,7 @@ let sm4 = [
         "id": "sm4-120",
         "name": "Counter Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -8925,10 +8321,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8939,10 +8332,7 @@ let sm4 = [
         "number": "120",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/120.png",
             "large": "https://images.pokemontcg.io/sm4/120_hires.png"
@@ -8952,6 +8342,7 @@ let sm4 = [
         "id": "sm4-121",
         "name": "Wishful Baton",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8966,10 +8357,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -8980,10 +8368,7 @@ let sm4 = [
         "number": "121",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/121.png",
             "large": "https://images.pokemontcg.io/sm4/121_hires.png"
@@ -8993,6 +8378,7 @@ let sm4 = [
         "id": "sm4-122",
         "name": "Counter Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -9006,10 +8392,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -9019,10 +8402,7 @@ let sm4 = [
         },
         "number": "122",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/122.png",
             "large": "https://images.pokemontcg.io/sm4/122_hires.png"
@@ -9032,6 +8412,7 @@ let sm4 = [
         "id": "sm4-123",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -9045,10 +8426,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -9058,10 +8436,7 @@ let sm4 = [
         },
         "number": "123",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/123.png",
             "large": "https://images.pokemontcg.io/sm4/123_hires.png"
@@ -9071,6 +8446,7 @@ let sm4 = [
         "id": "sm4-124",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -9080,10 +8456,7 @@ let sm4 = [
             "series": "Sun & Moon",
             "printedTotal": 111,
             "total": 126,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CIN",
             "releaseDate": "2017/11/03",
             "images": {
@@ -9093,11 +8466,7 @@ let sm4 = [
         },
         "number": "124",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm4/124.png",
             "large": "https://images.pokemontcg.io/sm4/124_hires.png"

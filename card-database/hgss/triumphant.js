@@ -1,8 +1,9 @@
-let triumphant = [
+let hgss4 = [
     {
         "id": "hgss4-1",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -55,9 +56,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -72,9 +71,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/1.png",
             "large": "https://images.pokemontcg.io/hgss4/1_hires.png"
@@ -84,6 +81,7 @@ let triumphant = [
         "id": "hgss4-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -132,9 +130,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -149,9 +145,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/2.png",
             "large": "https://images.pokemontcg.io/hgss4/2_hires.png"
@@ -161,6 +155,7 @@ let triumphant = [
         "id": "hgss4-3",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -202,9 +197,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -219,9 +212,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/3.png",
             "large": "https://images.pokemontcg.io/hgss4/3_hires.png"
@@ -231,6 +222,7 @@ let triumphant = [
         "id": "hgss4-4",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -283,9 +275,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -300,9 +290,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/4.png",
             "large": "https://images.pokemontcg.io/hgss4/4_hires.png"
@@ -312,6 +300,7 @@ let triumphant = [
         "id": "hgss4-5",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -358,9 +347,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -375,9 +362,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/5.png",
             "large": "https://images.pokemontcg.io/hgss4/5_hires.png"
@@ -387,6 +372,7 @@ let triumphant = [
         "id": "hgss4-6",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -435,9 +421,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -452,9 +436,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/6.png",
             "large": "https://images.pokemontcg.io/hgss4/6_hires.png"
@@ -464,6 +446,7 @@ let triumphant = [
         "id": "hgss4-7",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -505,9 +488,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -522,9 +503,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/7.png",
             "large": "https://images.pokemontcg.io/hgss4/7_hires.png"
@@ -534,6 +513,7 @@ let triumphant = [
         "id": "hgss4-8",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -575,9 +555,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -592,9 +570,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/8.png",
             "large": "https://images.pokemontcg.io/hgss4/8_hires.png"
@@ -604,6 +580,7 @@ let triumphant = [
         "id": "hgss4-9",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -642,9 +619,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -659,9 +634,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/9.png",
             "large": "https://images.pokemontcg.io/hgss4/9_hires.png"
@@ -671,6 +644,7 @@ let triumphant = [
         "id": "hgss4-10",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -709,9 +683,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -726,9 +698,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/10.png",
             "large": "https://images.pokemontcg.io/hgss4/10_hires.png"
@@ -738,6 +708,7 @@ let triumphant = [
         "id": "hgss4-11",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -778,9 +749,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -795,9 +764,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/11.png",
             "large": "https://images.pokemontcg.io/hgss4/11_hires.png"
@@ -807,6 +774,7 @@ let triumphant = [
         "id": "hgss4-12",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -847,9 +815,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -864,9 +830,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/12.png",
             "large": "https://images.pokemontcg.io/hgss4/12_hires.png"
@@ -876,6 +840,7 @@ let triumphant = [
         "id": "hgss4-13",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -919,9 +884,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -936,9 +899,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/13.png",
             "large": "https://images.pokemontcg.io/hgss4/13_hires.png"
@@ -948,6 +909,7 @@ let triumphant = [
         "id": "hgss4-14",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -997,9 +959,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1014,9 +974,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/14.png",
             "large": "https://images.pokemontcg.io/hgss4/14_hires.png"
@@ -1026,6 +984,7 @@ let triumphant = [
         "id": "hgss4-15",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1074,9 +1033,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1091,9 +1048,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/15.png",
             "large": "https://images.pokemontcg.io/hgss4/15_hires.png"
@@ -1103,6 +1058,7 @@ let triumphant = [
         "id": "hgss4-16",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1151,9 +1107,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1168,9 +1122,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/16.png",
             "large": "https://images.pokemontcg.io/hgss4/16_hires.png"
@@ -1180,6 +1132,7 @@ let triumphant = [
         "id": "hgss4-17",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1219,9 +1172,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1236,9 +1187,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/17.png",
             "large": "https://images.pokemontcg.io/hgss4/17_hires.png"
@@ -1248,6 +1197,7 @@ let triumphant = [
         "id": "hgss4-18",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1300,9 +1250,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1317,9 +1265,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/18.png",
             "large": "https://images.pokemontcg.io/hgss4/18_hires.png"
@@ -1329,6 +1275,7 @@ let triumphant = [
         "id": "hgss4-19",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1377,9 +1324,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1394,9 +1339,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/19.png",
             "large": "https://images.pokemontcg.io/hgss4/19_hires.png"
@@ -1406,6 +1349,7 @@ let triumphant = [
         "id": "hgss4-20",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1455,9 +1399,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1472,9 +1414,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/20.png",
             "large": "https://images.pokemontcg.io/hgss4/20_hires.png"
@@ -1484,6 +1424,7 @@ let triumphant = [
         "id": "hgss4-21",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1516,9 +1457,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1533,9 +1472,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/21.png",
             "large": "https://images.pokemontcg.io/hgss4/21_hires.png"
@@ -1545,6 +1482,7 @@ let triumphant = [
         "id": "hgss4-22",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1585,9 +1523,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1602,9 +1538,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/22.png",
             "large": "https://images.pokemontcg.io/hgss4/22_hires.png"
@@ -1614,6 +1548,7 @@ let triumphant = [
         "id": "hgss4-23",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1658,9 +1593,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1675,9 +1608,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/23.png",
             "large": "https://images.pokemontcg.io/hgss4/23_hires.png"
@@ -1687,6 +1618,7 @@ let triumphant = [
         "id": "hgss4-24",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1731,9 +1663,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1748,9 +1678,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/24.png",
             "large": "https://images.pokemontcg.io/hgss4/24_hires.png"
@@ -1760,6 +1688,7 @@ let triumphant = [
         "id": "hgss4-25",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1801,9 +1730,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1818,9 +1745,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/25.png",
             "large": "https://images.pokemontcg.io/hgss4/25_hires.png"
@@ -1830,6 +1755,7 @@ let triumphant = [
         "id": "hgss4-26",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1873,9 +1799,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1890,9 +1814,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/26.png",
             "large": "https://images.pokemontcg.io/hgss4/26_hires.png"
@@ -1902,6 +1824,7 @@ let triumphant = [
         "id": "hgss4-27",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1945,9 +1868,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -1962,9 +1883,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/27.png",
             "large": "https://images.pokemontcg.io/hgss4/27_hires.png"
@@ -1974,6 +1893,7 @@ let triumphant = [
         "id": "hgss4-28",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2017,9 +1937,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2034,9 +1952,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/28.png",
             "large": "https://images.pokemontcg.io/hgss4/28_hires.png"
@@ -2046,6 +1962,7 @@ let triumphant = [
         "id": "hgss4-29",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2095,9 +2012,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2112,9 +2027,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/29.png",
             "large": "https://images.pokemontcg.io/hgss4/29_hires.png"
@@ -2124,6 +2037,7 @@ let triumphant = [
         "id": "hgss4-30",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2167,9 +2081,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2184,9 +2096,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/30.png",
             "large": "https://images.pokemontcg.io/hgss4/30_hires.png"
@@ -2196,6 +2106,7 @@ let triumphant = [
         "id": "hgss4-31",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2241,9 +2152,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2258,9 +2167,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/31.png",
             "large": "https://images.pokemontcg.io/hgss4/31_hires.png"
@@ -2270,6 +2177,7 @@ let triumphant = [
         "id": "hgss4-32",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2317,9 +2225,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2334,9 +2240,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/32.png",
             "large": "https://images.pokemontcg.io/hgss4/32_hires.png"
@@ -2346,6 +2250,7 @@ let triumphant = [
         "id": "hgss4-33",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2397,9 +2302,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2414,9 +2317,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/33.png",
             "large": "https://images.pokemontcg.io/hgss4/33_hires.png"
@@ -2426,6 +2327,7 @@ let triumphant = [
         "id": "hgss4-34",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2475,9 +2377,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2492,9 +2392,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/34.png",
             "large": "https://images.pokemontcg.io/hgss4/34_hires.png"
@@ -2504,6 +2402,7 @@ let triumphant = [
         "id": "hgss4-35",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2554,9 +2453,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2571,9 +2468,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/35.png",
             "large": "https://images.pokemontcg.io/hgss4/35_hires.png"
@@ -2583,6 +2478,7 @@ let triumphant = [
         "id": "hgss4-36",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2626,9 +2522,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2643,9 +2537,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/36.png",
             "large": "https://images.pokemontcg.io/hgss4/36_hires.png"
@@ -2655,6 +2547,7 @@ let triumphant = [
         "id": "hgss4-37",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2698,9 +2591,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2715,9 +2606,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/37.png",
             "large": "https://images.pokemontcg.io/hgss4/37_hires.png"
@@ -2727,6 +2616,7 @@ let triumphant = [
         "id": "hgss4-38",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2770,9 +2660,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2787,9 +2675,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             463
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/38.png",
             "large": "https://images.pokemontcg.io/hgss4/38_hires.png"
@@ -2799,6 +2685,7 @@ let triumphant = [
         "id": "hgss4-39",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2839,9 +2726,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2856,9 +2741,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/39.png",
             "large": "https://images.pokemontcg.io/hgss4/39_hires.png"
@@ -2868,6 +2751,7 @@ let triumphant = [
         "id": "hgss4-40",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2914,9 +2798,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2931,9 +2813,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/40.png",
             "large": "https://images.pokemontcg.io/hgss4/40_hires.png"
@@ -2943,6 +2823,7 @@ let triumphant = [
         "id": "hgss4-41",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2975,9 +2856,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -2992,9 +2871,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/41.png",
             "large": "https://images.pokemontcg.io/hgss4/41_hires.png"
@@ -3004,6 +2881,7 @@ let triumphant = [
         "id": "hgss4-42",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3049,9 +2927,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3066,9 +2942,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/42.png",
             "large": "https://images.pokemontcg.io/hgss4/42_hires.png"
@@ -3078,6 +2952,7 @@ let triumphant = [
         "id": "hgss4-43",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3129,9 +3004,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3146,9 +3019,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/43.png",
             "large": "https://images.pokemontcg.io/hgss4/43_hires.png"
@@ -3158,6 +3029,7 @@ let triumphant = [
         "id": "hgss4-44",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3207,9 +3079,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3224,9 +3094,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/44.png",
             "large": "https://images.pokemontcg.io/hgss4/44_hires.png"
@@ -3236,6 +3104,7 @@ let triumphant = [
         "id": "hgss4-45",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3282,9 +3151,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3299,9 +3166,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/45.png",
             "large": "https://images.pokemontcg.io/hgss4/45_hires.png"
@@ -3311,6 +3176,7 @@ let triumphant = [
         "id": "hgss4-46",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3358,9 +3224,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3375,9 +3239,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/46.png",
             "large": "https://images.pokemontcg.io/hgss4/46_hires.png"
@@ -3387,6 +3249,7 @@ let triumphant = [
         "id": "hgss4-47",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3440,9 +3303,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3457,9 +3318,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/47.png",
             "large": "https://images.pokemontcg.io/hgss4/47_hires.png"
@@ -3469,6 +3328,7 @@ let triumphant = [
         "id": "hgss4-48",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3518,9 +3378,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3535,9 +3393,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/48.png",
             "large": "https://images.pokemontcg.io/hgss4/48_hires.png"
@@ -3547,6 +3403,7 @@ let triumphant = [
         "id": "hgss4-49",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3590,9 +3447,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3607,9 +3462,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/49.png",
             "large": "https://images.pokemontcg.io/hgss4/49_hires.png"
@@ -3619,6 +3472,7 @@ let triumphant = [
         "id": "hgss4-50",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3662,9 +3516,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3679,9 +3531,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/50.png",
             "large": "https://images.pokemontcg.io/hgss4/50_hires.png"
@@ -3691,6 +3541,7 @@ let triumphant = [
         "id": "hgss4-51",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3729,9 +3580,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3746,9 +3595,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/51.png",
             "large": "https://images.pokemontcg.io/hgss4/51_hires.png"
@@ -3758,6 +3605,7 @@ let triumphant = [
         "id": "hgss4-52",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3806,9 +3654,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3823,9 +3669,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/52.png",
             "large": "https://images.pokemontcg.io/hgss4/52_hires.png"
@@ -3835,6 +3679,7 @@ let triumphant = [
         "id": "hgss4-53",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3880,9 +3725,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3897,9 +3740,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/53.png",
             "large": "https://images.pokemontcg.io/hgss4/53_hires.png"
@@ -3909,6 +3750,7 @@ let triumphant = [
         "id": "hgss4-54",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3958,9 +3800,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -3975,9 +3815,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/54.png",
             "large": "https://images.pokemontcg.io/hgss4/54_hires.png"
@@ -3987,6 +3825,7 @@ let triumphant = [
         "id": "hgss4-55",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4030,9 +3869,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4047,9 +3884,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/55.png",
             "large": "https://images.pokemontcg.io/hgss4/55_hires.png"
@@ -4059,6 +3894,7 @@ let triumphant = [
         "id": "hgss4-56",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4110,9 +3946,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4127,9 +3961,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/56.png",
             "large": "https://images.pokemontcg.io/hgss4/56_hires.png"
@@ -4139,6 +3971,7 @@ let triumphant = [
         "id": "hgss4-57",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4182,9 +4015,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4199,9 +4030,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/57.png",
             "large": "https://images.pokemontcg.io/hgss4/57_hires.png"
@@ -4211,6 +4040,7 @@ let triumphant = [
         "id": "hgss4-58",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4261,9 +4091,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4278,9 +4106,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/58.png",
             "large": "https://images.pokemontcg.io/hgss4/58_hires.png"
@@ -4290,6 +4116,7 @@ let triumphant = [
         "id": "hgss4-59",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4333,9 +4160,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4350,9 +4175,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/59.png",
             "large": "https://images.pokemontcg.io/hgss4/59_hires.png"
@@ -4362,6 +4185,7 @@ let triumphant = [
         "id": "hgss4-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4410,9 +4234,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4427,9 +4249,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/60.png",
             "large": "https://images.pokemontcg.io/hgss4/60_hires.png"
@@ -4439,6 +4259,7 @@ let triumphant = [
         "id": "hgss4-61",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4489,9 +4310,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4506,9 +4325,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/61.png",
             "large": "https://images.pokemontcg.io/hgss4/61_hires.png"
@@ -4518,6 +4335,7 @@ let triumphant = [
         "id": "hgss4-62",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4562,9 +4380,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4579,9 +4395,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/62.png",
             "large": "https://images.pokemontcg.io/hgss4/62_hires.png"
@@ -4591,6 +4405,7 @@ let triumphant = [
         "id": "hgss4-63",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4631,9 +4446,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4648,9 +4461,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/63.png",
             "large": "https://images.pokemontcg.io/hgss4/63_hires.png"
@@ -4660,6 +4471,7 @@ let triumphant = [
         "id": "hgss4-64",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4700,9 +4512,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4717,9 +4527,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/64.png",
             "large": "https://images.pokemontcg.io/hgss4/64_hires.png"
@@ -4729,6 +4537,7 @@ let triumphant = [
         "id": "hgss4-65",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4764,9 +4573,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4781,9 +4588,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/65.png",
             "large": "https://images.pokemontcg.io/hgss4/65_hires.png"
@@ -4793,6 +4598,7 @@ let triumphant = [
         "id": "hgss4-66",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4838,9 +4644,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4855,9 +4659,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/66.png",
             "large": "https://images.pokemontcg.io/hgss4/66_hires.png"
@@ -4867,6 +4669,7 @@ let triumphant = [
         "id": "hgss4-67",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4912,9 +4715,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -4929,9 +4730,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/67.png",
             "large": "https://images.pokemontcg.io/hgss4/67_hires.png"
@@ -4941,6 +4740,7 @@ let triumphant = [
         "id": "hgss4-68",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4991,9 +4791,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5008,9 +4806,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/68.png",
             "large": "https://images.pokemontcg.io/hgss4/68_hires.png"
@@ -5020,6 +4816,7 @@ let triumphant = [
         "id": "hgss4-69",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5064,9 +4861,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5081,9 +4876,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/69.png",
             "large": "https://images.pokemontcg.io/hgss4/69_hires.png"
@@ -5093,6 +4886,7 @@ let triumphant = [
         "id": "hgss4-70",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5137,9 +4931,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5154,9 +4946,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/70.png",
             "large": "https://images.pokemontcg.io/hgss4/70_hires.png"
@@ -5166,6 +4956,7 @@ let triumphant = [
         "id": "hgss4-71",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5215,9 +5006,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5232,9 +5021,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/71.png",
             "large": "https://images.pokemontcg.io/hgss4/71_hires.png"
@@ -5244,6 +5031,7 @@ let triumphant = [
         "id": "hgss4-72",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5288,9 +5076,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5305,9 +5091,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/72.png",
             "large": "https://images.pokemontcg.io/hgss4/72_hires.png"
@@ -5317,6 +5101,7 @@ let triumphant = [
         "id": "hgss4-73",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5361,9 +5146,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5378,9 +5161,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/73.png",
             "large": "https://images.pokemontcg.io/hgss4/73_hires.png"
@@ -5390,6 +5171,7 @@ let triumphant = [
         "id": "hgss4-74",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5424,9 +5206,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5441,9 +5221,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/74.png",
             "large": "https://images.pokemontcg.io/hgss4/74_hires.png"
@@ -5453,6 +5231,7 @@ let triumphant = [
         "id": "hgss4-75",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5502,9 +5281,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5519,9 +5296,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/75.png",
             "large": "https://images.pokemontcg.io/hgss4/75_hires.png"
@@ -5531,6 +5306,7 @@ let triumphant = [
         "id": "hgss4-76",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5566,9 +5342,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5583,9 +5357,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             451
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/76.png",
             "large": "https://images.pokemontcg.io/hgss4/76_hires.png"
@@ -5595,6 +5367,7 @@ let triumphant = [
         "id": "hgss4-77",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5629,9 +5402,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5646,9 +5417,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/77.png",
             "large": "https://images.pokemontcg.io/hgss4/77_hires.png"
@@ -5658,6 +5427,7 @@ let triumphant = [
         "id": "hgss4-78",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5698,9 +5468,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5715,9 +5483,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/78.png",
             "large": "https://images.pokemontcg.io/hgss4/78_hires.png"
@@ -5727,6 +5493,7 @@ let triumphant = [
         "id": "hgss4-79",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5771,9 +5538,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5788,9 +5553,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/79.png",
             "large": "https://images.pokemontcg.io/hgss4/79_hires.png"
@@ -5800,6 +5563,7 @@ let triumphant = [
         "id": "hgss4-80",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5834,9 +5598,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5851,9 +5613,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/80.png",
             "large": "https://images.pokemontcg.io/hgss4/80_hires.png"
@@ -5863,6 +5623,7 @@ let triumphant = [
         "id": "hgss4-81",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5907,9 +5668,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5924,9 +5683,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/81.png",
             "large": "https://images.pokemontcg.io/hgss4/81_hires.png"
@@ -5936,6 +5693,7 @@ let triumphant = [
         "id": "hgss4-82",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5978,9 +5736,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -5995,9 +5751,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/82.png",
             "large": "https://images.pokemontcg.io/hgss4/82_hires.png"
@@ -6007,6 +5761,7 @@ let triumphant = [
         "id": "hgss4-83",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -6047,9 +5802,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6064,9 +5817,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/83.png",
             "large": "https://images.pokemontcg.io/hgss4/83_hires.png"
@@ -6076,6 +5827,7 @@ let triumphant = [
         "id": "hgss4-84",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -6124,9 +5876,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6141,9 +5891,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/84.png",
             "large": "https://images.pokemontcg.io/hgss4/84_hires.png"
@@ -6153,6 +5901,7 @@ let triumphant = [
         "id": "hgss4-85",
         "name": "Black Belt",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -6166,9 +5915,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6179,9 +5926,7 @@ let triumphant = [
         "number": "85",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/85.png",
             "large": "https://images.pokemontcg.io/hgss4/85_hires.png"
@@ -6191,6 +5936,7 @@ let triumphant = [
         "id": "hgss4-86",
         "name": "Indigo Plateau",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stadium"
         ],
@@ -6204,9 +5950,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6217,9 +5961,7 @@ let triumphant = [
         "number": "86",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/86.png",
             "large": "https://images.pokemontcg.io/hgss4/86_hires.png"
@@ -6229,6 +5971,7 @@ let triumphant = [
         "id": "hgss4-87",
         "name": "Junk Arm",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Item"
         ],
@@ -6241,9 +5984,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6254,9 +5995,7 @@ let triumphant = [
         "number": "87",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/87.png",
             "large": "https://images.pokemontcg.io/hgss4/87_hires.png"
@@ -6266,6 +6005,7 @@ let triumphant = [
         "id": "hgss4-88",
         "name": "Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -6279,9 +6019,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6292,9 +6030,7 @@ let triumphant = [
         "number": "88",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/88.png",
             "large": "https://images.pokemontcg.io/hgss4/88_hires.png"
@@ -6304,6 +6040,7 @@ let triumphant = [
         "id": "hgss4-89",
         "name": "Twins",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -6317,9 +6054,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6330,9 +6065,7 @@ let triumphant = [
         "number": "89",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/89.png",
             "large": "https://images.pokemontcg.io/hgss4/89_hires.png"
@@ -6342,6 +6075,7 @@ let triumphant = [
         "id": "hgss4-90",
         "name": "Rescue Energy",
         "supertype": "Energy",
+        "setAbbrev": "TM",
         "subtypes": [
             "Special"
         ],
@@ -6354,9 +6088,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6367,9 +6099,7 @@ let triumphant = [
         "number": "90",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/90.png",
             "large": "https://images.pokemontcg.io/hgss4/90_hires.png"
@@ -6379,6 +6109,7 @@ let triumphant = [
         "id": "hgss4-91",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6425,9 +6156,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6441,9 +6170,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/91.png",
             "large": "https://images.pokemontcg.io/hgss4/91_hires.png"
@@ -6453,6 +6180,7 @@ let triumphant = [
         "id": "hgss4-92",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6494,9 +6222,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6510,9 +6236,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/92.png",
             "large": "https://images.pokemontcg.io/hgss4/92_hires.png"
@@ -6522,6 +6246,7 @@ let triumphant = [
         "id": "hgss4-93",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6569,9 +6294,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6585,9 +6308,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/93.png",
             "large": "https://images.pokemontcg.io/hgss4/93_hires.png"
@@ -6597,6 +6318,7 @@ let triumphant = [
         "id": "hgss4-94",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6652,9 +6374,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6668,9 +6388,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/94.png",
             "large": "https://images.pokemontcg.io/hgss4/94_hires.png"
@@ -6680,6 +6398,7 @@ let triumphant = [
         "id": "hgss4-95",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6734,9 +6453,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6750,9 +6467,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/95.png",
             "large": "https://images.pokemontcg.io/hgss4/95_hires.png"
@@ -6762,6 +6477,7 @@ let triumphant = [
         "id": "hgss4-96",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6809,9 +6525,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6825,9 +6539,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/96.png",
             "large": "https://images.pokemontcg.io/hgss4/96_hires.png"
@@ -6837,6 +6549,7 @@ let triumphant = [
         "id": "hgss4-97",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6875,9 +6588,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6891,9 +6602,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/97.png",
             "large": "https://images.pokemontcg.io/hgss4/97_hires.png"
@@ -6903,6 +6612,7 @@ let triumphant = [
         "id": "hgss4-98",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6960,9 +6670,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -6976,9 +6684,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/98.png",
             "large": "https://images.pokemontcg.io/hgss4/98_hires.png"
@@ -6988,6 +6694,7 @@ let triumphant = [
         "id": "hgss4-99",
         "name": "Darkrai & Cresselia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -7040,9 +6747,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -7056,9 +6761,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/99.png",
             "large": "https://images.pokemontcg.io/hgss4/99_hires.png"
@@ -7068,6 +6771,7 @@ let triumphant = [
         "id": "hgss4-100",
         "name": "Darkrai & Cresselia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -7120,9 +6824,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -7136,9 +6838,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/100.png",
             "large": "https://images.pokemontcg.io/hgss4/100_hires.png"
@@ -7148,6 +6848,7 @@ let triumphant = [
         "id": "hgss4-101",
         "name": "Palkia & Dialga LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -7201,9 +6902,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -7217,9 +6916,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/101.png",
             "large": "https://images.pokemontcg.io/hgss4/101_hires.png"
@@ -7229,6 +6926,7 @@ let triumphant = [
         "id": "hgss4-102",
         "name": "Palkia & Dialga LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -7282,9 +6980,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -7298,9 +6994,7 @@ let triumphant = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/102.png",
             "large": "https://images.pokemontcg.io/hgss4/102_hires.png"
@@ -7310,6 +7004,7 @@ let triumphant = [
         "id": "hgss4-FOUR",
         "name": "Alph Lithograph",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Item"
         ],
@@ -7322,9 +7017,7 @@ let triumphant = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 102,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TM",
             "releaseDate": "2010/11/03",
             "images": {
@@ -7335,9 +7028,7 @@ let triumphant = [
         "number": "FOUR",
         "artist": "Milky Isobe",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss4/FOUR.png",
             "large": "https://images.pokemontcg.io/hgss4/FOUR_hires.png"

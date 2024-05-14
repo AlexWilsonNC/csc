@@ -3,6 +3,7 @@ let g1 = [
         "id": "g1-1",
         "name": "Venusaur-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -55,10 +56,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -72,10 +70,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/1.png",
             "large": "https://images.pokemontcg.io/g1/1_hires.png"
@@ -85,6 +80,7 @@ let g1 = [
         "id": "g1-2",
         "name": "M Venusaur-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -125,10 +121,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -142,10 +135,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/2.png",
             "large": "https://images.pokemontcg.io/g1/2_hires.png"
@@ -155,6 +145,7 @@ let g1 = [
         "id": "g1-3",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -196,10 +187,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -214,10 +202,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/3.png",
             "large": "https://images.pokemontcg.io/g1/3_hires.png"
@@ -227,6 +212,7 @@ let g1 = [
         "id": "g1-4",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -270,10 +256,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -288,10 +271,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/4.png",
             "large": "https://images.pokemontcg.io/g1/4_hires.png"
@@ -301,6 +281,7 @@ let g1 = [
         "id": "g1-5",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -350,10 +331,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -368,10 +346,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/5.png",
             "large": "https://images.pokemontcg.io/g1/5_hires.png"
@@ -381,6 +356,7 @@ let g1 = [
         "id": "g1-6",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -415,10 +391,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -433,10 +406,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/6.png",
             "large": "https://images.pokemontcg.io/g1/6_hires.png"
@@ -446,6 +416,7 @@ let g1 = [
         "id": "g1-7",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -488,10 +459,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -506,10 +474,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/7.png",
             "large": "https://images.pokemontcg.io/g1/7_hires.png"
@@ -519,6 +484,7 @@ let g1 = [
         "id": "g1-8",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -565,10 +531,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -583,10 +546,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/8.png",
             "large": "https://images.pokemontcg.io/g1/8_hires.png"
@@ -596,6 +556,7 @@ let g1 = [
         "id": "g1-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -638,10 +599,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -656,10 +614,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/9.png",
             "large": "https://images.pokemontcg.io/g1/9_hires.png"
@@ -669,6 +624,7 @@ let g1 = [
         "id": "g1-10",
         "name": "Leafeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -716,10 +672,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -733,10 +686,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/10.png",
             "large": "https://images.pokemontcg.io/g1/10_hires.png"
@@ -746,6 +696,7 @@ let g1 = [
         "id": "g1-11",
         "name": "Charizard-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -797,10 +748,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -814,10 +762,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/11.png",
             "large": "https://images.pokemontcg.io/g1/11_hires.png"
@@ -827,6 +772,7 @@ let g1 = [
         "id": "g1-12",
         "name": "M Charizard-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -867,10 +813,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -884,10 +827,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/12.png",
             "large": "https://images.pokemontcg.io/g1/12_hires.png"
@@ -897,6 +837,7 @@ let g1 = [
         "id": "g1-13",
         "name": "Ninetales-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -944,10 +885,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -961,10 +899,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/13.png",
             "large": "https://images.pokemontcg.io/g1/13_hires.png"
@@ -974,6 +909,7 @@ let g1 = [
         "id": "g1-14",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1018,10 +954,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1035,10 +968,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/14.png",
             "large": "https://images.pokemontcg.io/g1/14_hires.png"
@@ -1048,6 +978,7 @@ let g1 = [
         "id": "g1-15",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1089,10 +1020,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1107,10 +1035,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/15.png",
             "large": "https://images.pokemontcg.io/g1/15_hires.png"
@@ -1120,6 +1045,7 @@ let g1 = [
         "id": "g1-16",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1164,10 +1090,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1182,10 +1105,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/16.png",
             "large": "https://images.pokemontcg.io/g1/16_hires.png"
@@ -1195,6 +1115,7 @@ let g1 = [
         "id": "g1-17",
         "name": "Blastoise-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -1247,10 +1168,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1264,10 +1182,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/17.png",
             "large": "https://images.pokemontcg.io/g1/17_hires.png"
@@ -1277,6 +1192,7 @@ let g1 = [
         "id": "g1-18",
         "name": "M Blastoise-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -1317,10 +1233,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1334,10 +1247,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/18.png",
             "large": "https://images.pokemontcg.io/g1/18_hires.png"
@@ -1347,6 +1257,7 @@ let g1 = [
         "id": "g1-19",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1382,10 +1293,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1400,10 +1308,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/19.png",
             "large": "https://images.pokemontcg.io/g1/19_hires.png"
@@ -1413,6 +1318,7 @@ let g1 = [
         "id": "g1-20",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1457,10 +1363,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1475,10 +1378,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/20.png",
             "large": "https://images.pokemontcg.io/g1/20_hires.png"
@@ -1488,6 +1388,7 @@ let g1 = [
         "id": "g1-21",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1533,10 +1434,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1551,10 +1449,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/21.png",
             "large": "https://images.pokemontcg.io/g1/21_hires.png"
@@ -1564,6 +1459,7 @@ let g1 = [
         "id": "g1-22",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1598,10 +1494,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1616,10 +1509,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/22.png",
             "large": "https://images.pokemontcg.io/g1/22_hires.png"
@@ -1629,6 +1519,7 @@ let g1 = [
         "id": "g1-23",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1675,10 +1566,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1693,10 +1581,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/23.png",
             "large": "https://images.pokemontcg.io/g1/23_hires.png"
@@ -1706,6 +1591,7 @@ let g1 = [
         "id": "g1-24",
         "name": "Vaporeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -1753,10 +1639,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1770,10 +1653,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/24.png",
             "large": "https://images.pokemontcg.io/g1/24_hires.png"
@@ -1783,6 +1663,7 @@ let g1 = [
         "id": "g1-25",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1832,10 +1713,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1850,10 +1728,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/25.png",
             "large": "https://images.pokemontcg.io/g1/25_hires.png"
@@ -1863,6 +1738,7 @@ let g1 = [
         "id": "g1-26",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1913,10 +1789,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -1931,10 +1804,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/26.png",
             "large": "https://images.pokemontcg.io/g1/26_hires.png"
@@ -1944,6 +1814,7 @@ let g1 = [
         "id": "g1-27",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1993,10 +1864,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2011,10 +1879,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/27.png",
             "large": "https://images.pokemontcg.io/g1/27_hires.png"
@@ -2024,6 +1889,7 @@ let g1 = [
         "id": "g1-28",
         "name": "Jolteon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -2075,10 +1941,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2092,10 +1955,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/28.png",
             "large": "https://images.pokemontcg.io/g1/28_hires.png"
@@ -2105,6 +1965,7 @@ let g1 = [
         "id": "g1-28a",
         "name": "Jolteon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -2156,10 +2017,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2173,10 +2031,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/28a.png",
             "large": "https://images.pokemontcg.io/g1/28a_hires.png"
@@ -2186,6 +2041,7 @@ let g1 = [
         "id": "g1-29",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2234,10 +2090,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2252,10 +2105,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/29.png",
             "large": "https://images.pokemontcg.io/g1/29_hires.png"
@@ -2265,6 +2115,7 @@ let g1 = [
         "id": "g1-30",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2305,10 +2156,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2323,10 +2171,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/30.png",
             "large": "https://images.pokemontcg.io/g1/30_hires.png"
@@ -2336,6 +2181,7 @@ let g1 = [
         "id": "g1-31",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2383,10 +2229,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2401,10 +2244,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/31.png",
             "large": "https://images.pokemontcg.io/g1/31_hires.png"
@@ -2414,6 +2254,7 @@ let g1 = [
         "id": "g1-32",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2459,10 +2300,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2477,10 +2315,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/32.png",
             "large": "https://images.pokemontcg.io/g1/32_hires.png"
@@ -2490,6 +2325,7 @@ let g1 = [
         "id": "g1-33",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2530,10 +2366,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2548,10 +2381,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/33.png",
             "large": "https://images.pokemontcg.io/g1/33_hires.png"
@@ -2561,6 +2391,7 @@ let g1 = [
         "id": "g1-34",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2610,10 +2441,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2628,10 +2456,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/34.png",
             "large": "https://images.pokemontcg.io/g1/34_hires.png"
@@ -2641,6 +2466,7 @@ let g1 = [
         "id": "g1-35",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -2688,10 +2514,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2706,10 +2529,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/35.png",
             "large": "https://images.pokemontcg.io/g1/35_hires.png"
@@ -2719,6 +2539,7 @@ let g1 = [
         "id": "g1-36",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2759,10 +2580,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2777,10 +2595,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/36.png",
             "large": "https://images.pokemontcg.io/g1/36_hires.png"
@@ -2790,6 +2605,7 @@ let g1 = [
         "id": "g1-37",
         "name": "Meowstic-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -2833,10 +2649,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2850,10 +2663,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             678
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/37.png",
             "large": "https://images.pokemontcg.io/g1/37_hires.png"
@@ -2863,6 +2673,7 @@ let g1 = [
         "id": "g1-38",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2907,10 +2718,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2925,10 +2733,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/38.png",
             "large": "https://images.pokemontcg.io/g1/38_hires.png"
@@ -2938,6 +2743,7 @@ let g1 = [
         "id": "g1-39",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2981,10 +2787,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -2999,10 +2802,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/39.png",
             "large": "https://images.pokemontcg.io/g1/39_hires.png"
@@ -3012,6 +2812,7 @@ let g1 = [
         "id": "g1-40",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3046,10 +2847,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3064,10 +2862,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/40.png",
             "large": "https://images.pokemontcg.io/g1/40_hires.png"
@@ -3077,6 +2872,7 @@ let g1 = [
         "id": "g1-41",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3113,10 +2909,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3131,10 +2924,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/41.png",
             "large": "https://images.pokemontcg.io/g1/41_hires.png"
@@ -3144,6 +2934,7 @@ let g1 = [
         "id": "g1-42",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -3185,10 +2976,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3203,10 +2991,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/42.png",
             "large": "https://images.pokemontcg.io/g1/42_hires.png"
@@ -3216,6 +3001,7 @@ let g1 = [
         "id": "g1-43",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3260,10 +3046,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3278,10 +3061,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/43.png",
             "large": "https://images.pokemontcg.io/g1/43_hires.png"
@@ -3291,6 +3071,7 @@ let g1 = [
         "id": "g1-44",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3340,10 +3121,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3358,10 +3136,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/44.png",
             "large": "https://images.pokemontcg.io/g1/44_hires.png"
@@ -3371,6 +3146,7 @@ let g1 = [
         "id": "g1-45",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -3417,10 +3193,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3435,10 +3208,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/45.png",
             "large": "https://images.pokemontcg.io/g1/45_hires.png"
@@ -3448,6 +3218,7 @@ let g1 = [
         "id": "g1-46",
         "name": "Golem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -3497,10 +3268,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3514,10 +3282,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/46.png",
             "large": "https://images.pokemontcg.io/g1/46_hires.png"
@@ -3527,6 +3292,7 @@ let g1 = [
         "id": "g1-47",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3568,10 +3334,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3586,10 +3349,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/47.png",
             "large": "https://images.pokemontcg.io/g1/47_hires.png"
@@ -3599,6 +3359,7 @@ let g1 = [
         "id": "g1-48",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3642,10 +3403,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3660,10 +3418,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/48.png",
             "large": "https://images.pokemontcg.io/g1/48_hires.png"
@@ -3673,6 +3428,7 @@ let g1 = [
         "id": "g1-49",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3708,10 +3464,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3726,10 +3479,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/49.png",
             "large": "https://images.pokemontcg.io/g1/49_hires.png"
@@ -3739,6 +3489,7 @@ let g1 = [
         "id": "g1-50",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3789,10 +3540,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3807,10 +3555,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/50.png",
             "large": "https://images.pokemontcg.io/g1/50_hires.png"
@@ -3820,6 +3565,7 @@ let g1 = [
         "id": "g1-51",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3868,10 +3614,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3886,10 +3629,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/51.png",
             "large": "https://images.pokemontcg.io/g1/51_hires.png"
@@ -3899,6 +3639,7 @@ let g1 = [
         "id": "g1-52",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3944,10 +3685,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -3962,10 +3700,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/52.png",
             "large": "https://images.pokemontcg.io/g1/52_hires.png"
@@ -3975,6 +3710,7 @@ let g1 = [
         "id": "g1-53",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4009,10 +3745,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4027,10 +3760,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/53.png",
             "large": "https://images.pokemontcg.io/g1/53_hires.png"
@@ -4040,6 +3770,7 @@ let g1 = [
         "id": "g1-54",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4082,10 +3813,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4100,10 +3828,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/54.png",
             "large": "https://images.pokemontcg.io/g1/54_hires.png"
@@ -4113,6 +3838,7 @@ let g1 = [
         "id": "g1-55",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4163,10 +3889,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4181,10 +3904,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/55.png",
             "large": "https://images.pokemontcg.io/g1/55_hires.png"
@@ -4194,6 +3914,7 @@ let g1 = [
         "id": "g1-56",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4241,10 +3962,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4259,10 +3977,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/56.png",
             "large": "https://images.pokemontcg.io/g1/56_hires.png"
@@ -4272,6 +3987,7 @@ let g1 = [
         "id": "g1-57",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4314,10 +4030,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4332,10 +4045,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/57.png",
             "large": "https://images.pokemontcg.io/g1/57_hires.png"
@@ -4345,6 +4055,7 @@ let g1 = [
         "id": "g1-58",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4386,10 +4097,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4404,10 +4112,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/58.png",
             "large": "https://images.pokemontcg.io/g1/58_hires.png"
@@ -4417,6 +4122,7 @@ let g1 = [
         "id": "g1-59",
         "name": "Clemont",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4430,10 +4136,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4444,10 +4147,7 @@ let g1 = [
         "number": "59",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/59.png",
             "large": "https://images.pokemontcg.io/g1/59_hires.png"
@@ -4457,6 +4157,7 @@ let g1 = [
         "id": "g1-60",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4470,10 +4171,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4484,11 +4182,7 @@ let g1 = [
         "number": "60",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/60.png",
             "large": "https://images.pokemontcg.io/g1/60_hires.png"
@@ -4498,6 +4192,7 @@ let g1 = [
         "id": "g1-61",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4511,10 +4206,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4525,11 +4217,7 @@ let g1 = [
         "number": "61",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/61.png",
             "large": "https://images.pokemontcg.io/g1/61_hires.png"
@@ -4539,6 +4227,7 @@ let g1 = [
         "id": "g1-62",
         "name": "Evosoda",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4552,10 +4241,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4566,10 +4252,7 @@ let g1 = [
         "number": "62",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/62.png",
             "large": "https://images.pokemontcg.io/g1/62_hires.png"
@@ -4579,6 +4262,7 @@ let g1 = [
         "id": "g1-63",
         "name": "Imakuni?",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4592,10 +4276,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4605,10 +4286,7 @@ let g1 = [
         },
         "number": "63",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/63.png",
             "large": "https://images.pokemontcg.io/g1/63_hires.png"
@@ -4618,6 +4296,7 @@ let g1 = [
         "id": "g1-64",
         "name": "Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4631,10 +4310,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4645,10 +4321,7 @@ let g1 = [
         "number": "64",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/64.png",
             "large": "https://images.pokemontcg.io/g1/64_hires.png"
@@ -4658,6 +4331,7 @@ let g1 = [
         "id": "g1-65",
         "name": "Max Revive",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4671,10 +4345,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4685,10 +4356,7 @@ let g1 = [
         "number": "65",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/65.png",
             "large": "https://images.pokemontcg.io/g1/65_hires.png"
@@ -4698,6 +4366,7 @@ let g1 = [
         "id": "g1-66",
         "name": "Olympia",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4711,10 +4380,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4725,10 +4391,7 @@ let g1 = [
         "number": "66",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/66.png",
             "large": "https://images.pokemontcg.io/g1/66_hires.png"
@@ -4738,6 +4401,7 @@ let g1 = [
         "id": "g1-67",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4751,10 +4415,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4765,11 +4426,7 @@ let g1 = [
         "number": "67",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/67.png",
             "large": "https://images.pokemontcg.io/g1/67_hires.png"
@@ -4779,6 +4436,7 @@ let g1 = [
         "id": "g1-68",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4792,10 +4450,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4806,11 +4461,7 @@ let g1 = [
         "number": "68",
         "artist": "Maiko Fujiwara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/68.png",
             "large": "https://images.pokemontcg.io/g1/68_hires.png"
@@ -4820,6 +4471,7 @@ let g1 = [
         "id": "g1-69",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4833,10 +4485,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4847,10 +4496,7 @@ let g1 = [
         "number": "69",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/69.png",
             "large": "https://images.pokemontcg.io/g1/69_hires.png"
@@ -4860,6 +4506,7 @@ let g1 = [
         "id": "g1-70",
         "name": "Revitalizer",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4873,10 +4520,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4887,10 +4531,7 @@ let g1 = [
         "number": "70",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/70.png",
             "large": "https://images.pokemontcg.io/g1/70_hires.png"
@@ -4900,6 +4541,7 @@ let g1 = [
         "id": "g1-71",
         "name": "Red Card",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4913,10 +4555,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4940,6 +4579,7 @@ let g1 = [
         "id": "g1-72",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4953,10 +4593,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -4967,10 +4604,7 @@ let g1 = [
         "number": "72",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/72.png",
             "large": "https://images.pokemontcg.io/g1/72_hires.png"
@@ -4980,6 +4614,7 @@ let g1 = [
         "id": "g1-73",
         "name": "Team Flare Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4993,10 +4628,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5007,10 +4639,7 @@ let g1 = [
         "number": "73",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/73.png",
             "large": "https://images.pokemontcg.io/g1/73_hires.png"
@@ -5020,6 +4649,7 @@ let g1 = [
         "id": "g1-73a",
         "name": "Team Flare Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -5033,10 +4663,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5047,10 +4674,7 @@ let g1 = [
         "number": "73a",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/73a.png",
             "large": "https://images.pokemontcg.io/g1/73a_hires.png"
@@ -5060,6 +4684,7 @@ let g1 = [
         "id": "g1-74",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Special"
         ],
@@ -5072,10 +4697,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5086,10 +4708,7 @@ let g1 = [
         "number": "74",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/74.png",
             "large": "https://images.pokemontcg.io/g1/74_hires.png"
@@ -5099,6 +4718,7 @@ let g1 = [
         "id": "g1-75",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5108,10 +4728,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5121,11 +4738,7 @@ let g1 = [
         },
         "number": "75",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/75.png",
             "large": "https://images.pokemontcg.io/g1/75_hires.png"
@@ -5135,6 +4748,7 @@ let g1 = [
         "id": "g1-76",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5144,10 +4758,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5157,11 +4768,7 @@ let g1 = [
         },
         "number": "76",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/76.png",
             "large": "https://images.pokemontcg.io/g1/76_hires.png"
@@ -5171,6 +4778,7 @@ let g1 = [
         "id": "g1-77",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5180,10 +4788,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5193,11 +4798,7 @@ let g1 = [
         },
         "number": "77",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/77.png",
             "large": "https://images.pokemontcg.io/g1/77_hires.png"
@@ -5207,6 +4808,7 @@ let g1 = [
         "id": "g1-78",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5216,10 +4818,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5229,11 +4828,7 @@ let g1 = [
         },
         "number": "78",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/78.png",
             "large": "https://images.pokemontcg.io/g1/78_hires.png"
@@ -5243,6 +4838,7 @@ let g1 = [
         "id": "g1-79",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5252,10 +4848,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5265,11 +4858,7 @@ let g1 = [
         },
         "number": "79",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/79.png",
             "large": "https://images.pokemontcg.io/g1/79_hires.png"
@@ -5279,6 +4868,7 @@ let g1 = [
         "id": "g1-80",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5288,10 +4878,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5301,11 +4888,7 @@ let g1 = [
         },
         "number": "80",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/80.png",
             "large": "https://images.pokemontcg.io/g1/80_hires.png"
@@ -5315,6 +4898,7 @@ let g1 = [
         "id": "g1-81",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5324,10 +4908,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5337,11 +4918,7 @@ let g1 = [
         },
         "number": "81",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/81.png",
             "large": "https://images.pokemontcg.io/g1/81_hires.png"
@@ -5351,6 +4928,7 @@ let g1 = [
         "id": "g1-82",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5360,10 +4938,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5373,11 +4948,7 @@ let g1 = [
         },
         "number": "82",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/82.png",
             "large": "https://images.pokemontcg.io/g1/82_hires.png"
@@ -5387,6 +4958,7 @@ let g1 = [
         "id": "g1-83",
         "name": "Fairy Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5396,10 +4968,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5409,10 +4978,7 @@ let g1 = [
         },
         "number": "83",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/83.png",
             "large": "https://images.pokemontcg.io/g1/83_hires.png"
@@ -5422,6 +4988,7 @@ let g1 = [
         "id": "g1-RC1",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5466,10 +5033,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5484,10 +5048,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC1.png",
             "large": "https://images.pokemontcg.io/g1/RC1_hires.png"
@@ -5497,6 +5058,7 @@ let g1 = [
         "id": "g1-RC2",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5531,10 +5093,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5549,10 +5108,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC2.png",
             "large": "https://images.pokemontcg.io/g1/RC2_hires.png"
@@ -5562,6 +5118,7 @@ let g1 = [
         "id": "g1-RC3",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5597,10 +5154,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5615,10 +5169,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC3.png",
             "large": "https://images.pokemontcg.io/g1/RC3_hires.png"
@@ -5628,6 +5179,7 @@ let g1 = [
         "id": "g1-RC4",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5674,10 +5226,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5692,10 +5241,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC4.png",
             "large": "https://images.pokemontcg.io/g1/RC4_hires.png"
@@ -5705,6 +5251,7 @@ let g1 = [
         "id": "g1-RC5",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5749,10 +5296,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5767,10 +5311,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC5.png",
             "large": "https://images.pokemontcg.io/g1/RC5_hires.png"
@@ -5780,6 +5321,7 @@ let g1 = [
         "id": "g1-RC6",
         "name": "Flareon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -5824,10 +5366,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5841,10 +5380,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC6.png",
             "large": "https://images.pokemontcg.io/g1/RC6_hires.png"
@@ -5854,6 +5390,7 @@ let g1 = [
         "id": "g1-RC7",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5889,10 +5426,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5907,10 +5441,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC7.png",
             "large": "https://images.pokemontcg.io/g1/RC7_hires.png"
@@ -5920,6 +5451,7 @@ let g1 = [
         "id": "g1-RC8",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5961,10 +5493,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -5979,10 +5508,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC8.png",
             "large": "https://images.pokemontcg.io/g1/RC8_hires.png"
@@ -5992,6 +5518,7 @@ let g1 = [
         "id": "g1-RC9",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6041,10 +5568,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6059,10 +5583,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC9.png",
             "large": "https://images.pokemontcg.io/g1/RC9_hires.png"
@@ -6072,6 +5593,7 @@ let g1 = [
         "id": "g1-RC10",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6118,10 +5640,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6136,10 +5655,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC10.png",
             "large": "https://images.pokemontcg.io/g1/RC10_hires.png"
@@ -6149,6 +5665,7 @@ let g1 = [
         "id": "g1-RC11",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6188,10 +5705,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6206,10 +5720,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC11.png",
             "large": "https://images.pokemontcg.io/g1/RC11_hires.png"
@@ -6219,6 +5730,7 @@ let g1 = [
         "id": "g1-RC12",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6254,10 +5766,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6272,10 +5781,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC12.png",
             "large": "https://images.pokemontcg.io/g1/RC12_hires.png"
@@ -6285,6 +5791,7 @@ let g1 = [
         "id": "g1-RC13",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6327,10 +5834,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6345,10 +5849,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC13.png",
             "large": "https://images.pokemontcg.io/g1/RC13_hires.png"
@@ -6358,6 +5859,7 @@ let g1 = [
         "id": "g1-RC14",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6392,10 +5894,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6410,10 +5909,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             677
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC14.png",
             "large": "https://images.pokemontcg.io/g1/RC14_hires.png"
@@ -6423,6 +5919,7 @@ let g1 = [
         "id": "g1-RC15",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6466,10 +5963,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6484,10 +5978,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             678
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC15.png",
             "large": "https://images.pokemontcg.io/g1/RC15_hires.png"
@@ -6497,6 +5988,7 @@ let g1 = [
         "id": "g1-RC16",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6545,10 +6037,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6563,10 +6052,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC16.png",
             "large": "https://images.pokemontcg.io/g1/RC16_hires.png"
@@ -6576,6 +6062,7 @@ let g1 = [
         "id": "g1-RC17",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6616,10 +6103,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6634,10 +6118,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC17.png",
             "large": "https://images.pokemontcg.io/g1/RC17_hires.png"
@@ -6647,6 +6128,7 @@ let g1 = [
         "id": "g1-RC18",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6698,10 +6180,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6716,10 +6195,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC18.png",
             "large": "https://images.pokemontcg.io/g1/RC18_hires.png"
@@ -6729,6 +6205,7 @@ let g1 = [
         "id": "g1-RC19",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6779,10 +6256,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6797,10 +6271,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             684
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC19.png",
             "large": "https://images.pokemontcg.io/g1/RC19_hires.png"
@@ -6810,6 +6281,7 @@ let g1 = [
         "id": "g1-RC20",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6859,10 +6331,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6877,10 +6346,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             685
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC20.png",
             "large": "https://images.pokemontcg.io/g1/RC20_hires.png"
@@ -6890,6 +6356,7 @@ let g1 = [
         "id": "g1-RC21",
         "name": "Sylveon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -6943,10 +6410,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -6960,10 +6424,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             700
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC21.png",
             "large": "https://images.pokemontcg.io/g1/RC21_hires.png"
@@ -6973,6 +6434,7 @@ let g1 = [
         "id": "g1-RC22",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -7021,10 +6483,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7039,10 +6498,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             719
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC22.png",
             "large": "https://images.pokemontcg.io/g1/RC22_hires.png"
@@ -7052,6 +6508,7 @@ let g1 = [
         "id": "g1-RC23",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -7092,10 +6549,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7110,10 +6564,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC23.png",
             "large": "https://images.pokemontcg.io/g1/RC23_hires.png"
@@ -7123,6 +6574,7 @@ let g1 = [
         "id": "g1-RC24",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -7171,10 +6623,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7189,10 +6638,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC24.png",
             "large": "https://images.pokemontcg.io/g1/RC24_hires.png"
@@ -7202,6 +6648,7 @@ let g1 = [
         "id": "g1-RC25",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -7242,10 +6689,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7260,10 +6704,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC25.png",
             "large": "https://images.pokemontcg.io/g1/RC25_hires.png"
@@ -7273,6 +6714,7 @@ let g1 = [
         "id": "g1-RC26",
         "name": "Floral Crown",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7287,10 +6729,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7301,10 +6740,7 @@ let g1 = [
         "number": "RC26",
         "artist": "Aya Kusube",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC26.png",
             "large": "https://images.pokemontcg.io/g1/RC26_hires.png"
@@ -7314,6 +6750,7 @@ let g1 = [
         "id": "g1-RC27",
         "name": "Wally",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -7327,10 +6764,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7341,10 +6775,7 @@ let g1 = [
         "number": "RC27",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC27.png",
             "large": "https://images.pokemontcg.io/g1/RC27_hires.png"
@@ -7354,6 +6785,7 @@ let g1 = [
         "id": "g1-RC28",
         "name": "Flareon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -7398,10 +6830,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7415,10 +6844,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC28.png",
             "large": "https://images.pokemontcg.io/g1/RC28_hires.png"
@@ -7428,6 +6854,7 @@ let g1 = [
         "id": "g1-RC29",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -7478,10 +6905,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7496,10 +6920,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC29.png",
             "large": "https://images.pokemontcg.io/g1/RC29_hires.png"
@@ -7509,6 +6930,7 @@ let g1 = [
         "id": "g1-RC30",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -7564,10 +6986,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7581,10 +7000,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC30.png",
             "large": "https://images.pokemontcg.io/g1/RC30_hires.png"
@@ -7594,6 +7010,7 @@ let g1 = [
         "id": "g1-RC31",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7639,10 +7056,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7656,10 +7070,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC31.png",
             "large": "https://images.pokemontcg.io/g1/RC31_hires.png"
@@ -7669,6 +7080,7 @@ let g1 = [
         "id": "g1-RC32",
         "name": "Sylveon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -7722,10 +7134,7 @@ let g1 = [
             "series": "XY",
             "printedTotal": 83,
             "total": 117,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "GEN",
             "releaseDate": "2016/02/22",
             "images": {
@@ -7739,10 +7148,7 @@ let g1 = [
         "nationalPokedexNumbers": [
             700
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/g1/RC32.png",
             "large": "https://images.pokemontcg.io/g1/RC32_hires.png"

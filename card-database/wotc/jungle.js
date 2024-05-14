@@ -1,8 +1,9 @@
-let jungle = [
+let base2 = [
     {
         "id": "base2-1",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -51,9 +52,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -68,9 +67,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/1.png",
             "large": "https://images.pokemontcg.io/base2/1_hires.png"
@@ -80,6 +77,7 @@ let jungle = [
         "id": "base2-2",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -124,9 +122,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -141,9 +137,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/2.png",
             "large": "https://images.pokemontcg.io/base2/2_hires.png"
@@ -153,6 +147,7 @@ let jungle = [
         "id": "base2-3",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -198,9 +193,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -215,9 +208,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/3.png",
             "large": "https://images.pokemontcg.io/base2/3_hires.png"
@@ -227,6 +218,7 @@ let jungle = [
         "id": "base2-4",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -271,9 +263,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -288,9 +278,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/4.png",
             "large": "https://images.pokemontcg.io/base2/4_hires.png"
@@ -300,6 +288,7 @@ let jungle = [
         "id": "base2-5",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -349,9 +338,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -366,9 +353,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/5.png",
             "large": "https://images.pokemontcg.io/base2/5_hires.png"
@@ -378,6 +363,7 @@ let jungle = [
         "id": "base2-6",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -418,9 +404,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -435,9 +419,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/6.png",
             "large": "https://images.pokemontcg.io/base2/6_hires.png"
@@ -447,6 +429,7 @@ let jungle = [
         "id": "base2-7",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -492,9 +475,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -509,9 +490,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/7.png",
             "large": "https://images.pokemontcg.io/base2/7_hires.png"
@@ -521,6 +500,7 @@ let jungle = [
         "id": "base2-8",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -570,9 +550,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -587,9 +565,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/8.png",
             "large": "https://images.pokemontcg.io/base2/8_hires.png"
@@ -599,6 +575,7 @@ let jungle = [
         "id": "base2-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -643,9 +620,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -660,9 +635,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/9.png",
             "large": "https://images.pokemontcg.io/base2/9_hires.png"
@@ -672,6 +645,7 @@ let jungle = [
         "id": "base2-10",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -722,9 +696,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -739,9 +711,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/10.png",
             "large": "https://images.pokemontcg.io/base2/10_hires.png"
@@ -751,6 +721,7 @@ let jungle = [
         "id": "base2-11",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -799,9 +770,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -816,9 +785,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/11.png",
             "large": "https://images.pokemontcg.io/base2/11_hires.png"
@@ -828,6 +795,7 @@ let jungle = [
         "id": "base2-12",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -872,9 +840,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -889,9 +855,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/12.png",
             "large": "https://images.pokemontcg.io/base2/12_hires.png"
@@ -901,6 +865,7 @@ let jungle = [
         "id": "base2-13",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -946,9 +911,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -963,9 +926,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/13.png",
             "large": "https://images.pokemontcg.io/base2/13_hires.png"
@@ -975,6 +936,7 @@ let jungle = [
         "id": "base2-14",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1017,9 +979,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1034,9 +994,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/14.png",
             "large": "https://images.pokemontcg.io/base2/14_hires.png"
@@ -1046,6 +1004,7 @@ let jungle = [
         "id": "base2-15",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1087,9 +1046,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1104,9 +1061,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/15.png",
             "large": "https://images.pokemontcg.io/base2/15_hires.png"
@@ -1116,6 +1071,7 @@ let jungle = [
         "id": "base2-16",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1165,9 +1121,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1182,9 +1136,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/16.png",
             "large": "https://images.pokemontcg.io/base2/16_hires.png"
@@ -1194,6 +1146,7 @@ let jungle = [
         "id": "base2-17",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1242,9 +1195,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1259,9 +1210,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/17.png",
             "large": "https://images.pokemontcg.io/base2/17_hires.png"
@@ -1271,6 +1220,7 @@ let jungle = [
         "id": "base2-18",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1315,9 +1265,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1332,9 +1280,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/18.png",
             "large": "https://images.pokemontcg.io/base2/18_hires.png"
@@ -1344,6 +1290,7 @@ let jungle = [
         "id": "base2-19",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1389,9 +1336,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1406,9 +1351,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/19.png",
             "large": "https://images.pokemontcg.io/base2/19_hires.png"
@@ -1418,6 +1361,7 @@ let jungle = [
         "id": "base2-20",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1462,9 +1406,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1479,9 +1421,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/20.png",
             "large": "https://images.pokemontcg.io/base2/20_hires.png"
@@ -1491,6 +1431,7 @@ let jungle = [
         "id": "base2-21",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1540,9 +1481,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1557,9 +1496,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/21.png",
             "large": "https://images.pokemontcg.io/base2/21_hires.png"
@@ -1569,6 +1506,7 @@ let jungle = [
         "id": "base2-22",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1609,9 +1547,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1626,9 +1562,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/22.png",
             "large": "https://images.pokemontcg.io/base2/22_hires.png"
@@ -1638,6 +1572,7 @@ let jungle = [
         "id": "base2-23",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1683,9 +1618,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1700,9 +1633,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/23.png",
             "large": "https://images.pokemontcg.io/base2/23_hires.png"
@@ -1712,6 +1643,7 @@ let jungle = [
         "id": "base2-24",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1761,9 +1693,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1778,9 +1708,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/24.png",
             "large": "https://images.pokemontcg.io/base2/24_hires.png"
@@ -1790,6 +1718,7 @@ let jungle = [
         "id": "base2-25",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1834,9 +1763,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1851,9 +1778,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/25.png",
             "large": "https://images.pokemontcg.io/base2/25_hires.png"
@@ -1863,6 +1788,7 @@ let jungle = [
         "id": "base2-26",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1913,9 +1839,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -1930,9 +1854,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/26.png",
             "large": "https://images.pokemontcg.io/base2/26_hires.png"
@@ -1942,6 +1864,7 @@ let jungle = [
         "id": "base2-27",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1990,9 +1913,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2007,9 +1928,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/27.png",
             "large": "https://images.pokemontcg.io/base2/27_hires.png"
@@ -2019,6 +1938,7 @@ let jungle = [
         "id": "base2-28",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2063,9 +1983,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2080,9 +1998,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/28.png",
             "large": "https://images.pokemontcg.io/base2/28_hires.png"
@@ -2092,6 +2008,7 @@ let jungle = [
         "id": "base2-29",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2137,9 +2054,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2154,9 +2069,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/29.png",
             "large": "https://images.pokemontcg.io/base2/29_hires.png"
@@ -2166,6 +2079,7 @@ let jungle = [
         "id": "base2-30",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2208,9 +2122,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2225,9 +2137,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/30.png",
             "large": "https://images.pokemontcg.io/base2/30_hires.png"
@@ -2237,6 +2147,7 @@ let jungle = [
         "id": "base2-31",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2278,9 +2189,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2295,9 +2204,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/31.png",
             "large": "https://images.pokemontcg.io/base2/31_hires.png"
@@ -2307,6 +2214,7 @@ let jungle = [
         "id": "base2-32",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2356,9 +2264,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2373,9 +2279,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/32.png",
             "large": "https://images.pokemontcg.io/base2/32_hires.png"
@@ -2385,6 +2289,7 @@ let jungle = [
         "id": "base2-33",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2435,9 +2340,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2452,9 +2355,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/33.png",
             "large": "https://images.pokemontcg.io/base2/33_hires.png"
@@ -2464,6 +2365,7 @@ let jungle = [
         "id": "base2-34",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2510,9 +2412,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2527,9 +2427,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/34.png",
             "large": "https://images.pokemontcg.io/base2/34_hires.png"
@@ -2539,6 +2437,7 @@ let jungle = [
         "id": "base2-35",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2580,9 +2479,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2597,9 +2494,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/35.png",
             "large": "https://images.pokemontcg.io/base2/35_hires.png"
@@ -2609,6 +2504,7 @@ let jungle = [
         "id": "base2-36",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2660,9 +2556,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2677,9 +2571,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/36.png",
             "large": "https://images.pokemontcg.io/base2/36_hires.png"
@@ -2689,6 +2581,7 @@ let jungle = [
         "id": "base2-37",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2735,9 +2628,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2752,9 +2643,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/37.png",
             "large": "https://images.pokemontcg.io/base2/37_hires.png"
@@ -2764,6 +2653,7 @@ let jungle = [
         "id": "base2-38",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -2814,9 +2704,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2831,9 +2719,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/38.png",
             "large": "https://images.pokemontcg.io/base2/38_hires.png"
@@ -2843,6 +2729,7 @@ let jungle = [
         "id": "base2-39",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2893,9 +2780,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2910,9 +2795,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/39.png",
             "large": "https://images.pokemontcg.io/base2/39_hires.png"
@@ -2922,6 +2805,7 @@ let jungle = [
         "id": "base2-40",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2968,9 +2852,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -2985,9 +2867,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/40.png",
             "large": "https://images.pokemontcg.io/base2/40_hires.png"
@@ -2997,6 +2877,7 @@ let jungle = [
         "id": "base2-41",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3041,9 +2922,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3058,9 +2937,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/41.png",
             "large": "https://images.pokemontcg.io/base2/41_hires.png"
@@ -3070,6 +2947,7 @@ let jungle = [
         "id": "base2-42",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3119,9 +2997,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3136,9 +3012,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/42.png",
             "large": "https://images.pokemontcg.io/base2/42_hires.png"
@@ -3148,6 +3022,7 @@ let jungle = [
         "id": "base2-43",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3192,9 +3067,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3209,9 +3082,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/43.png",
             "large": "https://images.pokemontcg.io/base2/43_hires.png"
@@ -3221,6 +3092,7 @@ let jungle = [
         "id": "base2-44",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3264,9 +3136,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3281,9 +3151,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/44.png",
             "large": "https://images.pokemontcg.io/base2/44_hires.png"
@@ -3293,6 +3161,7 @@ let jungle = [
         "id": "base2-45",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3348,9 +3217,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3365,9 +3232,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/45.png",
             "large": "https://images.pokemontcg.io/base2/45_hires.png"
@@ -3377,6 +3242,7 @@ let jungle = [
         "id": "base2-46",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3419,9 +3285,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3436,9 +3300,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/46.png",
             "large": "https://images.pokemontcg.io/base2/46_hires.png"
@@ -3448,6 +3310,7 @@ let jungle = [
         "id": "base2-47",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3497,9 +3360,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3514,9 +3375,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/47.png",
             "large": "https://images.pokemontcg.io/base2/47_hires.png"
@@ -3526,6 +3385,7 @@ let jungle = [
         "id": "base2-48",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3571,9 +3431,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3588,9 +3446,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/48.png",
             "large": "https://images.pokemontcg.io/base2/48_hires.png"
@@ -3600,6 +3456,7 @@ let jungle = [
         "id": "base2-49",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3643,9 +3500,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3660,9 +3515,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/49.png",
             "large": "https://images.pokemontcg.io/base2/49_hires.png"
@@ -3672,6 +3525,7 @@ let jungle = [
         "id": "base2-50",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3722,9 +3576,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3739,9 +3591,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/50.png",
             "large": "https://images.pokemontcg.io/base2/50_hires.png"
@@ -3751,6 +3601,7 @@ let jungle = [
         "id": "base2-51",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3808,9 +3659,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3825,9 +3674,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/51.png",
             "large": "https://images.pokemontcg.io/base2/51_hires.png"
@@ -3837,6 +3684,7 @@ let jungle = [
         "id": "base2-52",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3881,9 +3729,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3898,9 +3744,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/52.png",
             "large": "https://images.pokemontcg.io/base2/52_hires.png"
@@ -3910,6 +3754,7 @@ let jungle = [
         "id": "base2-53",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3943,9 +3788,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -3960,9 +3803,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/53.png",
             "large": "https://images.pokemontcg.io/base2/53_hires.png"
@@ -3972,6 +3813,7 @@ let jungle = [
         "id": "base2-54",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4022,9 +3864,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4039,9 +3879,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/54.png",
             "large": "https://images.pokemontcg.io/base2/54_hires.png"
@@ -4051,6 +3889,7 @@ let jungle = [
         "id": "base2-55",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4091,9 +3930,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4108,9 +3945,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/55.png",
             "large": "https://images.pokemontcg.io/base2/55_hires.png"
@@ -4120,6 +3955,7 @@ let jungle = [
         "id": "base2-56",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4161,9 +3997,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4178,9 +4012,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/56.png",
             "large": "https://images.pokemontcg.io/base2/56_hires.png"
@@ -4190,6 +4022,7 @@ let jungle = [
         "id": "base2-57",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4234,9 +4067,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4251,9 +4082,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/57.png",
             "large": "https://images.pokemontcg.io/base2/57_hires.png"
@@ -4263,6 +4092,7 @@ let jungle = [
         "id": "base2-58",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4307,9 +4137,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4324,9 +4152,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/58.png",
             "large": "https://images.pokemontcg.io/base2/58_hires.png"
@@ -4336,6 +4162,7 @@ let jungle = [
         "id": "base2-59",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4381,9 +4208,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4398,9 +4223,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/59.png",
             "large": "https://images.pokemontcg.io/base2/59_hires.png"
@@ -4410,6 +4233,7 @@ let jungle = [
         "id": "base2-60",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4446,9 +4270,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4463,9 +4285,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/60.png",
             "large": "https://images.pokemontcg.io/base2/60_hires.png"
@@ -4475,6 +4295,7 @@ let jungle = [
         "id": "base2-61",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4526,9 +4347,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4543,9 +4362,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/61.png",
             "large": "https://images.pokemontcg.io/base2/61_hires.png"
@@ -4555,6 +4372,7 @@ let jungle = [
         "id": "base2-62",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4605,9 +4423,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4622,9 +4438,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/62.png",
             "large": "https://images.pokemontcg.io/base2/62_hires.png"
@@ -4634,6 +4448,7 @@ let jungle = [
         "id": "base2-63",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4678,9 +4493,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4695,9 +4508,7 @@ let jungle = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/63.png",
             "large": "https://images.pokemontcg.io/base2/63_hires.png"
@@ -4707,6 +4518,7 @@ let jungle = [
         "id": "base2-64",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "JU",
         "rules": [
             "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
         ],
@@ -4716,9 +4528,7 @@ let jungle = [
             "series": "Base",
             "printedTotal": 64,
             "total": 64,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "JU",
             "releaseDate": "1999/06/16",
             "images": {
@@ -4729,11 +4539,7 @@ let jungle = [
         "number": "64",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base2/64.png",
             "large": "https://images.pokemontcg.io/base2/64_hires.png"

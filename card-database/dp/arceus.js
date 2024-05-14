@@ -1,8 +1,9 @@
-let arceus = [
+let pl4 = [
     {
         "id": "pl4-1",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -59,9 +60,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -75,9 +74,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/1.png",
             "large": "https://images.pokemontcg.io/pl4/1_hires.png"
@@ -87,6 +84,7 @@ let arceus = [
         "id": "pl4-2",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -127,9 +125,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -144,9 +140,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/2.png",
             "large": "https://images.pokemontcg.io/pl4/2_hires.png"
@@ -156,6 +150,7 @@ let arceus = [
         "id": "pl4-3",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -200,9 +195,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -217,9 +210,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/3.png",
             "large": "https://images.pokemontcg.io/pl4/3_hires.png"
@@ -229,6 +220,7 @@ let arceus = [
         "id": "pl4-4",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -272,9 +264,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -289,9 +279,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/4.png",
             "large": "https://images.pokemontcg.io/pl4/4_hires.png"
@@ -301,6 +289,7 @@ let arceus = [
         "id": "pl4-5",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -349,9 +338,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -366,9 +353,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/5.png",
             "large": "https://images.pokemontcg.io/pl4/5_hires.png"
@@ -378,6 +363,7 @@ let arceus = [
         "id": "pl4-6",
         "name": "Mothim",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -422,9 +408,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -439,9 +423,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             414
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/6.png",
             "large": "https://images.pokemontcg.io/pl4/6_hires.png"
@@ -451,6 +433,7 @@ let arceus = [
         "id": "pl4-7",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -508,9 +491,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -524,9 +505,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/7.png",
             "large": "https://images.pokemontcg.io/pl4/7_hires.png"
@@ -536,6 +515,7 @@ let arceus = [
         "id": "pl4-8",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -595,9 +575,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -611,9 +589,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/8.png",
             "large": "https://images.pokemontcg.io/pl4/8_hires.png"
@@ -623,6 +599,7 @@ let arceus = [
         "id": "pl4-9",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -666,9 +643,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -683,9 +658,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/9.png",
             "large": "https://images.pokemontcg.io/pl4/9_hires.png"
@@ -695,6 +668,7 @@ let arceus = [
         "id": "pl4-10",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -746,9 +720,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -763,9 +735,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/10.png",
             "large": "https://images.pokemontcg.io/pl4/10_hires.png"
@@ -775,6 +745,7 @@ let arceus = [
         "id": "pl4-11",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -817,9 +788,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -834,9 +803,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/11.png",
             "large": "https://images.pokemontcg.io/pl4/11_hires.png"
@@ -846,6 +813,7 @@ let arceus = [
         "id": "pl4-12",
         "name": "Zapdos G",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic",
             "SP"
@@ -895,9 +863,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -911,9 +877,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/12.png",
             "large": "https://images.pokemontcg.io/pl4/12_hires.png"
@@ -923,6 +887,7 @@ let arceus = [
         "id": "pl4-13",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -969,9 +934,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -986,9 +949,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/13.png",
             "large": "https://images.pokemontcg.io/pl4/13_hires.png"
@@ -998,6 +959,7 @@ let arceus = [
         "id": "pl4-14",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1048,9 +1010,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1065,9 +1025,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/14.png",
             "large": "https://images.pokemontcg.io/pl4/14_hires.png"
@@ -1077,6 +1035,7 @@ let arceus = [
         "id": "pl4-15",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1123,9 +1082,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1140,9 +1097,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/15.png",
             "large": "https://images.pokemontcg.io/pl4/15_hires.png"
@@ -1152,6 +1107,7 @@ let arceus = [
         "id": "pl4-16",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1198,9 +1154,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1215,9 +1169,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/16.png",
             "large": "https://images.pokemontcg.io/pl4/16_hires.png"
@@ -1227,6 +1179,7 @@ let arceus = [
         "id": "pl4-17",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1276,9 +1229,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1293,9 +1244,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/17.png",
             "large": "https://images.pokemontcg.io/pl4/17_hires.png"
@@ -1305,6 +1254,7 @@ let arceus = [
         "id": "pl4-18",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1349,9 +1299,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1366,9 +1314,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/18.png",
             "large": "https://images.pokemontcg.io/pl4/18_hires.png"
@@ -1378,6 +1324,7 @@ let arceus = [
         "id": "pl4-19",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1440,9 +1387,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1456,9 +1401,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/19.png",
             "large": "https://images.pokemontcg.io/pl4/19_hires.png"
@@ -1468,6 +1411,7 @@ let arceus = [
         "id": "pl4-20",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1514,9 +1458,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1531,9 +1473,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/20.png",
             "large": "https://images.pokemontcg.io/pl4/20_hires.png"
@@ -1543,6 +1483,7 @@ let arceus = [
         "id": "pl4-21",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1583,9 +1524,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1600,9 +1539,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/21.png",
             "large": "https://images.pokemontcg.io/pl4/21_hires.png"
@@ -1612,6 +1549,7 @@ let arceus = [
         "id": "pl4-22",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1661,9 +1599,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1678,9 +1614,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/22.png",
             "large": "https://images.pokemontcg.io/pl4/22_hires.png"
@@ -1690,6 +1624,7 @@ let arceus = [
         "id": "pl4-23",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1733,9 +1668,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1750,9 +1683,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/23.png",
             "large": "https://images.pokemontcg.io/pl4/23_hires.png"
@@ -1762,6 +1693,7 @@ let arceus = [
         "id": "pl4-24",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1813,9 +1745,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1830,9 +1760,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/24.png",
             "large": "https://images.pokemontcg.io/pl4/24_hires.png"
@@ -1842,6 +1770,7 @@ let arceus = [
         "id": "pl4-25",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -1887,9 +1816,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1904,9 +1831,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/25.png",
             "large": "https://images.pokemontcg.io/pl4/25_hires.png"
@@ -1916,6 +1841,7 @@ let arceus = [
         "id": "pl4-26",
         "name": "Porygon-Z G",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1957,9 +1883,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -1973,9 +1897,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/26.png",
             "large": "https://images.pokemontcg.io/pl4/26_hires.png"
@@ -1985,6 +1907,7 @@ let arceus = [
         "id": "pl4-27",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2034,9 +1957,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2051,9 +1972,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/27.png",
             "large": "https://images.pokemontcg.io/pl4/27_hires.png"
@@ -2063,6 +1982,7 @@ let arceus = [
         "id": "pl4-28",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2112,9 +2032,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2128,9 +2046,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/28.png",
             "large": "https://images.pokemontcg.io/pl4/28_hires.png"
@@ -2140,6 +2056,7 @@ let arceus = [
         "id": "pl4-29",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2180,9 +2097,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2197,9 +2112,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/29.png",
             "large": "https://images.pokemontcg.io/pl4/29_hires.png"
@@ -2209,6 +2122,7 @@ let arceus = [
         "id": "pl4-30",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2266,9 +2180,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2282,9 +2194,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/30.png",
             "large": "https://images.pokemontcg.io/pl4/30_hires.png"
@@ -2294,6 +2204,7 @@ let arceus = [
         "id": "pl4-31",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2343,9 +2254,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2360,9 +2269,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/31.png",
             "large": "https://images.pokemontcg.io/pl4/31_hires.png"
@@ -2372,6 +2279,7 @@ let arceus = [
         "id": "pl4-32",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -2417,9 +2325,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2433,9 +2339,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/32.png",
             "large": "https://images.pokemontcg.io/pl4/32_hires.png"
@@ -2445,6 +2349,7 @@ let arceus = [
         "id": "pl4-33",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2494,9 +2399,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2511,9 +2414,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/33.png",
             "large": "https://images.pokemontcg.io/pl4/33_hires.png"
@@ -2523,6 +2424,7 @@ let arceus = [
         "id": "pl4-34",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -2574,9 +2476,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2591,9 +2491,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/34.png",
             "large": "https://images.pokemontcg.io/pl4/34_hires.png"
@@ -2603,6 +2501,7 @@ let arceus = [
         "id": "pl4-35",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2650,9 +2549,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2667,9 +2564,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/35.png",
             "large": "https://images.pokemontcg.io/pl4/35_hires.png"
@@ -2679,6 +2574,7 @@ let arceus = [
         "id": "pl4-36",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -2729,9 +2625,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2746,9 +2640,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/36.png",
             "large": "https://images.pokemontcg.io/pl4/36_hires.png"
@@ -2758,6 +2650,7 @@ let arceus = [
         "id": "pl4-37",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2811,9 +2704,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2828,9 +2719,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/37.png",
             "large": "https://images.pokemontcg.io/pl4/37_hires.png"
@@ -2840,6 +2729,7 @@ let arceus = [
         "id": "pl4-38",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2891,9 +2781,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2908,9 +2796,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/38.png",
             "large": "https://images.pokemontcg.io/pl4/38_hires.png"
@@ -2920,6 +2806,7 @@ let arceus = [
         "id": "pl4-39",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2973,9 +2860,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -2990,9 +2875,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/39.png",
             "large": "https://images.pokemontcg.io/pl4/39_hires.png"
@@ -3002,6 +2885,7 @@ let arceus = [
         "id": "pl4-40",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -3045,9 +2929,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3062,9 +2944,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/40.png",
             "large": "https://images.pokemontcg.io/pl4/40_hires.png"
@@ -3074,6 +2954,7 @@ let arceus = [
         "id": "pl4-41",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3123,9 +3004,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3140,9 +3019,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/41.png",
             "large": "https://images.pokemontcg.io/pl4/41_hires.png"
@@ -3152,6 +3029,7 @@ let arceus = [
         "id": "pl4-42",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3203,9 +3081,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3220,9 +3096,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/42.png",
             "large": "https://images.pokemontcg.io/pl4/42_hires.png"
@@ -3232,6 +3106,7 @@ let arceus = [
         "id": "pl4-43",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3284,9 +3159,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3301,9 +3174,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/43.png",
             "large": "https://images.pokemontcg.io/pl4/43_hires.png"
@@ -3313,6 +3184,7 @@ let arceus = [
         "id": "pl4-44",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3361,9 +3233,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3378,9 +3248,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/44.png",
             "large": "https://images.pokemontcg.io/pl4/44_hires.png"
@@ -3390,6 +3258,7 @@ let arceus = [
         "id": "pl4-45",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3439,9 +3308,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3456,9 +3323,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/45.png",
             "large": "https://images.pokemontcg.io/pl4/45_hires.png"
@@ -3468,6 +3333,7 @@ let arceus = [
         "id": "pl4-46",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -3512,9 +3378,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3529,9 +3393,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/46.png",
             "large": "https://images.pokemontcg.io/pl4/46_hires.png"
@@ -3541,6 +3403,7 @@ let arceus = [
         "id": "pl4-47",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3582,9 +3445,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3599,9 +3460,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/47.png",
             "large": "https://images.pokemontcg.io/pl4/47_hires.png"
@@ -3611,6 +3470,7 @@ let arceus = [
         "id": "pl4-48",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3657,9 +3517,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3674,9 +3532,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/48.png",
             "large": "https://images.pokemontcg.io/pl4/48_hires.png"
@@ -3686,6 +3542,7 @@ let arceus = [
         "id": "pl4-49",
         "name": "Wormadam Plant Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3729,9 +3586,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3746,9 +3601,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/49.png",
             "large": "https://images.pokemontcg.io/pl4/49_hires.png"
@@ -3758,6 +3611,7 @@ let arceus = [
         "id": "pl4-50",
         "name": "Wormadam Sandy Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3807,9 +3661,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3824,9 +3676,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/50.png",
             "large": "https://images.pokemontcg.io/pl4/50_hires.png"
@@ -3836,6 +3686,7 @@ let arceus = [
         "id": "pl4-51",
         "name": "Wormadam Trash Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3884,9 +3735,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3901,9 +3750,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/51.png",
             "large": "https://images.pokemontcg.io/pl4/51_hires.png"
@@ -3913,6 +3760,7 @@ let arceus = [
         "id": "pl4-52",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -3957,9 +3805,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -3974,9 +3820,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/52.png",
             "large": "https://images.pokemontcg.io/pl4/52_hires.png"
@@ -3986,6 +3830,7 @@ let arceus = [
         "id": "pl4-53",
         "name": "Beedrill G",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4029,9 +3874,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4045,9 +3888,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/53.png",
             "large": "https://images.pokemontcg.io/pl4/53_hires.png"
@@ -4057,6 +3898,7 @@ let arceus = [
         "id": "pl4-54",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4107,9 +3949,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4124,9 +3964,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/54.png",
             "large": "https://images.pokemontcg.io/pl4/54_hires.png"
@@ -4136,6 +3974,7 @@ let arceus = [
         "id": "pl4-55",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4170,9 +4009,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4187,9 +4024,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/55.png",
             "large": "https://images.pokemontcg.io/pl4/55_hires.png"
@@ -4199,6 +4034,7 @@ let arceus = [
         "id": "pl4-56",
         "name": "Burmy Plant Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4242,9 +4078,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4259,9 +4093,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             412
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/56.png",
             "large": "https://images.pokemontcg.io/pl4/56_hires.png"
@@ -4271,6 +4103,7 @@ let arceus = [
         "id": "pl4-57",
         "name": "Burmy Sandy Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4314,9 +4147,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4331,9 +4162,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             412
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/57.png",
             "large": "https://images.pokemontcg.io/pl4/57_hires.png"
@@ -4343,6 +4172,7 @@ let arceus = [
         "id": "pl4-58",
         "name": "Burmy Trash Cloak",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4386,9 +4216,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4403,9 +4231,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             412
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/58.png",
             "large": "https://images.pokemontcg.io/pl4/58_hires.png"
@@ -4415,6 +4241,7 @@ let arceus = [
         "id": "pl4-59",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4459,9 +4286,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4476,9 +4301,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/59.png",
             "large": "https://images.pokemontcg.io/pl4/59_hires.png"
@@ -4488,6 +4311,7 @@ let arceus = [
         "id": "pl4-60",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4538,9 +4362,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4555,9 +4377,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/60.png",
             "large": "https://images.pokemontcg.io/pl4/60_hires.png"
@@ -4567,6 +4387,7 @@ let arceus = [
         "id": "pl4-61",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4611,9 +4432,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4628,9 +4447,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/61.png",
             "large": "https://images.pokemontcg.io/pl4/61_hires.png"
@@ -4640,6 +4457,7 @@ let arceus = [
         "id": "pl4-62",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4690,9 +4508,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4707,9 +4523,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/62.png",
             "large": "https://images.pokemontcg.io/pl4/62_hires.png"
@@ -4719,6 +4533,7 @@ let arceus = [
         "id": "pl4-63",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4759,9 +4574,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4776,9 +4589,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/63.png",
             "large": "https://images.pokemontcg.io/pl4/63_hires.png"
@@ -4788,6 +4599,7 @@ let arceus = [
         "id": "pl4-64",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4838,9 +4650,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4855,9 +4665,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/64.png",
             "large": "https://images.pokemontcg.io/pl4/64_hires.png"
@@ -4867,6 +4675,7 @@ let arceus = [
         "id": "pl4-65",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4907,9 +4716,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4924,9 +4731,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/65.png",
             "large": "https://images.pokemontcg.io/pl4/65_hires.png"
@@ -4936,6 +4741,7 @@ let arceus = [
         "id": "pl4-66",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -4980,9 +4786,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -4997,9 +4801,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/66.png",
             "large": "https://images.pokemontcg.io/pl4/66_hires.png"
@@ -5009,6 +4811,7 @@ let arceus = [
         "id": "pl4-67",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5054,9 +4857,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5071,9 +4872,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/67.png",
             "large": "https://images.pokemontcg.io/pl4/67_hires.png"
@@ -5083,6 +4882,7 @@ let arceus = [
         "id": "pl4-68",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5127,9 +4927,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5144,9 +4942,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/68.png",
             "large": "https://images.pokemontcg.io/pl4/68_hires.png"
@@ -5156,6 +4952,7 @@ let arceus = [
         "id": "pl4-69",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5200,9 +4997,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5217,9 +5012,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/69.png",
             "large": "https://images.pokemontcg.io/pl4/69_hires.png"
@@ -5229,6 +5022,7 @@ let arceus = [
         "id": "pl4-70",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5274,9 +5068,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5291,9 +5083,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/70.png",
             "large": "https://images.pokemontcg.io/pl4/70_hires.png"
@@ -5303,6 +5093,7 @@ let arceus = [
         "id": "pl4-71",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5354,9 +5145,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5371,9 +5160,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/71.png",
             "large": "https://images.pokemontcg.io/pl4/71_hires.png"
@@ -5383,6 +5170,7 @@ let arceus = [
         "id": "pl4-72",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5427,9 +5215,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5444,9 +5230,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/72.png",
             "large": "https://images.pokemontcg.io/pl4/72_hires.png"
@@ -5456,6 +5240,7 @@ let arceus = [
         "id": "pl4-73",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5489,9 +5274,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5506,9 +5289,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/73.png",
             "large": "https://images.pokemontcg.io/pl4/73_hires.png"
@@ -5518,6 +5299,7 @@ let arceus = [
         "id": "pl4-74",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5568,9 +5350,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5585,9 +5365,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/74.png",
             "large": "https://images.pokemontcg.io/pl4/74_hires.png"
@@ -5597,6 +5375,7 @@ let arceus = [
         "id": "pl4-75",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5642,9 +5421,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5659,9 +5436,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/75.png",
             "large": "https://images.pokemontcg.io/pl4/75_hires.png"
@@ -5671,6 +5446,7 @@ let arceus = [
         "id": "pl4-76",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5721,9 +5497,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5738,9 +5512,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/76.png",
             "large": "https://images.pokemontcg.io/pl4/76_hires.png"
@@ -5750,6 +5522,7 @@ let arceus = [
         "id": "pl4-77",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5801,9 +5574,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5818,9 +5589,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/77.png",
             "large": "https://images.pokemontcg.io/pl4/77_hires.png"
@@ -5830,6 +5599,7 @@ let arceus = [
         "id": "pl4-78",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5871,9 +5641,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5888,9 +5656,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/78.png",
             "large": "https://images.pokemontcg.io/pl4/78_hires.png"
@@ -5900,6 +5666,7 @@ let arceus = [
         "id": "pl4-79",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -5950,9 +5717,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -5967,9 +5732,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/79.png",
             "large": "https://images.pokemontcg.io/pl4/79_hires.png"
@@ -5979,6 +5742,7 @@ let arceus = [
         "id": "pl4-80",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -6029,9 +5793,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6046,9 +5808,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/80.png",
             "large": "https://images.pokemontcg.io/pl4/80_hires.png"
@@ -6058,6 +5818,7 @@ let arceus = [
         "id": "pl4-81",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -6098,9 +5859,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6115,9 +5874,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/81.png",
             "large": "https://images.pokemontcg.io/pl4/81_hires.png"
@@ -6127,6 +5884,7 @@ let arceus = [
         "id": "pl4-82",
         "name": "Beginning Door",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Item"
         ],
@@ -6139,9 +5897,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6152,9 +5908,7 @@ let arceus = [
         "number": "82",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/82.png",
             "large": "https://images.pokemontcg.io/pl4/82_hires.png"
@@ -6164,6 +5918,7 @@ let arceus = [
         "id": "pl4-83",
         "name": "Bench Shield",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6177,9 +5932,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6190,9 +5943,7 @@ let arceus = [
         "number": "83",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/83.png",
             "large": "https://images.pokemontcg.io/pl4/83_hires.png"
@@ -6202,6 +5953,7 @@ let arceus = [
         "id": "pl4-84",
         "name": "Buffer Piece",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6215,9 +5967,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6228,9 +5978,7 @@ let arceus = [
         "number": "84",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/84.png",
             "large": "https://images.pokemontcg.io/pl4/84_hires.png"
@@ -6240,6 +5988,7 @@ let arceus = [
         "id": "pl4-85",
         "name": "Department Store Girl",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Supporter"
         ],
@@ -6253,9 +6002,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6266,9 +6013,7 @@ let arceus = [
         "number": "85",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/85.png",
             "large": "https://images.pokemontcg.io/pl4/85_hires.png"
@@ -6278,6 +6023,7 @@ let arceus = [
         "id": "pl4-86",
         "name": "Energy Restore",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Item"
         ],
@@ -6290,9 +6036,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6303,9 +6047,7 @@ let arceus = [
         "number": "86",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/86.png",
             "large": "https://images.pokemontcg.io/pl4/86_hires.png"
@@ -6315,6 +6057,7 @@ let arceus = [
         "id": "pl4-87",
         "name": "Expert Belt",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6328,9 +6071,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6341,9 +6082,7 @@ let arceus = [
         "number": "87",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/87.png",
             "large": "https://images.pokemontcg.io/pl4/87_hires.png"
@@ -6353,6 +6092,7 @@ let arceus = [
         "id": "pl4-88",
         "name": "Lucky Egg",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6366,9 +6106,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6379,11 +6117,7 @@ let arceus = [
         "number": "88",
         "artist": "Nobuyuki Fujimoto",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/88.png",
             "large": "https://images.pokemontcg.io/pl4/88_hires.png"
@@ -6393,6 +6127,7 @@ let arceus = [
         "id": "pl4-89",
         "name": "Old Amber",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Item"
         ],
@@ -6413,9 +6148,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6426,9 +6159,7 @@ let arceus = [
         "number": "89",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/89.png",
             "large": "https://images.pokemontcg.io/pl4/89_hires.png"
@@ -6438,6 +6169,7 @@ let arceus = [
         "id": "pl4-90",
         "name": "Professor Oak's Visit",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Supporter"
         ],
@@ -6451,9 +6183,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6464,9 +6194,7 @@ let arceus = [
         "number": "90",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/90.png",
             "large": "https://images.pokemontcg.io/pl4/90_hires.png"
@@ -6476,6 +6204,7 @@ let arceus = [
         "id": "pl4-91",
         "name": "Ultimate Zone",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Stadium"
         ],
@@ -6489,9 +6218,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6502,9 +6229,7 @@ let arceus = [
         "number": "91",
         "artist": "Yusuke Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/91.png",
             "large": "https://images.pokemontcg.io/pl4/91_hires.png"
@@ -6514,6 +6239,7 @@ let arceus = [
         "id": "pl4-92",
         "name": "Dome Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Item"
         ],
@@ -6534,9 +6260,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6547,9 +6271,7 @@ let arceus = [
         "number": "92",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/92.png",
             "large": "https://images.pokemontcg.io/pl4/92_hires.png"
@@ -6559,6 +6281,7 @@ let arceus = [
         "id": "pl4-93",
         "name": "Helix Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "AR",
         "subtypes": [
             "Item"
         ],
@@ -6579,9 +6302,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6592,9 +6313,7 @@ let arceus = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/93.png",
             "large": "https://images.pokemontcg.io/pl4/93_hires.png"
@@ -6604,6 +6323,7 @@ let arceus = [
         "id": "pl4-94",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6635,9 +6355,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6651,9 +6369,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/94.png",
             "large": "https://images.pokemontcg.io/pl4/94_hires.png"
@@ -6663,6 +6379,7 @@ let arceus = [
         "id": "pl4-95",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6702,9 +6419,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6718,9 +6433,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/95.png",
             "large": "https://images.pokemontcg.io/pl4/95_hires.png"
@@ -6730,6 +6443,7 @@ let arceus = [
         "id": "pl4-96",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6774,9 +6488,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6790,9 +6502,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/96.png",
             "large": "https://images.pokemontcg.io/pl4/96_hires.png"
@@ -6802,6 +6512,7 @@ let arceus = [
         "id": "pl4-97",
         "name": "Gengar LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6851,9 +6562,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6867,9 +6576,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/97.png",
             "large": "https://images.pokemontcg.io/pl4/97_hires.png"
@@ -6879,6 +6586,7 @@ let arceus = [
         "id": "pl4-98",
         "name": "Salamence LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6930,9 +6638,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -6946,9 +6652,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/98.png",
             "large": "https://images.pokemontcg.io/pl4/98_hires.png"
@@ -6958,6 +6662,7 @@ let arceus = [
         "id": "pl4-99",
         "name": "Tangrowth LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Level-Up"
         ],
@@ -7006,9 +6711,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7022,9 +6725,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/99.png",
             "large": "https://images.pokemontcg.io/pl4/99_hires.png"
@@ -7034,6 +6735,7 @@ let arceus = [
         "id": "pl4-SH10",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7075,9 +6777,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7092,9 +6792,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/SH10.png",
             "large": "https://images.pokemontcg.io/pl4/SH10_hires.png"
@@ -7104,6 +6802,7 @@ let arceus = [
         "id": "pl4-SH11",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7146,9 +6845,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7163,9 +6860,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/SH11.png",
             "large": "https://images.pokemontcg.io/pl4/SH11_hires.png"
@@ -7175,6 +6870,7 @@ let arceus = [
         "id": "pl4-SH12",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7222,9 +6918,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7239,9 +6933,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/SH12.png",
             "large": "https://images.pokemontcg.io/pl4/SH12_hires.png"
@@ -7251,6 +6943,7 @@ let arceus = [
         "id": "pl4-AR1",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7292,9 +6985,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7309,9 +7000,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR1.png",
             "large": "https://images.pokemontcg.io/pl4/AR1_hires.png"
@@ -7321,6 +7010,7 @@ let arceus = [
         "id": "pl4-AR2",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7362,9 +7052,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7379,9 +7067,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR2.png",
             "large": "https://images.pokemontcg.io/pl4/AR2_hires.png"
@@ -7391,6 +7077,7 @@ let arceus = [
         "id": "pl4-AR3",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7427,9 +7114,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7444,9 +7129,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR3.png",
             "large": "https://images.pokemontcg.io/pl4/AR3_hires.png"
@@ -7456,6 +7139,7 @@ let arceus = [
         "id": "pl4-AR4",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7492,9 +7176,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7509,9 +7191,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR4.png",
             "large": "https://images.pokemontcg.io/pl4/AR4_hires.png"
@@ -7521,6 +7201,7 @@ let arceus = [
         "id": "pl4-AR5",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7564,9 +7245,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7581,9 +7260,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR5.png",
             "large": "https://images.pokemontcg.io/pl4/AR5_hires.png"
@@ -7593,6 +7270,7 @@ let arceus = [
         "id": "pl4-AR6",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7634,9 +7312,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7651,9 +7327,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR6.png",
             "large": "https://images.pokemontcg.io/pl4/AR6_hires.png"
@@ -7663,6 +7337,7 @@ let arceus = [
         "id": "pl4-AR7",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7699,9 +7374,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7716,9 +7389,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR7.png",
             "large": "https://images.pokemontcg.io/pl4/AR7_hires.png"
@@ -7728,6 +7399,7 @@ let arceus = [
         "id": "pl4-AR8",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7770,9 +7442,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7787,9 +7457,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR8.png",
             "large": "https://images.pokemontcg.io/pl4/AR8_hires.png"
@@ -7799,6 +7467,7 @@ let arceus = [
         "id": "pl4-AR9",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "AR",
         "subtypes": [
             "Basic"
         ],
@@ -7841,9 +7510,7 @@ let arceus = [
             "series": "Platinum",
             "printedTotal": 99,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AR",
             "releaseDate": "2009/11/04",
             "images": {
@@ -7858,9 +7525,7 @@ let arceus = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl4/AR9.png",
             "large": "https://images.pokemontcg.io/pl4/AR9_hires.png"

@@ -1,8 +1,9 @@
-let fireredLeafgreen = [
+let ex6 = [
     {
         "id": "ex6-1",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -45,9 +46,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -61,9 +60,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/1.png",
             "large": "https://images.pokemontcg.io/ex6/1_hires.png"
@@ -73,6 +70,7 @@ let fireredLeafgreen = [
         "id": "ex6-2",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -129,9 +127,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -145,9 +141,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/2.png",
             "large": "https://images.pokemontcg.io/ex6/2_hires.png"
@@ -157,6 +151,7 @@ let fireredLeafgreen = [
         "id": "ex6-3",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -207,9 +202,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -223,9 +216,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/3.png",
             "large": "https://images.pokemontcg.io/ex6/3_hires.png"
@@ -235,6 +226,7 @@ let fireredLeafgreen = [
         "id": "ex6-4",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -273,9 +265,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -289,9 +279,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/4.png",
             "large": "https://images.pokemontcg.io/ex6/4_hires.png"
@@ -301,6 +289,7 @@ let fireredLeafgreen = [
         "id": "ex6-5",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -343,9 +332,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -359,9 +346,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/5.png",
             "large": "https://images.pokemontcg.io/ex6/5_hires.png"
@@ -371,6 +356,7 @@ let fireredLeafgreen = [
         "id": "ex6-6",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -423,9 +409,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -439,9 +423,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/6.png",
             "large": "https://images.pokemontcg.io/ex6/6_hires.png"
@@ -451,6 +433,7 @@ let fireredLeafgreen = [
         "id": "ex6-7",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -495,9 +478,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -511,9 +492,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/7.png",
             "large": "https://images.pokemontcg.io/ex6/7_hires.png"
@@ -523,6 +502,7 @@ let fireredLeafgreen = [
         "id": "ex6-8",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -575,9 +555,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -591,9 +569,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/8.png",
             "large": "https://images.pokemontcg.io/ex6/8_hires.png"
@@ -603,6 +579,7 @@ let fireredLeafgreen = [
         "id": "ex6-9",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -653,9 +630,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -669,9 +644,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/9.png",
             "large": "https://images.pokemontcg.io/ex6/9_hires.png"
@@ -681,6 +654,7 @@ let fireredLeafgreen = [
         "id": "ex6-10",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -726,9 +700,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -742,9 +714,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/10.png",
             "large": "https://images.pokemontcg.io/ex6/10_hires.png"
@@ -754,6 +724,7 @@ let fireredLeafgreen = [
         "id": "ex6-11",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -805,9 +776,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -821,9 +790,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/11.png",
             "large": "https://images.pokemontcg.io/ex6/11_hires.png"
@@ -833,6 +800,7 @@ let fireredLeafgreen = [
         "id": "ex6-12",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -876,9 +844,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -892,9 +858,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/12.png",
             "large": "https://images.pokemontcg.io/ex6/12_hires.png"
@@ -904,6 +868,7 @@ let fireredLeafgreen = [
         "id": "ex6-13",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -955,9 +920,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -971,9 +934,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/13.png",
             "large": "https://images.pokemontcg.io/ex6/13_hires.png"
@@ -983,6 +944,7 @@ let fireredLeafgreen = [
         "id": "ex6-14",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1023,9 +985,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1039,9 +999,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/14.png",
             "large": "https://images.pokemontcg.io/ex6/14_hires.png"
@@ -1051,6 +1009,7 @@ let fireredLeafgreen = [
         "id": "ex6-15",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -1100,9 +1059,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1116,9 +1073,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/15.png",
             "large": "https://images.pokemontcg.io/ex6/15_hires.png"
@@ -1128,6 +1083,7 @@ let fireredLeafgreen = [
         "id": "ex6-16",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -1170,9 +1126,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1186,9 +1140,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/16.png",
             "large": "https://images.pokemontcg.io/ex6/16_hires.png"
@@ -1198,6 +1150,7 @@ let fireredLeafgreen = [
         "id": "ex6-17",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1239,9 +1192,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1255,9 +1206,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/17.png",
             "large": "https://images.pokemontcg.io/ex6/17_hires.png"
@@ -1267,6 +1216,7 @@ let fireredLeafgreen = [
         "id": "ex6-18",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1311,9 +1261,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1327,9 +1275,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/18.png",
             "large": "https://images.pokemontcg.io/ex6/18_hires.png"
@@ -1339,6 +1285,7 @@ let fireredLeafgreen = [
         "id": "ex6-19",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -1384,9 +1331,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1400,9 +1345,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/19.png",
             "large": "https://images.pokemontcg.io/ex6/19_hires.png"
@@ -1412,6 +1355,7 @@ let fireredLeafgreen = [
         "id": "ex6-20",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1463,9 +1407,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1479,9 +1421,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/20.png",
             "large": "https://images.pokemontcg.io/ex6/20_hires.png"
@@ -1491,6 +1431,7 @@ let fireredLeafgreen = [
         "id": "ex6-21",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1537,9 +1478,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1553,9 +1492,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/21.png",
             "large": "https://images.pokemontcg.io/ex6/21_hires.png"
@@ -1565,6 +1502,7 @@ let fireredLeafgreen = [
         "id": "ex6-22",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1609,9 +1547,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1625,9 +1561,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/22.png",
             "large": "https://images.pokemontcg.io/ex6/22_hires.png"
@@ -1637,6 +1571,7 @@ let fireredLeafgreen = [
         "id": "ex6-23",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -1686,9 +1621,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1702,9 +1635,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/23.png",
             "large": "https://images.pokemontcg.io/ex6/23_hires.png"
@@ -1714,6 +1645,7 @@ let fireredLeafgreen = [
         "id": "ex6-24",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1771,9 +1703,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1787,9 +1717,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/24.png",
             "large": "https://images.pokemontcg.io/ex6/24_hires.png"
@@ -1799,6 +1727,7 @@ let fireredLeafgreen = [
         "id": "ex6-25",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1839,9 +1768,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1855,9 +1782,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/25.png",
             "large": "https://images.pokemontcg.io/ex6/25_hires.png"
@@ -1867,6 +1792,7 @@ let fireredLeafgreen = [
         "id": "ex6-26",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1909,9 +1835,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -1925,9 +1849,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/26.png",
             "large": "https://images.pokemontcg.io/ex6/26_hires.png"
@@ -1937,6 +1859,7 @@ let fireredLeafgreen = [
         "id": "ex6-27",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1990,9 +1913,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2006,9 +1927,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/27.png",
             "large": "https://images.pokemontcg.io/ex6/27_hires.png"
@@ -2018,6 +1937,7 @@ let fireredLeafgreen = [
         "id": "ex6-28",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2060,9 +1980,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2076,9 +1994,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/28.png",
             "large": "https://images.pokemontcg.io/ex6/28_hires.png"
@@ -2088,6 +2004,7 @@ let fireredLeafgreen = [
         "id": "ex6-29",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2130,9 +2047,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2146,9 +2061,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/29.png",
             "large": "https://images.pokemontcg.io/ex6/29_hires.png"
@@ -2158,6 +2071,7 @@ let fireredLeafgreen = [
         "id": "ex6-30",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2207,9 +2121,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2223,9 +2135,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/30.png",
             "large": "https://images.pokemontcg.io/ex6/30_hires.png"
@@ -2235,6 +2145,7 @@ let fireredLeafgreen = [
         "id": "ex6-31",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2282,9 +2193,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2298,9 +2207,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/31.png",
             "large": "https://images.pokemontcg.io/ex6/31_hires.png"
@@ -2310,6 +2217,7 @@ let fireredLeafgreen = [
         "id": "ex6-32",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2353,9 +2261,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2369,9 +2275,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/32.png",
             "large": "https://images.pokemontcg.io/ex6/32_hires.png"
@@ -2381,6 +2285,7 @@ let fireredLeafgreen = [
         "id": "ex6-33",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2425,9 +2330,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2441,9 +2344,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/33.png",
             "large": "https://images.pokemontcg.io/ex6/33_hires.png"
@@ -2453,6 +2354,7 @@ let fireredLeafgreen = [
         "id": "ex6-34",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2502,9 +2404,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2518,9 +2418,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/34.png",
             "large": "https://images.pokemontcg.io/ex6/34_hires.png"
@@ -2530,6 +2428,7 @@ let fireredLeafgreen = [
         "id": "ex6-35",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2576,9 +2475,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2592,9 +2489,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/35.png",
             "large": "https://images.pokemontcg.io/ex6/35_hires.png"
@@ -2604,6 +2499,7 @@ let fireredLeafgreen = [
         "id": "ex6-36",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2646,9 +2542,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2662,9 +2556,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/36.png",
             "large": "https://images.pokemontcg.io/ex6/36_hires.png"
@@ -2674,6 +2566,7 @@ let fireredLeafgreen = [
         "id": "ex6-37",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2718,9 +2611,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2734,9 +2625,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/37.png",
             "large": "https://images.pokemontcg.io/ex6/37_hires.png"
@@ -2746,6 +2635,7 @@ let fireredLeafgreen = [
         "id": "ex6-38",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -2790,9 +2680,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2806,9 +2694,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/38.png",
             "large": "https://images.pokemontcg.io/ex6/38_hires.png"
@@ -2818,6 +2704,7 @@ let fireredLeafgreen = [
         "id": "ex6-39",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2861,9 +2748,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2877,9 +2762,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/39.png",
             "large": "https://images.pokemontcg.io/ex6/39_hires.png"
@@ -2889,6 +2772,7 @@ let fireredLeafgreen = [
         "id": "ex6-40",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2934,9 +2818,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -2950,9 +2832,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/40.png",
             "large": "https://images.pokemontcg.io/ex6/40_hires.png"
@@ -2962,6 +2842,7 @@ let fireredLeafgreen = [
         "id": "ex6-41",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3008,9 +2889,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3024,9 +2903,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/41.png",
             "large": "https://images.pokemontcg.io/ex6/41_hires.png"
@@ -3036,6 +2913,7 @@ let fireredLeafgreen = [
         "id": "ex6-42",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -3080,9 +2958,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3096,9 +2972,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/42.png",
             "large": "https://images.pokemontcg.io/ex6/42_hires.png"
@@ -3108,6 +2982,7 @@ let fireredLeafgreen = [
         "id": "ex6-43",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3150,9 +3025,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3166,9 +3039,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/43.png",
             "large": "https://images.pokemontcg.io/ex6/43_hires.png"
@@ -3178,6 +3049,7 @@ let fireredLeafgreen = [
         "id": "ex6-44",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3227,9 +3099,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3243,9 +3113,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/44.png",
             "large": "https://images.pokemontcg.io/ex6/44_hires.png"
@@ -3255,6 +3123,7 @@ let fireredLeafgreen = [
         "id": "ex6-45",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3305,9 +3174,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3321,9 +3188,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/45.png",
             "large": "https://images.pokemontcg.io/ex6/45_hires.png"
@@ -3333,6 +3198,7 @@ let fireredLeafgreen = [
         "id": "ex6-46",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3379,9 +3245,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3395,9 +3259,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/46.png",
             "large": "https://images.pokemontcg.io/ex6/46_hires.png"
@@ -3407,6 +3269,7 @@ let fireredLeafgreen = [
         "id": "ex6-47",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -3451,9 +3314,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3467,9 +3328,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/47.png",
             "large": "https://images.pokemontcg.io/ex6/47_hires.png"
@@ -3479,6 +3338,7 @@ let fireredLeafgreen = [
         "id": "ex6-48",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3526,9 +3386,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3542,9 +3400,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/48.png",
             "large": "https://images.pokemontcg.io/ex6/48_hires.png"
@@ -3554,6 +3410,7 @@ let fireredLeafgreen = [
         "id": "ex6-49",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3602,9 +3459,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3618,9 +3473,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/49.png",
             "large": "https://images.pokemontcg.io/ex6/49_hires.png"
@@ -3630,6 +3483,7 @@ let fireredLeafgreen = [
         "id": "ex6-50",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3676,9 +3530,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3692,9 +3544,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/50.png",
             "large": "https://images.pokemontcg.io/ex6/50_hires.png"
@@ -3704,6 +3554,7 @@ let fireredLeafgreen = [
         "id": "ex6-51",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3749,9 +3600,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3765,9 +3614,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/51.png",
             "large": "https://images.pokemontcg.io/ex6/51_hires.png"
@@ -3777,6 +3624,7 @@ let fireredLeafgreen = [
         "id": "ex6-52",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3817,9 +3665,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3833,9 +3679,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/52.png",
             "large": "https://images.pokemontcg.io/ex6/52_hires.png"
@@ -3845,6 +3689,7 @@ let fireredLeafgreen = [
         "id": "ex6-53",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -3879,9 +3724,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3895,9 +3738,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/53.png",
             "large": "https://images.pokemontcg.io/ex6/53_hires.png"
@@ -3907,6 +3748,7 @@ let fireredLeafgreen = [
         "id": "ex6-54",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -3951,9 +3793,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -3967,9 +3807,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/54.png",
             "large": "https://images.pokemontcg.io/ex6/54_hires.png"
@@ -3979,6 +3817,7 @@ let fireredLeafgreen = [
         "id": "ex6-55",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4023,9 +3862,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4039,9 +3876,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/55.png",
             "large": "https://images.pokemontcg.io/ex6/55_hires.png"
@@ -4051,6 +3886,7 @@ let fireredLeafgreen = [
         "id": "ex6-56",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4094,9 +3930,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4110,9 +3944,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/56.png",
             "large": "https://images.pokemontcg.io/ex6/56_hires.png"
@@ -4122,6 +3954,7 @@ let fireredLeafgreen = [
         "id": "ex6-57",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4156,9 +3989,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4172,9 +4003,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/57.png",
             "large": "https://images.pokemontcg.io/ex6/57_hires.png"
@@ -4184,6 +4013,7 @@ let fireredLeafgreen = [
         "id": "ex6-58",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4228,9 +4058,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4244,9 +4072,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/58.png",
             "large": "https://images.pokemontcg.io/ex6/58_hires.png"
@@ -4256,6 +4082,7 @@ let fireredLeafgreen = [
         "id": "ex6-59",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4300,9 +4127,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4316,9 +4141,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/59.png",
             "large": "https://images.pokemontcg.io/ex6/59_hires.png"
@@ -4328,6 +4151,7 @@ let fireredLeafgreen = [
         "id": "ex6-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4372,9 +4196,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4388,9 +4210,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/60.png",
             "large": "https://images.pokemontcg.io/ex6/60_hires.png"
@@ -4400,6 +4220,7 @@ let fireredLeafgreen = [
         "id": "ex6-61",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4434,9 +4255,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4450,9 +4269,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/61.png",
             "large": "https://images.pokemontcg.io/ex6/61_hires.png"
@@ -4462,6 +4279,7 @@ let fireredLeafgreen = [
         "id": "ex6-62",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4512,9 +4330,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4528,9 +4344,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/62.png",
             "large": "https://images.pokemontcg.io/ex6/62_hires.png"
@@ -4540,6 +4354,7 @@ let fireredLeafgreen = [
         "id": "ex6-63",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4580,9 +4395,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4596,9 +4409,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/63.png",
             "large": "https://images.pokemontcg.io/ex6/63_hires.png"
@@ -4608,6 +4419,7 @@ let fireredLeafgreen = [
         "id": "ex6-64",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4653,9 +4465,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4669,9 +4479,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/64.png",
             "large": "https://images.pokemontcg.io/ex6/64_hires.png"
@@ -4681,6 +4489,7 @@ let fireredLeafgreen = [
         "id": "ex6-65",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4725,9 +4534,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4741,9 +4548,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/65.png",
             "large": "https://images.pokemontcg.io/ex6/65_hires.png"
@@ -4753,6 +4558,7 @@ let fireredLeafgreen = [
         "id": "ex6-66",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4796,9 +4602,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4812,9 +4616,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/66.png",
             "large": "https://images.pokemontcg.io/ex6/66_hires.png"
@@ -4824,6 +4626,7 @@ let fireredLeafgreen = [
         "id": "ex6-67",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4868,9 +4671,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4884,9 +4685,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/67.png",
             "large": "https://images.pokemontcg.io/ex6/67_hires.png"
@@ -4896,6 +4695,7 @@ let fireredLeafgreen = [
         "id": "ex6-68",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -4946,9 +4746,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -4962,9 +4760,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/68.png",
             "large": "https://images.pokemontcg.io/ex6/68_hires.png"
@@ -4974,6 +4770,7 @@ let fireredLeafgreen = [
         "id": "ex6-69",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5018,9 +4815,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5034,9 +4829,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/69.png",
             "large": "https://images.pokemontcg.io/ex6/69_hires.png"
@@ -5046,6 +4839,7 @@ let fireredLeafgreen = [
         "id": "ex6-70",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5090,9 +4884,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5106,9 +4898,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/70.png",
             "large": "https://images.pokemontcg.io/ex6/70_hires.png"
@@ -5118,6 +4908,7 @@ let fireredLeafgreen = [
         "id": "ex6-71",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5161,9 +4952,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5177,9 +4966,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/71.png",
             "large": "https://images.pokemontcg.io/ex6/71_hires.png"
@@ -5189,6 +4976,7 @@ let fireredLeafgreen = [
         "id": "ex6-72",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5232,9 +5020,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5248,9 +5034,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/72.png",
             "large": "https://images.pokemontcg.io/ex6/72_hires.png"
@@ -5260,6 +5044,7 @@ let fireredLeafgreen = [
         "id": "ex6-73",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5310,9 +5095,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5326,9 +5109,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/73.png",
             "large": "https://images.pokemontcg.io/ex6/73_hires.png"
@@ -5338,6 +5119,7 @@ let fireredLeafgreen = [
         "id": "ex6-74",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5372,9 +5154,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5388,9 +5168,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/74.png",
             "large": "https://images.pokemontcg.io/ex6/74_hires.png"
@@ -5400,6 +5178,7 @@ let fireredLeafgreen = [
         "id": "ex6-75",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5444,9 +5223,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5460,9 +5237,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/75.png",
             "large": "https://images.pokemontcg.io/ex6/75_hires.png"
@@ -5472,6 +5247,7 @@ let fireredLeafgreen = [
         "id": "ex6-76",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5507,9 +5283,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5523,9 +5297,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/76.png",
             "large": "https://images.pokemontcg.io/ex6/76_hires.png"
@@ -5535,6 +5307,7 @@ let fireredLeafgreen = [
         "id": "ex6-77",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5578,9 +5351,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5594,9 +5365,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/77.png",
             "large": "https://images.pokemontcg.io/ex6/77_hires.png"
@@ -5606,6 +5375,7 @@ let fireredLeafgreen = [
         "id": "ex6-78",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5640,9 +5410,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5656,9 +5424,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/78.png",
             "large": "https://images.pokemontcg.io/ex6/78_hires.png"
@@ -5668,6 +5434,7 @@ let fireredLeafgreen = [
         "id": "ex6-79",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5711,9 +5478,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5727,9 +5492,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/79.png",
             "large": "https://images.pokemontcg.io/ex6/79_hires.png"
@@ -5739,6 +5502,7 @@ let fireredLeafgreen = [
         "id": "ex6-80",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5774,9 +5538,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5790,9 +5552,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/80.png",
             "large": "https://images.pokemontcg.io/ex6/80_hires.png"
@@ -5802,6 +5562,7 @@ let fireredLeafgreen = [
         "id": "ex6-81",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5852,9 +5613,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5868,9 +5627,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/81.png",
             "large": "https://images.pokemontcg.io/ex6/81_hires.png"
@@ -5880,6 +5637,7 @@ let fireredLeafgreen = [
         "id": "ex6-82",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5914,9 +5672,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -5930,9 +5686,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/82.png",
             "large": "https://images.pokemontcg.io/ex6/82_hires.png"
@@ -5942,6 +5696,7 @@ let fireredLeafgreen = [
         "id": "ex6-83",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -5986,9 +5741,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6002,9 +5755,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/83.png",
             "large": "https://images.pokemontcg.io/ex6/83_hires.png"
@@ -6014,6 +5765,7 @@ let fireredLeafgreen = [
         "id": "ex6-84",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -6057,9 +5809,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6073,9 +5823,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/84.png",
             "large": "https://images.pokemontcg.io/ex6/84_hires.png"
@@ -6085,6 +5833,7 @@ let fireredLeafgreen = [
         "id": "ex6-85",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -6127,9 +5876,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6143,9 +5890,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/85.png",
             "large": "https://images.pokemontcg.io/ex6/85_hires.png"
@@ -6155,6 +5900,7 @@ let fireredLeafgreen = [
         "id": "ex6-86",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -6198,9 +5944,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6214,9 +5958,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/86.png",
             "large": "https://images.pokemontcg.io/ex6/86_hires.png"
@@ -6226,6 +5968,7 @@ let fireredLeafgreen = [
         "id": "ex6-87",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Supporter"
         ],
@@ -6239,9 +5982,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6252,10 +5993,7 @@ let fireredLeafgreen = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/87.png",
             "large": "https://images.pokemontcg.io/ex6/87_hires.png"
@@ -6265,6 +6003,7 @@ let fireredLeafgreen = [
         "id": "ex6-88",
         "name": "Celio's Network",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Supporter"
         ],
@@ -6278,9 +6017,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6291,9 +6028,7 @@ let fireredLeafgreen = [
         "number": "88",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/88.png",
             "large": "https://images.pokemontcg.io/ex6/88_hires.png"
@@ -6303,6 +6038,7 @@ let fireredLeafgreen = [
         "id": "ex6-89",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6315,9 +6051,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6328,9 +6062,7 @@ let fireredLeafgreen = [
         "number": "89",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/89.png",
             "large": "https://images.pokemontcg.io/ex6/89_hires.png"
@@ -6340,6 +6072,7 @@ let fireredLeafgreen = [
         "id": "ex6-90",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6352,9 +6085,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6365,11 +6096,7 @@ let fireredLeafgreen = [
         "number": "90",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/90.png",
             "large": "https://images.pokemontcg.io/ex6/90_hires.png"
@@ -6379,6 +6106,7 @@ let fireredLeafgreen = [
         "id": "ex6-91",
         "name": "EXP.ALL",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6392,9 +6120,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6405,9 +6131,7 @@ let fireredLeafgreen = [
         "number": "91",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/91.png",
             "large": "https://images.pokemontcg.io/ex6/91_hires.png"
@@ -6417,6 +6141,7 @@ let fireredLeafgreen = [
         "id": "ex6-92",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6429,9 +6154,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6442,11 +6165,7 @@ let fireredLeafgreen = [
         "number": "92",
         "artist": "Nakaoka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/92.png",
             "large": "https://images.pokemontcg.io/ex6/92_hires.png"
@@ -6456,6 +6175,7 @@ let fireredLeafgreen = [
         "id": "ex6-93",
         "name": "Life Herb",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6468,9 +6188,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6481,9 +6199,7 @@ let fireredLeafgreen = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/93.png",
             "large": "https://images.pokemontcg.io/ex6/93_hires.png"
@@ -6493,6 +6209,7 @@ let fireredLeafgreen = [
         "id": "ex6-94",
         "name": "Mt. Moon",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stadium"
         ],
@@ -6506,9 +6223,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6519,9 +6234,7 @@ let fireredLeafgreen = [
         "number": "94",
         "artist": "Nakaoka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/94.png",
             "large": "https://images.pokemontcg.io/ex6/94_hires.png"
@@ -6531,6 +6244,7 @@ let fireredLeafgreen = [
         "id": "ex6-95",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6543,9 +6257,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6556,11 +6268,7 @@ let fireredLeafgreen = [
         "number": "95",
         "artist": "K. Hoshiba",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/95.png",
             "large": "https://images.pokemontcg.io/ex6/95_hires.png"
@@ -6570,6 +6278,7 @@ let fireredLeafgreen = [
         "id": "ex6-96",
         "name": "PokéDex HANDY909",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6582,9 +6291,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6595,9 +6302,7 @@ let fireredLeafgreen = [
         "number": "96",
         "artist": "K. Utsunomiya",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/96.png",
             "large": "https://images.pokemontcg.io/ex6/96_hires.png"
@@ -6607,6 +6312,7 @@ let fireredLeafgreen = [
         "id": "ex6-97",
         "name": "Pokémon Reversal",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6619,9 +6325,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6632,9 +6336,7 @@ let fireredLeafgreen = [
         "number": "97",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/97.png",
             "large": "https://images.pokemontcg.io/ex6/97_hires.png"
@@ -6644,6 +6346,7 @@ let fireredLeafgreen = [
         "id": "ex6-98",
         "name": "Prof. Oak's Research",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Supporter"
         ],
@@ -6657,9 +6360,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6670,9 +6371,7 @@ let fireredLeafgreen = [
         "number": "98",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/98.png",
             "large": "https://images.pokemontcg.io/ex6/98_hires.png"
@@ -6682,6 +6381,7 @@ let fireredLeafgreen = [
         "id": "ex6-99",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6694,9 +6394,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6707,10 +6405,7 @@ let fireredLeafgreen = [
         "number": "99",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/99.png",
             "large": "https://images.pokemontcg.io/ex6/99_hires.png"
@@ -6720,6 +6415,7 @@ let fireredLeafgreen = [
         "id": "ex6-100",
         "name": "VS Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6732,9 +6428,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6745,10 +6439,7 @@ let fireredLeafgreen = [
         "number": "100",
         "artist": "K. Utsunomiya",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/100.png",
             "large": "https://images.pokemontcg.io/ex6/100_hires.png"
@@ -6758,6 +6449,7 @@ let fireredLeafgreen = [
         "id": "ex6-101",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6770,9 +6462,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6783,11 +6473,7 @@ let fireredLeafgreen = [
         "number": "101",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/101.png",
             "large": "https://images.pokemontcg.io/ex6/101_hires.png"
@@ -6797,6 +6483,7 @@ let fireredLeafgreen = [
         "id": "ex6-102",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "FL",
         "subtypes": [
             "Item"
         ],
@@ -6809,9 +6496,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6822,11 +6507,7 @@ let fireredLeafgreen = [
         "number": "102",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/102.png",
             "large": "https://images.pokemontcg.io/ex6/102_hires.png"
@@ -6836,6 +6517,7 @@ let fireredLeafgreen = [
         "id": "ex6-103",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "FL",
         "subtypes": [
             "Special"
         ],
@@ -6848,9 +6530,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6861,9 +6541,7 @@ let fireredLeafgreen = [
         "number": "103",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/103.png",
             "large": "https://images.pokemontcg.io/ex6/103_hires.png"
@@ -6873,6 +6551,7 @@ let fireredLeafgreen = [
         "id": "ex6-104",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6919,9 +6598,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -6935,9 +6612,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/104.png",
             "large": "https://images.pokemontcg.io/ex6/104_hires.png"
@@ -6947,6 +6622,7 @@ let fireredLeafgreen = [
         "id": "ex6-105",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7009,9 +6685,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7025,9 +6699,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/105.png",
             "large": "https://images.pokemontcg.io/ex6/105_hires.png"
@@ -7037,6 +6709,7 @@ let fireredLeafgreen = [
         "id": "ex6-106",
         "name": "Clefable ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7084,9 +6757,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7100,9 +6771,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/106.png",
             "large": "https://images.pokemontcg.io/ex6/106_hires.png"
@@ -7112,6 +6781,7 @@ let fireredLeafgreen = [
         "id": "ex6-107",
         "name": "Electrode ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7156,9 +6826,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7172,9 +6840,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/107.png",
             "large": "https://images.pokemontcg.io/ex6/107_hires.png"
@@ -7184,6 +6850,7 @@ let fireredLeafgreen = [
         "id": "ex6-108",
         "name": "Gengar ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7246,9 +6913,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7262,9 +6927,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/108.png",
             "large": "https://images.pokemontcg.io/ex6/108_hires.png"
@@ -7274,6 +6937,7 @@ let fireredLeafgreen = [
         "id": "ex6-109",
         "name": "Gyarados ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7324,9 +6988,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7340,9 +7002,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/109.png",
             "large": "https://images.pokemontcg.io/ex6/109_hires.png"
@@ -7352,6 +7012,7 @@ let fireredLeafgreen = [
         "id": "ex6-110",
         "name": "Mr. Mime ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic",
             "EX"
@@ -7389,9 +7050,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7405,9 +7064,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/110.png",
             "large": "https://images.pokemontcg.io/ex6/110_hires.png"
@@ -7417,6 +7074,7 @@ let fireredLeafgreen = [
         "id": "ex6-111",
         "name": "Mr. Mime ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic",
             "EX"
@@ -7454,9 +7112,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7470,9 +7126,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/111.png",
             "large": "https://images.pokemontcg.io/ex6/111_hires.png"
@@ -7482,6 +7136,7 @@ let fireredLeafgreen = [
         "id": "ex6-112",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7544,9 +7199,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7560,9 +7213,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/112.png",
             "large": "https://images.pokemontcg.io/ex6/112_hires.png"
@@ -7572,6 +7223,7 @@ let fireredLeafgreen = [
         "id": "ex6-113",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic"
         ],
@@ -7616,9 +7268,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7632,9 +7282,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/113.png",
             "large": "https://images.pokemontcg.io/ex6/113_hires.png"
@@ -7644,6 +7292,7 @@ let fireredLeafgreen = [
         "id": "ex6-114",
         "name": "Articuno ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic",
             "EX"
@@ -7688,9 +7337,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7704,9 +7351,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/114.png",
             "large": "https://images.pokemontcg.io/ex6/114_hires.png"
@@ -7716,6 +7361,7 @@ let fireredLeafgreen = [
         "id": "ex6-115",
         "name": "Moltres ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic",
             "EX"
@@ -7760,9 +7406,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7776,9 +7420,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/115.png",
             "large": "https://images.pokemontcg.io/ex6/115_hires.png"
@@ -7788,6 +7430,7 @@ let fireredLeafgreen = [
         "id": "ex6-116",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "FL",
         "subtypes": [
             "Basic",
             "EX"
@@ -7832,9 +7475,7 @@ let fireredLeafgreen = [
             "series": "EX",
             "printedTotal": 112,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "RG",
             "releaseDate": "2004/09/01",
             "images": {
@@ -7848,9 +7489,7 @@ let fireredLeafgreen = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex6/116.png",
             "large": "https://images.pokemontcg.io/ex6/116_hires.png"

@@ -1,8 +1,9 @@
-let dragonVault = [
+let dv1 = [
     {
         "id": "dv1-1",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -38,10 +39,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -56,10 +54,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/1.png",
             "large": "https://images.pokemontcg.io/dv1/1_hires.png"
@@ -69,6 +64,7 @@ let dragonVault = [
         "id": "dv1-2",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -112,10 +108,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -130,10 +123,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/2.png",
             "large": "https://images.pokemontcg.io/dv1/2_hires.png"
@@ -143,6 +133,7 @@ let dragonVault = [
         "id": "dv1-3",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -190,10 +181,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -208,10 +196,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/3.png",
             "large": "https://images.pokemontcg.io/dv1/3_hires.png"
@@ -221,6 +206,7 @@ let dragonVault = [
         "id": "dv1-4",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -266,10 +252,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -284,10 +267,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/4.png",
             "large": "https://images.pokemontcg.io/dv1/4_hires.png"
@@ -297,6 +277,7 @@ let dragonVault = [
         "id": "dv1-5",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -343,10 +324,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -361,10 +339,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/5.png",
             "large": "https://images.pokemontcg.io/dv1/5_hires.png"
@@ -374,6 +349,7 @@ let dragonVault = [
         "id": "dv1-6",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -418,10 +394,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -436,10 +409,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/6.png",
             "large": "https://images.pokemontcg.io/dv1/6_hires.png"
@@ -449,6 +419,7 @@ let dragonVault = [
         "id": "dv1-7",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -495,10 +466,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -513,10 +481,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/7.png",
             "large": "https://images.pokemontcg.io/dv1/7_hires.png"
@@ -526,6 +491,7 @@ let dragonVault = [
         "id": "dv1-8",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -568,10 +534,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -586,10 +549,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/8.png",
             "large": "https://images.pokemontcg.io/dv1/8_hires.png"
@@ -599,6 +559,7 @@ let dragonVault = [
         "id": "dv1-9",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -640,10 +601,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -658,10 +616,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/9.png",
             "large": "https://images.pokemontcg.io/dv1/9_hires.png"
@@ -671,6 +626,7 @@ let dragonVault = [
         "id": "dv1-10",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -714,10 +670,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -732,10 +685,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/10.png",
             "large": "https://images.pokemontcg.io/dv1/10_hires.png"
@@ -745,6 +695,7 @@ let dragonVault = [
         "id": "dv1-11",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -787,10 +738,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -805,10 +753,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/11.png",
             "large": "https://images.pokemontcg.io/dv1/11_hires.png"
@@ -818,6 +763,7 @@ let dragonVault = [
         "id": "dv1-12",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -861,10 +807,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -879,10 +822,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/12.png",
             "large": "https://images.pokemontcg.io/dv1/12_hires.png"
@@ -892,6 +832,7 @@ let dragonVault = [
         "id": "dv1-13",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -927,10 +868,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -945,10 +883,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/13.png",
             "large": "https://images.pokemontcg.io/dv1/13_hires.png"
@@ -958,6 +893,7 @@ let dragonVault = [
         "id": "dv1-14",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1002,10 +938,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1020,10 +953,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/14.png",
             "large": "https://images.pokemontcg.io/dv1/14_hires.png"
@@ -1033,6 +963,7 @@ let dragonVault = [
         "id": "dv1-15",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1080,10 +1011,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1098,10 +1026,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/15.png",
             "large": "https://images.pokemontcg.io/dv1/15_hires.png"
@@ -1111,6 +1036,7 @@ let dragonVault = [
         "id": "dv1-16",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -1156,10 +1082,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1174,10 +1097,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/16.png",
             "large": "https://images.pokemontcg.io/dv1/16_hires.png"
@@ -1187,6 +1107,7 @@ let dragonVault = [
         "id": "dv1-17",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -1230,10 +1151,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1248,10 +1166,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/17.png",
             "large": "https://images.pokemontcg.io/dv1/17_hires.png"
@@ -1261,6 +1176,7 @@ let dragonVault = [
         "id": "dv1-18",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -1275,10 +1191,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1288,11 +1201,7 @@ let dragonVault = [
         },
         "number": "18",
         "artist": "Ryo Ueda",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/18.png",
             "large": "https://images.pokemontcg.io/dv1/18_hires.png"
@@ -1302,6 +1211,7 @@ let dragonVault = [
         "id": "dv1-19",
         "name": "First Ticket",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Item"
         ],
@@ -1315,10 +1225,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1328,10 +1235,7 @@ let dragonVault = [
         },
         "number": "19",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/19.png",
             "large": "https://images.pokemontcg.io/dv1/19_hires.png"
@@ -1341,6 +1245,7 @@ let dragonVault = [
         "id": "dv1-20",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Item"
         ],
@@ -1354,10 +1259,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1368,10 +1270,7 @@ let dragonVault = [
         "number": "20",
         "artist": "5ban Graphics",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/20.png",
             "large": "https://images.pokemontcg.io/dv1/20_hires.png"
@@ -1381,6 +1280,7 @@ let dragonVault = [
         "id": "dv1-21",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -1426,10 +1326,7 @@ let dragonVault = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1443,10 +1340,7 @@ let dragonVault = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/21.png",
             "large": "https://images.pokemontcg.io/dv1/21_hires.png"

@@ -1,8 +1,9 @@
-let boundariesCrossed = [
+let bw7 = [
     {
         "id": "bw7-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -53,10 +54,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -71,10 +69,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/1.png",
             "large": "https://images.pokemontcg.io/bw7/1_hires.png"
@@ -84,6 +79,7 @@ let boundariesCrossed = [
         "id": "bw7-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -138,10 +134,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -156,10 +149,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/2.png",
             "large": "https://images.pokemontcg.io/bw7/2_hires.png"
@@ -169,6 +159,7 @@ let boundariesCrossed = [
         "id": "bw7-3",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -217,10 +208,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -235,10 +223,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/3.png",
             "large": "https://images.pokemontcg.io/bw7/3_hires.png"
@@ -248,6 +233,7 @@ let boundariesCrossed = [
         "id": "bw7-4",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -297,10 +283,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -315,10 +298,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/4.png",
             "large": "https://images.pokemontcg.io/bw7/4_hires.png"
@@ -328,6 +308,7 @@ let boundariesCrossed = [
         "id": "bw7-5",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -379,10 +360,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -397,10 +375,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/5.png",
             "large": "https://images.pokemontcg.io/bw7/5_hires.png"
@@ -410,6 +385,7 @@ let boundariesCrossed = [
         "id": "bw7-6",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -460,10 +436,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -478,10 +451,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/6.png",
             "large": "https://images.pokemontcg.io/bw7/6_hires.png"
@@ -491,6 +461,7 @@ let boundariesCrossed = [
         "id": "bw7-7",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -535,10 +506,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -553,10 +521,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/7.png",
             "large": "https://images.pokemontcg.io/bw7/7_hires.png"
@@ -566,6 +531,7 @@ let boundariesCrossed = [
         "id": "bw7-8",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -608,10 +574,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -626,10 +589,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/8.png",
             "large": "https://images.pokemontcg.io/bw7/8_hires.png"
@@ -639,6 +599,7 @@ let boundariesCrossed = [
         "id": "bw7-9",
         "name": "Celebi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -689,10 +650,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -706,10 +664,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/9.png",
             "large": "https://images.pokemontcg.io/bw7/9_hires.png"
@@ -719,6 +674,7 @@ let boundariesCrossed = [
         "id": "bw7-10",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -760,10 +716,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -778,10 +731,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/10.png",
             "large": "https://images.pokemontcg.io/bw7/10_hires.png"
@@ -791,6 +741,7 @@ let boundariesCrossed = [
         "id": "bw7-11",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -835,10 +786,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -853,10 +801,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/11.png",
             "large": "https://images.pokemontcg.io/bw7/11_hires.png"
@@ -866,6 +811,7 @@ let boundariesCrossed = [
         "id": "bw7-12",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -912,10 +858,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -930,10 +873,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/12.png",
             "large": "https://images.pokemontcg.io/bw7/12_hires.png"
@@ -943,6 +883,7 @@ let boundariesCrossed = [
         "id": "bw7-13",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -987,10 +928,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1005,10 +943,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/13.png",
             "large": "https://images.pokemontcg.io/bw7/13_hires.png"
@@ -1018,6 +953,7 @@ let boundariesCrossed = [
         "id": "bw7-14",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1058,10 +994,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1076,10 +1009,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/14.png",
             "large": "https://images.pokemontcg.io/bw7/14_hires.png"
@@ -1089,6 +1019,7 @@ let boundariesCrossed = [
         "id": "bw7-15",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1136,10 +1067,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1154,10 +1082,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/15.png",
             "large": "https://images.pokemontcg.io/bw7/15_hires.png"
@@ -1167,6 +1092,7 @@ let boundariesCrossed = [
         "id": "bw7-16",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1207,10 +1133,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1225,10 +1148,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             548
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/16.png",
             "large": "https://images.pokemontcg.io/bw7/16_hires.png"
@@ -1238,6 +1158,7 @@ let boundariesCrossed = [
         "id": "bw7-17",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1287,10 +1208,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1305,10 +1223,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             549
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/17.png",
             "large": "https://images.pokemontcg.io/bw7/17_hires.png"
@@ -1318,6 +1233,7 @@ let boundariesCrossed = [
         "id": "bw7-18",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1362,10 +1278,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1380,10 +1293,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/18.png",
             "large": "https://images.pokemontcg.io/bw7/18_hires.png"
@@ -1393,6 +1303,7 @@ let boundariesCrossed = [
         "id": "bw7-19",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1439,10 +1350,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1457,10 +1365,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/19.png",
             "large": "https://images.pokemontcg.io/bw7/19_hires.png"
@@ -1470,6 +1375,7 @@ let boundariesCrossed = [
         "id": "bw7-20",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1517,10 +1423,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1535,10 +1438,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/20.png",
             "large": "https://images.pokemontcg.io/bw7/20_hires.png"
@@ -1548,6 +1448,7 @@ let boundariesCrossed = [
         "id": "bw7-21",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1584,10 +1485,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1602,10 +1500,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/21.png",
             "large": "https://images.pokemontcg.io/bw7/21_hires.png"
@@ -1615,6 +1510,7 @@ let boundariesCrossed = [
         "id": "bw7-22",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1661,10 +1557,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1679,10 +1572,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/22.png",
             "large": "https://images.pokemontcg.io/bw7/22_hires.png"
@@ -1692,6 +1582,7 @@ let boundariesCrossed = [
         "id": "bw7-23",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1733,10 +1624,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1751,10 +1639,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/23.png",
             "large": "https://images.pokemontcg.io/bw7/23_hires.png"
@@ -1764,6 +1649,7 @@ let boundariesCrossed = [
         "id": "bw7-24",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1808,10 +1694,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1826,10 +1709,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/24.png",
             "large": "https://images.pokemontcg.io/bw7/24_hires.png"
@@ -1839,6 +1719,7 @@ let boundariesCrossed = [
         "id": "bw7-25",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1886,10 +1767,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1904,10 +1782,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/25.png",
             "large": "https://images.pokemontcg.io/bw7/25_hires.png"
@@ -1917,6 +1792,7 @@ let boundariesCrossed = [
         "id": "bw7-26",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1963,10 +1839,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -1981,10 +1854,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/26.png",
             "large": "https://images.pokemontcg.io/bw7/26_hires.png"
@@ -1994,6 +1864,7 @@ let boundariesCrossed = [
         "id": "bw7-27",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2029,10 +1900,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2047,10 +1915,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/27.png",
             "large": "https://images.pokemontcg.io/bw7/27_hires.png"
@@ -2060,6 +1925,7 @@ let boundariesCrossed = [
         "id": "bw7-28",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2103,10 +1969,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2121,10 +1984,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/28.png",
             "large": "https://images.pokemontcg.io/bw7/28_hires.png"
@@ -2134,6 +1994,7 @@ let boundariesCrossed = [
         "id": "bw7-29",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2176,10 +2037,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2194,10 +2052,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/29.png",
             "large": "https://images.pokemontcg.io/bw7/29_hires.png"
@@ -2207,6 +2062,7 @@ let boundariesCrossed = [
         "id": "bw7-30",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2253,10 +2109,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2271,10 +2124,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/30.png",
             "large": "https://images.pokemontcg.io/bw7/30_hires.png"
@@ -2284,6 +2134,7 @@ let boundariesCrossed = [
         "id": "bw7-31",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2326,10 +2177,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2344,10 +2192,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/31.png",
             "large": "https://images.pokemontcg.io/bw7/31_hires.png"
@@ -2357,6 +2202,7 @@ let boundariesCrossed = [
         "id": "bw7-32",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2391,10 +2237,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2409,10 +2252,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/32.png",
             "large": "https://images.pokemontcg.io/bw7/32_hires.png"
@@ -2422,6 +2262,7 @@ let boundariesCrossed = [
         "id": "bw7-33",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2456,10 +2297,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2474,10 +2312,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/33.png",
             "large": "https://images.pokemontcg.io/bw7/33_hires.png"
@@ -2487,6 +2322,7 @@ let boundariesCrossed = [
         "id": "bw7-34",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2528,10 +2364,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2546,10 +2379,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/34.png",
             "large": "https://images.pokemontcg.io/bw7/34_hires.png"
@@ -2559,6 +2389,7 @@ let boundariesCrossed = [
         "id": "bw7-35",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2600,10 +2431,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2618,10 +2446,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/35.png",
             "large": "https://images.pokemontcg.io/bw7/35_hires.png"
@@ -2631,6 +2456,7 @@ let boundariesCrossed = [
         "id": "bw7-36",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2677,10 +2503,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2695,10 +2518,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/36.png",
             "large": "https://images.pokemontcg.io/bw7/36_hires.png"
@@ -2708,6 +2528,7 @@ let boundariesCrossed = [
         "id": "bw7-37",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2752,10 +2573,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2770,10 +2588,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/37.png",
             "large": "https://images.pokemontcg.io/bw7/37_hires.png"
@@ -2783,6 +2598,7 @@ let boundariesCrossed = [
         "id": "bw7-38",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2824,10 +2640,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2842,10 +2655,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/38.png",
             "large": "https://images.pokemontcg.io/bw7/38_hires.png"
@@ -2855,6 +2665,7 @@ let boundariesCrossed = [
         "id": "bw7-39",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2899,10 +2710,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2917,10 +2725,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/39.png",
             "large": "https://images.pokemontcg.io/bw7/39_hires.png"
@@ -2930,6 +2735,7 @@ let boundariesCrossed = [
         "id": "bw7-40",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2976,10 +2782,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -2994,10 +2797,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/40.png",
             "large": "https://images.pokemontcg.io/bw7/40_hires.png"
@@ -3007,6 +2807,7 @@ let boundariesCrossed = [
         "id": "bw7-41",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3052,10 +2853,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3070,10 +2868,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/41.png",
             "large": "https://images.pokemontcg.io/bw7/41_hires.png"
@@ -3083,6 +2878,7 @@ let boundariesCrossed = [
         "id": "bw7-42",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3124,10 +2920,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3142,10 +2935,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/42.png",
             "large": "https://images.pokemontcg.io/bw7/42_hires.png"
@@ -3155,6 +2945,7 @@ let boundariesCrossed = [
         "id": "bw7-43",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3205,10 +2996,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3223,10 +3011,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/43.png",
             "large": "https://images.pokemontcg.io/bw7/43_hires.png"
@@ -3236,6 +3021,7 @@ let boundariesCrossed = [
         "id": "bw7-44",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3272,10 +3058,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3290,10 +3073,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/44.png",
             "large": "https://images.pokemontcg.io/bw7/44_hires.png"
@@ -3303,6 +3083,7 @@ let boundariesCrossed = [
         "id": "bw7-45",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3344,10 +3125,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3362,10 +3140,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/45.png",
             "large": "https://images.pokemontcg.io/bw7/45_hires.png"
@@ -3375,6 +3150,7 @@ let boundariesCrossed = [
         "id": "bw7-46",
         "name": "Cryogonal",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3407,10 +3183,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3425,10 +3198,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             615
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/46.png",
             "large": "https://images.pokemontcg.io/bw7/46_hires.png"
@@ -3438,6 +3208,7 @@ let boundariesCrossed = [
         "id": "bw7-47",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3481,10 +3252,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3499,10 +3267,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/47.png",
             "large": "https://images.pokemontcg.io/bw7/47_hires.png"
@@ -3512,6 +3277,7 @@ let boundariesCrossed = [
         "id": "bw7-48",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3555,10 +3321,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3573,10 +3336,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/48.png",
             "large": "https://images.pokemontcg.io/bw7/48_hires.png"
@@ -3586,6 +3346,7 @@ let boundariesCrossed = [
         "id": "bw7-49",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3630,10 +3391,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3647,10 +3405,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/49.png",
             "large": "https://images.pokemontcg.io/bw7/49_hires.png"
@@ -3660,6 +3415,7 @@ let boundariesCrossed = [
         "id": "bw7-50",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3705,10 +3461,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3723,10 +3476,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/50.png",
             "large": "https://images.pokemontcg.io/bw7/50_hires.png"
@@ -3736,6 +3486,7 @@ let boundariesCrossed = [
         "id": "bw7-51",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3770,10 +3521,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3788,10 +3536,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/51.png",
             "large": "https://images.pokemontcg.io/bw7/51_hires.png"
@@ -3801,6 +3546,7 @@ let boundariesCrossed = [
         "id": "bw7-52",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3843,10 +3589,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3861,10 +3604,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/52.png",
             "large": "https://images.pokemontcg.io/bw7/52_hires.png"
@@ -3874,6 +3614,7 @@ let boundariesCrossed = [
         "id": "bw7-53",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3920,10 +3661,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -3938,10 +3676,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/53.png",
             "large": "https://images.pokemontcg.io/bw7/53_hires.png"
@@ -3951,6 +3686,7 @@ let boundariesCrossed = [
         "id": "bw7-54",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3997,10 +3733,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4015,10 +3748,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/54.png",
             "large": "https://images.pokemontcg.io/bw7/54_hires.png"
@@ -4028,6 +3758,7 @@ let boundariesCrossed = [
         "id": "bw7-55",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4063,10 +3794,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4081,10 +3809,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/55.png",
             "large": "https://images.pokemontcg.io/bw7/55_hires.png"
@@ -4094,6 +3819,7 @@ let boundariesCrossed = [
         "id": "bw7-56",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4128,10 +3854,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4146,10 +3869,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/56.png",
             "large": "https://images.pokemontcg.io/bw7/56_hires.png"
@@ -4159,6 +3879,7 @@ let boundariesCrossed = [
         "id": "bw7-57",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4202,10 +3923,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4220,10 +3938,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/57.png",
             "large": "https://images.pokemontcg.io/bw7/57_hires.png"
@@ -4233,6 +3948,7 @@ let boundariesCrossed = [
         "id": "bw7-58",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4266,10 +3982,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4284,10 +3997,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/58.png",
             "large": "https://images.pokemontcg.io/bw7/58_hires.png"
@@ -4297,6 +4007,7 @@ let boundariesCrossed = [
         "id": "bw7-59",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4331,10 +4042,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4349,10 +4057,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/59.png",
             "large": "https://images.pokemontcg.io/bw7/59_hires.png"
@@ -4362,6 +4067,7 @@ let boundariesCrossed = [
         "id": "bw7-60",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4406,10 +4112,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4424,10 +4127,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/60.png",
             "large": "https://images.pokemontcg.io/bw7/60_hires.png"
@@ -4437,6 +4137,7 @@ let boundariesCrossed = [
         "id": "bw7-61",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4471,10 +4172,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4489,10 +4187,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/61.png",
             "large": "https://images.pokemontcg.io/bw7/61_hires.png"
@@ -4502,6 +4197,7 @@ let boundariesCrossed = [
         "id": "bw7-62",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4548,10 +4244,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4566,10 +4259,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/62.png",
             "large": "https://images.pokemontcg.io/bw7/62_hires.png"
@@ -4579,6 +4269,7 @@ let boundariesCrossed = [
         "id": "bw7-63",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4621,10 +4312,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4639,10 +4327,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/63.png",
             "large": "https://images.pokemontcg.io/bw7/63_hires.png"
@@ -4652,6 +4337,7 @@ let boundariesCrossed = [
         "id": "bw7-64",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4687,10 +4373,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4705,10 +4388,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/64.png",
             "large": "https://images.pokemontcg.io/bw7/64_hires.png"
@@ -4718,6 +4398,7 @@ let boundariesCrossed = [
         "id": "bw7-65",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4753,10 +4434,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4771,10 +4449,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/65.png",
             "large": "https://images.pokemontcg.io/bw7/65_hires.png"
@@ -4784,6 +4459,7 @@ let boundariesCrossed = [
         "id": "bw7-66",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4827,10 +4503,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4845,10 +4518,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/66.png",
             "large": "https://images.pokemontcg.io/bw7/66_hires.png"
@@ -4858,6 +4528,7 @@ let boundariesCrossed = [
         "id": "bw7-67",
         "name": "Cresselia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -4903,10 +4574,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4920,10 +4588,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/67.png",
             "large": "https://images.pokemontcg.io/bw7/67_hires.png"
@@ -4933,6 +4598,7 @@ let boundariesCrossed = [
         "id": "bw7-68",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4975,10 +4641,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -4993,10 +4656,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/68.png",
             "large": "https://images.pokemontcg.io/bw7/68_hires.png"
@@ -5006,6 +4666,7 @@ let boundariesCrossed = [
         "id": "bw7-69",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5049,10 +4710,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5067,10 +4725,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/69.png",
             "large": "https://images.pokemontcg.io/bw7/69_hires.png"
@@ -5080,6 +4735,7 @@ let boundariesCrossed = [
         "id": "bw7-70",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5130,10 +4786,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5148,10 +4801,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/70.png",
             "large": "https://images.pokemontcg.io/bw7/70_hires.png"
@@ -5161,6 +4811,7 @@ let boundariesCrossed = [
         "id": "bw7-71",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5209,10 +4860,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5227,10 +4875,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/71.png",
             "large": "https://images.pokemontcg.io/bw7/71_hires.png"
@@ -5240,6 +4885,7 @@ let boundariesCrossed = [
         "id": "bw7-72",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5282,10 +4928,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5300,10 +4943,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             543
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/72.png",
             "large": "https://images.pokemontcg.io/bw7/72_hires.png"
@@ -5313,6 +4953,7 @@ let boundariesCrossed = [
         "id": "bw7-73",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5357,10 +4998,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5375,10 +5013,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             544
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/73.png",
             "large": "https://images.pokemontcg.io/bw7/73_hires.png"
@@ -5388,6 +5023,7 @@ let boundariesCrossed = [
         "id": "bw7-74",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5430,10 +5066,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5448,10 +5081,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             545
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/74.png",
             "large": "https://images.pokemontcg.io/bw7/74_hires.png"
@@ -5461,6 +5091,7 @@ let boundariesCrossed = [
         "id": "bw7-75",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5505,10 +5136,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5523,10 +5151,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/75.png",
             "large": "https://images.pokemontcg.io/bw7/75_hires.png"
@@ -5536,6 +5161,7 @@ let boundariesCrossed = [
         "id": "bw7-76",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5583,10 +5209,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5601,10 +5224,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/76.png",
             "large": "https://images.pokemontcg.io/bw7/76_hires.png"
@@ -5614,6 +5234,7 @@ let boundariesCrossed = [
         "id": "bw7-77",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5656,10 +5277,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5674,10 +5292,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/77.png",
             "large": "https://images.pokemontcg.io/bw7/77_hires.png"
@@ -5687,6 +5302,7 @@ let boundariesCrossed = [
         "id": "bw7-78",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5738,10 +5354,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5756,10 +5369,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/78.png",
             "large": "https://images.pokemontcg.io/bw7/78_hires.png"
@@ -5769,6 +5379,7 @@ let boundariesCrossed = [
         "id": "bw7-79",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5819,10 +5430,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5837,10 +5445,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/79.png",
             "large": "https://images.pokemontcg.io/bw7/79_hires.png"
@@ -5850,6 +5455,7 @@ let boundariesCrossed = [
         "id": "bw7-80",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5900,10 +5506,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5918,10 +5521,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/80.png",
             "large": "https://images.pokemontcg.io/bw7/80_hires.png"
@@ -5931,6 +5531,7 @@ let boundariesCrossed = [
         "id": "bw7-81",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5979,10 +5580,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -5997,10 +5595,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/81.png",
             "large": "https://images.pokemontcg.io/bw7/81_hires.png"
@@ -6010,6 +5605,7 @@ let boundariesCrossed = [
         "id": "bw7-82",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6045,10 +5641,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6063,10 +5656,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/82.png",
             "large": "https://images.pokemontcg.io/bw7/82_hires.png"
@@ -6076,6 +5666,7 @@ let boundariesCrossed = [
         "id": "bw7-83",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6126,10 +5717,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6144,10 +5732,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/83.png",
             "large": "https://images.pokemontcg.io/bw7/83_hires.png"
@@ -6157,6 +5742,7 @@ let boundariesCrossed = [
         "id": "bw7-84",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6192,10 +5778,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6210,10 +5793,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             557
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/84.png",
             "large": "https://images.pokemontcg.io/bw7/84_hires.png"
@@ -6223,6 +5803,7 @@ let boundariesCrossed = [
         "id": "bw7-85",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6264,10 +5845,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6282,10 +5860,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/85.png",
             "large": "https://images.pokemontcg.io/bw7/85_hires.png"
@@ -6295,6 +5870,7 @@ let boundariesCrossed = [
         "id": "bw7-86",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6329,10 +5905,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6347,10 +5920,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/86.png",
             "large": "https://images.pokemontcg.io/bw7/86_hires.png"
@@ -6360,6 +5930,7 @@ let boundariesCrossed = [
         "id": "bw7-87",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6394,10 +5965,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6412,10 +5980,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/87.png",
             "large": "https://images.pokemontcg.io/bw7/87_hires.png"
@@ -6425,6 +5990,7 @@ let boundariesCrossed = [
         "id": "bw7-88",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6469,10 +6035,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6487,10 +6050,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/88.png",
             "large": "https://images.pokemontcg.io/bw7/88_hires.png"
@@ -6500,6 +6060,7 @@ let boundariesCrossed = [
         "id": "bw7-89",
         "name": "Landorus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6552,10 +6113,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6569,10 +6127,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/89.png",
             "large": "https://images.pokemontcg.io/bw7/89_hires.png"
@@ -6582,6 +6137,7 @@ let boundariesCrossed = [
         "id": "bw7-90",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6622,10 +6178,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6640,10 +6193,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/90.png",
             "large": "https://images.pokemontcg.io/bw7/90_hires.png"
@@ -6653,6 +6203,7 @@ let boundariesCrossed = [
         "id": "bw7-91",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6702,10 +6253,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6720,10 +6268,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/91.png",
             "large": "https://images.pokemontcg.io/bw7/91_hires.png"
@@ -6733,6 +6278,7 @@ let boundariesCrossed = [
         "id": "bw7-92",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6783,10 +6329,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6801,10 +6344,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/92.png",
             "large": "https://images.pokemontcg.io/bw7/92_hires.png"
@@ -6814,6 +6354,7 @@ let boundariesCrossed = [
         "id": "bw7-93",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6865,10 +6406,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6883,10 +6421,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/93.png",
             "large": "https://images.pokemontcg.io/bw7/93_hires.png"
@@ -6896,6 +6431,7 @@ let boundariesCrossed = [
         "id": "bw7-94",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6946,10 +6482,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -6964,10 +6497,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/94.png",
             "large": "https://images.pokemontcg.io/bw7/94_hires.png"
@@ -6977,6 +6507,7 @@ let boundariesCrossed = [
         "id": "bw7-95",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7025,10 +6556,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7043,10 +6571,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/95.png",
             "large": "https://images.pokemontcg.io/bw7/95_hires.png"
@@ -7056,6 +6581,7 @@ let boundariesCrossed = [
         "id": "bw7-96",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7104,10 +6630,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7122,10 +6645,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/96.png",
             "large": "https://images.pokemontcg.io/bw7/96_hires.png"
@@ -7135,6 +6655,7 @@ let boundariesCrossed = [
         "id": "bw7-97",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7176,10 +6697,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7194,10 +6712,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/97.png",
             "large": "https://images.pokemontcg.io/bw7/97_hires.png"
@@ -7207,6 +6722,7 @@ let boundariesCrossed = [
         "id": "bw7-98",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7253,10 +6769,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7271,10 +6784,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/98.png",
             "large": "https://images.pokemontcg.io/bw7/98_hires.png"
@@ -7284,6 +6794,7 @@ let boundariesCrossed = [
         "id": "bw7-99",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7326,10 +6837,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7344,10 +6852,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/99.png",
             "large": "https://images.pokemontcg.io/bw7/99_hires.png"
@@ -7357,6 +6862,7 @@ let boundariesCrossed = [
         "id": "bw7-100",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7401,10 +6907,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7419,10 +6922,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/100.png",
             "large": "https://images.pokemontcg.io/bw7/100_hires.png"
@@ -7432,6 +6932,7 @@ let boundariesCrossed = [
         "id": "bw7-101",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7481,10 +6982,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7498,10 +6996,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/101.png",
             "large": "https://images.pokemontcg.io/bw7/101_hires.png"
@@ -7511,6 +7006,7 @@ let boundariesCrossed = [
         "id": "bw7-102",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7555,10 +7051,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7573,10 +7066,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/102.png",
             "large": "https://images.pokemontcg.io/bw7/102_hires.png"
@@ -7586,6 +7076,7 @@ let boundariesCrossed = [
         "id": "bw7-103",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7635,10 +7126,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7652,10 +7140,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/103.png",
             "large": "https://images.pokemontcg.io/bw7/103_hires.png"
@@ -7665,6 +7150,7 @@ let boundariesCrossed = [
         "id": "bw7-104",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7699,10 +7185,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7717,10 +7200,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/104.png",
             "large": "https://images.pokemontcg.io/bw7/104_hires.png"
@@ -7730,6 +7210,7 @@ let boundariesCrossed = [
         "id": "bw7-105",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7772,10 +7253,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7790,10 +7268,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/105.png",
             "large": "https://images.pokemontcg.io/bw7/105_hires.png"
@@ -7803,6 +7278,7 @@ let boundariesCrossed = [
         "id": "bw7-106",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7838,10 +7314,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7856,10 +7329,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/106.png",
             "large": "https://images.pokemontcg.io/bw7/106_hires.png"
@@ -7869,6 +7339,7 @@ let boundariesCrossed = [
         "id": "bw7-107",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7910,10 +7381,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7928,10 +7396,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/107.png",
             "large": "https://images.pokemontcg.io/bw7/107_hires.png"
@@ -7941,6 +7406,7 @@ let boundariesCrossed = [
         "id": "bw7-108",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7968,10 +7434,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -7986,10 +7449,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/108.png",
             "large": "https://images.pokemontcg.io/bw7/108_hires.png"
@@ -7999,6 +7459,7 @@ let boundariesCrossed = [
         "id": "bw7-109",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8044,10 +7505,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8062,10 +7520,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/109.png",
             "large": "https://images.pokemontcg.io/bw7/109_hires.png"
@@ -8075,6 +7530,7 @@ let boundariesCrossed = [
         "id": "bw7-110",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8109,10 +7565,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8127,10 +7580,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/110.png",
             "large": "https://images.pokemontcg.io/bw7/110_hires.png"
@@ -8140,6 +7590,7 @@ let boundariesCrossed = [
         "id": "bw7-111",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8179,10 +7630,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8197,10 +7645,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/111.png",
             "large": "https://images.pokemontcg.io/bw7/111_hires.png"
@@ -8210,6 +7655,7 @@ let boundariesCrossed = [
         "id": "bw7-112",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8250,10 +7696,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8268,10 +7711,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/112.png",
             "large": "https://images.pokemontcg.io/bw7/112_hires.png"
@@ -8281,6 +7721,7 @@ let boundariesCrossed = [
         "id": "bw7-113",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8325,10 +7766,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8343,10 +7781,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/113.png",
             "large": "https://images.pokemontcg.io/bw7/113_hires.png"
@@ -8356,6 +7791,7 @@ let boundariesCrossed = [
         "id": "bw7-114",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8398,10 +7834,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8416,10 +7849,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/114.png",
             "large": "https://images.pokemontcg.io/bw7/114_hires.png"
@@ -8429,6 +7859,7 @@ let boundariesCrossed = [
         "id": "bw7-115",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8461,10 +7892,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8479,10 +7907,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/115.png",
             "large": "https://images.pokemontcg.io/bw7/115_hires.png"
@@ -8492,6 +7917,7 @@ let boundariesCrossed = [
         "id": "bw7-116",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8536,10 +7962,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8554,10 +7977,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/116.png",
             "large": "https://images.pokemontcg.io/bw7/116_hires.png"
@@ -8567,6 +7987,7 @@ let boundariesCrossed = [
         "id": "bw7-117",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8610,10 +8031,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8628,10 +8046,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/117.png",
             "large": "https://images.pokemontcg.io/bw7/117_hires.png"
@@ -8641,6 +8056,7 @@ let boundariesCrossed = [
         "id": "bw7-118",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8675,10 +8091,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8693,10 +8106,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/118.png",
             "large": "https://images.pokemontcg.io/bw7/118_hires.png"
@@ -8706,6 +8116,7 @@ let boundariesCrossed = [
         "id": "bw7-119",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8748,10 +8159,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8766,10 +8174,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             505
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/119.png",
             "large": "https://images.pokemontcg.io/bw7/119_hires.png"
@@ -8779,6 +8184,7 @@ let boundariesCrossed = [
         "id": "bw7-120",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8823,10 +8229,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8841,10 +8244,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/120.png",
             "large": "https://images.pokemontcg.io/bw7/120_hires.png"
@@ -8854,6 +8254,7 @@ let boundariesCrossed = [
         "id": "bw7-121",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8900,10 +8301,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8918,10 +8316,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/121.png",
             "large": "https://images.pokemontcg.io/bw7/121_hires.png"
@@ -8931,6 +8326,7 @@ let boundariesCrossed = [
         "id": "bw7-122",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8972,10 +8368,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -8990,10 +8383,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/122.png",
             "large": "https://images.pokemontcg.io/bw7/122_hires.png"
@@ -9003,6 +8393,7 @@ let boundariesCrossed = [
         "id": "bw7-123",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -9044,10 +8435,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9062,10 +8450,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/123.png",
             "large": "https://images.pokemontcg.io/bw7/123_hires.png"
@@ -9075,6 +8460,7 @@ let boundariesCrossed = [
         "id": "bw7-124",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9118,10 +8504,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9136,10 +8519,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             520
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/124.png",
             "large": "https://images.pokemontcg.io/bw7/124_hires.png"
@@ -9149,6 +8529,7 @@ let boundariesCrossed = [
         "id": "bw7-125",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9199,10 +8580,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9217,10 +8595,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             521
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/125.png",
             "large": "https://images.pokemontcg.io/bw7/125_hires.png"
@@ -9230,6 +8605,7 @@ let boundariesCrossed = [
         "id": "bw7-126",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -9269,10 +8645,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9287,10 +8660,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/126.png",
             "large": "https://images.pokemontcg.io/bw7/126_hires.png"
@@ -9300,6 +8670,7 @@ let boundariesCrossed = [
         "id": "bw7-127",
         "name": "Aspertia City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stadium"
         ],
@@ -9313,10 +8684,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9327,10 +8695,7 @@ let boundariesCrossed = [
         "number": "127",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/127.png",
             "large": "https://images.pokemontcg.io/bw7/127_hires.png"
@@ -9340,6 +8705,7 @@ let boundariesCrossed = [
         "id": "bw7-128",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9353,10 +8719,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9367,11 +8730,7 @@ let boundariesCrossed = [
         "number": "128",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/128.png",
             "large": "https://images.pokemontcg.io/bw7/128_hires.png"
@@ -9381,6 +8740,7 @@ let boundariesCrossed = [
         "id": "bw7-129",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9394,10 +8754,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9408,11 +8765,7 @@ let boundariesCrossed = [
         "number": "129",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/129.png",
             "large": "https://images.pokemontcg.io/bw7/129_hires.png"
@@ -9422,6 +8775,7 @@ let boundariesCrossed = [
         "id": "bw7-130",
         "name": "Hugh",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -9435,10 +8789,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9449,10 +8800,7 @@ let boundariesCrossed = [
         "number": "130",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/130.png",
             "large": "https://images.pokemontcg.io/bw7/130_hires.png"
@@ -9462,6 +8810,7 @@ let boundariesCrossed = [
         "id": "bw7-131",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9475,10 +8824,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9489,11 +8835,7 @@ let boundariesCrossed = [
         "number": "131",
         "artist": "Yuri Umemura",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/131.png",
             "large": "https://images.pokemontcg.io/bw7/131_hires.png"
@@ -9503,6 +8845,7 @@ let boundariesCrossed = [
         "id": "bw7-132",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9516,10 +8859,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9530,11 +8870,7 @@ let boundariesCrossed = [
         "number": "132",
         "artist": "Ayaka Yoshida",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/132.png",
             "large": "https://images.pokemontcg.io/bw7/132_hires.png"
@@ -9544,6 +8880,7 @@ let boundariesCrossed = [
         "id": "bw7-133",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9558,10 +8895,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9572,11 +8906,7 @@ let boundariesCrossed = [
         "number": "133",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/133.png",
             "large": "https://images.pokemontcg.io/bw7/133_hires.png"
@@ -9586,6 +8916,7 @@ let boundariesCrossed = [
         "id": "bw7-134",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -9599,10 +8930,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9613,11 +8941,7 @@ let boundariesCrossed = [
         "number": "134",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/134.png",
             "large": "https://images.pokemontcg.io/bw7/134_hires.png"
@@ -9627,6 +8951,7 @@ let boundariesCrossed = [
         "id": "bw7-135",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9640,10 +8965,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9654,11 +8976,7 @@ let boundariesCrossed = [
         "number": "135",
         "artist": "Ayaka Yoshida",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/135.png",
             "large": "https://images.pokemontcg.io/bw7/135_hires.png"
@@ -9668,6 +8986,7 @@ let boundariesCrossed = [
         "id": "bw7-136",
         "name": "Town Map",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -9681,10 +9000,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9695,10 +9011,7 @@ let boundariesCrossed = [
         "number": "136",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/136.png",
             "large": "https://images.pokemontcg.io/bw7/136_hires.png"
@@ -9708,6 +9021,7 @@ let boundariesCrossed = [
         "id": "bw7-137",
         "name": "Computer Search",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -9723,10 +9037,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9737,10 +9048,7 @@ let boundariesCrossed = [
         "number": "137",
         "artist": "Ryo Ueda",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/137.png",
             "large": "https://images.pokemontcg.io/bw7/137_hires.png"
@@ -9750,6 +9058,7 @@ let boundariesCrossed = [
         "id": "bw7-138",
         "name": "Crystal Edge",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -9766,10 +9075,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9780,10 +9086,7 @@ let boundariesCrossed = [
         "number": "138",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/138.png",
             "large": "https://images.pokemontcg.io/bw7/138_hires.png"
@@ -9793,6 +9096,7 @@ let boundariesCrossed = [
         "id": "bw7-139",
         "name": "Crystal Wall",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -9809,10 +9113,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9823,10 +9124,7 @@ let boundariesCrossed = [
         "number": "139",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/139.png",
             "large": "https://images.pokemontcg.io/bw7/139_hires.png"
@@ -9836,6 +9134,7 @@ let boundariesCrossed = [
         "id": "bw7-140",
         "name": "Gold Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -9851,10 +9150,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9865,10 +9161,7 @@ let boundariesCrossed = [
         "number": "140",
         "artist": "Ryo Ueda",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/140.png",
             "large": "https://images.pokemontcg.io/bw7/140_hires.png"
@@ -9878,6 +9171,7 @@ let boundariesCrossed = [
         "id": "bw7-141",
         "name": "Celebi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9928,10 +9222,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -9945,10 +9236,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/141.png",
             "large": "https://images.pokemontcg.io/bw7/141_hires.png"
@@ -9958,6 +9246,7 @@ let boundariesCrossed = [
         "id": "bw7-142",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10002,10 +9291,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10019,10 +9305,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/142.png",
             "large": "https://images.pokemontcg.io/bw7/142_hires.png"
@@ -10032,6 +9315,7 @@ let boundariesCrossed = [
         "id": "bw7-143",
         "name": "Cresselia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10077,10 +9361,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10094,10 +9375,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/143.png",
             "large": "https://images.pokemontcg.io/bw7/143_hires.png"
@@ -10107,6 +9385,7 @@ let boundariesCrossed = [
         "id": "bw7-144",
         "name": "Landorus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10159,10 +9438,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10176,10 +9452,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/144.png",
             "large": "https://images.pokemontcg.io/bw7/144_hires.png"
@@ -10189,6 +9462,7 @@ let boundariesCrossed = [
         "id": "bw7-145",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10238,10 +9512,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10255,10 +9526,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/145.png",
             "large": "https://images.pokemontcg.io/bw7/145_hires.png"
@@ -10268,6 +9536,7 @@ let boundariesCrossed = [
         "id": "bw7-146",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10317,10 +9586,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10334,10 +9600,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/146.png",
             "large": "https://images.pokemontcg.io/bw7/146_hires.png"
@@ -10347,6 +9610,7 @@ let boundariesCrossed = [
         "id": "bw7-147",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -10360,10 +9624,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10374,10 +9635,7 @@ let boundariesCrossed = [
         "number": "147",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/147.png",
             "large": "https://images.pokemontcg.io/bw7/147_hires.png"
@@ -10387,6 +9645,7 @@ let boundariesCrossed = [
         "id": "bw7-148",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -10400,10 +9659,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10414,10 +9670,7 @@ let boundariesCrossed = [
         "number": "148",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/148.png",
             "large": "https://images.pokemontcg.io/bw7/148_hires.png"
@@ -10427,6 +9680,7 @@ let boundariesCrossed = [
         "id": "bw7-149",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -10440,10 +9694,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10454,11 +9705,7 @@ let boundariesCrossed = [
         "number": "149",
         "artist": "Kanako Eo",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/149.png",
             "large": "https://images.pokemontcg.io/bw7/149_hires.png"
@@ -10468,6 +9715,7 @@ let boundariesCrossed = [
         "id": "bw7-150",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10514,10 +9762,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10532,10 +9777,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/150.png",
             "large": "https://images.pokemontcg.io/bw7/150_hires.png"
@@ -10545,6 +9787,7 @@ let boundariesCrossed = [
         "id": "bw7-151",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -10588,10 +9831,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10606,10 +9846,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/151.png",
             "large": "https://images.pokemontcg.io/bw7/151_hires.png"
@@ -10619,6 +9856,7 @@ let boundariesCrossed = [
         "id": "bw7-152",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10660,10 +9898,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10678,10 +9913,7 @@ let boundariesCrossed = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/152.png",
             "large": "https://images.pokemontcg.io/bw7/152_hires.png"
@@ -10691,6 +9923,7 @@ let boundariesCrossed = [
         "id": "bw7-153",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10705,10 +9938,7 @@ let boundariesCrossed = [
             "series": "Black & White",
             "printedTotal": 149,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BCR",
             "releaseDate": "2012/11/07",
             "images": {
@@ -10719,11 +9949,7 @@ let boundariesCrossed = [
         "number": "153",
         "artist": "Ryo Ueda",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw7/153.png",
             "large": "https://images.pokemontcg.io/bw7/153_hires.png"

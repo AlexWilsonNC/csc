@@ -19,11 +19,62 @@
     background-color: #191919;
     border-top: 2px solid grey;
     color: #E1E1E1;
+    z-index: 0;
 }
 .place-n-flag {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+.regional-info-bg-logo-kl {
+    opacity: 0.75;
+    position: absolute;
+    height: 120px;width:auto;
+    left: 50%;
+    margin-left: -60px;
+    z-index: -1;
+}
+.small-disclaimer-txt {
+    font-size: 10px;
+    font-style: italic;
+}
+@media screen and (max-width: 460px) {
+    .small-disclaimer-txt {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .small-disclaimer-txt {
+        font-size: 6.5px;
+    }
+}
+.hidden-me {
+    display: none !important;
+}
+.regional-info-bg-logo-reg {
+    opacity: 0.75;
+    position: absolute;
+    height: 130px;width:auto;
+    left: 50%;
+    margin-left: -58px;
+    z-index: -1;
+}
+.regional-info-bg-logo-retro {
+    opacity: 0.75;
+    position: absolute;
+    height: 100px;width:auto;
+    left: 50%;
+    border-radius: 10px;
+    margin-left: -58px;
+    z-index: -1;
+}
+.regional-info-bg-logo-sts {
+    opacity: 0.75;
+    position: absolute;
+    height: 60px;width:auto;
+    left: 50%;
+    margin-left: -115px;
+    z-index: -1;
 }
 .regional-container a {
     color: rgb(224, 160, 22);
@@ -33,6 +84,7 @@
 }
 .place-n-flag img {
     margin: -8px 0 0 15px;
+    width: 32px;height:auto;
 }
 .left-regional-info {
     display: flex;
@@ -51,7 +103,10 @@
 .regional-info a {
     margin-bottom: 5px;
 }
-
+.outer-links i {
+    font-size: 18px;
+    transform: rotate(-45deg);
+}
 .regional-result {
     width: 100%;
     display: flex;
@@ -63,25 +118,57 @@
 .pending {
     display: flex;
     justify-content: center;
-    margin-top: 35px;
+    margin-top: 50px;
     margin-left: 50px;
     text-align: center;
+    max-width: 80%;
 }
 .reg-hr {
     display: none;
 }
-.results-list-item {
-    width: 400px;
+.event-content {
+    width: 100%;
+    max-width: 100%;
 }
-    .contain-event {
-        margin-left: 50px;
-    }
+.results-list-item {
+    width: 700px;
+}
+.masters-ol,
+.seniors-ol,
+.juniors-ol {
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.masters-ol li,
+.seniors-ol li,
+.juniors-ol li {
+    list-style-position: inside;
+    padding-left: 5px;
+}
+.masters-ol li:nth-of-type(-n+99),
+.seniors-ol li:nth-of-type(-n+99),
+.juniors-ol li:nth-of-type(-n+99) {
+    padding-left: 17px ; 
+}
+.masters-ol li:nth-of-type(-n+9),
+.seniors-ol li:nth-of-type(-n+9),
+.juniors-ol li:nth-of-type(-n+9) {
+    padding-left: 28px; 
+}
+.contain-event {
+    margin-left: 50px;
+}
 .name-n-flag {
     text-align: start;
-    /* white-space: nowrap;
-    overflow: hidden; */
+    white-space: wrap;
 }
 
+@media screen and (max-width: 1500px) {
+    .regional-container {
+        width: 80%;
+    }
+}
 @media screen and (max-width: 1200px) {
     .regional-container p, 
     .regional-container a {
@@ -93,23 +180,42 @@
     .place-n-flag img {
         width: 28px;height:auto;
     }
-    .regional-container {
-        width: 70%;
+    .regional-info-bg-logo-kl {
+        height: 110px;
+        margin-left: -55px;
+    }
+    .regional-info-bg-logo-reg {
+        height: 110px;
+        left: 50%;
+        margin-left: -49px;
+    }
+    .regional-info-bg-logo-sts {
+        height: 50px;
+        margin-left: -90px;
+    }
+}
+@media screen and (max-width: 1050px) {
+    .results-list-item {
+        width: 600px;
     }
 }
 @media screen and (max-width: 950px) {
     .regional-container {
-        width: 80%;
+        width: 94%;
     }
 }
 @media screen and (max-width: 800px) {
-    .regional-container {
-        width: 90%;
+    .results-list-item {
+        width: 550px;
+    }
+}
+@media screen and (max-width: 725px) {
+    .results-list-item {
+        width: 525px;
     }
 }
 @media screen and (max-width: 700px) {
     .regional-container {
-        width: 94%;
         display: flex;
         justify-content: center !important;
     }
@@ -126,6 +232,49 @@
     }
     .regional-result.darkon h3 {
        font-size: 16px;
+    }
+    .results-list-item {
+        width: 500px;
+    }
+    .regional-info-bg-logo-kl {
+        height: 90px;
+        margin-left: -45px;
+    }
+    .regional-info-bg-logo-reg {
+        height: 90px;
+        margin-left: -39px;
+    }
+    .regional-info-bg-logo-sts {
+        height: 40px;
+        margin-left: -70px;
+        margin-top: 15px;
+    }
+    .regional-info-bg-logo-retro {
+        height: 80px;
+        margin-left: -40px;
+    }
+}
+@media screen and (max-width: 675px) {
+    .masters-ol li,
+    .seniors-ol li,
+    .juniors-ol li {
+        padding-left: 5px !important;
+    }
+    .results-list-item {
+        width: 400px;
+    }
+    .name-n-flag {
+        padding-left: 5px;
+    }
+    .masters-ol li:nth-of-type(-n+99),
+    .seniors-ol li:nth-of-type(-n+99),
+    .juniors-ol li:nth-of-type(-n+99) {
+        padding-left: 17px !important; 
+    }
+    .masters-ol li:nth-of-type(-n+9),
+    .seniors-ol li:nth-of-type(-n+9),
+    .juniors-ol li:nth-of-type(-n+9) {
+        padding-left: 28px !important; 
     }
 }
 @media screen and (max-width: 625px) {
@@ -148,16 +297,97 @@
     .pending h3 { 
         font-size: 12px !important;
     }
-}
-@media screen and (max-width: 460px) {
-    .results-list-item {
-        width: 350px;
+    .regional-info-bg-logo-kl {
+        height: 100px;
+        margin-left: -100px;
+        left: 80%;
+        top: 10%;
+    }
+    .regional-info-bg-logo-reg {
+        height: 120px;
+        margin-left: -39px;
+        left: 80%;
+        top: 9%;
+    }
+    .regional-info-bg-logo-retro {
+        height: 93px;
+        margin-left: -39px;
+        left: 80%;
+        top: 12%;
+    }
+    .regional-info-bg-logo-sts {
+        height: 40px;
+        margin-left: -80px;
+        left: 75%;
+        top: 12%;
     }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 570px) {
+    .name-n-flag {
+        font-size: 12px;
+    }
+    .masters-ol li,
+    .seniors-ol li,
+    .juniors-ol li {
+        font-size: 12px;
+    }
+    .results-list-item {
+        height: 40px;
+        max-height: 40px;
+        width: 350px;
+        margin-bottom: 3px !important;
+    }
+    .sprite {
+        width: 45px;
+    }
+    .flag-size {
+        width: 15px;
+        border-radius: 3px;
+    }
+    .masters-ol li:nth-of-type(-n+99),
+    .seniors-ol li:nth-of-type(-n+99),
+    .juniors-ol li:nth-of-type(-n+99) {
+        padding-left: 13px !important; 
+    }
+    .masters-ol li:nth-of-type(-n+9),
+    .seniors-ol li:nth-of-type(-n+9),
+    .juniors-ol li:nth-of-type(-n+9) {
+        padding-left: 22px !important; 
+    }
+}
+@media screen and (max-width: 530px) {
+    .masters-ol,
+    .seniors-ol,
+    .juniors-ol {
+        margin-left: 0px !important;
+    }
+    .player-deck-icons {
+        padding-right: 15px;
+    }
+}
+@media screen and (max-width: 500px) {
     .results-list-item {
         width: 300px;
     }
+    .results-list-item li {
+        padding-left: 0px !important;
+    }
+    .event-content {
+        max-width: none;
+    }
+}
+@media screen and (max-width: 450px) {
+    .regional-container {
+        width: 150%;
+    }
+    .regional-info {
+        flex-direction: column;
+        align-items: flex-start;
+        border-top: 2px solid grey;
+        padding: 15px 0 15px 70px;
+    }
+}
+@media screen and (max-width: 400px) {
     .place-n-flag {
         display: flex;
         flex-direction: column;
@@ -166,6 +396,19 @@
     }
     .place-n-flag img {
         margin: -3px 0 2px;   
+    }
+    .regional-info-bg-logo-kl {
+        height: 80px;
+        margin-left: -100px;
+        left: 85%;
+        top: 10%;
+    }
+    .regional-info-bg-logo-reg {
+        height: 100px;
+        top: 10%;
+    }
+    .regional-info-bg-logo-sts {
+        height: 30px;
     }
 }
 @media screen and (max-width: 360px) {

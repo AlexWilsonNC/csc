@@ -1,8 +1,9 @@
-let promoDp = [
+let dpp = [
     {
         "id": "dpp-DP01",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -50,9 +51,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -67,9 +66,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP01.png",
             "large": "https://images.pokemontcg.io/dpp/DP01_hires.png"
@@ -79,6 +76,7 @@ let promoDp = [
         "id": "dpp-DP02",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -121,9 +119,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -138,9 +134,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP02.png",
             "large": "https://images.pokemontcg.io/dpp/DP02_hires.png"
@@ -150,6 +144,7 @@ let promoDp = [
         "id": "dpp-DP03",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -192,9 +187,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -209,9 +202,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP03.png",
             "large": "https://images.pokemontcg.io/dpp/DP03_hires.png"
@@ -221,6 +212,7 @@ let promoDp = [
         "id": "dpp-DP04",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -267,9 +259,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -284,9 +274,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP04.png",
             "large": "https://images.pokemontcg.io/dpp/DP04_hires.png"
@@ -296,6 +284,7 @@ let promoDp = [
         "id": "dpp-DP05",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -305,9 +294,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -318,9 +305,7 @@ let promoDp = [
         "number": "DP05",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP05.png",
             "large": "https://images.pokemontcg.io/dpp/DP05_hires.png"
@@ -330,6 +315,7 @@ let promoDp = [
         "id": "dpp-DP06",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -374,9 +360,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -391,9 +375,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP06.png",
             "large": "https://images.pokemontcg.io/dpp/DP06_hires.png"
@@ -403,6 +385,7 @@ let promoDp = [
         "id": "dpp-DP07",
         "name": "Cranidos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -448,9 +431,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -465,9 +446,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             408
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP07.png",
             "large": "https://images.pokemontcg.io/dpp/DP07_hires.png"
@@ -477,6 +456,7 @@ let promoDp = [
         "id": "dpp-DP08",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -530,9 +510,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -547,9 +525,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             410
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP08.png",
             "large": "https://images.pokemontcg.io/dpp/DP08_hires.png"
@@ -559,6 +535,7 @@ let promoDp = [
         "id": "dpp-DP09",
         "name": "Torterra LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -604,9 +581,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -620,9 +595,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP09.png",
             "large": "https://images.pokemontcg.io/dpp/DP09_hires.png"
@@ -632,6 +605,7 @@ let promoDp = [
         "id": "dpp-DP10",
         "name": "Infernape LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -674,9 +648,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -690,9 +662,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP10.png",
             "large": "https://images.pokemontcg.io/dpp/DP10_hires.png"
@@ -702,6 +672,7 @@ let promoDp = [
         "id": "dpp-DP11",
         "name": "Empoleon LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -746,9 +717,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -762,9 +731,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP11.png",
             "large": "https://images.pokemontcg.io/dpp/DP11_hires.png"
@@ -774,6 +741,7 @@ let promoDp = [
         "id": "dpp-DP12",
         "name": "Lucario LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -818,9 +786,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -834,9 +800,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP12.png",
             "large": "https://images.pokemontcg.io/dpp/DP12_hires.png"
@@ -846,6 +810,7 @@ let promoDp = [
         "id": "dpp-DP13",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -880,9 +845,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -897,9 +860,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP13.png",
             "large": "https://images.pokemontcg.io/dpp/DP13_hires.png"
@@ -909,6 +870,7 @@ let promoDp = [
         "id": "dpp-DP14",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -955,9 +917,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -972,9 +932,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP14.png",
             "large": "https://images.pokemontcg.io/dpp/DP14_hires.png"
@@ -984,6 +942,7 @@ let promoDp = [
         "id": "dpp-DP15",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1024,9 +983,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1041,9 +998,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP15.png",
             "large": "https://images.pokemontcg.io/dpp/DP15_hires.png"
@@ -1053,6 +1008,7 @@ let promoDp = [
         "id": "dpp-DP16",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1101,9 +1057,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1118,9 +1072,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP16.png",
             "large": "https://images.pokemontcg.io/dpp/DP16_hires.png"
@@ -1130,6 +1082,7 @@ let promoDp = [
         "id": "dpp-DP17",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1181,9 +1134,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1197,9 +1148,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP17.png",
             "large": "https://images.pokemontcg.io/dpp/DP17_hires.png"
@@ -1209,6 +1158,7 @@ let promoDp = [
         "id": "dpp-DP18",
         "name": "Palkia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1253,9 +1203,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1269,9 +1217,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP18.png",
             "large": "https://images.pokemontcg.io/dpp/DP18_hires.png"
@@ -1281,6 +1227,7 @@ let promoDp = [
         "id": "dpp-DP19",
         "name": "Darkrai LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1331,9 +1278,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1347,9 +1292,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP19.png",
             "large": "https://images.pokemontcg.io/dpp/DP19_hires.png"
@@ -1359,6 +1302,7 @@ let promoDp = [
         "id": "dpp-DP20",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1403,9 +1347,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1420,9 +1362,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP20.png",
             "large": "https://images.pokemontcg.io/dpp/DP20_hires.png"
@@ -1432,6 +1372,7 @@ let promoDp = [
         "id": "dpp-DP21",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1478,9 +1419,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1495,9 +1434,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP21.png",
             "large": "https://images.pokemontcg.io/dpp/DP21_hires.png"
@@ -1507,6 +1444,7 @@ let promoDp = [
         "id": "dpp-DP22",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1545,9 +1483,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1562,9 +1498,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             439
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP22.png",
             "large": "https://images.pokemontcg.io/dpp/DP22_hires.png"
@@ -1574,6 +1508,7 @@ let promoDp = [
         "id": "dpp-DP23",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1618,9 +1553,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1635,9 +1568,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             431
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP23.png",
             "large": "https://images.pokemontcg.io/dpp/DP23_hires.png"
@@ -1647,6 +1578,7 @@ let promoDp = [
         "id": "dpp-DP24",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1698,9 +1630,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1714,9 +1644,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP24.png",
             "large": "https://images.pokemontcg.io/dpp/DP24_hires.png"
@@ -1726,6 +1654,7 @@ let promoDp = [
         "id": "dpp-DP25",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -1735,9 +1664,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1748,9 +1675,7 @@ let promoDp = [
         "number": "DP25",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP25.png",
             "large": "https://images.pokemontcg.io/dpp/DP25_hires.png"
@@ -1760,6 +1685,7 @@ let promoDp = [
         "id": "dpp-DP26",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1808,9 +1734,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1825,9 +1749,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP26.png",
             "large": "https://images.pokemontcg.io/dpp/DP26_hires.png"
@@ -1837,6 +1759,7 @@ let promoDp = [
         "id": "dpp-DP27",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1879,9 +1802,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1896,9 +1817,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP27.png",
             "large": "https://images.pokemontcg.io/dpp/DP27_hires.png"
@@ -1908,6 +1827,7 @@ let promoDp = [
         "id": "dpp-DP28",
         "name": "Mewtwo LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1952,9 +1872,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1968,9 +1886,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP28.png",
             "large": "https://images.pokemontcg.io/dpp/DP28_hires.png"
@@ -1980,6 +1896,7 @@ let promoDp = [
         "id": "dpp-DP29",
         "name": "Rhyperior LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2030,9 +1947,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2046,9 +1961,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP29.png",
             "large": "https://images.pokemontcg.io/dpp/DP29_hires.png"
@@ -2058,6 +1971,7 @@ let promoDp = [
         "id": "dpp-DP30",
         "name": "Regigigas LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2103,9 +2017,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2119,9 +2031,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP30.png",
             "large": "https://images.pokemontcg.io/dpp/DP30_hires.png"
@@ -2131,6 +2041,7 @@ let promoDp = [
         "id": "dpp-DP31",
         "name": "Heatran LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2162,9 +2073,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2178,9 +2087,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP31.png",
             "large": "https://images.pokemontcg.io/dpp/DP31_hires.png"
@@ -2190,6 +2097,7 @@ let promoDp = [
         "id": "dpp-DP32",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2241,9 +2149,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2258,9 +2164,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP32.png",
             "large": "https://images.pokemontcg.io/dpp/DP32_hires.png"
@@ -2270,6 +2174,7 @@ let promoDp = [
         "id": "dpp-DP33",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2317,9 +2222,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2334,9 +2237,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP33.png",
             "large": "https://images.pokemontcg.io/dpp/DP33_hires.png"
@@ -2346,6 +2247,7 @@ let promoDp = [
         "id": "dpp-DP34",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2394,9 +2296,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2411,9 +2311,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP34.png",
             "large": "https://images.pokemontcg.io/dpp/DP34_hires.png"
@@ -2423,6 +2321,7 @@ let promoDp = [
         "id": "dpp-DP35",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2470,9 +2369,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2486,9 +2383,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP35.png",
             "large": "https://images.pokemontcg.io/dpp/DP35_hires.png"
@@ -2498,6 +2393,7 @@ let promoDp = [
         "id": "dpp-DP36",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2551,9 +2447,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2567,9 +2461,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP36.png",
             "large": "https://images.pokemontcg.io/dpp/DP36_hires.png"
@@ -2579,6 +2471,7 @@ let promoDp = [
         "id": "dpp-DP37",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2630,9 +2523,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2646,9 +2537,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP37.png",
             "large": "https://images.pokemontcg.io/dpp/DP37_hires.png"
@@ -2658,6 +2547,7 @@ let promoDp = [
         "id": "dpp-DP38",
         "name": "Giratina LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2709,9 +2599,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2725,9 +2613,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP38.png",
             "large": "https://images.pokemontcg.io/dpp/DP38_hires.png"
@@ -2737,6 +2623,7 @@ let promoDp = [
         "id": "dpp-DP39",
         "name": "Shaymin LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2785,9 +2672,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2801,9 +2686,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP39.png",
             "large": "https://images.pokemontcg.io/dpp/DP39_hires.png"
@@ -2813,6 +2696,7 @@ let promoDp = [
         "id": "dpp-DP40",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -2858,9 +2742,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2875,9 +2757,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP40.png",
             "large": "https://images.pokemontcg.io/dpp/DP40_hires.png"
@@ -2887,6 +2767,7 @@ let promoDp = [
         "id": "dpp-DP41",
         "name": "Toxicroak G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -2927,9 +2808,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2943,9 +2822,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP41.png",
             "large": "https://images.pokemontcg.io/dpp/DP41_hires.png"
@@ -2955,6 +2832,7 @@ let promoDp = [
         "id": "dpp-DP42",
         "name": "Carnivine G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -3003,9 +2881,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3019,9 +2895,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP42.png",
             "large": "https://images.pokemontcg.io/dpp/DP42_hires.png"
@@ -3031,6 +2905,7 @@ let promoDp = [
         "id": "dpp-DP43",
         "name": "Probopass G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -3076,9 +2951,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3092,9 +2965,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP43.png",
             "large": "https://images.pokemontcg.io/dpp/DP43_hires.png"
@@ -3104,6 +2975,7 @@ let promoDp = [
         "id": "dpp-DP44",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -3154,9 +3026,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3171,9 +3041,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP44.png",
             "large": "https://images.pokemontcg.io/dpp/DP44_hires.png"
@@ -3183,6 +3051,7 @@ let promoDp = [
         "id": "dpp-DP45",
         "name": "Charizard G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3236,9 +3105,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3252,9 +3119,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP45.png",
             "large": "https://images.pokemontcg.io/dpp/DP45_hires.png"
@@ -3264,6 +3129,7 @@ let promoDp = [
         "id": "dpp-DP46",
         "name": "Garchomp C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3308,9 +3174,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3324,9 +3188,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP46.png",
             "large": "https://images.pokemontcg.io/dpp/DP46_hires.png"
@@ -3336,6 +3198,7 @@ let promoDp = [
         "id": "dpp-DP47",
         "name": "Rayquaza C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3388,9 +3251,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3404,9 +3265,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP47.png",
             "large": "https://images.pokemontcg.io/dpp/DP47_hires.png"
@@ -3416,6 +3275,7 @@ let promoDp = [
         "id": "dpp-DP48",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -3425,9 +3285,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3438,9 +3296,7 @@ let promoDp = [
         "number": "DP48",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP48.png",
             "large": "https://images.pokemontcg.io/dpp/DP48_hires.png"
@@ -3450,6 +3306,7 @@ let promoDp = [
         "id": "dpp-DP49",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3498,9 +3355,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3515,9 +3370,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP49.png",
             "large": "https://images.pokemontcg.io/dpp/DP49_hires.png"
@@ -3527,6 +3380,7 @@ let promoDp = [
         "id": "dpp-DP50",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3564,9 +3418,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3581,9 +3433,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP50.png",
             "large": "https://images.pokemontcg.io/dpp/DP50_hires.png"
@@ -3593,6 +3443,7 @@ let promoDp = [
         "id": "dpp-DP51",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3633,9 +3484,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3650,9 +3499,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP51.png",
             "large": "https://images.pokemontcg.io/dpp/DP51_hires.png"
@@ -3662,6 +3509,7 @@ let promoDp = [
         "id": "dpp-DP52",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3708,9 +3556,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3725,9 +3571,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP52.png",
             "large": "https://images.pokemontcg.io/dpp/DP52_hires.png"
@@ -3737,6 +3581,7 @@ let promoDp = [
         "id": "dpp-DP53",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -3768,9 +3613,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3784,9 +3627,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP53.png",
             "large": "https://images.pokemontcg.io/dpp/DP53_hires.png"
@@ -3796,6 +3637,7 @@ let promoDp = [
         "id": "dpp-DP54",
         "name": "Beginning Door",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -3805,9 +3647,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3818,18 +3658,17 @@ let promoDp = [
         "number": "DP54",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/dpp/DP54.png",
-            "large": "https://images.pokemontcg.io/dpp/DP54_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/beginning-door-arceus-ar-82.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/beginning-door-arceus-ar-82.jpg"
         }
     },
     {
         "id": "dpp-DP55",
         "name": "Ultimate Zone",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stadium"
         ],
@@ -3843,9 +3682,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3856,18 +3693,17 @@ let promoDp = [
         "number": "DP55",
         "artist": "Yusuke Ishikawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/dpp/DP55.png",
-            "large": "https://images.pokemontcg.io/dpp/DP55_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/ultimate-zone-arceus-ar-91.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/ultimate-zone-arceus-ar-91.jpg"
         }
     },
     {
         "id": "dpp-DP56",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -3907,9 +3743,7 @@ let promoDp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3923,9 +3757,7 @@ let promoDp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP56.png",
             "large": "https://images.pokemontcg.io/dpp/DP56_hires.png"

@@ -1,8 +1,9 @@
-let genesis = [
+let neo1 = [
     {
         "id": "neo1-1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -37,9 +38,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -54,9 +53,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/1.png",
             "large": "https://images.pokemontcg.io/neo1/1_hires.png"
@@ -66,6 +63,7 @@ let genesis = [
         "id": "neo1-2",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -110,9 +108,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -127,9 +123,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/2.png",
             "large": "https://images.pokemontcg.io/neo1/2_hires.png"
@@ -139,6 +133,7 @@ let genesis = [
         "id": "neo1-3",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -182,9 +177,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -199,9 +192,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/3.png",
             "large": "https://images.pokemontcg.io/neo1/3_hires.png"
@@ -211,6 +202,7 @@ let genesis = [
         "id": "neo1-4",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -253,9 +245,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -270,9 +260,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/4.png",
             "large": "https://images.pokemontcg.io/neo1/4_hires.png"
@@ -282,6 +270,7 @@ let genesis = [
         "id": "neo1-5",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -323,9 +312,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -340,9 +327,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/5.png",
             "large": "https://images.pokemontcg.io/neo1/5_hires.png"
@@ -352,6 +337,7 @@ let genesis = [
         "id": "neo1-6",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -392,9 +378,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -409,9 +393,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/6.png",
             "large": "https://images.pokemontcg.io/neo1/6_hires.png"
@@ -421,6 +403,7 @@ let genesis = [
         "id": "neo1-7",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -467,9 +450,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -484,9 +465,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/7.png",
             "large": "https://images.pokemontcg.io/neo1/7_hires.png"
@@ -496,6 +475,7 @@ let genesis = [
         "id": "neo1-8",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -536,9 +516,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -553,9 +531,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/8.png",
             "large": "https://images.pokemontcg.io/neo1/8_hires.png"
@@ -565,6 +541,7 @@ let genesis = [
         "id": "neo1-9",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -604,9 +581,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -621,9 +596,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/9.png",
             "large": "https://images.pokemontcg.io/neo1/9_hires.png"
@@ -633,6 +606,7 @@ let genesis = [
         "id": "neo1-10",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -675,9 +649,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -692,9 +664,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/10.png",
             "large": "https://images.pokemontcg.io/neo1/10_hires.png"
@@ -704,6 +674,7 @@ let genesis = [
         "id": "neo1-11",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -746,9 +717,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -763,9 +732,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/11.png",
             "large": "https://images.pokemontcg.io/neo1/11_hires.png"
@@ -775,6 +742,7 @@ let genesis = [
         "id": "neo1-12",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Baby"
         ],
@@ -806,9 +774,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -823,9 +789,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/12.png",
             "large": "https://images.pokemontcg.io/neo1/12_hires.png"
@@ -835,6 +799,7 @@ let genesis = [
         "id": "neo1-13",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -883,9 +848,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -900,9 +863,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/13.png",
             "large": "https://images.pokemontcg.io/neo1/13_hires.png"
@@ -912,6 +873,7 @@ let genesis = [
         "id": "neo1-14",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -953,9 +915,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -970,9 +930,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/14.png",
             "large": "https://images.pokemontcg.io/neo1/14_hires.png"
@@ -982,6 +940,7 @@ let genesis = [
         "id": "neo1-15",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1032,9 +991,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1049,9 +1006,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/15.png",
             "large": "https://images.pokemontcg.io/neo1/15_hires.png"
@@ -1061,6 +1016,7 @@ let genesis = [
         "id": "neo1-16",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1106,9 +1062,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1123,9 +1077,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/16.png",
             "large": "https://images.pokemontcg.io/neo1/16_hires.png"
@@ -1135,6 +1087,7 @@ let genesis = [
         "id": "neo1-17",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -1177,9 +1130,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1194,9 +1145,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/17.png",
             "large": "https://images.pokemontcg.io/neo1/17_hires.png"
@@ -1206,6 +1155,7 @@ let genesis = [
         "id": "neo1-18",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 2"
         ],
@@ -1248,9 +1198,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1265,9 +1213,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/18.png",
             "large": "https://images.pokemontcg.io/neo1/18_hires.png"
@@ -1277,6 +1223,7 @@ let genesis = [
         "id": "neo1-19",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Special"
         ],
@@ -1289,9 +1236,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1302,9 +1247,7 @@ let genesis = [
         "number": "19",
         "artist": "Milky Isobe",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/19.png",
             "large": "https://images.pokemontcg.io/neo1/19_hires.png"
@@ -1314,6 +1257,7 @@ let genesis = [
         "id": "neo1-20",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Baby"
         ],
@@ -1344,9 +1288,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1361,9 +1303,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/20.png",
             "large": "https://images.pokemontcg.io/neo1/20_hires.png"
@@ -1373,6 +1313,7 @@ let genesis = [
         "id": "neo1-21",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1422,9 +1363,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1439,9 +1378,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/21.png",
             "large": "https://images.pokemontcg.io/neo1/21_hires.png"
@@ -1451,6 +1388,7 @@ let genesis = [
         "id": "neo1-22",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Baby"
         ],
@@ -1477,9 +1415,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1494,9 +1430,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/22.png",
             "large": "https://images.pokemontcg.io/neo1/22_hires.png"
@@ -1506,6 +1440,7 @@ let genesis = [
         "id": "neo1-23",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Baby"
         ],
@@ -1536,9 +1471,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1553,9 +1486,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/23.png",
             "large": "https://images.pokemontcg.io/neo1/23_hires.png"
@@ -1565,6 +1496,7 @@ let genesis = [
         "id": "neo1-24",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -1608,9 +1540,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1625,9 +1555,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/24.png",
             "large": "https://images.pokemontcg.io/neo1/24_hires.png"
@@ -1637,6 +1565,7 @@ let genesis = [
         "id": "neo1-25",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -1680,9 +1609,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1697,9 +1624,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/25.png",
             "large": "https://images.pokemontcg.io/neo1/25_hires.png"
@@ -1709,6 +1634,7 @@ let genesis = [
         "id": "neo1-26",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -1757,9 +1683,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1774,9 +1698,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/26.png",
             "large": "https://images.pokemontcg.io/neo1/26_hires.png"
@@ -1786,6 +1708,7 @@ let genesis = [
         "id": "neo1-27",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1829,9 +1752,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1846,9 +1767,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/27.png",
             "large": "https://images.pokemontcg.io/neo1/27_hires.png"
@@ -1858,6 +1777,7 @@ let genesis = [
         "id": "neo1-28",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1905,9 +1825,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1922,9 +1840,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/28.png",
             "large": "https://images.pokemontcg.io/neo1/28_hires.png"
@@ -1934,6 +1850,7 @@ let genesis = [
         "id": "neo1-29",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1980,9 +1897,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -1997,9 +1912,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/29.png",
             "large": "https://images.pokemontcg.io/neo1/29_hires.png"
@@ -2009,6 +1922,7 @@ let genesis = [
         "id": "neo1-30",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -2061,9 +1975,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2078,9 +1990,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/30.png",
             "large": "https://images.pokemontcg.io/neo1/30_hires.png"
@@ -2090,6 +2000,7 @@ let genesis = [
         "id": "neo1-31",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2136,9 +2047,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2153,9 +2062,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/31.png",
             "large": "https://images.pokemontcg.io/neo1/31_hires.png"
@@ -2165,6 +2072,7 @@ let genesis = [
         "id": "neo1-32",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2212,9 +2120,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2229,9 +2135,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/32.png",
             "large": "https://images.pokemontcg.io/neo1/32_hires.png"
@@ -2241,6 +2145,7 @@ let genesis = [
         "id": "neo1-33",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -2287,9 +2192,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2304,9 +2207,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/33.png",
             "large": "https://images.pokemontcg.io/neo1/33_hires.png"
@@ -2316,6 +2217,7 @@ let genesis = [
         "id": "neo1-34",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2361,9 +2263,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2378,9 +2278,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/34.png",
             "large": "https://images.pokemontcg.io/neo1/34_hires.png"
@@ -2390,6 +2288,7 @@ let genesis = [
         "id": "neo1-35",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2440,9 +2339,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2457,9 +2354,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/35.png",
             "large": "https://images.pokemontcg.io/neo1/35_hires.png"
@@ -2469,6 +2364,7 @@ let genesis = [
         "id": "neo1-36",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2517,9 +2413,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2534,9 +2428,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/36.png",
             "large": "https://images.pokemontcg.io/neo1/36_hires.png"
@@ -2546,6 +2438,7 @@ let genesis = [
         "id": "neo1-37",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2596,9 +2489,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2613,9 +2504,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/37.png",
             "large": "https://images.pokemontcg.io/neo1/37_hires.png"
@@ -2625,6 +2514,7 @@ let genesis = [
         "id": "neo1-38",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2665,9 +2555,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2682,9 +2570,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/38.png",
             "large": "https://images.pokemontcg.io/neo1/38_hires.png"
@@ -2694,6 +2580,7 @@ let genesis = [
         "id": "neo1-39",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2732,9 +2619,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2749,9 +2634,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/39.png",
             "large": "https://images.pokemontcg.io/neo1/39_hires.png"
@@ -2761,6 +2644,7 @@ let genesis = [
         "id": "neo1-40",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -2807,9 +2691,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2824,9 +2706,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/40.png",
             "large": "https://images.pokemontcg.io/neo1/40_hires.png"
@@ -2836,6 +2716,7 @@ let genesis = [
         "id": "neo1-41",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -2884,9 +2765,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2901,9 +2780,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/41.png",
             "large": "https://images.pokemontcg.io/neo1/41_hires.png"
@@ -2913,6 +2790,7 @@ let genesis = [
         "id": "neo1-42",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2959,9 +2837,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -2976,9 +2852,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/42.png",
             "large": "https://images.pokemontcg.io/neo1/42_hires.png"
@@ -2988,6 +2862,7 @@ let genesis = [
         "id": "neo1-43",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3037,9 +2912,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3054,9 +2927,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/43.png",
             "large": "https://images.pokemontcg.io/neo1/43_hires.png"
@@ -3066,6 +2937,7 @@ let genesis = [
         "id": "neo1-44",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3119,9 +2991,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3136,9 +3006,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/44.png",
             "large": "https://images.pokemontcg.io/neo1/44_hires.png"
@@ -3148,6 +3016,7 @@ let genesis = [
         "id": "neo1-45",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3199,9 +3068,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3216,9 +3083,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/45.png",
             "large": "https://images.pokemontcg.io/neo1/45_hires.png"
@@ -3228,6 +3093,7 @@ let genesis = [
         "id": "neo1-46",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3274,9 +3140,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3291,9 +3155,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/46.png",
             "large": "https://images.pokemontcg.io/neo1/46_hires.png"
@@ -3303,6 +3165,7 @@ let genesis = [
         "id": "neo1-47",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3350,9 +3213,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3367,9 +3228,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/47.png",
             "large": "https://images.pokemontcg.io/neo1/47_hires.png"
@@ -3379,6 +3238,7 @@ let genesis = [
         "id": "neo1-48",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3424,9 +3284,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3441,9 +3299,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/48.png",
             "large": "https://images.pokemontcg.io/neo1/48_hires.png"
@@ -3453,6 +3309,7 @@ let genesis = [
         "id": "neo1-49",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3502,9 +3359,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3519,9 +3374,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/49.png",
             "large": "https://images.pokemontcg.io/neo1/49_hires.png"
@@ -3531,6 +3384,7 @@ let genesis = [
         "id": "neo1-50",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3565,9 +3419,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3582,9 +3434,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             192
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/50.png",
             "large": "https://images.pokemontcg.io/neo1/50_hires.png"
@@ -3594,6 +3444,7 @@ let genesis = [
         "id": "neo1-51",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3629,9 +3480,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3646,9 +3495,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/51.png",
             "large": "https://images.pokemontcg.io/neo1/51_hires.png"
@@ -3658,6 +3505,7 @@ let genesis = [
         "id": "neo1-52",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3707,9 +3555,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3724,9 +3570,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/52.png",
             "large": "https://images.pokemontcg.io/neo1/52_hires.png"
@@ -3736,6 +3580,7 @@ let genesis = [
         "id": "neo1-53",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3779,9 +3624,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3796,9 +3639,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/53.png",
             "large": "https://images.pokemontcg.io/neo1/53_hires.png"
@@ -3808,6 +3649,7 @@ let genesis = [
         "id": "neo1-54",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3852,9 +3694,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3869,9 +3709,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/54.png",
             "large": "https://images.pokemontcg.io/neo1/54_hires.png"
@@ -3881,6 +3719,7 @@ let genesis = [
         "id": "neo1-55",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3924,9 +3763,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -3941,9 +3778,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/55.png",
             "large": "https://images.pokemontcg.io/neo1/55_hires.png"
@@ -3953,6 +3788,7 @@ let genesis = [
         "id": "neo1-56",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -3997,9 +3833,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4014,9 +3848,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/56.png",
             "large": "https://images.pokemontcg.io/neo1/56_hires.png"
@@ -4026,6 +3858,7 @@ let genesis = [
         "id": "neo1-57",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4070,9 +3903,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4087,9 +3918,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/57.png",
             "large": "https://images.pokemontcg.io/neo1/57_hires.png"
@@ -4099,6 +3928,7 @@ let genesis = [
         "id": "neo1-58",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4135,9 +3965,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4152,9 +3980,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/58.png",
             "large": "https://images.pokemontcg.io/neo1/58_hires.png"
@@ -4164,6 +3990,7 @@ let genesis = [
         "id": "neo1-59",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4213,9 +4040,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4230,9 +4055,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/59.png",
             "large": "https://images.pokemontcg.io/neo1/59_hires.png"
@@ -4242,6 +4065,7 @@ let genesis = [
         "id": "neo1-60",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4292,9 +4116,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4309,9 +4131,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/60.png",
             "large": "https://images.pokemontcg.io/neo1/60_hires.png"
@@ -4321,6 +4141,7 @@ let genesis = [
         "id": "neo1-61",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4369,9 +4190,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4386,9 +4205,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/61.png",
             "large": "https://images.pokemontcg.io/neo1/61_hires.png"
@@ -4398,6 +4215,7 @@ let genesis = [
         "id": "neo1-62",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4432,9 +4250,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4449,9 +4265,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/62.png",
             "large": "https://images.pokemontcg.io/neo1/62_hires.png"
@@ -4461,6 +4275,7 @@ let genesis = [
         "id": "neo1-63",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4510,9 +4325,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4527,9 +4340,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/63.png",
             "large": "https://images.pokemontcg.io/neo1/63_hires.png"
@@ -4539,6 +4350,7 @@ let genesis = [
         "id": "neo1-64",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4577,9 +4389,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4594,9 +4404,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/64.png",
             "large": "https://images.pokemontcg.io/neo1/64_hires.png"
@@ -4606,6 +4414,7 @@ let genesis = [
         "id": "neo1-65",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4650,9 +4459,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4667,9 +4474,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/65.png",
             "large": "https://images.pokemontcg.io/neo1/65_hires.png"
@@ -4679,6 +4484,7 @@ let genesis = [
         "id": "neo1-66",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4723,9 +4529,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4740,9 +4544,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/66.png",
             "large": "https://images.pokemontcg.io/neo1/66_hires.png"
@@ -4752,6 +4554,7 @@ let genesis = [
         "id": "neo1-67",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4801,9 +4604,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4818,9 +4619,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/67.png",
             "large": "https://images.pokemontcg.io/neo1/67_hires.png"
@@ -4830,6 +4629,7 @@ let genesis = [
         "id": "neo1-68",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4874,9 +4674,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4891,9 +4689,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/68.png",
             "large": "https://images.pokemontcg.io/neo1/68_hires.png"
@@ -4903,6 +4699,7 @@ let genesis = [
         "id": "neo1-69",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -4947,9 +4744,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -4964,9 +4759,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/69.png",
             "large": "https://images.pokemontcg.io/neo1/69_hires.png"
@@ -4976,6 +4769,7 @@ let genesis = [
         "id": "neo1-70",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5021,9 +4815,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5038,9 +4830,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/70.png",
             "large": "https://images.pokemontcg.io/neo1/70_hires.png"
@@ -5050,6 +4840,7 @@ let genesis = [
         "id": "neo1-71",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5090,9 +4881,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5107,9 +4896,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/71.png",
             "large": "https://images.pokemontcg.io/neo1/71_hires.png"
@@ -5119,6 +4906,7 @@ let genesis = [
         "id": "neo1-72",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5160,9 +4948,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5177,9 +4963,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/72.png",
             "large": "https://images.pokemontcg.io/neo1/72_hires.png"
@@ -5189,6 +4973,7 @@ let genesis = [
         "id": "neo1-73",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5233,9 +5018,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5250,9 +5033,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/73.png",
             "large": "https://images.pokemontcg.io/neo1/73_hires.png"
@@ -5262,6 +5043,7 @@ let genesis = [
         "id": "neo1-74",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5312,9 +5094,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5329,9 +5109,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/74.png",
             "large": "https://images.pokemontcg.io/neo1/74_hires.png"
@@ -5341,6 +5119,7 @@ let genesis = [
         "id": "neo1-75",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5384,9 +5163,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5401,9 +5178,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/75.png",
             "large": "https://images.pokemontcg.io/neo1/75_hires.png"
@@ -5413,6 +5188,7 @@ let genesis = [
         "id": "neo1-76",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5462,9 +5238,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5479,9 +5253,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/76.png",
             "large": "https://images.pokemontcg.io/neo1/76_hires.png"
@@ -5491,6 +5263,7 @@ let genesis = [
         "id": "neo1-77",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5532,9 +5305,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5549,9 +5320,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/77.png",
             "large": "https://images.pokemontcg.io/neo1/77_hires.png"
@@ -5561,6 +5330,7 @@ let genesis = [
         "id": "neo1-78",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5606,9 +5376,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5623,9 +5391,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             191
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/78.png",
             "large": "https://images.pokemontcg.io/neo1/78_hires.png"
@@ -5635,6 +5401,7 @@ let genesis = [
         "id": "neo1-79",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5675,9 +5442,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5692,9 +5457,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/79.png",
             "large": "https://images.pokemontcg.io/neo1/79_hires.png"
@@ -5704,6 +5467,7 @@ let genesis = [
         "id": "neo1-80",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5748,9 +5512,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5765,9 +5527,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/80.png",
             "large": "https://images.pokemontcg.io/neo1/80_hires.png"
@@ -5777,6 +5537,7 @@ let genesis = [
         "id": "neo1-81",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5820,9 +5581,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5837,9 +5596,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/81.png",
             "large": "https://images.pokemontcg.io/neo1/81_hires.png"
@@ -5849,6 +5606,7 @@ let genesis = [
         "id": "neo1-82",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -5899,9 +5657,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5916,9 +5672,7 @@ let genesis = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/82.png",
             "large": "https://images.pokemontcg.io/neo1/82_hires.png"
@@ -5928,6 +5682,7 @@ let genesis = [
         "id": "neo1-83",
         "name": "Arcade Game",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Goldenrod Game Corner"
         ],
@@ -5940,9 +5695,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5953,9 +5706,7 @@ let genesis = [
         "number": "83",
         "artist": "K. Hoshiba, CR CG gangs",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/83.png",
             "large": "https://images.pokemontcg.io/neo1/83_hires.png"
@@ -5965,6 +5716,7 @@ let genesis = [
         "id": "neo1-84",
         "name": "Ecogym",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stadium"
         ],
@@ -5978,9 +5730,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -5991,9 +5741,7 @@ let genesis = [
         "number": "84",
         "artist": "Shin-ichi Yoshikawa, CR CG gangs",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/84.png",
             "large": "https://images.pokemontcg.io/neo1/84_hires.png"
@@ -6003,6 +5751,7 @@ let genesis = [
         "id": "neo1-85",
         "name": "Energy Charge",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck."
         ],
@@ -6012,9 +5761,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6025,9 +5772,7 @@ let genesis = [
         "number": "85",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/85.png",
             "large": "https://images.pokemontcg.io/neo1/85_hires.png"
@@ -6037,6 +5782,7 @@ let genesis = [
         "id": "neo1-86",
         "name": "Focus Band",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6050,9 +5796,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6063,9 +5807,7 @@ let genesis = [
         "number": "86",
         "artist": "Tomokazu Komiya",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/86.png",
             "large": "https://images.pokemontcg.io/neo1/86_hires.png"
@@ -6075,6 +5817,7 @@ let genesis = [
         "id": "neo1-87",
         "name": "Mary",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck."
         ],
@@ -6084,9 +5827,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6097,9 +5838,7 @@ let genesis = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/87.png",
             "large": "https://images.pokemontcg.io/neo1/87_hires.png"
@@ -6109,6 +5848,7 @@ let genesis = [
         "id": "neo1-88",
         "name": "PokéGear",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You can't play any more Trainer cards this turn."
         ],
@@ -6118,9 +5858,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6131,9 +5869,7 @@ let genesis = [
         "number": "88",
         "artist": "Katsura Tabata, CR CG gangs",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/88.png",
             "large": "https://images.pokemontcg.io/neo1/88_hires.png"
@@ -6143,6 +5879,7 @@ let genesis = [
         "id": "neo1-89",
         "name": "Super Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them."
         ],
@@ -6152,9 +5889,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6165,9 +5900,7 @@ let genesis = [
         "number": "89",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/89.png",
             "large": "https://images.pokemontcg.io/neo1/89_hires.png"
@@ -6177,6 +5910,7 @@ let genesis = [
         "id": "neo1-90",
         "name": "Time Capsule",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Your opponent may choose 5 Basic Pokémon, Evolution, and/or basic Energy cards in his or her discard pile. (If your opponent doesn't have that many, he or she chooses all or none of them.) If your opponent chooses any cards, he or she shuffles them into his or her deck. Either way, you may do the same, and you can't play any more Trainer cards this turn."
         ],
@@ -6186,9 +5920,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6199,9 +5931,7 @@ let genesis = [
         "number": "90",
         "artist": "\"Big Mama\" Tagawa, CR CG gangs",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/90.png",
             "large": "https://images.pokemontcg.io/neo1/90_hires.png"
@@ -6211,6 +5941,7 @@ let genesis = [
         "id": "neo1-91",
         "name": "Bill's Teleporter",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Flip a coin. If heads, draw 4 cards."
         ],
@@ -6220,9 +5951,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6233,9 +5962,7 @@ let genesis = [
         "number": "91",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/91.png",
             "large": "https://images.pokemontcg.io/neo1/91_hires.png"
@@ -6245,6 +5972,7 @@ let genesis = [
         "id": "neo1-92",
         "name": "Card-Flip Game",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Goldenrod Game Corner"
         ],
@@ -6257,9 +5985,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6270,9 +5996,7 @@ let genesis = [
         "number": "92",
         "artist": "K. Hoshiba, CR CG gangs",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/92.png",
             "large": "https://images.pokemontcg.io/neo1/92_hires.png"
@@ -6282,6 +6006,7 @@ let genesis = [
         "id": "neo1-93",
         "name": "Gold Berry",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6295,9 +6020,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6308,9 +6031,7 @@ let genesis = [
         "number": "93",
         "artist": "Ryuta Kusumi, CR CG gangs",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/93.png",
             "large": "https://images.pokemontcg.io/neo1/93_hires.png"
@@ -6320,6 +6041,7 @@ let genesis = [
         "id": "neo1-94",
         "name": "Miracle Berry",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6333,9 +6055,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6346,9 +6066,7 @@ let genesis = [
         "number": "94",
         "artist": "Yousuke Hirata, CR CG gangs",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/94.png",
             "large": "https://images.pokemontcg.io/neo1/94_hires.png"
@@ -6358,6 +6076,7 @@ let genesis = [
         "id": "neo1-95",
         "name": "New Pokédex",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Shuffle your deck. Then, look at up to 5 cards from the top of your deck and rearrange them as you like."
         ],
@@ -6367,9 +6086,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6380,9 +6097,7 @@ let genesis = [
         "number": "95",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/95.png",
             "large": "https://images.pokemontcg.io/neo1/95_hires.png"
@@ -6392,6 +6107,7 @@ let genesis = [
         "id": "neo1-96",
         "name": "Professor Elm",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Shuffle your hand into your deck. Then, draw 7 cards. You can't play any more Trainer cards this turn."
         ],
@@ -6401,9 +6117,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6414,9 +6128,7 @@ let genesis = [
         "number": "96",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/96.png",
             "large": "https://images.pokemontcg.io/neo1/96_hires.png"
@@ -6426,6 +6138,7 @@ let genesis = [
         "id": "neo1-97",
         "name": "Sprout Tower",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Stadium"
         ],
@@ -6439,9 +6152,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6452,9 +6163,7 @@ let genesis = [
         "number": "97",
         "artist": "Hiromichi Sugiyama, CR CG gangs",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/97.png",
             "large": "https://images.pokemontcg.io/neo1/97_hires.png"
@@ -6464,6 +6173,7 @@ let genesis = [
         "id": "neo1-98",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
         ],
@@ -6473,9 +6183,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6486,10 +6194,7 @@ let genesis = [
         "number": "98",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/98.png",
             "large": "https://images.pokemontcg.io/neo1/98_hires.png"
@@ -6499,6 +6204,7 @@ let genesis = [
         "id": "neo1-99",
         "name": "Berry",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6512,9 +6218,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6525,9 +6229,7 @@ let genesis = [
         "number": "99",
         "artist": "Yousuke Hirata, CR CG gangs",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/99.png",
             "large": "https://images.pokemontcg.io/neo1/99_hires.png"
@@ -6537,6 +6239,7 @@ let genesis = [
         "id": "neo1-100",
         "name": "Double Gust",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "If you have any Benched Pokémon, your opponent chooses 1 of them and switches it with your Active Pokémon. Then, if your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
         ],
@@ -6546,9 +6249,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6559,9 +6260,7 @@ let genesis = [
         "number": "100",
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/100.png",
             "large": "https://images.pokemontcg.io/neo1/100_hires.png"
@@ -6571,6 +6270,7 @@ let genesis = [
         "id": "neo1-101",
         "name": "Moo-Moo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
         ],
@@ -6580,9 +6280,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6593,9 +6291,7 @@ let genesis = [
         "number": "101",
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/101.png",
             "large": "https://images.pokemontcg.io/neo1/101_hires.png"
@@ -6605,6 +6301,7 @@ let genesis = [
         "id": "neo1-102",
         "name": "Pokémon March",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Your opponent may search his or her deck for 1 Basic Pokémon card and put it onto his or her Bench. Then, you may search your deck for 1 Basic Pokémon card and put it onto your Bench. Then, each player shuffles his or her deck. (A player can't do any of this if his or her Bench is full.)"
         ],
@@ -6614,9 +6311,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6627,9 +6322,7 @@ let genesis = [
         "number": "102",
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/102.png",
             "large": "https://images.pokemontcg.io/neo1/102_hires.png"
@@ -6639,6 +6332,7 @@ let genesis = [
         "id": "neo1-103",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "N1",
         "rules": [
             "Flip a coin. If heads, put an Evolution card from your discard pile, if any, into your hand. If tails, put a Basic Pokémon card from your discard pile, if any, into your hand."
         ],
@@ -6648,9 +6342,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6661,9 +6353,7 @@ let genesis = [
         "number": "103",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/103.png",
             "large": "https://images.pokemontcg.io/neo1/103_hires.png"
@@ -6673,6 +6363,7 @@ let genesis = [
         "id": "neo1-104",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Special"
         ],
@@ -6685,9 +6376,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6698,9 +6387,7 @@ let genesis = [
         "number": "104",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/104.png",
             "large": "https://images.pokemontcg.io/neo1/104_hires.png"
@@ -6710,6 +6397,7 @@ let genesis = [
         "id": "neo1-105",
         "name": "Recycle Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Special"
         ],
@@ -6723,9 +6411,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6736,9 +6422,7 @@ let genesis = [
         "number": "105",
         "artist": "Hideki Kazama",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/105.png",
             "large": "https://images.pokemontcg.io/neo1/105_hires.png"
@@ -6748,6 +6432,7 @@ let genesis = [
         "id": "neo1-106",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6757,9 +6442,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6769,11 +6452,7 @@ let genesis = [
         },
         "number": "106",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/106.png",
             "large": "https://images.pokemontcg.io/neo1/106_hires.png"
@@ -6783,6 +6462,7 @@ let genesis = [
         "id": "neo1-107",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6792,9 +6472,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6804,11 +6482,7 @@ let genesis = [
         },
         "number": "107",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/107.png",
             "large": "https://images.pokemontcg.io/neo1/107_hires.png"
@@ -6818,6 +6492,7 @@ let genesis = [
         "id": "neo1-108",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6827,9 +6502,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6839,11 +6512,7 @@ let genesis = [
         },
         "number": "108",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/108.png",
             "large": "https://images.pokemontcg.io/neo1/108_hires.png"
@@ -6853,6 +6522,7 @@ let genesis = [
         "id": "neo1-109",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6862,9 +6532,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6874,11 +6542,7 @@ let genesis = [
         },
         "number": "109",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/109.png",
             "large": "https://images.pokemontcg.io/neo1/109_hires.png"
@@ -6888,6 +6552,7 @@ let genesis = [
         "id": "neo1-110",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6897,9 +6562,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6909,11 +6572,7 @@ let genesis = [
         },
         "number": "110",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/110.png",
             "large": "https://images.pokemontcg.io/neo1/110_hires.png"
@@ -6923,6 +6582,7 @@ let genesis = [
         "id": "neo1-111",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "N1",
         "subtypes": [
             "Basic"
         ],
@@ -6932,9 +6592,7 @@ let genesis = [
             "series": "Neo",
             "printedTotal": 111,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N1",
             "releaseDate": "2000/12/16",
             "images": {
@@ -6944,11 +6602,7 @@ let genesis = [
         },
         "number": "111",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo1/111.png",
             "large": "https://images.pokemontcg.io/neo1/111_hires.png"

@@ -1,8 +1,9 @@
-let promoBw = [
+let bwp = [
     {
-        "id": "bwp-BW01",
+        "id": "bwp-01",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -44,10 +45,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -55,26 +53,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW01",
+        "number": "01",
+        "numberWithAbbrev": "BW01",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW01.png",
             "large": "https://images.pokemontcg.io/bwp/BW01_hires.png"
         }
     },
     {
-        "id": "bwp-BW02",
+        "id": "bwp-02",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -110,10 +107,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -121,26 +115,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW02",
+        "number": "02",
+        "numberWithAbbrev": "BW02",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW02.png",
             "large": "https://images.pokemontcg.io/bwp/BW02_hires.png"
         }
     },
     {
-        "id": "bwp-BW03",
+        "id": "bwp-03",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -176,10 +169,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -187,26 +177,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW03",
+        "number": "03",
+        "numberWithAbbrev": "BW03",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW03.png",
             "large": "https://images.pokemontcg.io/bwp/BW03_hires.png"
         }
     },
     {
-        "id": "bwp-BW004",
+        "id": "bwp-004",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -250,10 +239,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -261,26 +247,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW004",
+        "number": "004",
+        "numberWithAbbrev": "BW004",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW004.png",
             "large": "https://images.pokemontcg.io/bwp/BW004_hires.png"
         }
     },
     {
-        "id": "bwp-BW005",
+        "id": "bwp-005",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -324,10 +309,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -335,26 +317,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW005",
+        "number": "005",
+        "numberWithAbbrev": "BW005",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW005.png",
             "large": "https://images.pokemontcg.io/bwp/BW005_hires.png"
         }
     },
     {
-        "id": "bwp-BW06",
+        "id": "bwp-06",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -405,10 +386,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -416,26 +394,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW06",
+        "number": "06",
+        "numberWithAbbrev": "BW06",
         "artist": "Shizurow",
         "rarity": "Promo",
         "flavorText": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW06.png",
             "large": "https://images.pokemontcg.io/bwp/BW06_hires.png"
         }
     },
     {
-        "id": "bwp-BW07",
+        "id": "bwp-07",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -480,10 +457,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -491,26 +465,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW07",
+        "number": "07",
+        "numberWithAbbrev": "BW07",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW07.png",
             "large": "https://images.pokemontcg.io/bwp/BW07_hires.png"
         }
     },
     {
-        "id": "bwp-BW08",
+        "id": "bwp-08",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -555,10 +528,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -566,26 +536,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW08",
+        "number": "08",
+        "numberWithAbbrev": "BW08",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW08.png",
             "large": "https://images.pokemontcg.io/bwp/BW08_hires.png"
         }
     },
     {
-        "id": "bwp-BW09",
+        "id": "bwp-09",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -634,10 +603,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -645,26 +611,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW09",
+        "number": "09",
+        "numberWithAbbrev": "BW09",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW09.png",
             "large": "https://images.pokemontcg.io/bwp/BW09_hires.png"
         }
     },
     {
-        "id": "bwp-BW10",
+        "id": "bwp-10",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -694,10 +659,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -705,26 +667,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW10",
+        "number": "10",
+        "numberWithAbbrev": "BW10",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW10.png",
             "large": "https://images.pokemontcg.io/bwp/BW10_hires.png"
         }
     },
     {
-        "id": "bwp-BW11",
+        "id": "bwp-11",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -766,10 +727,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -777,26 +735,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW11",
+        "number": "11",
+        "numberWithAbbrev": "BW11",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It shares the leaf on its head with weary-looking Pokémon. These leaves are know to relieve stress.",
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW11.png",
             "large": "https://images.pokemontcg.io/bwp/BW11_hires.png"
         }
     },
     {
-        "id": "bwp-BW12",
+        "id": "bwp-12",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -838,10 +795,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -849,26 +803,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW12",
+        "number": "12",
+        "numberWithAbbrev": "BW12",
         "artist": "Tomokazu Komiya",
         "rarity": "Promo",
         "flavorText": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW12.png",
             "large": "https://images.pokemontcg.io/bwp/BW12_hires.png"
         }
     },
     {
-        "id": "bwp-BW13",
+        "id": "bwp-13",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -913,10 +866,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -924,26 +874,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW13",
+        "number": "13",
+        "numberWithAbbrev": "BW13",
         "artist": "Atsuko Nishida",
         "rarity": "Promo",
         "flavorText": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW13.png",
             "large": "https://images.pokemontcg.io/bwp/BW13_hires.png"
         }
     },
     {
-        "id": "bwp-BW14",
+        "id": "bwp-14",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -985,10 +934,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -996,26 +942,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW14",
+        "number": "14",
+        "numberWithAbbrev": "BW14",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW14.png",
             "large": "https://images.pokemontcg.io/bwp/BW14_hires.png"
         }
     },
     {
-        "id": "bwp-BW15",
+        "id": "bwp-15",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1057,10 +1002,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1068,26 +1010,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW15",
+        "number": "15",
+        "numberWithAbbrev": "BW15",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW15.png",
             "large": "https://images.pokemontcg.io/bwp/BW15_hires.png"
         }
     },
     {
-        "id": "bwp-BW16",
+        "id": "bwp-16",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1117,10 +1058,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1128,26 +1066,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW16",
+        "number": "16",
+        "numberWithAbbrev": "BW16",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW16.png",
             "large": "https://images.pokemontcg.io/bwp/BW16_hires.png"
         }
     },
     {
-        "id": "bwp-BW17",
+        "id": "bwp-17",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1188,10 +1125,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1199,26 +1133,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW17",
+        "number": "17",
+        "numberWithAbbrev": "BW17",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "flavorText": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW17.png",
             "large": "https://images.pokemontcg.io/bwp/BW17_hires.png"
         }
     },
     {
-        "id": "bwp-BW18",
+        "id": "bwp-18",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1254,10 +1187,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1265,26 +1195,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW18",
+        "number": "18",
+        "numberWithAbbrev": "BW18",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW18.png",
             "large": "https://images.pokemontcg.io/bwp/BW18_hires.png"
         }
     },
     {
-        "id": "bwp-BW19",
+        "id": "bwp-19",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1334,10 +1263,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1345,26 +1271,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW19",
+        "number": "19",
+        "numberWithAbbrev": "BW19",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW19.png",
             "large": "https://images.pokemontcg.io/bwp/BW19_hires.png"
         }
     },
     {
-        "id": "bwp-BW20",
+        "id": "bwp-20",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1411,10 +1336,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1422,26 +1344,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW20",
+        "number": "20",
+        "numberWithAbbrev": "BW20",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "They raise their heads to intimidate opponents but only give their all when fighting a powerful opponent.",
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW20.png",
             "large": "https://images.pokemontcg.io/bwp/BW20_hires.png"
         }
     },
     {
-        "id": "bwp-BW21",
+        "id": "bwp-21",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1484,10 +1405,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1495,26 +1413,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW21",
+        "number": "21",
+        "numberWithAbbrev": "BW21",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW21.png",
             "large": "https://images.pokemontcg.io/bwp/BW21_hires.png"
         }
     },
     {
-        "id": "bwp-BW22",
+        "id": "bwp-22",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1556,10 +1473,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1567,26 +1481,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW22",
+        "number": "22",
+        "numberWithAbbrev": "BW22",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.",
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW22.png",
             "large": "https://images.pokemontcg.io/bwp/BW22_hires.png"
         }
     },
     {
-        "id": "bwp-BW23",
+        "id": "bwp-23",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1630,10 +1543,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1641,26 +1551,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW23",
+        "number": "23",
+        "numberWithAbbrev": "BW23",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW23.png",
             "large": "https://images.pokemontcg.io/bwp/BW23_hires.png"
         }
     },
     {
-        "id": "bwp-BW24",
+        "id": "bwp-24",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1704,10 +1613,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1715,26 +1621,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW24",
+        "number": "24",
+        "numberWithAbbrev": "BW24",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW24.png",
             "large": "https://images.pokemontcg.io/bwp/BW24_hires.png"
         }
     },
     {
-        "id": "bwp-BW25",
+        "id": "bwp-25",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1786,10 +1691,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1797,26 +1699,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW25",
+        "number": "25",
+        "numberWithAbbrev": "BW25",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW25.png",
             "large": "https://images.pokemontcg.io/bwp/BW25_hires.png"
         }
     },
     {
-        "id": "bwp-BW26",
+        "id": "bwp-26",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1846,10 +1747,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1857,26 +1755,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW26",
+        "number": "26",
+        "numberWithAbbrev": "BW26",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW26.png",
             "large": "https://images.pokemontcg.io/bwp/BW26_hires.png"
         }
     },
     {
-        "id": "bwp-BW27",
+        "id": "bwp-27",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1921,10 +1818,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1932,26 +1826,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW27",
+        "number": "27",
+        "numberWithAbbrev": "BW27",
         "artist": "Atsuko Nishida",
         "rarity": "Promo",
         "flavorText": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW27.png",
             "large": "https://images.pokemontcg.io/bwp/BW27_hires.png"
         }
     },
     {
-        "id": "bwp-BW28",
+        "id": "bwp-28",
         "name": "Tropical Beach",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stadium"
         ],
@@ -1965,10 +1858,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -1976,22 +1866,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW28",
+        "number": "28",
+        "numberWithAbbrev": "BW28",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW28.png",
             "large": "https://images.pokemontcg.io/bwp/BW28_hires.png"
         }
     },
     {
-        "id": "bwp-BW29",
+        "id": "bwp-29",
         "name": "Victory Cup",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Item"
         ],
@@ -2005,10 +1894,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2016,22 +1902,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW29",
+        "number": "29",
+        "numberWithAbbrev": "BW29",
         "artist": "5ban Graphics",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW29.png",
             "large": "https://images.pokemontcg.io/bwp/BW29_hires.png"
         }
     },
     {
-        "id": "bwp-BW30",
+        "id": "bwp-30",
         "name": "Victory Cup",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Item"
         ],
@@ -2045,10 +1930,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2056,22 +1938,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW30",
+        "number": "30",
+        "numberWithAbbrev": "BW30",
         "artist": "5ban Graphics",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW30.png",
             "large": "https://images.pokemontcg.io/bwp/BW30_hires.png"
         }
     },
     {
-        "id": "bwp-BW31",
+        "id": "bwp-31",
         "name": "Victory Cup",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Item"
         ],
@@ -2085,10 +1966,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2096,22 +1974,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW31",
+        "number": "31",
+        "numberWithAbbrev": "BW31",
         "artist": "5ban Graphics",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW31.png",
             "large": "https://images.pokemontcg.io/bwp/BW31_hires.png"
         }
     },
     {
-        "id": "bwp-BW32",
+        "id": "bwp-32",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2151,10 +2028,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2162,26 +2036,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW32",
+        "number": "32",
+        "numberWithAbbrev": "BW32",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW32.png",
             "large": "https://images.pokemontcg.io/bwp/BW32_hires.png"
         }
     },
     {
-        "id": "bwp-BW33",
+        "id": "bwp-33",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2226,10 +2099,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2237,26 +2107,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW33",
+        "number": "33",
+        "numberWithAbbrev": "BW33",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW33.png",
             "large": "https://images.pokemontcg.io/bwp/BW33_hires.png"
         }
     },
     {
-        "id": "bwp-BW34",
+        "id": "bwp-34",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2303,10 +2172,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2314,26 +2180,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW34",
+        "number": "34",
+        "numberWithAbbrev": "BW34",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW34.png",
             "large": "https://images.pokemontcg.io/bwp/BW34_hires.png"
         }
     },
     {
-        "id": "bwp-BW35",
+        "id": "bwp-35",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2378,10 +2243,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2389,26 +2251,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW35",
+        "number": "35",
+        "numberWithAbbrev": "BW35",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
         "flavorText": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW35.png",
             "large": "https://images.pokemontcg.io/bwp/BW35_hires.png"
         }
     },
     {
-        "id": "bwp-BW36",
+        "id": "bwp-36",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -2458,10 +2319,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2469,25 +2327,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW36",
+        "number": "36",
+        "numberWithAbbrev": "BW36",
         "artist": "Shizurow",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW36.png",
             "large": "https://images.pokemontcg.io/bwp/BW36_hires.png"
         }
     },
     {
-        "id": "bwp-BW37",
+        "id": "bwp-37",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -2537,10 +2394,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2548,25 +2402,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW37",
+        "number": "37",
+        "numberWithAbbrev": "BW37",
         "artist": "Shizurow",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW37.png",
             "large": "https://images.pokemontcg.io/bwp/BW37_hires.png"
         }
     },
     {
-        "id": "bwp-BW38",
+        "id": "bwp-38",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -2616,10 +2469,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2627,25 +2477,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW38",
+        "number": "38",
+        "numberWithAbbrev": "BW38",
         "artist": "Shizurow",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW38.png",
             "large": "https://images.pokemontcg.io/bwp/BW38_hires.png"
         }
     },
     {
-        "id": "bwp-BW39",
+        "id": "bwp-39",
         "name": "Battle City",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stadium"
         ],
@@ -2659,10 +2508,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2670,22 +2516,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW39",
+        "number": "39",
+        "numberWithAbbrev": "BW39",
         "artist": "Hideaki Hakozaki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW39.png",
             "large": "https://images.pokemontcg.io/bwp/BW39_hires.png"
         }
     },
     {
-        "id": "bwp-BW40",
+        "id": "bwp-40",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2727,10 +2572,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2738,26 +2580,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW40",
+        "number": "40",
+        "numberWithAbbrev": "BW40",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW40.png",
             "large": "https://images.pokemontcg.io/bwp/BW40_hires.png"
         }
     },
     {
-        "id": "bwp-BW41",
+        "id": "bwp-41",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2800,10 +2641,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2811,26 +2649,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW41",
+        "number": "41",
+        "numberWithAbbrev": "BW41",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW41.png",
             "large": "https://images.pokemontcg.io/bwp/BW41_hires.png"
         }
     },
     {
-        "id": "bwp-BW42",
+        "id": "bwp-42",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2879,10 +2716,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2890,26 +2724,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW42",
+        "number": "42",
+        "numberWithAbbrev": "BW42",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW42.png",
             "large": "https://images.pokemontcg.io/bwp/BW42_hires.png"
         }
     },
     {
-        "id": "bwp-BW43",
+        "id": "bwp-43",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2958,10 +2791,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -2969,26 +2799,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW43",
+        "number": "43",
+        "numberWithAbbrev": "BW43",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW43.png",
             "large": "https://images.pokemontcg.io/bwp/BW43_hires.png"
         }
     },
     {
-        "id": "bwp-BW44",
+        "id": "bwp-44",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3032,10 +2861,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3043,26 +2869,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW44",
+        "number": "44",
+        "numberWithAbbrev": "BW44",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It generates powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW44.png",
             "large": "https://images.pokemontcg.io/bwp/BW44_hires.png"
         }
     },
     {
-        "id": "bwp-BW45",
+        "id": "bwp-45",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -3113,10 +2938,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3124,25 +2946,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW45",
+        "number": "45",
+        "numberWithAbbrev": "BW45",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW45.png",
             "large": "https://images.pokemontcg.io/bwp/BW45_hires.png"
         }
     },
     {
-        "id": "bwp-BW46",
+        "id": "bwp-46",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -3193,10 +3014,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3204,25 +3022,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW46",
+        "number": "46",
+        "numberWithAbbrev": "BW46",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW46.png",
             "large": "https://images.pokemontcg.io/bwp/BW46_hires.png"
         }
     },
     {
-        "id": "bwp-BW47",
+        "id": "bwp-47",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -3271,10 +3088,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3282,25 +3096,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW47",
+        "number": "47",
+        "numberWithAbbrev": "BW47",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW47.png",
             "large": "https://images.pokemontcg.io/bwp/BW47_hires.png"
         }
     },
     {
-        "id": "bwp-BW48",
+        "id": "bwp-48",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3342,10 +3155,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3353,26 +3163,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW48",
+        "number": "48",
+        "numberWithAbbrev": "BW48",
         "artist": "HiRON",
         "rarity": "Promo",
         "flavorText": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW48.png",
             "large": "https://images.pokemontcg.io/bwp/BW48_hires.png"
         }
     },
     {
-        "id": "bwp-BW49",
+        "id": "bwp-49",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3421,10 +3230,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3432,26 +3238,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW49",
+        "number": "49",
+        "numberWithAbbrev": "BW49",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
         "nationalPokedexNumbers": [
             549
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW49.png",
             "large": "https://images.pokemontcg.io/bwp/BW49_hires.png"
         }
     },
     {
-        "id": "bwp-BW50",
+        "id": "bwp-50",
         "name": "Tropical Beach",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stadium"
         ],
@@ -3465,10 +3270,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3476,22 +3278,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW50",
+        "number": "50",
+        "numberWithAbbrev": "BW50",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW50.png",
             "large": "https://images.pokemontcg.io/bwp/BW50_hires.png"
         }
     },
     {
-        "id": "bwp-BW51",
+        "id": "bwp-51",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -3539,10 +3340,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3550,26 +3348,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW51",
+        "number": "51",
+        "numberWithAbbrev": "BW51",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW51.png",
             "large": "https://images.pokemontcg.io/bwp/BW51_hires.png"
         }
     },
     {
-        "id": "bwp-BW52",
+        "id": "bwp-52",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3605,10 +3402,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3616,26 +3410,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW52",
+        "number": "52",
+        "numberWithAbbrev": "BW52",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW52.png",
             "large": "https://images.pokemontcg.io/bwp/BW52_hires.png"
         }
     },
     {
-        "id": "bwp-BW53",
+        "id": "bwp-53",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3678,10 +3471,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3689,26 +3479,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW53",
+        "number": "53",
+        "numberWithAbbrev": "BW53",
         "artist": "BERUBURI",
         "rarity": "Promo",
         "flavorText": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings.",
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW53.png",
             "large": "https://images.pokemontcg.io/bwp/BW53_hires.png"
         }
     },
     {
-        "id": "bwp-BW54",
+        "id": "bwp-54",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3754,10 +3543,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3765,26 +3551,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW54",
+        "number": "54",
+        "numberWithAbbrev": "BW54",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW54.png",
             "large": "https://images.pokemontcg.io/bwp/BW54_hires.png"
         }
     },
     {
-        "id": "bwp-BW55",
+        "id": "bwp-55",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3827,10 +3612,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3838,26 +3620,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW55",
+        "number": "55",
+        "numberWithAbbrev": "BW55",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW55.png",
             "large": "https://images.pokemontcg.io/bwp/BW55_hires.png"
         }
     },
     {
-        "id": "bwp-BW56",
+        "id": "bwp-56",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3901,10 +3682,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3912,26 +3690,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW56",
+        "number": "56",
+        "numberWithAbbrev": "BW56",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW56.png",
             "large": "https://images.pokemontcg.io/bwp/BW56_hires.png"
         }
     },
     {
-        "id": "bwp-BW57",
+        "id": "bwp-57",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3976,10 +3753,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -3987,26 +3761,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW57",
+        "number": "57",
+        "numberWithAbbrev": "BW57",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW57.png",
             "large": "https://images.pokemontcg.io/bwp/BW57_hires.png"
         }
     },
     {
-        "id": "bwp-BW58",
+        "id": "bwp-58",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4051,10 +3824,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4062,26 +3832,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW58",
+        "number": "58",
+        "numberWithAbbrev": "BW58",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW58.png",
             "large": "https://images.pokemontcg.io/bwp/BW58_hires.png"
         }
     },
     {
-        "id": "bwp-BW59",
+        "id": "bwp-59",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4126,10 +3895,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4137,26 +3903,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW59",
+        "number": "59",
+        "numberWithAbbrev": "BW59",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW59.png",
             "large": "https://images.pokemontcg.io/bwp/BW59_hires.png"
         }
     },
     {
-        "id": "bwp-BW60",
+        "id": "bwp-60",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4199,10 +3964,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4210,26 +3972,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW60",
+        "number": "60",
+        "numberWithAbbrev": "BW60",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW60.png",
             "large": "https://images.pokemontcg.io/bwp/BW60_hires.png"
         }
     },
     {
-        "id": "bwp-BW61",
+        "id": "bwp-61",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -4274,10 +4035,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4285,25 +4043,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW61",
+        "number": "61",
+        "numberWithAbbrev": "BW61",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW61.png",
             "large": "https://images.pokemontcg.io/bwp/BW61_hires.png"
         }
     },
     {
-        "id": "bwp-BW62",
+        "id": "bwp-62",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -4353,10 +4110,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4364,25 +4118,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW62",
+        "number": "62",
+        "numberWithAbbrev": "BW62",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW62.png",
             "large": "https://images.pokemontcg.io/bwp/BW62_hires.png"
         }
     },
     {
-        "id": "bwp-BW63",
+        "id": "bwp-63",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -4432,10 +4185,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4443,25 +4193,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW63",
+        "number": "63",
+        "numberWithAbbrev": "BW63",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW63.png",
             "large": "https://images.pokemontcg.io/bwp/BW63_hires.png"
         }
     },
     {
-        "id": "bwp-BW64",
+        "id": "bwp-64",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4504,10 +4253,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4515,26 +4261,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW64",
+        "number": "64",
+        "numberWithAbbrev": "BW64",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW64.png",
             "large": "https://images.pokemontcg.io/bwp/BW64_hires.png"
         }
     },
     {
-        "id": "bwp-BW65",
+        "id": "bwp-65",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4569,10 +4314,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4580,26 +4322,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW65",
+        "number": "65",
+        "numberWithAbbrev": "BW65",
         "artist": "MAHOU",
         "rarity": "Promo",
         "flavorText": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW65.png",
             "large": "https://images.pokemontcg.io/bwp/BW65_hires.png"
         }
     },
     {
-        "id": "bwp-BW66",
+        "id": "bwp-66",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4639,10 +4380,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4650,26 +4388,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW66",
+        "number": "66",
+        "numberWithAbbrev": "BW66",
         "artist": "Hideaki Hakozaki",
         "rarity": "Promo",
         "flavorText": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW66.png",
             "large": "https://images.pokemontcg.io/bwp/BW66_hires.png"
         }
     },
     {
-        "id": "bwp-BW67",
+        "id": "bwp-67",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4713,10 +4450,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4724,26 +4458,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW67",
+        "number": "67",
+        "numberWithAbbrev": "BW67",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW67.png",
             "large": "https://images.pokemontcg.io/bwp/BW67_hires.png"
         }
     },
     {
-        "id": "bwp-BW68",
+        "id": "bwp-68",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4786,10 +4519,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4797,26 +4527,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW68",
+        "number": "68",
+        "numberWithAbbrev": "BW68",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW68.png",
             "large": "https://images.pokemontcg.io/bwp/BW68_hires.png"
         }
     },
     {
-        "id": "bwp-BW69",
+        "id": "bwp-69",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4859,10 +4588,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4870,26 +4596,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW69",
+        "number": "69",
+        "numberWithAbbrev": "BW69",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Many famous songs have been inspired by the melodies that Meloetta plays.",
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW69.png",
             "large": "https://images.pokemontcg.io/bwp/BW69_hires.png"
         }
     },
     {
-        "id": "bwp-BW70",
+        "id": "bwp-70",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4936,10 +4661,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -4947,26 +4669,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW70",
+        "number": "70",
+        "numberWithAbbrev": "BW70",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW70.png",
             "large": "https://images.pokemontcg.io/bwp/BW70_hires.png"
         }
     },
     {
-        "id": "bwp-BW71",
+        "id": "bwp-71",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5008,10 +4729,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5019,26 +4737,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW71",
+        "number": "71",
+        "numberWithAbbrev": "BW71",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.",
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW71.png",
             "large": "https://images.pokemontcg.io/bwp/BW71_hires.png"
         }
     },
     {
-        "id": "bwp-BW72",
+        "id": "bwp-72",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5085,10 +4802,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5096,26 +4810,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW72",
+        "number": "72",
+        "numberWithAbbrev": "BW72",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW72.png",
             "large": "https://images.pokemontcg.io/bwp/BW72_hires.png"
         }
     },
     {
-        "id": "bwp-BW73",
+        "id": "bwp-73",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5167,10 +4880,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5178,26 +4888,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW73",
+        "number": "73",
+        "numberWithAbbrev": "BW73",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW73.png",
             "large": "https://images.pokemontcg.io/bwp/BW73_hires.png"
         }
     },
     {
-        "id": "bwp-BW74",
+        "id": "bwp-74",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5244,10 +4953,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5255,26 +4961,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW74",
+        "number": "74",
+        "numberWithAbbrev": "BW74",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW74.png",
             "large": "https://images.pokemontcg.io/bwp/BW74_hires.png"
         }
     },
     {
-        "id": "bwp-BW75",
+        "id": "bwp-75",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -5318,10 +5023,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5329,26 +5031,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW75",
+        "number": "75",
+        "numberWithAbbrev": "BW75",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW75.png",
             "large": "https://images.pokemontcg.io/bwp/BW75_hires.png"
         }
     },
     {
-        "id": "bwp-BW76",
+        "id": "bwp-76",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5392,10 +5093,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5403,26 +5101,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW76",
+        "number": "76",
+        "numberWithAbbrev": "BW76",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW76.png",
             "large": "https://images.pokemontcg.io/bwp/BW76_hires.png"
         }
     },
     {
-        "id": "bwp-BW77",
+        "id": "bwp-77",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5468,10 +5165,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5479,26 +5173,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW77",
+        "number": "77",
+        "numberWithAbbrev": "BW77",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW77.png",
             "large": "https://images.pokemontcg.io/bwp/BW77_hires.png"
         }
     },
     {
-        "id": "bwp-BW78",
+        "id": "bwp-78",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5543,10 +5236,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5554,26 +5244,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW78",
+        "number": "78",
+        "numberWithAbbrev": "BW78",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW78.png",
             "large": "https://images.pokemontcg.io/bwp/BW78_hires.png"
         }
     },
     {
-        "id": "bwp-BW79",
+        "id": "bwp-79",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5625,10 +5314,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5636,26 +5322,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW79",
+        "number": "79",
+        "numberWithAbbrev": "BW79",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW79.png",
             "large": "https://images.pokemontcg.io/bwp/BW79_hires.png"
         }
     },
     {
-        "id": "bwp-BW80",
+        "id": "bwp-80",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5699,10 +5384,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5710,26 +5392,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW80",
+        "number": "80",
+        "numberWithAbbrev": "BW80",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW80.png",
             "large": "https://images.pokemontcg.io/bwp/BW80_hires.png"
         }
     },
     {
-        "id": "bwp-BW81",
+        "id": "bwp-81",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX",
@@ -5778,10 +5459,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5789,25 +5467,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW81",
+        "number": "81",
+        "numberWithAbbrev": "BW81",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW81.png",
             "large": "https://images.pokemontcg.io/bwp/BW81_hires.png"
         }
     },
     {
-        "id": "bwp-BW82",
+        "id": "bwp-82",
         "name": "Deoxys-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX",
@@ -5852,10 +5529,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5863,25 +5537,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW82",
+        "number": "82",
+        "numberWithAbbrev": "BW82",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW82.png",
             "large": "https://images.pokemontcg.io/bwp/BW82_hires.png"
         }
     },
     {
-        "id": "bwp-BW83",
+        "id": "bwp-83",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX",
@@ -5934,10 +5607,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -5945,25 +5615,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW83",
+        "number": "83",
+        "numberWithAbbrev": "BW83",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW83.png",
             "large": "https://images.pokemontcg.io/bwp/BW83_hires.png"
         }
     },
     {
-        "id": "bwp-BW84",
+        "id": "bwp-84",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -6006,10 +5675,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6017,26 +5683,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW84",
+        "number": "84",
+        "numberWithAbbrev": "BW84",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW84.png",
             "large": "https://images.pokemontcg.io/bwp/BW84_hires.png"
         }
     },
     {
-        "id": "bwp-BW85",
+        "id": "bwp-85",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6078,10 +5743,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6089,26 +5751,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW85",
+        "number": "85",
+        "numberWithAbbrev": "BW85",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW85.png",
             "large": "https://images.pokemontcg.io/bwp/BW85_hires.png"
         }
     },
     {
-        "id": "bwp-BW86",
+        "id": "bwp-86",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -6154,10 +5815,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6165,26 +5823,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW86",
+        "number": "86",
+        "numberWithAbbrev": "BW86",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW86.png",
             "large": "https://images.pokemontcg.io/bwp/BW86_hires.png"
         }
     },
     {
-        "id": "bwp-BW87",
+        "id": "bwp-87",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6233,10 +5890,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6244,26 +5898,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW87",
+        "number": "87",
+        "numberWithAbbrev": "BW87",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW87.png",
             "large": "https://images.pokemontcg.io/bwp/BW87_hires.png"
         }
     },
     {
-        "id": "bwp-BW88",
+        "id": "bwp-88",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6307,10 +5960,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6318,26 +5968,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW88",
+        "number": "88",
+        "numberWithAbbrev": "BW88",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW88.png",
             "large": "https://images.pokemontcg.io/bwp/BW88_hires.png"
         }
     },
     {
-        "id": "bwp-BW89",
+        "id": "bwp-89",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6381,10 +6030,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6392,26 +6038,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW89",
+        "number": "89",
+        "numberWithAbbrev": "BW89",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW89.png",
             "large": "https://images.pokemontcg.io/bwp/BW89_hires.png"
         }
     },
     {
-        "id": "bwp-BW90",
+        "id": "bwp-90",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6454,10 +6099,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6465,26 +6107,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW90",
+        "number": "90",
+        "numberWithAbbrev": "BW90",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW90.png",
             "large": "https://images.pokemontcg.io/bwp/BW90_hires.png"
         }
     },
     {
-        "id": "bwp-BW91",
+        "id": "bwp-91",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6527,10 +6168,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6538,26 +6176,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW91",
+        "number": "91",
+        "numberWithAbbrev": "BW91",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW91.png",
             "large": "https://images.pokemontcg.io/bwp/BW91_hires.png"
         }
     },
     {
-        "id": "bwp-BW92",
+        "id": "bwp-92",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6599,10 +6236,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6610,26 +6244,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW92",
+        "number": "92",
+        "numberWithAbbrev": "BW92",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW92.png",
             "large": "https://images.pokemontcg.io/bwp/BW92_hires.png"
         }
     },
     {
-        "id": "bwp-BW93",
+        "id": "bwp-93",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6680,10 +6313,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6691,26 +6321,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW93",
+        "number": "93",
+        "numberWithAbbrev": "BW93",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW93.png",
             "large": "https://images.pokemontcg.io/bwp/BW93_hires.png"
         }
     },
     {
-        "id": "bwp-BW94",
+        "id": "bwp-94",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6762,10 +6391,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6773,26 +6399,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW94",
+        "number": "94",
+        "numberWithAbbrev": "BW94",
         "artist": "The Pokémon Company Art Team",
         "rarity": "Promo",
         "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW94.png",
             "large": "https://images.pokemontcg.io/bwp/BW94_hires.png"
         }
     },
     {
-        "id": "bwp-BW95",
+        "id": "bwp-95",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Stadium"
         ],
@@ -6806,10 +6431,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6817,22 +6439,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW95",
+        "number": "95",
+        "numberWithAbbrev": "BW95",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW95.png",
             "large": "https://images.pokemontcg.io/bwp/BW95_hires.png"
         }
     },
     {
-        "id": "bwp-BW96",
+        "id": "bwp-96",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic",
             "EX"
@@ -6886,10 +6507,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6897,25 +6515,24 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW96",
+        "number": "96",
+        "numberWithAbbrev": "BW96",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW96.png",
             "large": "https://images.pokemontcg.io/bwp/BW96_hires.png"
         }
     },
     {
-        "id": "bwp-BW97",
+        "id": "bwp-97",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6967,10 +6584,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -6978,26 +6592,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW97",
+        "number": "97",
+        "numberWithAbbrev": "BW97",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW97.png",
             "large": "https://images.pokemontcg.io/bwp/BW97_hires.png"
         }
     },
     {
-        "id": "bwp-BW98",
+        "id": "bwp-98",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7036,10 +6649,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -7047,26 +6657,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW98",
+        "number": "98",
+        "numberWithAbbrev": "BW98",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW98.png",
             "large": "https://images.pokemontcg.io/bwp/BW98_hires.png"
         }
     },
     {
-        "id": "bwp-BW99",
+        "id": "bwp-99",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7110,10 +6719,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -7121,26 +6727,25 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW99",
+        "number": "99",
+        "numberWithAbbrev": "BW99",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW99.png",
             "large": "https://images.pokemontcg.io/bwp/BW99_hires.png"
         }
     },
     {
-        "id": "bwp-BW100",
+        "id": "bwp-100",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Supporter"
         ],
@@ -7154,10 +6759,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -7165,22 +6767,21 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW100",
+        "number": "100",
+        "numberWithAbbrev": "BW100",
         "artist": "Yusuke Ohmura",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW100.png",
             "large": "https://images.pokemontcg.io/bwp/BW100_hires.png"
         }
     },
     {
-        "id": "bwp-BW101",
+        "id": "bwp-101",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7224,10 +6825,7 @@ let promoBw = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 101,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-BLW",
             "releaseDate": "2011/03/01",
             "images": {
@@ -7235,17 +6833,15 @@ let promoBw = [
                 "logo": "https://images.pokemontcg.io/bwp/logo.png"
             }
         },
-        "number": "BW101",
+        "number": "101",
+        "numberWithAbbrev": "BW101",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bwp/BW101.png",
             "large": "https://images.pokemontcg.io/bwp/BW101_hires.png"

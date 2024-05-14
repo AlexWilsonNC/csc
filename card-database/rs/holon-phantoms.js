@@ -1,8 +1,9 @@
-let holonPhantoms = [
+let ex13 = [
     {
         "id": "ex13-1",
         "name": "Armaldo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -51,9 +52,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -67,9 +66,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/1.png",
             "large": "https://images.pokemontcg.io/ex13/1_hires.png"
@@ -79,6 +76,7 @@ let holonPhantoms = [
         "id": "ex13-2",
         "name": "Cradily δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -127,9 +125,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -143,9 +139,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/2.png",
             "large": "https://images.pokemontcg.io/ex13/2_hires.png"
@@ -155,6 +149,7 @@ let holonPhantoms = [
         "id": "ex13-3",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -195,9 +190,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -211,9 +204,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/3.png",
             "large": "https://images.pokemontcg.io/ex13/3_hires.png"
@@ -223,6 +214,7 @@ let holonPhantoms = [
         "id": "ex13-4",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -262,9 +254,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -278,9 +268,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/4.png",
             "large": "https://images.pokemontcg.io/ex13/4_hires.png"
@@ -290,6 +278,7 @@ let holonPhantoms = [
         "id": "ex13-5",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -329,9 +318,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -345,9 +332,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/5.png",
             "large": "https://images.pokemontcg.io/ex13/5_hires.png"
@@ -357,6 +342,7 @@ let holonPhantoms = [
         "id": "ex13-6",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -395,9 +381,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -411,9 +395,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/6.png",
             "large": "https://images.pokemontcg.io/ex13/6_hires.png"
@@ -423,6 +405,7 @@ let holonPhantoms = [
         "id": "ex13-7",
         "name": "Flygon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -478,9 +461,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -494,9 +475,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/7.png",
             "large": "https://images.pokemontcg.io/ex13/7_hires.png"
@@ -506,6 +485,7 @@ let holonPhantoms = [
         "id": "ex13-8",
         "name": "Gyarados δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -563,9 +543,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -579,9 +557,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/8.png",
             "large": "https://images.pokemontcg.io/ex13/8_hires.png"
@@ -591,6 +567,7 @@ let holonPhantoms = [
         "id": "ex13-9",
         "name": "Kabutops δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -635,9 +612,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -651,9 +626,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/9.png",
             "large": "https://images.pokemontcg.io/ex13/9_hires.png"
@@ -663,6 +636,7 @@ let holonPhantoms = [
         "id": "ex13-10",
         "name": "Kingdra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -719,9 +693,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -735,9 +707,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/10.png",
             "large": "https://images.pokemontcg.io/ex13/10_hires.png"
@@ -747,6 +717,7 @@ let holonPhantoms = [
         "id": "ex13-11",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -806,9 +777,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -822,9 +791,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/11.png",
             "large": "https://images.pokemontcg.io/ex13/11_hires.png"
@@ -834,6 +801,7 @@ let holonPhantoms = [
         "id": "ex13-12",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -893,9 +861,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -909,9 +875,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/12.png",
             "large": "https://images.pokemontcg.io/ex13/12_hires.png"
@@ -921,6 +885,7 @@ let holonPhantoms = [
         "id": "ex13-13",
         "name": "Omastar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -965,9 +930,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -981,9 +944,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/13.png",
             "large": "https://images.pokemontcg.io/ex13/13_hires.png"
@@ -993,6 +954,7 @@ let holonPhantoms = [
         "id": "ex13-14",
         "name": "Pidgeot δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1044,9 +1006,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1060,9 +1020,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/14.png",
             "large": "https://images.pokemontcg.io/ex13/14_hires.png"
@@ -1072,6 +1030,7 @@ let holonPhantoms = [
         "id": "ex13-15",
         "name": "Raichu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1114,9 +1073,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1130,9 +1087,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/15.png",
             "large": "https://images.pokemontcg.io/ex13/15_hires.png"
@@ -1142,6 +1097,7 @@ let holonPhantoms = [
         "id": "ex13-16",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1206,9 +1162,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1222,9 +1176,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/16.png",
             "large": "https://images.pokemontcg.io/ex13/16_hires.png"
@@ -1234,6 +1186,7 @@ let holonPhantoms = [
         "id": "ex13-17",
         "name": "Vileplume δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1278,9 +1231,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1294,9 +1245,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/17.png",
             "large": "https://images.pokemontcg.io/ex13/17_hires.png"
@@ -1306,6 +1255,7 @@ let holonPhantoms = [
         "id": "ex13-18",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1353,9 +1303,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1369,9 +1317,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/18.png",
             "large": "https://images.pokemontcg.io/ex13/18_hires.png"
@@ -1381,6 +1327,7 @@ let holonPhantoms = [
         "id": "ex13-19",
         "name": "Bellossom δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1427,9 +1374,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1443,9 +1388,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/19.png",
             "large": "https://images.pokemontcg.io/ex13/19_hires.png"
@@ -1455,6 +1398,7 @@ let holonPhantoms = [
         "id": "ex13-20",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1498,9 +1442,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1514,9 +1456,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/20.png",
             "large": "https://images.pokemontcg.io/ex13/20_hires.png"
@@ -1526,6 +1466,7 @@ let holonPhantoms = [
         "id": "ex13-21",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1579,9 +1520,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1595,9 +1534,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/21.png",
             "large": "https://images.pokemontcg.io/ex13/21_hires.png"
@@ -1607,6 +1544,7 @@ let holonPhantoms = [
         "id": "ex13-22",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1660,9 +1598,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1676,9 +1612,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/22.png",
             "large": "https://images.pokemontcg.io/ex13/22_hires.png"
@@ -1688,6 +1622,7 @@ let holonPhantoms = [
         "id": "ex13-23",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1735,9 +1670,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1751,9 +1684,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/23.png",
             "large": "https://images.pokemontcg.io/ex13/23_hires.png"
@@ -1763,6 +1694,7 @@ let holonPhantoms = [
         "id": "ex13-24",
         "name": "Mewtwo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1805,9 +1737,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1821,9 +1751,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/24.png",
             "large": "https://images.pokemontcg.io/ex13/24_hires.png"
@@ -1833,6 +1761,7 @@ let holonPhantoms = [
         "id": "ex13-25",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1877,9 +1806,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1893,9 +1820,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/25.png",
             "large": "https://images.pokemontcg.io/ex13/25_hires.png"
@@ -1905,6 +1830,7 @@ let holonPhantoms = [
         "id": "ex13-26",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1948,9 +1874,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -1964,9 +1888,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/26.png",
             "large": "https://images.pokemontcg.io/ex13/26_hires.png"
@@ -1976,6 +1898,7 @@ let holonPhantoms = [
         "id": "ex13-27",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2016,9 +1939,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2032,9 +1953,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/27.png",
             "large": "https://images.pokemontcg.io/ex13/27_hires.png"
@@ -2044,6 +1963,7 @@ let holonPhantoms = [
         "id": "ex13-28",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2084,9 +2004,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2100,9 +2018,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/28.png",
             "large": "https://images.pokemontcg.io/ex13/28_hires.png"
@@ -2112,6 +2028,7 @@ let holonPhantoms = [
         "id": "ex13-29",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2158,9 +2075,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2174,9 +2089,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/29.png",
             "large": "https://images.pokemontcg.io/ex13/29_hires.png"
@@ -2186,6 +2099,7 @@ let holonPhantoms = [
         "id": "ex13-30",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2225,9 +2139,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2241,9 +2153,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/30.png",
             "large": "https://images.pokemontcg.io/ex13/30_hires.png"
@@ -2253,6 +2163,7 @@ let holonPhantoms = [
         "id": "ex13-31",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2294,9 +2205,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2310,9 +2219,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/31.png",
             "large": "https://images.pokemontcg.io/ex13/31_hires.png"
@@ -2322,6 +2229,7 @@ let holonPhantoms = [
         "id": "ex13-32",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2364,9 +2272,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2380,9 +2286,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/32.png",
             "large": "https://images.pokemontcg.io/ex13/32_hires.png"
@@ -2392,6 +2296,7 @@ let holonPhantoms = [
         "id": "ex13-33",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2434,9 +2339,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2450,9 +2353,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/33.png",
             "large": "https://images.pokemontcg.io/ex13/33_hires.png"
@@ -2462,6 +2363,7 @@ let holonPhantoms = [
         "id": "ex13-34",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2503,9 +2405,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2519,9 +2419,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/34.png",
             "large": "https://images.pokemontcg.io/ex13/34_hires.png"
@@ -2531,6 +2429,7 @@ let holonPhantoms = [
         "id": "ex13-35",
         "name": "Aerodactyl δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2576,9 +2475,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2592,9 +2489,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/35.png",
             "large": "https://images.pokemontcg.io/ex13/35_hires.png"
@@ -2604,6 +2499,7 @@ let holonPhantoms = [
         "id": "ex13-36",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2648,9 +2544,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2664,9 +2558,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/36.png",
             "large": "https://images.pokemontcg.io/ex13/36_hires.png"
@@ -2676,6 +2568,7 @@ let holonPhantoms = [
         "id": "ex13-37",
         "name": "Chimecho δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2715,9 +2608,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2731,9 +2622,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/37.png",
             "large": "https://images.pokemontcg.io/ex13/37_hires.png"
@@ -2743,6 +2632,7 @@ let holonPhantoms = [
         "id": "ex13-38",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2786,9 +2676,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2802,9 +2690,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/38.png",
             "large": "https://images.pokemontcg.io/ex13/38_hires.png"
@@ -2814,6 +2700,7 @@ let holonPhantoms = [
         "id": "ex13-39",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2861,9 +2748,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2877,9 +2762,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/39.png",
             "large": "https://images.pokemontcg.io/ex13/39_hires.png"
@@ -2889,6 +2772,7 @@ let holonPhantoms = [
         "id": "ex13-40",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2932,9 +2816,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -2948,9 +2830,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/40.png",
             "large": "https://images.pokemontcg.io/ex13/40_hires.png"
@@ -2960,6 +2840,7 @@ let holonPhantoms = [
         "id": "ex13-41",
         "name": "Exeggutor δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3004,9 +2885,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3020,9 +2899,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/41.png",
             "large": "https://images.pokemontcg.io/ex13/41_hires.png"
@@ -3032,6 +2909,7 @@ let holonPhantoms = [
         "id": "ex13-42",
         "name": "Gloom δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3078,9 +2956,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3094,9 +2970,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/42.png",
             "large": "https://images.pokemontcg.io/ex13/42_hires.png"
@@ -3106,6 +2980,7 @@ let holonPhantoms = [
         "id": "ex13-43",
         "name": "Golduck δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3146,9 +3021,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3162,9 +3035,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/43.png",
             "large": "https://images.pokemontcg.io/ex13/43_hires.png"
@@ -3174,6 +3045,7 @@ let holonPhantoms = [
         "id": "ex13-44",
         "name": "Holon's Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -3208,9 +3080,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3224,9 +3094,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/44.png",
             "large": "https://images.pokemontcg.io/ex13/44_hires.png"
@@ -3236,6 +3104,7 @@ let holonPhantoms = [
         "id": "ex13-45",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3289,9 +3158,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3305,9 +3172,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/45.png",
             "large": "https://images.pokemontcg.io/ex13/45_hires.png"
@@ -3317,6 +3182,7 @@ let holonPhantoms = [
         "id": "ex13-46",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3366,9 +3232,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3382,9 +3246,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/46.png",
             "large": "https://images.pokemontcg.io/ex13/46_hires.png"
@@ -3394,6 +3256,7 @@ let holonPhantoms = [
         "id": "ex13-47",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3435,9 +3298,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3451,9 +3312,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/47.png",
             "large": "https://images.pokemontcg.io/ex13/47_hires.png"
@@ -3463,6 +3322,7 @@ let holonPhantoms = [
         "id": "ex13-48",
         "name": "Persian δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3509,9 +3369,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3525,9 +3383,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/48.png",
             "large": "https://images.pokemontcg.io/ex13/48_hires.png"
@@ -3537,6 +3393,7 @@ let holonPhantoms = [
         "id": "ex13-49",
         "name": "Pidgeotto δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3579,9 +3436,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3595,9 +3450,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/49.png",
             "large": "https://images.pokemontcg.io/ex13/49_hires.png"
@@ -3607,6 +3460,7 @@ let holonPhantoms = [
         "id": "ex13-50",
         "name": "Primeape δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3650,9 +3504,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3666,9 +3518,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/50.png",
             "large": "https://images.pokemontcg.io/ex13/50_hires.png"
@@ -3678,6 +3528,7 @@ let holonPhantoms = [
         "id": "ex13-51",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3722,9 +3573,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3738,9 +3587,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/51.png",
             "large": "https://images.pokemontcg.io/ex13/51_hires.png"
@@ -3750,6 +3597,7 @@ let holonPhantoms = [
         "id": "ex13-52",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3797,9 +3645,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3813,9 +3659,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/52.png",
             "large": "https://images.pokemontcg.io/ex13/52_hires.png"
@@ -3825,6 +3669,7 @@ let holonPhantoms = [
         "id": "ex13-53",
         "name": "Sharpedo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3868,9 +3713,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3884,9 +3727,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/53.png",
             "large": "https://images.pokemontcg.io/ex13/53_hires.png"
@@ -3896,6 +3737,7 @@ let holonPhantoms = [
         "id": "ex13-54",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3953,9 +3795,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -3969,9 +3809,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/54.png",
             "large": "https://images.pokemontcg.io/ex13/54_hires.png"
@@ -3981,6 +3819,7 @@ let holonPhantoms = [
         "id": "ex13-55",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4024,9 +3863,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4040,9 +3877,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             340
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/55.png",
             "large": "https://images.pokemontcg.io/ex13/55_hires.png"
@@ -4052,6 +3887,7 @@ let holonPhantoms = [
         "id": "ex13-56",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4093,9 +3929,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4109,9 +3943,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/56.png",
             "large": "https://images.pokemontcg.io/ex13/56_hires.png"
@@ -4121,6 +3953,7 @@ let holonPhantoms = [
         "id": "ex13-57",
         "name": "Anorith δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4167,9 +4000,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4183,9 +4014,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/57.png",
             "large": "https://images.pokemontcg.io/ex13/57_hires.png"
@@ -4195,6 +4024,7 @@ let holonPhantoms = [
         "id": "ex13-58",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4245,9 +4075,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4261,9 +4089,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/58.png",
             "large": "https://images.pokemontcg.io/ex13/58_hires.png"
@@ -4273,6 +4099,7 @@ let holonPhantoms = [
         "id": "ex13-59",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4317,9 +4144,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4333,9 +4158,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/59.png",
             "large": "https://images.pokemontcg.io/ex13/59_hires.png"
@@ -4345,6 +4168,7 @@ let holonPhantoms = [
         "id": "ex13-60",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4388,9 +4212,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4404,9 +4226,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             339
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/60.png",
             "large": "https://images.pokemontcg.io/ex13/60_hires.png"
@@ -4416,6 +4236,7 @@ let holonPhantoms = [
         "id": "ex13-61",
         "name": "Carvanha δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4460,9 +4281,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4476,9 +4295,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/61.png",
             "large": "https://images.pokemontcg.io/ex13/61_hires.png"
@@ -4488,6 +4305,7 @@ let holonPhantoms = [
         "id": "ex13-62",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4533,9 +4351,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4549,9 +4365,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/62.png",
             "large": "https://images.pokemontcg.io/ex13/62_hires.png"
@@ -4561,6 +4375,7 @@ let holonPhantoms = [
         "id": "ex13-63",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4604,9 +4419,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4620,9 +4433,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/63.png",
             "large": "https://images.pokemontcg.io/ex13/63_hires.png"
@@ -4632,6 +4443,7 @@ let holonPhantoms = [
         "id": "ex13-64",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4672,9 +4484,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4688,9 +4498,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/64.png",
             "large": "https://images.pokemontcg.io/ex13/64_hires.png"
@@ -4700,6 +4508,7 @@ let holonPhantoms = [
         "id": "ex13-65",
         "name": "Exeggcute δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4744,9 +4553,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4760,9 +4567,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/65.png",
             "large": "https://images.pokemontcg.io/ex13/65_hires.png"
@@ -4772,6 +4577,7 @@ let holonPhantoms = [
         "id": "ex13-66",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4816,9 +4622,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4832,9 +4636,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/66.png",
             "large": "https://images.pokemontcg.io/ex13/66_hires.png"
@@ -4844,6 +4646,7 @@ let holonPhantoms = [
         "id": "ex13-67",
         "name": "Kabuto δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4889,9 +4692,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4905,9 +4706,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/67.png",
             "large": "https://images.pokemontcg.io/ex13/67_hires.png"
@@ -4917,6 +4716,7 @@ let holonPhantoms = [
         "id": "ex13-68",
         "name": "Lileep δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4962,9 +4762,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -4978,9 +4776,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/68.png",
             "large": "https://images.pokemontcg.io/ex13/68_hires.png"
@@ -4990,6 +4786,7 @@ let holonPhantoms = [
         "id": "ex13-69",
         "name": "Magikarp δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5024,9 +4821,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5040,9 +4835,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/69.png",
             "large": "https://images.pokemontcg.io/ex13/69_hires.png"
@@ -5052,6 +4845,7 @@ let holonPhantoms = [
         "id": "ex13-70",
         "name": "Mankey δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5096,9 +4890,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5112,9 +4904,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/70.png",
             "large": "https://images.pokemontcg.io/ex13/70_hires.png"
@@ -5124,6 +4914,7 @@ let holonPhantoms = [
         "id": "ex13-71",
         "name": "Meowth δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5172,9 +4963,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5188,9 +4977,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/71.png",
             "large": "https://images.pokemontcg.io/ex13/71_hires.png"
@@ -5200,6 +4987,7 @@ let holonPhantoms = [
         "id": "ex13-72",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5244,9 +5032,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5260,9 +5046,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/72.png",
             "large": "https://images.pokemontcg.io/ex13/72_hires.png"
@@ -5272,6 +5056,7 @@ let holonPhantoms = [
         "id": "ex13-73",
         "name": "Oddish δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5315,9 +5100,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5331,9 +5114,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/73.png",
             "large": "https://images.pokemontcg.io/ex13/73_hires.png"
@@ -5343,6 +5124,7 @@ let holonPhantoms = [
         "id": "ex13-74",
         "name": "Omanyte δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5388,9 +5170,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5404,9 +5184,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/74.png",
             "large": "https://images.pokemontcg.io/ex13/74_hires.png"
@@ -5416,6 +5194,7 @@ let holonPhantoms = [
         "id": "ex13-75",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5459,9 +5238,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5475,9 +5252,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/75.png",
             "large": "https://images.pokemontcg.io/ex13/75_hires.png"
@@ -5487,6 +5262,7 @@ let holonPhantoms = [
         "id": "ex13-76",
         "name": "Pichu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5528,9 +5304,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5544,9 +5318,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/76.png",
             "large": "https://images.pokemontcg.io/ex13/76_hires.png"
@@ -5556,6 +5328,7 @@ let holonPhantoms = [
         "id": "ex13-77",
         "name": "Pidgey δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5596,9 +5369,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5612,9 +5383,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/77.png",
             "large": "https://images.pokemontcg.io/ex13/77_hires.png"
@@ -5624,6 +5393,7 @@ let holonPhantoms = [
         "id": "ex13-78",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5668,9 +5438,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5684,9 +5452,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/78.png",
             "large": "https://images.pokemontcg.io/ex13/78_hires.png"
@@ -5696,6 +5462,7 @@ let holonPhantoms = [
         "id": "ex13-79",
         "name": "Pikachu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5741,9 +5508,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5757,9 +5522,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/79.png",
             "large": "https://images.pokemontcg.io/ex13/79_hires.png"
@@ -5769,6 +5532,7 @@ let holonPhantoms = [
         "id": "ex13-80",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5819,9 +5583,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5835,9 +5597,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/80.png",
             "large": "https://images.pokemontcg.io/ex13/80_hires.png"
@@ -5847,6 +5607,7 @@ let holonPhantoms = [
         "id": "ex13-81",
         "name": "Psyduck δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5890,9 +5651,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5906,9 +5665,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/81.png",
             "large": "https://images.pokemontcg.io/ex13/81_hires.png"
@@ -5918,6 +5675,7 @@ let holonPhantoms = [
         "id": "ex13-82",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5952,9 +5710,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -5968,9 +5724,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/82.png",
             "large": "https://images.pokemontcg.io/ex13/82_hires.png"
@@ -5980,6 +5734,7 @@ let holonPhantoms = [
         "id": "ex13-83",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6024,9 +5779,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6040,9 +5793,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/83.png",
             "large": "https://images.pokemontcg.io/ex13/83_hires.png"
@@ -6052,6 +5803,7 @@ let holonPhantoms = [
         "id": "ex13-84",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6096,9 +5848,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6112,9 +5862,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/84.png",
             "large": "https://images.pokemontcg.io/ex13/84_hires.png"
@@ -6124,6 +5872,7 @@ let holonPhantoms = [
         "id": "ex13-85",
         "name": "Holon Adventurer",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -6138,9 +5887,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6151,9 +5898,7 @@ let holonPhantoms = [
         "number": "85",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/85.png",
             "large": "https://images.pokemontcg.io/ex13/85_hires.png"
@@ -6163,6 +5908,7 @@ let holonPhantoms = [
         "id": "ex13-86",
         "name": "Holon Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6175,9 +5921,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6188,9 +5932,7 @@ let holonPhantoms = [
         "number": "86",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/86.png",
             "large": "https://images.pokemontcg.io/ex13/86_hires.png"
@@ -6200,6 +5942,7 @@ let holonPhantoms = [
         "id": "ex13-87",
         "name": "Holon Lake",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stadium"
         ],
@@ -6224,9 +5967,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6237,9 +5978,7 @@ let holonPhantoms = [
         "number": "87",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/87.png",
             "large": "https://images.pokemontcg.io/ex13/87_hires.png"
@@ -6249,6 +5988,7 @@ let holonPhantoms = [
         "id": "ex13-88",
         "name": "Mr. Stone's Project",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -6262,9 +6002,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6275,9 +6013,7 @@ let holonPhantoms = [
         "number": "88",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/88.png",
             "large": "https://images.pokemontcg.io/ex13/88_hires.png"
@@ -6287,6 +6023,7 @@ let holonPhantoms = [
         "id": "ex13-89",
         "name": "Professor Cozmo's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -6300,9 +6037,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6313,9 +6048,7 @@ let holonPhantoms = [
         "number": "89",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/89.png",
             "large": "https://images.pokemontcg.io/ex13/89_hires.png"
@@ -6325,6 +6058,7 @@ let holonPhantoms = [
         "id": "ex13-90",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6337,9 +6071,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6350,11 +6082,7 @@ let holonPhantoms = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/90.png",
             "large": "https://images.pokemontcg.io/ex13/90_hires.png"
@@ -6364,6 +6092,7 @@ let holonPhantoms = [
         "id": "ex13-91",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6384,9 +6113,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6397,9 +6124,7 @@ let holonPhantoms = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/91.png",
             "large": "https://images.pokemontcg.io/ex13/91_hires.png"
@@ -6409,6 +6134,7 @@ let holonPhantoms = [
         "id": "ex13-92",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6422,9 +6148,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6435,9 +6159,7 @@ let holonPhantoms = [
         "number": "92",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/92.png",
             "large": "https://images.pokemontcg.io/ex13/92_hires.png"
@@ -6447,6 +6169,7 @@ let holonPhantoms = [
         "id": "ex13-93",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6467,9 +6190,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6480,9 +6201,7 @@ let holonPhantoms = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/93.png",
             "large": "https://images.pokemontcg.io/ex13/93_hires.png"
@@ -6492,6 +6211,7 @@ let holonPhantoms = [
         "id": "ex13-94",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6504,9 +6224,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6517,9 +6235,7 @@ let holonPhantoms = [
         "number": "94",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/94.png",
             "large": "https://images.pokemontcg.io/ex13/94_hires.png"
@@ -6529,6 +6245,7 @@ let holonPhantoms = [
         "id": "ex13-95",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6541,9 +6258,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6554,9 +6269,7 @@ let holonPhantoms = [
         "number": "95",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/95.png",
             "large": "https://images.pokemontcg.io/ex13/95_hires.png"
@@ -6566,6 +6279,7 @@ let holonPhantoms = [
         "id": "ex13-96",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6578,9 +6292,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6591,9 +6303,7 @@ let holonPhantoms = [
         "number": "96",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/96.png",
             "large": "https://images.pokemontcg.io/ex13/96_hires.png"
@@ -6603,6 +6313,7 @@ let holonPhantoms = [
         "id": "ex13-97",
         "name": "Dark Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6615,9 +6326,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6628,9 +6337,7 @@ let holonPhantoms = [
         "number": "97",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/97.png",
             "large": "https://images.pokemontcg.io/ex13/97_hires.png"
@@ -6640,6 +6347,7 @@ let holonPhantoms = [
         "id": "ex13-98",
         "name": "δ Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6652,9 +6360,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6665,9 +6371,7 @@ let holonPhantoms = [
         "number": "98",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/98.png",
             "large": "https://images.pokemontcg.io/ex13/98_hires.png"
@@ -6677,6 +6381,7 @@ let holonPhantoms = [
         "id": "ex13-99",
         "name": "Crawdaunt ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6721,9 +6426,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6737,9 +6440,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/99.png",
             "large": "https://images.pokemontcg.io/ex13/99_hires.png"
@@ -6749,6 +6450,7 @@ let holonPhantoms = [
         "id": "ex13-100",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "EX"
@@ -6803,9 +6505,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6819,9 +6519,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/100.png",
             "large": "https://images.pokemontcg.io/ex13/100_hires.png"
@@ -6831,6 +6529,7 @@ let holonPhantoms = [
         "id": "ex13-101",
         "name": "Mightyena ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6891,9 +6590,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6907,9 +6604,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/101.png",
             "large": "https://images.pokemontcg.io/ex13/101_hires.png"
@@ -6919,6 +6614,7 @@ let holonPhantoms = [
         "id": "ex13-102",
         "name": "Gyarados ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -6967,9 +6663,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -6983,9 +6677,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/102.png",
             "large": "https://images.pokemontcg.io/ex13/102_hires.png"
@@ -6995,6 +6687,7 @@ let holonPhantoms = [
         "id": "ex13-103",
         "name": "Mewtwo ★",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -7041,9 +6734,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7057,9 +6748,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/103.png",
             "large": "https://images.pokemontcg.io/ex13/103_hires.png"
@@ -7069,6 +6758,7 @@ let holonPhantoms = [
         "id": "ex13-104",
         "name": "Pikachu ★",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -7114,9 +6804,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7130,9 +6818,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/104.png",
             "large": "https://images.pokemontcg.io/ex13/104_hires.png"
@@ -7142,6 +6828,7 @@ let holonPhantoms = [
         "id": "ex13-105",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7151,9 +6838,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7163,11 +6848,7 @@ let holonPhantoms = [
         },
         "number": "105",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/105.png",
             "large": "https://images.pokemontcg.io/ex13/105_hires.png"
@@ -7177,6 +6858,7 @@ let holonPhantoms = [
         "id": "ex13-106",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7186,9 +6868,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7198,11 +6878,7 @@ let holonPhantoms = [
         },
         "number": "106",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/106.png",
             "large": "https://images.pokemontcg.io/ex13/106_hires.png"
@@ -7212,6 +6888,7 @@ let holonPhantoms = [
         "id": "ex13-107",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7221,9 +6898,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7233,11 +6908,7 @@ let holonPhantoms = [
         },
         "number": "107",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/107.png",
             "large": "https://images.pokemontcg.io/ex13/107_hires.png"
@@ -7247,6 +6918,7 @@ let holonPhantoms = [
         "id": "ex13-108",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7256,9 +6928,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7268,11 +6938,7 @@ let holonPhantoms = [
         },
         "number": "108",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/108.png",
             "large": "https://images.pokemontcg.io/ex13/108_hires.png"
@@ -7282,6 +6948,7 @@ let holonPhantoms = [
         "id": "ex13-109",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7291,9 +6958,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7303,11 +6968,7 @@ let holonPhantoms = [
         },
         "number": "109",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/109.png",
             "large": "https://images.pokemontcg.io/ex13/109_hires.png"
@@ -7317,6 +6978,7 @@ let holonPhantoms = [
         "id": "ex13-110",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7326,9 +6988,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7338,11 +6998,7 @@ let holonPhantoms = [
         },
         "number": "110",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/110.png",
             "large": "https://images.pokemontcg.io/ex13/110_hires.png"
@@ -7352,6 +7008,7 @@ let holonPhantoms = [
         "id": "ex13-111",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -7384,9 +7041,7 @@ let holonPhantoms = [
             "series": "EX",
             "printedTotal": 110,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HP",
             "releaseDate": "2006/05/01",
             "images": {
@@ -7400,9 +7055,7 @@ let holonPhantoms = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex13/111.png",
             "large": "https://images.pokemontcg.io/ex13/111_hires.png"

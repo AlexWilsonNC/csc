@@ -11,126 +11,99 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/blastoise.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/exeggcute.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/articuno.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wailord-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/archie-ace-in-hole.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/superior-energy-retreival.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       }
     ]
   },
@@ -140,118 +113,91 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -261,126 +207,99 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -390,118 +309,91 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hard-charm.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -511,118 +403,91 @@ let masters = [
     sprite1: '../../assets/sprites/trevenant.png',
     sprite2: '../../assets/sprites/gengar.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/gengar-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trevenant.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phantump-astonish.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wally.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-psychic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/mystery-energy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -632,122 +497,95 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -757,132 +595,103 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/donphan.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phanpy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -892,154 +701,127 @@ let masters = [
     sprite1: '../../assets/sprites/aromatisse.png',
     sprite2: '../../assets/sprites/seismitoad.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fairy',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/aromatisse.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/spritzee-fairy-wind.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/spritzee-sweet-scent.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/charizard-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/malamar-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/cobalion-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trevenant-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/m-manectric-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-fan-club.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fairy-garden.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fairy.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-rainbow.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       }
     ]
   },
@@ -1049,126 +831,99 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1178,12 +933,11 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1193,12 +947,11 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1208,144 +961,115 @@ let masters = [
     sprite1: '../../assets/sprites/groudon-primal.png',
     sprite2: '../../assets/sprites/wobbuffet.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/groudon-ex-primal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/groudon-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wobbuffet.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/switch.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mega-turbo.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hard-charm.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1355,134 +1079,107 @@ let masters = [
     sprite1: '../../assets/sprites/manectric-mega.png',
     sprite2: '../../assets/sprites/genesect.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/m-manectric-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deoxys-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/g-booster.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/switch.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-spirit-link.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/energy-plasma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1492,122 +1189,95 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1617,130 +1287,103 @@ let masters = [
     sprite1: '../../assets/sprites/raichu.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/raichu.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pikachu-nuzzle.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzong.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzor.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sky-field.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-metal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1750,12 +1393,11 @@ let masters = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1765,126 +1407,99 @@ let masters = [
     sprite1: '../../assets/sprites/manectric-mega.png',
     sprite2: '../../assets/sprites/yanmega.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/m-manectric-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/yanmega-windfall.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/yanma.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/n-dex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/iris.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-spirit-link.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-xy1.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1894,122 +1509,95 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2019,138 +1607,111 @@ let masters = [
     sprite1: '../../assets/sprites/trevenant.png',
     sprite2: '../../assets/sprites/gengar.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/gengar-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trevenant.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phantump-astonish.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wally.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },      
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/team-flare-grunt.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crushing-hammer-xy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/enhanced-hammer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-psychic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/mystery-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -2160,122 +1721,95 @@ let masters = [
     sprite1: '../../assets/sprites/joltik.png',
     sprite2: '../../assets/sprites/pumpkaboo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/joltik.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pumpkaboo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lampent.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/deminsion-valley.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2285,126 +1819,99 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/blastoise.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/exeggcute.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/articuno.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/archie-ace-in-hole.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/superior-energy-retreival.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       }
     ]
   },
@@ -2414,130 +1921,103 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/blastoise.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/exeggcute.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wailord-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/articuno.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/kyurem.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/archie-ace-in-hole.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/superior-energy-retreival.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       }
     ]
   },
@@ -2547,122 +2027,95 @@ let masters = [
     sprite1: '../../assets/sprites/raichu.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/raichu.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pikachu-nuzzle.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/leafeon.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/eevee.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/exeggcute.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sky-field.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2672,120 +2125,91 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/donphan.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phanpy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -2795,126 +2219,99 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rock-guard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2924,138 +2321,111 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trubbish-pile-up.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hippowdon.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hippopotas.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/team-flare-grunt.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crushing-hammer-xy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/enhanced-hammer.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -3065,118 +2435,91 @@ let masters = [
     sprite1: '../../assets/sprites/trevenant.png',
     sprite2: '../../assets/sprites/gengar.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/trevenant.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phantump-astonish.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/gengar-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },    
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wally.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },  
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-psychic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/mystery-energy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -3186,126 +2529,99 @@ let masters = [
     sprite1: '../../assets/sprites/raichu.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/raichu.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pikachu-nuzzle.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sky-field.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -3315,138 +2631,111 @@ let masters = [
     sprite1: '../../assets/sprites/aegislash.png',
     sprite2: '../../assets/sprites/bronzong.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'metal',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/bronzong.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/aegislash-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/heatran.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/dialga-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/cobalion-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/kecleon.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/steel-shelter.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-metal.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3456,12 +2745,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/groudon-primal.png',
     list: '../../assets/sprites/blank.png',
-         deckid: "eee",
-    event: "eeee",
+     type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3471,138 +2759,111 @@ let masters = [
     sprite1: '../../assets/sprites/aegislash.png',
     sprite2: '../../assets/sprites/bronzong.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'metal',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/bronzong.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/aegislash-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/heatran.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/dialga-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/cobalion-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/kecleon.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/steel-shelter.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-metal.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3612,12 +2873,11 @@ let masters = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }
@@ -3630,126 +2890,99 @@ let seniors = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rock-guard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -3759,124 +2992,95 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/donphan.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phanpy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -3886,122 +3090,95 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/manectric-mega.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/m-manectric-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zapdos.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/enhanced-hammer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-spirit-link.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -4011,120 +3188,91 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/donphan.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phanpy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -4134,138 +3282,111 @@ let seniors = [
     sprite1: '../../assets/sprites/bronzong.png',
     sprite2: '../../assets/sprites/klinklang.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'metal',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/klinklang.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/klang.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/klink.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzong.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bronzor.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/heatran.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/cobalion-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/aegislash-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rare-candy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sky-field.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-metal.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       }
     ]
   },
@@ -4275,126 +3396,99 @@ let seniors = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -4404,134 +3498,107 @@ let seniors = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -4541,130 +3608,103 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/manectric-mega.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/m-manectric-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/terrakion.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/leafeon.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/eevee-plf.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-spirit-link.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       }
     ]
   }
@@ -4677,124 +3717,95 @@ let juniors = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lucario-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/scoop-up-cyclone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -4804,140 +3815,111 @@ let juniors = [
     sprite1: '../../assets/sprites/groudon-primal.png',
     sprite2: '../../assets/sprites/wobbuffet.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/groudon-ex-primal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/groudon-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wobbuffet.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/teammates.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/switch.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mega-turbo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/escape-rope.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hard-charm.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shrine-of-memories.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -4947,130 +3929,103 @@ let juniors = [
     sprite1: '../../assets/sprites/seismitoad.png',
     sprite2: '../../assets/sprites/manectric.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/seismitoad-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/manectric-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/mewtwo-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/pokemon-center-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rock-guard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/head-ringer.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -5080,135 +4035,106 @@ let juniors = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lucario-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },      {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/scoop-up-cyclone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -5218,144 +4144,115 @@ let juniors = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/crobat.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/crobat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/golbat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/zubat-free-flight.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lucario-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 2,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },      
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/scoop-up-cyclone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/super-scoop-up.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/repeat-ball.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -5365,144 +4262,115 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/donphan.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/phanpy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/wobbuffet.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/regirock.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/korrina.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 4,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/xerosic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/robo-sub.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/silent-lab.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/dce-2015.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -5512,116 +4380,87 @@ let juniors = [
     sprite1: '../../assets/sprites/landorus-therian.png',
     sprite2: '../../assets/sprites/leafeon.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/leafeon.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/eevee.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/hawlucha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lucario-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/colress.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 3,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },      
       {
         cardImg: '../../assets/cards/2014-2016/az.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/switch.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/focus-sash.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/fighting-stadium.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-fighting.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
-        "count": 4,
-          "name": "Strong Energy",
-          "number": "104",
-          "set": "FFI"
+        cardImg: '../../assets/cards/energy/strong-energy.png',
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -5631,126 +4470,99 @@ let juniors = [
     sprite1: '../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2014-2016/blastoise.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/exeggcute.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/shaymin-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/bunnelby.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/kyurem.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/archie-ace-in-hole.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/lysandre.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2014-2016/n.png',
-        "count": 1,
+        cardImg: '../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/computer-search.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/battle-compressor.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/superior-energy-retreival.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/acro-bike.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/rough-seas.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/xy-energy-water.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       }
     ]
   }
@@ -6102,8 +4914,6 @@ function displayList3(array = []) {
         } else {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
-
-         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];

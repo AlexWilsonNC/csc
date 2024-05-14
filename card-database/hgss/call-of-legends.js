@@ -1,8 +1,9 @@
-let callOfLegends = [
+let col1 = [
     {
         "id": "col1-1",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -46,9 +47,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -63,9 +62,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/1.png",
             "large": "https://images.pokemontcg.io/col1/1_hires.png"
@@ -75,6 +72,7 @@ let callOfLegends = [
         "id": "col1-2",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -108,9 +106,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -125,9 +121,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/2.png",
             "large": "https://images.pokemontcg.io/col1/2_hires.png"
@@ -137,6 +131,7 @@ let callOfLegends = [
         "id": "col1-3",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -177,9 +172,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -194,9 +187,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/3.png",
             "large": "https://images.pokemontcg.io/col1/3_hires.png"
@@ -206,6 +197,7 @@ let callOfLegends = [
         "id": "col1-4",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -248,9 +240,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -265,9 +255,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/4.png",
             "large": "https://images.pokemontcg.io/col1/4_hires.png"
@@ -277,6 +265,7 @@ let callOfLegends = [
         "id": "col1-5",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -327,9 +316,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -344,9 +331,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/5.png",
             "large": "https://images.pokemontcg.io/col1/5_hires.png"
@@ -356,6 +341,7 @@ let callOfLegends = [
         "id": "col1-6",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -390,9 +376,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -407,9 +391,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/6.png",
             "large": "https://images.pokemontcg.io/col1/6_hires.png"
@@ -419,6 +401,7 @@ let callOfLegends = [
         "id": "col1-7",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -471,9 +454,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -488,9 +469,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/7.png",
             "large": "https://images.pokemontcg.io/col1/7_hires.png"
@@ -500,6 +479,7 @@ let callOfLegends = [
         "id": "col1-8",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -542,9 +522,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -559,9 +537,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/8.png",
             "large": "https://images.pokemontcg.io/col1/8_hires.png"
@@ -571,6 +547,7 @@ let callOfLegends = [
         "id": "col1-9",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -623,9 +600,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -640,9 +615,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/9.png",
             "large": "https://images.pokemontcg.io/col1/9_hires.png"
@@ -652,6 +625,7 @@ let callOfLegends = [
         "id": "col1-10",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -700,9 +674,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -717,9 +689,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/10.png",
             "large": "https://images.pokemontcg.io/col1/10_hires.png"
@@ -729,6 +699,7 @@ let callOfLegends = [
         "id": "col1-11",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -767,9 +738,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -784,9 +753,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/11.png",
             "large": "https://images.pokemontcg.io/col1/11_hires.png"
@@ -796,6 +763,7 @@ let callOfLegends = [
         "id": "col1-12",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -830,9 +798,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -847,9 +813,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/12.png",
             "large": "https://images.pokemontcg.io/col1/12_hires.png"
@@ -859,6 +823,7 @@ let callOfLegends = [
         "id": "col1-13",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -906,9 +871,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -923,9 +886,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/13.png",
             "large": "https://images.pokemontcg.io/col1/13_hires.png"
@@ -935,6 +896,7 @@ let callOfLegends = [
         "id": "col1-14",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -979,9 +941,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -996,9 +956,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/14.png",
             "large": "https://images.pokemontcg.io/col1/14_hires.png"
@@ -1008,6 +966,7 @@ let callOfLegends = [
         "id": "col1-15",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1060,9 +1019,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1077,9 +1034,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/15.png",
             "large": "https://images.pokemontcg.io/col1/15_hires.png"
@@ -1089,6 +1044,7 @@ let callOfLegends = [
         "id": "col1-16",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1135,9 +1091,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1152,9 +1106,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/16.png",
             "large": "https://images.pokemontcg.io/col1/16_hires.png"
@@ -1164,6 +1116,7 @@ let callOfLegends = [
         "id": "col1-17",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1205,9 +1158,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1222,9 +1173,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/17.png",
             "large": "https://images.pokemontcg.io/col1/17_hires.png"
@@ -1234,6 +1183,7 @@ let callOfLegends = [
         "id": "col1-18",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1279,9 +1229,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1296,9 +1244,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/18.png",
             "large": "https://images.pokemontcg.io/col1/18_hires.png"
@@ -1308,6 +1254,7 @@ let callOfLegends = [
         "id": "col1-19",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1342,9 +1289,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1359,9 +1304,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/19.png",
             "large": "https://images.pokemontcg.io/col1/19_hires.png"
@@ -1371,6 +1314,7 @@ let callOfLegends = [
         "id": "col1-20",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1411,9 +1355,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1428,9 +1370,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/20.png",
             "large": "https://images.pokemontcg.io/col1/20_hires.png"
@@ -1440,6 +1380,7 @@ let callOfLegends = [
         "id": "col1-21",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1479,9 +1420,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1496,9 +1435,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/21.png",
             "large": "https://images.pokemontcg.io/col1/21_hires.png"
@@ -1508,6 +1445,7 @@ let callOfLegends = [
         "id": "col1-22",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1556,9 +1494,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1573,9 +1509,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/22.png",
             "large": "https://images.pokemontcg.io/col1/22_hires.png"
@@ -1585,6 +1519,7 @@ let callOfLegends = [
         "id": "col1-23",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1634,9 +1569,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1651,9 +1584,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/23.png",
             "large": "https://images.pokemontcg.io/col1/23_hires.png"
@@ -1663,6 +1594,7 @@ let callOfLegends = [
         "id": "col1-24",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1695,9 +1627,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1712,9 +1642,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/24.png",
             "large": "https://images.pokemontcg.io/col1/24_hires.png"
@@ -1724,6 +1652,7 @@ let callOfLegends = [
         "id": "col1-25",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1770,9 +1699,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1787,9 +1714,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/25.png",
             "large": "https://images.pokemontcg.io/col1/25_hires.png"
@@ -1799,6 +1724,7 @@ let callOfLegends = [
         "id": "col1-26",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1844,9 +1770,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1861,9 +1785,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/26.png",
             "large": "https://images.pokemontcg.io/col1/26_hires.png"
@@ -1873,6 +1795,7 @@ let callOfLegends = [
         "id": "col1-27",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1922,9 +1845,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -1939,9 +1860,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/27.png",
             "large": "https://images.pokemontcg.io/col1/27_hires.png"
@@ -1951,6 +1870,7 @@ let callOfLegends = [
         "id": "col1-28",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1999,9 +1919,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2016,9 +1934,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/28.png",
             "large": "https://images.pokemontcg.io/col1/28_hires.png"
@@ -2028,6 +1944,7 @@ let callOfLegends = [
         "id": "col1-29",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2067,9 +1984,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2084,9 +1999,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/29.png",
             "large": "https://images.pokemontcg.io/col1/29_hires.png"
@@ -2096,6 +2009,7 @@ let callOfLegends = [
         "id": "col1-30",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -2145,9 +2059,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2162,9 +2074,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/30.png",
             "large": "https://images.pokemontcg.io/col1/30_hires.png"
@@ -2174,6 +2084,7 @@ let callOfLegends = [
         "id": "col1-31",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2222,9 +2133,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2239,9 +2148,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/31.png",
             "large": "https://images.pokemontcg.io/col1/31_hires.png"
@@ -2251,6 +2158,7 @@ let callOfLegends = [
         "id": "col1-32",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2291,9 +2199,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2308,9 +2214,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/32.png",
             "large": "https://images.pokemontcg.io/col1/32_hires.png"
@@ -2320,6 +2224,7 @@ let callOfLegends = [
         "id": "col1-33",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2365,9 +2270,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2382,9 +2285,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/33.png",
             "large": "https://images.pokemontcg.io/col1/33_hires.png"
@@ -2394,6 +2295,7 @@ let callOfLegends = [
         "id": "col1-34",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2443,9 +2345,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2460,9 +2360,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/34.png",
             "large": "https://images.pokemontcg.io/col1/34_hires.png"
@@ -2472,6 +2370,7 @@ let callOfLegends = [
         "id": "col1-35",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -2516,9 +2415,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2533,9 +2430,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/35.png",
             "large": "https://images.pokemontcg.io/col1/35_hires.png"
@@ -2545,6 +2440,7 @@ let callOfLegends = [
         "id": "col1-36",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2579,9 +2475,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2596,9 +2490,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             236
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/36.png",
             "large": "https://images.pokemontcg.io/col1/36_hires.png"
@@ -2608,6 +2500,7 @@ let callOfLegends = [
         "id": "col1-37",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2651,9 +2544,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2668,9 +2559,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/37.png",
             "large": "https://images.pokemontcg.io/col1/37_hires.png"
@@ -2680,6 +2569,7 @@ let callOfLegends = [
         "id": "col1-38",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2722,9 +2612,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2739,9 +2627,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/38.png",
             "large": "https://images.pokemontcg.io/col1/38_hires.png"
@@ -2751,6 +2637,7 @@ let callOfLegends = [
         "id": "col1-39",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2793,9 +2680,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2810,9 +2695,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/39.png",
             "large": "https://images.pokemontcg.io/col1/39_hires.png"
@@ -2822,6 +2705,7 @@ let callOfLegends = [
         "id": "col1-40",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2874,9 +2758,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2891,9 +2773,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/40.png",
             "large": "https://images.pokemontcg.io/col1/40_hires.png"
@@ -2903,6 +2783,7 @@ let callOfLegends = [
         "id": "col1-41",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2950,9 +2831,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -2967,9 +2846,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/41.png",
             "large": "https://images.pokemontcg.io/col1/41_hires.png"
@@ -2979,6 +2856,7 @@ let callOfLegends = [
         "id": "col1-42",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3031,9 +2909,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3048,9 +2924,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/42.png",
             "large": "https://images.pokemontcg.io/col1/42_hires.png"
@@ -3060,6 +2934,7 @@ let callOfLegends = [
         "id": "col1-43",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3112,9 +2987,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3129,9 +3002,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/43.png",
             "large": "https://images.pokemontcg.io/col1/43_hires.png"
@@ -3141,6 +3012,7 @@ let callOfLegends = [
         "id": "col1-44",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3184,9 +3056,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3201,9 +3071,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/44.png",
             "large": "https://images.pokemontcg.io/col1/44_hires.png"
@@ -3213,6 +3081,7 @@ let callOfLegends = [
         "id": "col1-45",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3261,9 +3130,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3278,9 +3145,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/45.png",
             "large": "https://images.pokemontcg.io/col1/45_hires.png"
@@ -3290,6 +3155,7 @@ let callOfLegends = [
         "id": "col1-46",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3322,9 +3188,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3339,9 +3203,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/46.png",
             "large": "https://images.pokemontcg.io/col1/46_hires.png"
@@ -3351,6 +3213,7 @@ let callOfLegends = [
         "id": "col1-47",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3380,9 +3243,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3397,9 +3258,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             439
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/47.png",
             "large": "https://images.pokemontcg.io/col1/47_hires.png"
@@ -3409,6 +3268,7 @@ let callOfLegends = [
         "id": "col1-48",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3462,9 +3322,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3479,9 +3337,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/48.png",
             "large": "https://images.pokemontcg.io/col1/48_hires.png"
@@ -3491,6 +3347,7 @@ let callOfLegends = [
         "id": "col1-49",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3538,9 +3395,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3555,9 +3410,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/49.png",
             "large": "https://images.pokemontcg.io/col1/49_hires.png"
@@ -3567,6 +3420,7 @@ let callOfLegends = [
         "id": "col1-50",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3601,9 +3455,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3618,9 +3470,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/50.png",
             "large": "https://images.pokemontcg.io/col1/50_hires.png"
@@ -3630,6 +3480,7 @@ let callOfLegends = [
         "id": "col1-51",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3671,9 +3522,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3688,9 +3537,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/51.png",
             "large": "https://images.pokemontcg.io/col1/51_hires.png"
@@ -3700,6 +3547,7 @@ let callOfLegends = [
         "id": "col1-52",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3743,9 +3591,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3760,9 +3606,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/52.png",
             "large": "https://images.pokemontcg.io/col1/52_hires.png"
@@ -3772,6 +3616,7 @@ let callOfLegends = [
         "id": "col1-53",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3822,9 +3667,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3839,9 +3682,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/53.png",
             "large": "https://images.pokemontcg.io/col1/53_hires.png"
@@ -3851,6 +3692,7 @@ let callOfLegends = [
         "id": "col1-54",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3894,9 +3736,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3911,9 +3751,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/54.png",
             "large": "https://images.pokemontcg.io/col1/54_hires.png"
@@ -3923,6 +3761,7 @@ let callOfLegends = [
         "id": "col1-55",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3957,9 +3796,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -3974,9 +3811,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/55.png",
             "large": "https://images.pokemontcg.io/col1/55_hires.png"
@@ -3986,6 +3821,7 @@ let callOfLegends = [
         "id": "col1-56",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4037,9 +3873,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4054,9 +3888,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/56.png",
             "large": "https://images.pokemontcg.io/col1/56_hires.png"
@@ -4066,6 +3898,7 @@ let callOfLegends = [
         "id": "col1-57",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4107,9 +3940,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4124,9 +3955,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/57.png",
             "large": "https://images.pokemontcg.io/col1/57_hires.png"
@@ -4136,6 +3965,7 @@ let callOfLegends = [
         "id": "col1-58",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4178,9 +4008,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4195,9 +4023,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/58.png",
             "large": "https://images.pokemontcg.io/col1/58_hires.png"
@@ -4207,6 +4033,7 @@ let callOfLegends = [
         "id": "col1-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4247,9 +4074,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4264,9 +4089,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/59.png",
             "large": "https://images.pokemontcg.io/col1/59_hires.png"
@@ -4276,6 +4099,7 @@ let callOfLegends = [
         "id": "col1-60",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4320,9 +4144,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4337,9 +4159,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/60.png",
             "large": "https://images.pokemontcg.io/col1/60_hires.png"
@@ -4349,6 +4169,7 @@ let callOfLegends = [
         "id": "col1-61",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4383,9 +4204,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4400,10 +4219,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/61.png",
             "large": "https://images.pokemontcg.io/col1/61_hires.png"
@@ -4413,6 +4229,7 @@ let callOfLegends = [
         "id": "col1-62",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4457,9 +4274,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4474,9 +4289,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/62.png",
             "large": "https://images.pokemontcg.io/col1/62_hires.png"
@@ -4486,6 +4299,7 @@ let callOfLegends = [
         "id": "col1-63",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4526,9 +4340,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4543,9 +4355,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/63.png",
             "large": "https://images.pokemontcg.io/col1/63_hires.png"
@@ -4555,6 +4365,7 @@ let callOfLegends = [
         "id": "col1-64",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4603,9 +4414,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4620,9 +4429,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/64.png",
             "large": "https://images.pokemontcg.io/col1/64_hires.png"
@@ -4632,6 +4439,7 @@ let callOfLegends = [
         "id": "col1-65",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4681,9 +4489,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4698,9 +4504,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/65.png",
             "large": "https://images.pokemontcg.io/col1/65_hires.png"
@@ -4710,6 +4514,7 @@ let callOfLegends = [
         "id": "col1-66",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4758,9 +4563,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4775,9 +4578,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/66.png",
             "large": "https://images.pokemontcg.io/col1/66_hires.png"
@@ -4787,6 +4588,7 @@ let callOfLegends = [
         "id": "col1-67",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4836,9 +4638,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4853,9 +4653,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/67.png",
             "large": "https://images.pokemontcg.io/col1/67_hires.png"
@@ -4865,6 +4663,7 @@ let callOfLegends = [
         "id": "col1-68",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4909,9 +4708,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4926,9 +4723,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/68.png",
             "large": "https://images.pokemontcg.io/col1/68_hires.png"
@@ -4938,6 +4733,7 @@ let callOfLegends = [
         "id": "col1-69",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4980,9 +4776,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -4997,9 +4791,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/69.png",
             "large": "https://images.pokemontcg.io/col1/69_hires.png"
@@ -5009,6 +4801,7 @@ let callOfLegends = [
         "id": "col1-70",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5044,9 +4837,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5061,9 +4852,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/70.png",
             "large": "https://images.pokemontcg.io/col1/70_hires.png"
@@ -5073,6 +4862,7 @@ let callOfLegends = [
         "id": "col1-71",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5117,9 +4907,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5134,9 +4922,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/71.png",
             "large": "https://images.pokemontcg.io/col1/71_hires.png"
@@ -5146,6 +4932,7 @@ let callOfLegends = [
         "id": "col1-72",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5197,9 +4984,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5214,9 +4999,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/72.png",
             "large": "https://images.pokemontcg.io/col1/72_hires.png"
@@ -5226,6 +5009,7 @@ let callOfLegends = [
         "id": "col1-73",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5260,9 +5044,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5277,9 +5059,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/73.png",
             "large": "https://images.pokemontcg.io/col1/73_hires.png"
@@ -5289,6 +5069,7 @@ let callOfLegends = [
         "id": "col1-74",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5325,9 +5106,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5342,9 +5121,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/74.png",
             "large": "https://images.pokemontcg.io/col1/74_hires.png"
@@ -5354,6 +5131,7 @@ let callOfLegends = [
         "id": "col1-75",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5398,9 +5176,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5415,9 +5191,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/75.png",
             "large": "https://images.pokemontcg.io/col1/75_hires.png"
@@ -5427,6 +5201,7 @@ let callOfLegends = [
         "id": "col1-76",
         "name": "Cheerleader's Cheer",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5440,9 +5215,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5453,9 +5226,7 @@ let callOfLegends = [
         "number": "76",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/76.png",
             "large": "https://images.pokemontcg.io/col1/76_hires.png"
@@ -5465,6 +5236,7 @@ let callOfLegends = [
         "id": "col1-77",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5478,9 +5250,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5491,11 +5261,7 @@ let callOfLegends = [
         "number": "77",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/77.png",
             "large": "https://images.pokemontcg.io/col1/77_hires.png"
@@ -5505,6 +5271,7 @@ let callOfLegends = [
         "id": "col1-78",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5517,9 +5284,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5530,9 +5295,7 @@ let callOfLegends = [
         "number": "78",
         "artist": "Takashi Yamaguchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/78.png",
             "large": "https://images.pokemontcg.io/col1/78_hires.png"
@@ -5542,6 +5305,7 @@ let callOfLegends = [
         "id": "col1-79",
         "name": "Interviewer's Questions",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5555,9 +5319,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5568,9 +5330,7 @@ let callOfLegends = [
         "number": "79",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/79.png",
             "large": "https://images.pokemontcg.io/col1/79_hires.png"
@@ -5580,6 +5340,7 @@ let callOfLegends = [
         "id": "col1-80",
         "name": "Lost Remover",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5592,9 +5353,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5605,9 +5364,7 @@ let callOfLegends = [
         "number": "80",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/80.png",
             "large": "https://images.pokemontcg.io/col1/80_hires.png"
@@ -5617,6 +5374,7 @@ let callOfLegends = [
         "id": "col1-81",
         "name": "Lost World",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stadium"
         ],
@@ -5630,9 +5388,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5643,9 +5399,7 @@ let callOfLegends = [
         "number": "81",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/81.png",
             "large": "https://images.pokemontcg.io/col1/81_hires.png"
@@ -5655,6 +5409,7 @@ let callOfLegends = [
         "id": "col1-82",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5668,9 +5423,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5681,9 +5434,7 @@ let callOfLegends = [
         "number": "82",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/82.png",
             "large": "https://images.pokemontcg.io/col1/82_hires.png"
@@ -5693,6 +5444,7 @@ let callOfLegends = [
         "id": "col1-83",
         "name": "Professor Oak's New Theory",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5706,9 +5458,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5719,9 +5469,7 @@ let callOfLegends = [
         "number": "83",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/83.png",
             "large": "https://images.pokemontcg.io/col1/83_hires.png"
@@ -5731,6 +5479,7 @@ let callOfLegends = [
         "id": "col1-84",
         "name": "Research Record",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5743,9 +5492,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5756,9 +5503,7 @@ let callOfLegends = [
         "number": "84",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/84.png",
             "large": "https://images.pokemontcg.io/col1/84_hires.png"
@@ -5768,6 +5513,7 @@ let callOfLegends = [
         "id": "col1-85",
         "name": "Sage's Training",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5781,9 +5527,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5794,9 +5538,7 @@ let callOfLegends = [
         "number": "85",
         "artist": "Masakazu Fukuda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/85.png",
             "large": "https://images.pokemontcg.io/col1/85_hires.png"
@@ -5806,6 +5548,7 @@ let callOfLegends = [
         "id": "col1-86",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Special"
         ],
@@ -5818,9 +5561,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5831,9 +5572,7 @@ let callOfLegends = [
         "number": "86",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/86.png",
             "large": "https://images.pokemontcg.io/col1/86_hires.png"
@@ -5843,6 +5582,7 @@ let callOfLegends = [
         "id": "col1-87",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Special"
         ],
@@ -5855,9 +5595,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5868,9 +5606,7 @@ let callOfLegends = [
         "number": "87",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/87.png",
             "large": "https://images.pokemontcg.io/col1/87_hires.png"
@@ -5880,6 +5616,7 @@ let callOfLegends = [
         "id": "col1-88",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5889,9 +5626,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5901,11 +5636,7 @@ let callOfLegends = [
         },
         "number": "88",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/88.png",
             "large": "https://images.pokemontcg.io/col1/88_hires.png"
@@ -5915,6 +5646,7 @@ let callOfLegends = [
         "id": "col1-89",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5924,9 +5656,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5936,11 +5666,7 @@ let callOfLegends = [
         },
         "number": "89",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/89.png",
             "large": "https://images.pokemontcg.io/col1/89_hires.png"
@@ -5950,6 +5676,7 @@ let callOfLegends = [
         "id": "col1-90",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5959,9 +5686,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -5971,11 +5696,7 @@ let callOfLegends = [
         },
         "number": "90",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/90.png",
             "large": "https://images.pokemontcg.io/col1/90_hires.png"
@@ -5985,6 +5706,7 @@ let callOfLegends = [
         "id": "col1-91",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5994,9 +5716,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6006,11 +5726,7 @@ let callOfLegends = [
         },
         "number": "91",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/91.png",
             "large": "https://images.pokemontcg.io/col1/91_hires.png"
@@ -6020,6 +5736,7 @@ let callOfLegends = [
         "id": "col1-92",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6029,9 +5746,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6041,11 +5756,7 @@ let callOfLegends = [
         },
         "number": "92",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/92.png",
             "large": "https://images.pokemontcg.io/col1/92_hires.png"
@@ -6055,6 +5766,7 @@ let callOfLegends = [
         "id": "col1-93",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6064,9 +5776,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6076,11 +5786,7 @@ let callOfLegends = [
         },
         "number": "93",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/93.png",
             "large": "https://images.pokemontcg.io/col1/93_hires.png"
@@ -6090,6 +5796,7 @@ let callOfLegends = [
         "id": "col1-94",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6099,9 +5806,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6111,11 +5816,7 @@ let callOfLegends = [
         },
         "number": "94",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/94.png",
             "large": "https://images.pokemontcg.io/col1/94_hires.png"
@@ -6125,6 +5826,7 @@ let callOfLegends = [
         "id": "col1-95",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6134,9 +5836,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6146,11 +5846,7 @@ let callOfLegends = [
         },
         "number": "95",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/95.png",
             "large": "https://images.pokemontcg.io/col1/95_hires.png"
@@ -6160,6 +5856,7 @@ let callOfLegends = [
         "id": "col1-SL1",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6193,9 +5890,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6210,9 +5905,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL1.png",
             "large": "https://images.pokemontcg.io/col1/SL1_hires.png"
@@ -6222,6 +5915,7 @@ let callOfLegends = [
         "id": "col1-SL2",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6262,9 +5956,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6279,9 +5971,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL2.png",
             "large": "https://images.pokemontcg.io/col1/SL2_hires.png"
@@ -6291,6 +5981,7 @@ let callOfLegends = [
         "id": "col1-SL3",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6331,9 +6022,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6348,9 +6037,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL3.png",
             "large": "https://images.pokemontcg.io/col1/SL3_hires.png"
@@ -6360,6 +6047,7 @@ let callOfLegends = [
         "id": "col1-SL4",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6394,9 +6082,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6411,9 +6097,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL4.png",
             "large": "https://images.pokemontcg.io/col1/SL4_hires.png"
@@ -6423,6 +6107,7 @@ let callOfLegends = [
         "id": "col1-SL5",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6475,9 +6160,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6492,9 +6175,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL5.png",
             "large": "https://images.pokemontcg.io/col1/SL5_hires.png"
@@ -6504,6 +6185,7 @@ let callOfLegends = [
         "id": "col1-SL6",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6538,9 +6220,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6555,9 +6235,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL6.png",
             "large": "https://images.pokemontcg.io/col1/SL6_hires.png"
@@ -6567,6 +6245,7 @@ let callOfLegends = [
         "id": "col1-SL7",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6619,9 +6298,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6636,9 +6313,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL7.png",
             "large": "https://images.pokemontcg.io/col1/SL7_hires.png"
@@ -6648,6 +6323,7 @@ let callOfLegends = [
         "id": "col1-SL8",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6682,9 +6358,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6699,9 +6373,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL8.png",
             "large": "https://images.pokemontcg.io/col1/SL8_hires.png"
@@ -6711,6 +6383,7 @@ let callOfLegends = [
         "id": "col1-SL9",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6757,9 +6430,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6774,9 +6445,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL9.png",
             "large": "https://images.pokemontcg.io/col1/SL9_hires.png"
@@ -6786,6 +6455,7 @@ let callOfLegends = [
         "id": "col1-SL10",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6826,9 +6496,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6843,9 +6511,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL10.png",
             "large": "https://images.pokemontcg.io/col1/SL10_hires.png"
@@ -6855,6 +6521,7 @@ let callOfLegends = [
         "id": "col1-SL11",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6895,9 +6562,7 @@ let callOfLegends = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CL",
             "releaseDate": "2011/02/09",
             "images": {
@@ -6912,9 +6577,7 @@ let callOfLegends = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/col1/SL11.png",
             "large": "https://images.pokemontcg.io/col1/SL11_hires.png"

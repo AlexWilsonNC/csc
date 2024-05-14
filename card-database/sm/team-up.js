@@ -3,6 +3,7 @@ let sm9 = [
         "id": "sm9-1",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -65,10 +66,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -83,10 +81,7 @@ let sm9 = [
             3,
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/1.png",
             "large": "https://images.pokemontcg.io/sm9/1_hires.png"
@@ -96,6 +91,7 @@ let sm9 = [
         "id": "sm9-2",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -139,10 +135,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -157,10 +150,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/2.png",
             "large": "https://images.pokemontcg.io/sm9/2_hires.png"
@@ -170,6 +160,7 @@ let sm9 = [
         "id": "sm9-3",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -204,10 +195,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -222,10 +210,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/3.png",
             "large": "https://images.pokemontcg.io/sm9/3_hires.png"
@@ -235,6 +220,7 @@ let sm9 = [
         "id": "sm9-4",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -278,10 +264,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -296,10 +279,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/4.png",
             "large": "https://images.pokemontcg.io/sm9/4_hires.png"
@@ -309,6 +289,7 @@ let sm9 = [
         "id": "sm9-5",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -351,10 +332,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -369,10 +347,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/5.png",
             "large": "https://images.pokemontcg.io/sm9/5_hires.png"
@@ -382,6 +357,7 @@ let sm9 = [
         "id": "sm9-6",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -426,10 +402,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -444,10 +417,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/6.png",
             "large": "https://images.pokemontcg.io/sm9/6_hires.png"
@@ -457,6 +427,7 @@ let sm9 = [
         "id": "sm9-7",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -497,10 +468,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -515,10 +483,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/7.png",
             "large": "https://images.pokemontcg.io/sm9/7_hires.png"
@@ -528,6 +493,7 @@ let sm9 = [
         "id": "sm9-8",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -562,10 +528,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -580,10 +543,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/8.png",
             "large": "https://images.pokemontcg.io/sm9/8_hires.png"
@@ -593,6 +553,7 @@ let sm9 = [
         "id": "sm9-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -636,10 +597,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -654,10 +612,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/9.png",
             "large": "https://images.pokemontcg.io/sm9/9_hires.png"
@@ -667,6 +622,7 @@ let sm9 = [
         "id": "sm9-10",
         "name": "Shaymin ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -702,10 +658,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -720,10 +673,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/10.png",
             "large": "https://images.pokemontcg.io/sm9/10_hires.png"
@@ -733,6 +683,7 @@ let sm9 = [
         "id": "sm9-11",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -777,10 +728,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -795,10 +743,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/11.png",
             "large": "https://images.pokemontcg.io/sm9/11_hires.png"
@@ -808,6 +753,7 @@ let sm9 = [
         "id": "sm9-12",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -842,10 +788,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -860,10 +803,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/12.png",
             "large": "https://images.pokemontcg.io/sm9/12_hires.png"
@@ -873,6 +813,7 @@ let sm9 = [
         "id": "sm9-13",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -909,10 +850,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -927,10 +865,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/13.png",
             "large": "https://images.pokemontcg.io/sm9/13_hires.png"
@@ -940,6 +875,7 @@ let sm9 = [
         "id": "sm9-14",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -980,10 +916,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -998,10 +931,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/14.png",
             "large": "https://images.pokemontcg.io/sm9/14_hires.png"
@@ -1011,6 +941,7 @@ let sm9 = [
         "id": "sm9-15",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1045,10 +976,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1063,10 +991,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/15.png",
             "large": "https://images.pokemontcg.io/sm9/15_hires.png"
@@ -1076,6 +1001,7 @@ let sm9 = [
         "id": "sm9-16",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1117,10 +1043,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1135,10 +1058,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/16.png",
             "large": "https://images.pokemontcg.io/sm9/16_hires.png"
@@ -1148,6 +1068,7 @@ let sm9 = [
         "id": "sm9-17",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1192,10 +1113,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1210,10 +1128,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/17.png",
             "large": "https://images.pokemontcg.io/sm9/17_hires.png"
@@ -1223,6 +1138,7 @@ let sm9 = [
         "id": "sm9-18",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1265,10 +1181,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1283,10 +1196,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/18.png",
             "large": "https://images.pokemontcg.io/sm9/18_hires.png"
@@ -1296,6 +1206,7 @@ let sm9 = [
         "id": "sm9-19",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1345,10 +1256,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1363,10 +1271,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/19.png",
             "large": "https://images.pokemontcg.io/sm9/19_hires.png"
@@ -1376,6 +1281,7 @@ let sm9 = [
         "id": "sm9-20",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1410,10 +1316,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1428,10 +1331,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/20.png",
             "large": "https://images.pokemontcg.io/sm9/20_hires.png"
@@ -1441,6 +1341,7 @@ let sm9 = [
         "id": "sm9-21",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1487,10 +1388,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1505,10 +1403,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             726
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/21.png",
             "large": "https://images.pokemontcg.io/sm9/21_hires.png"
@@ -1518,6 +1413,7 @@ let sm9 = [
         "id": "sm9-22",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1560,10 +1456,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1578,10 +1471,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/22.png",
             "large": "https://images.pokemontcg.io/sm9/22_hires.png"
@@ -1591,6 +1481,7 @@ let sm9 = [
         "id": "sm9-23",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1635,10 +1526,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1653,10 +1541,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/23.png",
             "large": "https://images.pokemontcg.io/sm9/23_hires.png"
@@ -1666,6 +1551,7 @@ let sm9 = [
         "id": "sm9-24",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1713,10 +1599,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1731,10 +1614,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/24.png",
             "large": "https://images.pokemontcg.io/sm9/24_hires.png"
@@ -1744,6 +1624,7 @@ let sm9 = [
         "id": "sm9-25",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1785,10 +1666,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1803,10 +1681,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/25.png",
             "large": "https://images.pokemontcg.io/sm9/25_hires.png"
@@ -1816,6 +1691,7 @@ let sm9 = [
         "id": "sm9-26",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1850,10 +1726,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1868,10 +1741,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/26.png",
             "large": "https://images.pokemontcg.io/sm9/26_hires.png"
@@ -1881,6 +1751,7 @@ let sm9 = [
         "id": "sm9-27",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1924,10 +1795,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -1942,10 +1810,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/27.png",
             "large": "https://images.pokemontcg.io/sm9/27_hires.png"
@@ -1955,6 +1820,7 @@ let sm9 = [
         "id": "sm9-28",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1989,10 +1855,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2007,10 +1870,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/28.png",
             "large": "https://images.pokemontcg.io/sm9/28_hires.png"
@@ -2020,6 +1880,7 @@ let sm9 = [
         "id": "sm9-29",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2054,10 +1915,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2072,10 +1930,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/29.png",
             "large": "https://images.pokemontcg.io/sm9/29_hires.png"
@@ -2085,6 +1940,7 @@ let sm9 = [
         "id": "sm9-30",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2128,10 +1984,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2146,10 +1999,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/30.png",
             "large": "https://images.pokemontcg.io/sm9/30_hires.png"
@@ -2159,6 +2009,7 @@ let sm9 = [
         "id": "sm9-31",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2199,10 +2050,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2217,10 +2065,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/31.png",
             "large": "https://images.pokemontcg.io/sm9/31_hires.png"
@@ -2230,6 +2075,7 @@ let sm9 = [
         "id": "sm9-32",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2275,10 +2121,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2293,10 +2136,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/32.png",
             "large": "https://images.pokemontcg.io/sm9/32_hires.png"
@@ -2306,6 +2146,7 @@ let sm9 = [
         "id": "sm9-33",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -2364,10 +2205,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2382,10 +2220,7 @@ let sm9 = [
             25,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/33.png",
             "large": "https://images.pokemontcg.io/sm9/33_hires.png"
@@ -2395,6 +2230,7 @@ let sm9 = [
         "id": "sm9-34",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2436,10 +2272,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2454,10 +2287,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/34.png",
             "large": "https://images.pokemontcg.io/sm9/34_hires.png"
@@ -2467,6 +2297,7 @@ let sm9 = [
         "id": "sm9-35",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2516,10 +2347,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2534,10 +2362,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/35.png",
             "large": "https://images.pokemontcg.io/sm9/35_hires.png"
@@ -2547,6 +2372,7 @@ let sm9 = [
         "id": "sm9-36",
         "name": "Alolan Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2598,10 +2424,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2616,10 +2439,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/36.png",
             "large": "https://images.pokemontcg.io/sm9/36_hires.png"
@@ -2629,6 +2449,7 @@ let sm9 = [
         "id": "sm9-37",
         "name": "Alolan Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2678,10 +2499,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2696,10 +2514,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/37.png",
             "large": "https://images.pokemontcg.io/sm9/37_hires.png"
@@ -2709,6 +2524,7 @@ let sm9 = [
         "id": "sm9-38",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2749,10 +2565,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2767,10 +2580,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/38.png",
             "large": "https://images.pokemontcg.io/sm9/38_hires.png"
@@ -2780,6 +2590,7 @@ let sm9 = [
         "id": "sm9-39",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2826,10 +2637,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2844,10 +2652,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/39.png",
             "large": "https://images.pokemontcg.io/sm9/39_hires.png"
@@ -2857,6 +2662,7 @@ let sm9 = [
         "id": "sm9-40",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2894,10 +2700,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2912,10 +2715,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/40.png",
             "large": "https://images.pokemontcg.io/sm9/40_hires.png"
@@ -2925,6 +2725,7 @@ let sm9 = [
         "id": "sm9-41",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2965,10 +2766,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -2983,10 +2781,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/41.png",
             "large": "https://images.pokemontcg.io/sm9/41_hires.png"
@@ -2996,6 +2791,7 @@ let sm9 = [
         "id": "sm9-42",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3047,10 +2843,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3065,10 +2858,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/42.png",
             "large": "https://images.pokemontcg.io/sm9/42_hires.png"
@@ -3078,6 +2868,7 @@ let sm9 = [
         "id": "sm9-43",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -3139,10 +2930,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3156,10 +2944,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/43.png",
             "large": "https://images.pokemontcg.io/sm9/43_hires.png"
@@ -3169,6 +2954,7 @@ let sm9 = [
         "id": "sm9-44",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3219,10 +3005,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3237,10 +3020,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/44.png",
             "large": "https://images.pokemontcg.io/sm9/44_hires.png"
@@ -3250,6 +3030,7 @@ let sm9 = [
         "id": "sm9-45",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3300,10 +3081,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3318,10 +3096,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/45.png",
             "large": "https://images.pokemontcg.io/sm9/45_hires.png"
@@ -3331,6 +3106,7 @@ let sm9 = [
         "id": "sm9-46",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3374,10 +3150,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3392,10 +3165,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/46.png",
             "large": "https://images.pokemontcg.io/sm9/46_hires.png"
@@ -3405,6 +3175,7 @@ let sm9 = [
         "id": "sm9-47",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3445,10 +3216,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3463,10 +3231,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/47.png",
             "large": "https://images.pokemontcg.io/sm9/47_hires.png"
@@ -3476,6 +3241,7 @@ let sm9 = [
         "id": "sm9-48",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3521,10 +3287,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3539,10 +3302,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/48.png",
             "large": "https://images.pokemontcg.io/sm9/48_hires.png"
@@ -3552,6 +3312,7 @@ let sm9 = [
         "id": "sm9-49",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3603,10 +3364,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3621,10 +3379,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             694
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/49.png",
             "large": "https://images.pokemontcg.io/sm9/49_hires.png"
@@ -3634,6 +3389,7 @@ let sm9 = [
         "id": "sm9-50",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3683,10 +3439,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3701,10 +3454,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             695
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/50.png",
             "large": "https://images.pokemontcg.io/sm9/50_hires.png"
@@ -3714,6 +3464,7 @@ let sm9 = [
         "id": "sm9-51",
         "name": "Tapu Koko ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -3764,10 +3515,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3782,10 +3530,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/51.png",
             "large": "https://images.pokemontcg.io/sm9/51_hires.png"
@@ -3795,6 +3540,7 @@ let sm9 = [
         "id": "sm9-52",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3843,10 +3589,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3861,10 +3604,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/52.png",
             "large": "https://images.pokemontcg.io/sm9/52_hires.png"
@@ -3874,6 +3614,7 @@ let sm9 = [
         "id": "sm9-53",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -3926,10 +3667,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -3944,10 +3682,7 @@ let sm9 = [
             94,
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/53.png",
             "large": "https://images.pokemontcg.io/sm9/53_hires.png"
@@ -3957,6 +3692,7 @@ let sm9 = [
         "id": "sm9-54",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4001,10 +3737,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4019,10 +3752,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/54.png",
             "large": "https://images.pokemontcg.io/sm9/54_hires.png"
@@ -4032,6 +3762,7 @@ let sm9 = [
         "id": "sm9-55",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4077,10 +3808,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4095,10 +3823,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/55.png",
             "large": "https://images.pokemontcg.io/sm9/55_hires.png"
@@ -4108,6 +3833,7 @@ let sm9 = [
         "id": "sm9-56",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -4149,10 +3875,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4167,10 +3890,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/56.png",
             "large": "https://images.pokemontcg.io/sm9/56_hires.png"
@@ -4180,6 +3900,7 @@ let sm9 = [
         "id": "sm9-57",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4224,10 +3945,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4242,10 +3960,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/57.png",
             "large": "https://images.pokemontcg.io/sm9/57_hires.png"
@@ -4255,6 +3970,7 @@ let sm9 = [
         "id": "sm9-58",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4301,10 +4017,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4319,10 +4032,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/58.png",
             "large": "https://images.pokemontcg.io/sm9/58_hires.png"
@@ -4332,6 +4042,7 @@ let sm9 = [
         "id": "sm9-59",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -4376,10 +4087,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4394,10 +4102,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/59.png",
             "large": "https://images.pokemontcg.io/sm9/59_hires.png"
@@ -4407,6 +4112,7 @@ let sm9 = [
         "id": "sm9-60",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4441,10 +4147,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4459,10 +4162,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/60.png",
             "large": "https://images.pokemontcg.io/sm9/60_hires.png"
@@ -4472,6 +4172,7 @@ let sm9 = [
         "id": "sm9-61",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4515,10 +4216,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4533,10 +4231,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/61.png",
             "large": "https://images.pokemontcg.io/sm9/61_hires.png"
@@ -4546,6 +4241,7 @@ let sm9 = [
         "id": "sm9-62",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4580,10 +4276,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4598,10 +4291,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/62.png",
             "large": "https://images.pokemontcg.io/sm9/62_hires.png"
@@ -4611,6 +4301,7 @@ let sm9 = [
         "id": "sm9-63",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4650,10 +4341,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4668,10 +4356,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/63.png",
             "large": "https://images.pokemontcg.io/sm9/63_hires.png"
@@ -4681,6 +4366,7 @@ let sm9 = [
         "id": "sm9-64",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4727,10 +4413,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4745,10 +4428,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/64.png",
             "large": "https://images.pokemontcg.io/sm9/64_hires.png"
@@ -4758,6 +4438,7 @@ let sm9 = [
         "id": "sm9-65",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4789,10 +4470,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4807,10 +4485,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/65.png",
             "large": "https://images.pokemontcg.io/sm9/65_hires.png"
@@ -4820,6 +4495,7 @@ let sm9 = [
         "id": "sm9-66",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4859,10 +4535,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4877,10 +4550,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/66.png",
             "large": "https://images.pokemontcg.io/sm9/66_hires.png"
@@ -4890,6 +4560,7 @@ let sm9 = [
         "id": "sm9-67",
         "name": "Mr. Mime-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -4936,10 +4607,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -4953,10 +4621,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/67.png",
             "large": "https://images.pokemontcg.io/sm9/67_hires.png"
@@ -4966,6 +4631,7 @@ let sm9 = [
         "id": "sm9-68",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5007,10 +4673,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5025,10 +4688,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/68.png",
             "large": "https://images.pokemontcg.io/sm9/68_hires.png"
@@ -5038,6 +4698,7 @@ let sm9 = [
         "id": "sm9-69",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5079,10 +4740,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5097,10 +4755,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/69.png",
             "large": "https://images.pokemontcg.io/sm9/69_hires.png"
@@ -5110,6 +4765,7 @@ let sm9 = [
         "id": "sm9-70",
         "name": "Cosmoem",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5146,10 +4802,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5164,10 +4817,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             790
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/70.png",
             "large": "https://images.pokemontcg.io/sm9/70_hires.png"
@@ -5177,6 +4827,7 @@ let sm9 = [
         "id": "sm9-71",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5221,10 +4872,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5239,10 +4887,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/71.png",
             "large": "https://images.pokemontcg.io/sm9/71_hires.png"
@@ -5252,6 +4897,7 @@ let sm9 = [
         "id": "sm9-72",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5295,10 +4941,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5313,10 +4956,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/72.png",
             "large": "https://images.pokemontcg.io/sm9/72_hires.png"
@@ -5326,6 +4966,7 @@ let sm9 = [
         "id": "sm9-73",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5368,10 +5009,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5386,10 +5024,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/73.png",
             "large": "https://images.pokemontcg.io/sm9/73_hires.png"
@@ -5399,6 +5034,7 @@ let sm9 = [
         "id": "sm9-74",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5441,10 +5077,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5459,10 +5092,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/74.png",
             "large": "https://images.pokemontcg.io/sm9/74_hires.png"
@@ -5472,6 +5102,7 @@ let sm9 = [
         "id": "sm9-75",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5507,10 +5138,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5525,10 +5153,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/75.png",
             "large": "https://images.pokemontcg.io/sm9/75_hires.png"
@@ -5538,6 +5163,7 @@ let sm9 = [
         "id": "sm9-76",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -5578,10 +5204,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5596,10 +5219,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/76.png",
             "large": "https://images.pokemontcg.io/sm9/76_hires.png"
@@ -5609,6 +5229,7 @@ let sm9 = [
         "id": "sm9-77",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5644,10 +5265,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5662,10 +5280,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/77.png",
             "large": "https://images.pokemontcg.io/sm9/77_hires.png"
@@ -5675,6 +5290,7 @@ let sm9 = [
         "id": "sm9-78",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -5716,10 +5332,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5734,10 +5347,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/78.png",
             "large": "https://images.pokemontcg.io/sm9/78_hires.png"
@@ -5747,6 +5357,7 @@ let sm9 = [
         "id": "sm9-79",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5782,10 +5393,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5800,10 +5408,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/79.png",
             "large": "https://images.pokemontcg.io/sm9/79_hires.png"
@@ -5813,6 +5418,7 @@ let sm9 = [
         "id": "sm9-80",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5849,10 +5455,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5867,10 +5470,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/80.png",
             "large": "https://images.pokemontcg.io/sm9/80_hires.png"
@@ -5880,6 +5480,7 @@ let sm9 = [
         "id": "sm9-81",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5915,10 +5516,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -5933,10 +5531,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             674
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/81.png",
             "large": "https://images.pokemontcg.io/sm9/81_hires.png"
@@ -5946,6 +5541,7 @@ let sm9 = [
         "id": "sm9-82",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6000,10 +5596,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6017,10 +5610,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/82.png",
             "large": "https://images.pokemontcg.io/sm9/82_hires.png"
@@ -6030,6 +5620,7 @@ let sm9 = [
         "id": "sm9-83",
         "name": "Alolan Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6071,10 +5662,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6089,10 +5677,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/83.png",
             "large": "https://images.pokemontcg.io/sm9/83_hires.png"
@@ -6102,6 +5687,7 @@ let sm9 = [
         "id": "sm9-84",
         "name": "Alolan Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6149,10 +5735,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6167,10 +5750,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/84.png",
             "large": "https://images.pokemontcg.io/sm9/84_hires.png"
@@ -6180,6 +5760,7 @@ let sm9 = [
         "id": "sm9-85",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -6232,10 +5813,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6250,10 +5828,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/85.png",
             "large": "https://images.pokemontcg.io/sm9/85_hires.png"
@@ -6263,6 +5838,7 @@ let sm9 = [
         "id": "sm9-86",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6312,10 +5888,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6330,10 +5903,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/86.png",
             "large": "https://images.pokemontcg.io/sm9/86_hires.png"
@@ -6343,6 +5913,7 @@ let sm9 = [
         "id": "sm9-87",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6391,10 +5962,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6409,10 +5977,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/87.png",
             "large": "https://images.pokemontcg.io/sm9/87_hires.png"
@@ -6422,6 +5987,7 @@ let sm9 = [
         "id": "sm9-88",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6468,10 +6034,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6486,10 +6049,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/88.png",
             "large": "https://images.pokemontcg.io/sm9/88_hires.png"
@@ -6499,6 +6059,7 @@ let sm9 = [
         "id": "sm9-89",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6533,10 +6094,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6551,10 +6109,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/89.png",
             "large": "https://images.pokemontcg.io/sm9/89_hires.png"
@@ -6564,6 +6119,7 @@ let sm9 = [
         "id": "sm9-90",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6604,10 +6160,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6622,10 +6175,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/90.png",
             "large": "https://images.pokemontcg.io/sm9/90_hires.png"
@@ -6635,6 +6185,7 @@ let sm9 = [
         "id": "sm9-91",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6684,10 +6235,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6702,10 +6250,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/91.png",
             "large": "https://images.pokemontcg.io/sm9/91_hires.png"
@@ -6715,6 +6260,7 @@ let sm9 = [
         "id": "sm9-92",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6764,10 +6310,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6782,10 +6325,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/92.png",
             "large": "https://images.pokemontcg.io/sm9/92_hires.png"
@@ -6795,6 +6335,7 @@ let sm9 = [
         "id": "sm9-93",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6844,10 +6385,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6862,10 +6400,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/93.png",
             "large": "https://images.pokemontcg.io/sm9/93_hires.png"
@@ -6875,6 +6410,7 @@ let sm9 = [
         "id": "sm9-94",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6927,10 +6463,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -6945,10 +6478,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             675
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/94.png",
             "large": "https://images.pokemontcg.io/sm9/94_hires.png"
@@ -6958,6 +6488,7 @@ let sm9 = [
         "id": "sm9-95",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7004,10 +6535,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7022,10 +6550,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/95.png",
             "large": "https://images.pokemontcg.io/sm9/95_hires.png"
@@ -7035,6 +6560,7 @@ let sm9 = [
         "id": "sm9-96",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -7098,10 +6624,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7115,10 +6638,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/96.png",
             "large": "https://images.pokemontcg.io/sm9/96_hires.png"
@@ -7128,6 +6648,7 @@ let sm9 = [
         "id": "sm9-97",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7190,10 +6711,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7207,10 +6725,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/97.png",
             "large": "https://images.pokemontcg.io/sm9/97_hires.png"
@@ -7220,6 +6735,7 @@ let sm9 = [
         "id": "sm9-98",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7269,10 +6785,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7287,10 +6800,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/98.png",
             "large": "https://images.pokemontcg.io/sm9/98_hires.png"
@@ -7300,6 +6810,7 @@ let sm9 = [
         "id": "sm9-99",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7345,10 +6856,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7363,10 +6871,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/99.png",
             "large": "https://images.pokemontcg.io/sm9/99_hires.png"
@@ -7376,6 +6881,7 @@ let sm9 = [
         "id": "sm9-100",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7424,10 +6930,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7442,10 +6945,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/100.png",
             "large": "https://images.pokemontcg.io/sm9/100_hires.png"
@@ -7455,6 +6955,7 @@ let sm9 = [
         "id": "sm9-101",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7502,10 +7003,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7520,10 +7018,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/101.png",
             "large": "https://images.pokemontcg.io/sm9/101_hires.png"
@@ -7533,6 +7028,7 @@ let sm9 = [
         "id": "sm9-102",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7573,10 +7069,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7591,10 +7084,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/102.png",
             "large": "https://images.pokemontcg.io/sm9/102_hires.png"
@@ -7604,6 +7094,7 @@ let sm9 = [
         "id": "sm9-103",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7653,10 +7144,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7671,10 +7159,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/103.png",
             "large": "https://images.pokemontcg.io/sm9/103_hires.png"
@@ -7684,6 +7169,7 @@ let sm9 = [
         "id": "sm9-104",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7734,10 +7220,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7752,10 +7235,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/104.png",
             "large": "https://images.pokemontcg.io/sm9/104_hires.png"
@@ -7765,6 +7245,7 @@ let sm9 = [
         "id": "sm9-105",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7814,10 +7295,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7832,10 +7310,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/105.png",
             "large": "https://images.pokemontcg.io/sm9/105_hires.png"
@@ -7845,6 +7320,7 @@ let sm9 = [
         "id": "sm9-106",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -7903,10 +7379,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7920,10 +7393,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/106.png",
             "large": "https://images.pokemontcg.io/sm9/106_hires.png"
@@ -7933,6 +7403,7 @@ let sm9 = [
         "id": "sm9-107",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7973,10 +7444,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -7991,10 +7459,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/107.png",
             "large": "https://images.pokemontcg.io/sm9/107_hires.png"
@@ -8004,6 +7469,7 @@ let sm9 = [
         "id": "sm9-108",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8046,10 +7512,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8064,10 +7527,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/108.png",
             "large": "https://images.pokemontcg.io/sm9/108_hires.png"
@@ -8077,6 +7537,7 @@ let sm9 = [
         "id": "sm9-109",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -8124,10 +7585,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8142,10 +7600,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/109.png",
             "large": "https://images.pokemontcg.io/sm9/109_hires.png"
@@ -8155,6 +7610,7 @@ let sm9 = [
         "id": "sm9-110",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8200,10 +7656,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8218,10 +7671,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             707
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/110.png",
             "large": "https://images.pokemontcg.io/sm9/110_hires.png"
@@ -8231,6 +7681,7 @@ let sm9 = [
         "id": "sm9-111",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8272,10 +7723,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8290,10 +7738,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/111.png",
             "large": "https://images.pokemontcg.io/sm9/111_hires.png"
@@ -8303,6 +7748,7 @@ let sm9 = [
         "id": "sm9-112",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8338,10 +7784,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8356,10 +7799,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/112.png",
             "large": "https://images.pokemontcg.io/sm9/112_hires.png"
@@ -8369,6 +7809,7 @@ let sm9 = [
         "id": "sm9-113",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -8417,10 +7858,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8435,10 +7873,7 @@ let sm9 = [
             380,
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/113.png",
             "large": "https://images.pokemontcg.io/sm9/113_hires.png"
@@ -8448,6 +7883,7 @@ let sm9 = [
         "id": "sm9-114",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8480,10 +7916,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8498,10 +7931,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/114.png",
             "large": "https://images.pokemontcg.io/sm9/114_hires.png"
@@ -8511,6 +7941,7 @@ let sm9 = [
         "id": "sm9-115",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8551,10 +7982,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8569,10 +7997,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/115.png",
             "large": "https://images.pokemontcg.io/sm9/115_hires.png"
@@ -8582,6 +8007,7 @@ let sm9 = [
         "id": "sm9-116",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8616,10 +8042,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8634,10 +8057,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/116.png",
             "large": "https://images.pokemontcg.io/sm9/116_hires.png"
@@ -8647,6 +8067,7 @@ let sm9 = [
         "id": "sm9-117",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8688,10 +8109,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8706,10 +8124,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/117.png",
             "large": "https://images.pokemontcg.io/sm9/117_hires.png"
@@ -8719,6 +8134,7 @@ let sm9 = [
         "id": "sm9-118",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8755,10 +8171,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8773,10 +8186,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/118.png",
             "large": "https://images.pokemontcg.io/sm9/118_hires.png"
@@ -8786,6 +8196,7 @@ let sm9 = [
         "id": "sm9-119",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -8827,10 +8238,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8845,10 +8253,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/119.png",
             "large": "https://images.pokemontcg.io/sm9/119_hires.png"
@@ -8858,6 +8263,7 @@ let sm9 = [
         "id": "sm9-120",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -8928,10 +8334,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -8946,10 +8349,7 @@ let sm9 = [
             133,
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/120.png",
             "large": "https://images.pokemontcg.io/sm9/120_hires.png"
@@ -8959,6 +8359,7 @@ let sm9 = [
         "id": "sm9-121",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9009,10 +8410,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9027,10 +8425,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/121.png",
             "large": "https://images.pokemontcg.io/sm9/121_hires.png"
@@ -9040,6 +8435,7 @@ let sm9 = [
         "id": "sm9-122",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9080,10 +8476,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9098,10 +8491,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/122.png",
             "large": "https://images.pokemontcg.io/sm9/122_hires.png"
@@ -9111,6 +8501,7 @@ let sm9 = [
         "id": "sm9-123",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -9160,10 +8551,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9178,10 +8566,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/123.png",
             "large": "https://images.pokemontcg.io/sm9/123_hires.png"
@@ -9191,6 +8576,7 @@ let sm9 = [
         "id": "sm9-124",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -9240,10 +8626,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9258,10 +8641,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/124.png",
             "large": "https://images.pokemontcg.io/sm9/124_hires.png"
@@ -9271,6 +8651,7 @@ let sm9 = [
         "id": "sm9-125",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9315,10 +8696,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9333,10 +8711,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/125.png",
             "large": "https://images.pokemontcg.io/sm9/125_hires.png"
@@ -9346,6 +8721,7 @@ let sm9 = [
         "id": "sm9-126",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -9388,10 +8764,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9406,10 +8779,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/126.png",
             "large": "https://images.pokemontcg.io/sm9/126_hires.png"
@@ -9419,6 +8789,7 @@ let sm9 = [
         "id": "sm9-127",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9468,10 +8839,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9486,10 +8854,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/127.png",
             "large": "https://images.pokemontcg.io/sm9/127_hires.png"
@@ -9499,6 +8864,7 @@ let sm9 = [
         "id": "sm9-128",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9541,10 +8907,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9559,10 +8922,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/128.png",
             "large": "https://images.pokemontcg.io/sm9/128_hires.png"
@@ -9572,6 +8932,7 @@ let sm9 = [
         "id": "sm9-129",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9604,10 +8965,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9622,10 +8980,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/129.png",
             "large": "https://images.pokemontcg.io/sm9/129_hires.png"
@@ -9635,6 +8990,7 @@ let sm9 = [
         "id": "sm9-130",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -9684,10 +9040,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9702,10 +9055,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/130.png",
             "large": "https://images.pokemontcg.io/sm9/130_hires.png"
@@ -9715,6 +9065,7 @@ let sm9 = [
         "id": "sm9-131",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9764,10 +9115,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9782,10 +9130,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/131.png",
             "large": "https://images.pokemontcg.io/sm9/131_hires.png"
@@ -9795,6 +9140,7 @@ let sm9 = [
         "id": "sm9-132",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9836,10 +9182,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9854,10 +9197,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/132.png",
             "large": "https://images.pokemontcg.io/sm9/132_hires.png"
@@ -9867,6 +9207,7 @@ let sm9 = [
         "id": "sm9-133",
         "name": "Bill's Analysis",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9880,10 +9221,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9894,10 +9232,7 @@ let sm9 = [
         "number": "133",
         "artist": "Naoki Saito",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/133.png",
             "large": "https://images.pokemontcg.io/sm9/133_hires.png"
@@ -9907,6 +9242,7 @@ let sm9 = [
         "id": "sm9-134",
         "name": "Black Market ◇",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -9923,10 +9259,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9937,10 +9270,7 @@ let sm9 = [
         "number": "134",
         "artist": "5ban Graphics",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/134.png",
             "large": "https://images.pokemontcg.io/sm9/134_hires.png"
@@ -9950,6 +9280,7 @@ let sm9 = [
         "id": "sm9-135",
         "name": "Brock's Grit",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9963,10 +9294,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -9977,10 +9305,7 @@ let sm9 = [
         "number": "135",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/135.png",
             "large": "https://images.pokemontcg.io/sm9/135_hires.png"
@@ -9990,6 +9315,7 @@ let sm9 = [
         "id": "sm9-136",
         "name": "Buff Padding",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10004,10 +9330,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10018,10 +9341,7 @@ let sm9 = [
         "number": "136",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/136.png",
             "large": "https://images.pokemontcg.io/sm9/136_hires.png"
@@ -10031,6 +9351,7 @@ let sm9 = [
         "id": "sm9-137",
         "name": "Dana",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10045,10 +9366,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10059,10 +9377,7 @@ let sm9 = [
         "number": "137",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/137.png",
             "large": "https://images.pokemontcg.io/sm9/137_hires.png"
@@ -10072,6 +9387,7 @@ let sm9 = [
         "id": "sm9-138",
         "name": "Dangerous Drill",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10086,10 +9402,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10100,10 +9413,7 @@ let sm9 = [
         "number": "138",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/138.png",
             "large": "https://images.pokemontcg.io/sm9/138_hires.png"
@@ -10113,6 +9423,7 @@ let sm9 = [
         "id": "sm9-139",
         "name": "Electrocharger",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10126,10 +9437,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10140,10 +9448,7 @@ let sm9 = [
         "number": "139",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/139.png",
             "large": "https://images.pokemontcg.io/sm9/139_hires.png"
@@ -10153,6 +9458,7 @@ let sm9 = [
         "id": "sm9-140",
         "name": "Erika's Hospitality",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10167,10 +9473,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10181,10 +9484,7 @@ let sm9 = [
         "number": "140",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/140.png",
             "large": "https://images.pokemontcg.io/sm9/140_hires.png"
@@ -10194,6 +9494,7 @@ let sm9 = [
         "id": "sm9-141",
         "name": "Evelyn",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10208,10 +9509,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10222,10 +9520,7 @@ let sm9 = [
         "number": "141",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/141.png",
             "large": "https://images.pokemontcg.io/sm9/141_hires.png"
@@ -10235,6 +9530,7 @@ let sm9 = [
         "id": "sm9-142",
         "name": "Fairy Charm UB",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10249,10 +9545,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10263,10 +9556,7 @@ let sm9 = [
         "number": "142",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/142.png",
             "large": "https://images.pokemontcg.io/sm9/142_hires.png"
@@ -10276,6 +9566,7 @@ let sm9 = [
         "id": "sm9-143",
         "name": "Grass Memory",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10290,10 +9581,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10304,10 +9592,7 @@ let sm9 = [
         "number": "143",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/143.png",
             "large": "https://images.pokemontcg.io/sm9/143_hires.png"
@@ -10317,6 +9602,7 @@ let sm9 = [
         "id": "sm9-144",
         "name": "Ingo & Emmet",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10330,10 +9616,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10344,10 +9627,7 @@ let sm9 = [
         "number": "144",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/144.png",
             "large": "https://images.pokemontcg.io/sm9/144_hires.png"
@@ -10357,6 +9637,7 @@ let sm9 = [
         "id": "sm9-145",
         "name": "Jasmine",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10370,10 +9651,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10384,10 +9662,7 @@ let sm9 = [
         "number": "145",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/145.png",
             "large": "https://images.pokemontcg.io/sm9/145_hires.png"
@@ -10397,6 +9672,7 @@ let sm9 = [
         "id": "sm9-146",
         "name": "Judge Whistle",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10410,10 +9686,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10424,10 +9697,7 @@ let sm9 = [
         "number": "146",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/146.png",
             "large": "https://images.pokemontcg.io/sm9/146_hires.png"
@@ -10437,6 +9707,7 @@ let sm9 = [
         "id": "sm9-147",
         "name": "Lavender Town",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium"
         ],
@@ -10450,10 +9721,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10464,10 +9732,7 @@ let sm9 = [
         "number": "147",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/147.png",
             "large": "https://images.pokemontcg.io/sm9/147_hires.png"
@@ -10477,6 +9742,7 @@ let sm9 = [
         "id": "sm9-148",
         "name": "Metal Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10491,10 +9757,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10505,10 +9768,7 @@ let sm9 = [
         "number": "148",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/148.png",
             "large": "https://images.pokemontcg.io/sm9/148_hires.png"
@@ -10518,6 +9778,7 @@ let sm9 = [
         "id": "sm9-149",
         "name": "Morgan",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10532,10 +9793,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10546,10 +9804,7 @@ let sm9 = [
         "number": "149",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/149.png",
             "large": "https://images.pokemontcg.io/sm9/149_hires.png"
@@ -10559,6 +9814,7 @@ let sm9 = [
         "id": "sm9-150",
         "name": "Nanu",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10572,10 +9828,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10586,10 +9839,7 @@ let sm9 = [
         "number": "150",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/150.png",
             "large": "https://images.pokemontcg.io/sm9/150_hires.png"
@@ -10599,6 +9849,7 @@ let sm9 = [
         "id": "sm9-151",
         "name": "Nita",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10613,10 +9864,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10627,10 +9875,7 @@ let sm9 = [
         "number": "151",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/151.png",
             "large": "https://images.pokemontcg.io/sm9/151_hires.png"
@@ -10640,6 +9885,7 @@ let sm9 = [
         "id": "sm9-152",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10653,10 +9899,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10667,10 +9910,7 @@ let sm9 = [
         "number": "152",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/152.png",
             "large": "https://images.pokemontcg.io/sm9/152_hires.png"
@@ -10680,6 +9920,7 @@ let sm9 = [
         "id": "sm9-152a",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10693,10 +9934,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10707,10 +9945,7 @@ let sm9 = [
         "number": "152a",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/152a.png",
             "large": "https://images.pokemontcg.io/sm9/152a_hires.png"
@@ -10720,6 +9955,7 @@ let sm9 = [
         "id": "sm9-152b",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10733,10 +9969,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10747,10 +9980,7 @@ let sm9 = [
         "number": "152b",
         "artist": "OOYAMA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/152b.png",
             "large": "https://images.pokemontcg.io/sm9/152b_hires.png"
@@ -10760,6 +9990,7 @@ let sm9 = [
         "id": "sm9-153",
         "name": "Return Label",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10773,10 +10004,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10787,10 +10015,7 @@ let sm9 = [
         "number": "153",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/153.png",
             "large": "https://images.pokemontcg.io/sm9/153_hires.png"
@@ -10800,6 +10025,7 @@ let sm9 = [
         "id": "sm9-154",
         "name": "Sabrina's Suggestion",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -10813,10 +10039,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10827,10 +10050,7 @@ let sm9 = [
         "number": "154",
         "artist": "Hitoshi Ariga",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/154.png",
             "large": "https://images.pokemontcg.io/sm9/154_hires.png"
@@ -10840,6 +10060,7 @@ let sm9 = [
         "id": "sm9-155",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -10855,10 +10076,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10869,10 +10087,7 @@ let sm9 = [
         "number": "155",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/155.png",
             "large": "https://images.pokemontcg.io/sm9/155_hires.png"
@@ -10882,6 +10097,7 @@ let sm9 = [
         "id": "sm9-156",
         "name": "Viridian Forest",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium"
         ],
@@ -10895,10 +10111,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10909,10 +10122,7 @@ let sm9 = [
         "number": "156",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/156.png",
             "large": "https://images.pokemontcg.io/sm9/156_hires.png"
@@ -10922,6 +10132,7 @@ let sm9 = [
         "id": "sm9-157",
         "name": "Water Memory",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10936,10 +10147,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10950,10 +10158,7 @@ let sm9 = [
         "number": "157",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/157.png",
             "large": "https://images.pokemontcg.io/sm9/157_hires.png"
@@ -10963,6 +10168,7 @@ let sm9 = [
         "id": "sm9-158",
         "name": "Wondrous Labyrinth ◇",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -10979,10 +10185,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -10993,10 +10196,7 @@ let sm9 = [
         "number": "158",
         "artist": "5ban Graphics",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/158.png",
             "large": "https://images.pokemontcg.io/sm9/158_hires.png"
@@ -11006,6 +10206,7 @@ let sm9 = [
         "id": "sm9-159",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11068,10 +10269,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11086,10 +10284,7 @@ let sm9 = [
             3,
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/159.png",
             "large": "https://images.pokemontcg.io/sm9/159_hires.png"
@@ -11099,6 +10294,7 @@ let sm9 = [
         "id": "sm9-160",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11151,10 +10347,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11169,10 +10362,7 @@ let sm9 = [
             129,
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/160.png",
             "large": "https://images.pokemontcg.io/sm9/160_hires.png"
@@ -11182,6 +10372,7 @@ let sm9 = [
         "id": "sm9-161",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11234,10 +10425,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11252,10 +10440,7 @@ let sm9 = [
             129,
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/161.png",
             "large": "https://images.pokemontcg.io/sm9/161_hires.png"
@@ -11265,6 +10450,7 @@ let sm9 = [
         "id": "sm9-162",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11323,10 +10509,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11341,10 +10524,7 @@ let sm9 = [
             25,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/162.png",
             "large": "https://images.pokemontcg.io/sm9/162_hires.png"
@@ -11354,6 +10534,7 @@ let sm9 = [
         "id": "sm9-163",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11415,10 +10596,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11432,10 +10610,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/163.png",
             "large": "https://images.pokemontcg.io/sm9/163_hires.png"
@@ -11445,6 +10620,7 @@ let sm9 = [
         "id": "sm9-164",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11497,10 +10673,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11515,10 +10688,7 @@ let sm9 = [
             94,
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/164.png",
             "large": "https://images.pokemontcg.io/sm9/164_hires.png"
@@ -11528,6 +10698,7 @@ let sm9 = [
         "id": "sm9-165",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11580,10 +10751,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11598,10 +10766,7 @@ let sm9 = [
             94,
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/165.png",
             "large": "https://images.pokemontcg.io/sm9/165_hires.png"
@@ -11611,6 +10776,7 @@ let sm9 = [
         "id": "sm9-166",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -11674,10 +10840,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11691,10 +10854,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/166.png",
             "large": "https://images.pokemontcg.io/sm9/166_hires.png"
@@ -11704,6 +10864,7 @@ let sm9 = [
         "id": "sm9-167",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11766,10 +10927,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11783,10 +10941,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/167.png",
             "large": "https://images.pokemontcg.io/sm9/167_hires.png"
@@ -11796,6 +10951,7 @@ let sm9 = [
         "id": "sm9-168",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -11854,10 +11010,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11871,10 +11024,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/168.png",
             "large": "https://images.pokemontcg.io/sm9/168_hires.png"
@@ -11884,6 +11034,7 @@ let sm9 = [
         "id": "sm9-169",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11932,10 +11083,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -11950,10 +11098,7 @@ let sm9 = [
             380,
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/169.png",
             "large": "https://images.pokemontcg.io/sm9/169_hires.png"
@@ -11963,6 +11108,7 @@ let sm9 = [
         "id": "sm9-170",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12011,10 +11157,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12029,10 +11172,7 @@ let sm9 = [
             380,
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/170.png",
             "large": "https://images.pokemontcg.io/sm9/170_hires.png"
@@ -12042,6 +11182,7 @@ let sm9 = [
         "id": "sm9-171",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12112,10 +11253,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12130,10 +11268,7 @@ let sm9 = [
             133,
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/171.png",
             "large": "https://images.pokemontcg.io/sm9/171_hires.png"
@@ -12143,6 +11278,7 @@ let sm9 = [
         "id": "sm9-172",
         "name": "Brock's Grit",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12156,10 +11292,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12170,10 +11303,7 @@ let sm9 = [
         "number": "172",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/172.png",
             "large": "https://images.pokemontcg.io/sm9/172_hires.png"
@@ -12183,6 +11313,7 @@ let sm9 = [
         "id": "sm9-173",
         "name": "Dana",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12197,10 +11328,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12211,10 +11339,7 @@ let sm9 = [
         "number": "173",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/173.png",
             "large": "https://images.pokemontcg.io/sm9/173_hires.png"
@@ -12224,6 +11349,7 @@ let sm9 = [
         "id": "sm9-174",
         "name": "Erika's Hospitality",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12238,10 +11364,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12252,10 +11375,7 @@ let sm9 = [
         "number": "174",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/174.png",
             "large": "https://images.pokemontcg.io/sm9/174_hires.png"
@@ -12265,6 +11385,7 @@ let sm9 = [
         "id": "sm9-175",
         "name": "Evelyn",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12279,10 +11400,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12293,10 +11411,7 @@ let sm9 = [
         "number": "175",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/175.png",
             "large": "https://images.pokemontcg.io/sm9/175_hires.png"
@@ -12306,6 +11421,7 @@ let sm9 = [
         "id": "sm9-176",
         "name": "Ingo & Emmet",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12319,10 +11435,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12333,10 +11446,7 @@ let sm9 = [
         "number": "176",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/176.png",
             "large": "https://images.pokemontcg.io/sm9/176_hires.png"
@@ -12346,6 +11456,7 @@ let sm9 = [
         "id": "sm9-177",
         "name": "Jasmine",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12359,10 +11470,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12373,10 +11481,7 @@ let sm9 = [
         "number": "177",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/177.png",
             "large": "https://images.pokemontcg.io/sm9/177_hires.png"
@@ -12386,6 +11491,7 @@ let sm9 = [
         "id": "sm9-178",
         "name": "Morgan",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12400,10 +11506,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12414,10 +11517,7 @@ let sm9 = [
         "number": "178",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/178.png",
             "large": "https://images.pokemontcg.io/sm9/178_hires.png"
@@ -12427,6 +11527,7 @@ let sm9 = [
         "id": "sm9-179",
         "name": "Nanu",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12440,10 +11541,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12454,10 +11552,7 @@ let sm9 = [
         "number": "179",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/179.png",
             "large": "https://images.pokemontcg.io/sm9/179_hires.png"
@@ -12467,6 +11562,7 @@ let sm9 = [
         "id": "sm9-180",
         "name": "Nita",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12481,10 +11577,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12495,10 +11588,7 @@ let sm9 = [
         "number": "180",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/180.png",
             "large": "https://images.pokemontcg.io/sm9/180_hires.png"
@@ -12508,6 +11598,7 @@ let sm9 = [
         "id": "sm9-181",
         "name": "Sabrina's Suggestion",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -12521,10 +11612,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12535,10 +11623,7 @@ let sm9 = [
         "number": "181",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/181.png",
             "large": "https://images.pokemontcg.io/sm9/181_hires.png"
@@ -12548,6 +11633,7 @@ let sm9 = [
         "id": "sm9-182",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12610,10 +11696,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12628,10 +11711,7 @@ let sm9 = [
             3,
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/182.png",
             "large": "https://images.pokemontcg.io/sm9/182_hires.png"
@@ -12641,6 +11721,7 @@ let sm9 = [
         "id": "sm9-183",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12693,10 +11774,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12711,10 +11789,7 @@ let sm9 = [
             129,
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/183.png",
             "large": "https://images.pokemontcg.io/sm9/183_hires.png"
@@ -12724,6 +11799,7 @@ let sm9 = [
         "id": "sm9-184",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12782,10 +11858,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12800,10 +11873,7 @@ let sm9 = [
             25,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/184.png",
             "large": "https://images.pokemontcg.io/sm9/184_hires.png"
@@ -12813,6 +11883,7 @@ let sm9 = [
         "id": "sm9-185",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -12874,10 +11945,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12891,10 +11959,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/185.png",
             "large": "https://images.pokemontcg.io/sm9/185_hires.png"
@@ -12904,6 +11969,7 @@ let sm9 = [
         "id": "sm9-186",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12956,10 +12022,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -12974,10 +12037,7 @@ let sm9 = [
             94,
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/186.png",
             "large": "https://images.pokemontcg.io/sm9/186_hires.png"
@@ -12987,6 +12047,7 @@ let sm9 = [
         "id": "sm9-187",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -13050,10 +12111,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13067,10 +12125,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/187.png",
             "large": "https://images.pokemontcg.io/sm9/187_hires.png"
@@ -13080,6 +12135,7 @@ let sm9 = [
         "id": "sm9-188",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -13142,10 +12198,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13159,10 +12212,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/188.png",
             "large": "https://images.pokemontcg.io/sm9/188_hires.png"
@@ -13172,6 +12222,7 @@ let sm9 = [
         "id": "sm9-189",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -13230,10 +12281,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13247,10 +12295,7 @@ let sm9 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/189.png",
             "large": "https://images.pokemontcg.io/sm9/189_hires.png"
@@ -13260,6 +12305,7 @@ let sm9 = [
         "id": "sm9-190",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13308,10 +12354,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13326,10 +12369,7 @@ let sm9 = [
             380,
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/190.png",
             "large": "https://images.pokemontcg.io/sm9/190_hires.png"
@@ -13339,6 +12379,7 @@ let sm9 = [
         "id": "sm9-191",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13409,10 +12450,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13427,10 +12465,7 @@ let sm9 = [
             133,
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/191.png",
             "large": "https://images.pokemontcg.io/sm9/191_hires.png"
@@ -13440,6 +12475,7 @@ let sm9 = [
         "id": "sm9-192",
         "name": "Dangerous Drill",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -13454,10 +12490,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13468,10 +12501,7 @@ let sm9 = [
         "number": "192",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/192.png",
             "large": "https://images.pokemontcg.io/sm9/192_hires.png"
@@ -13481,6 +12511,7 @@ let sm9 = [
         "id": "sm9-193",
         "name": "Electrocharger",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -13494,10 +12525,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13508,10 +12536,7 @@ let sm9 = [
         "number": "193",
         "artist": "Eske Yoshinob",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/193.png",
             "large": "https://images.pokemontcg.io/sm9/193_hires.png"
@@ -13521,6 +12546,7 @@ let sm9 = [
         "id": "sm9-194",
         "name": "Judge Whistle",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -13534,10 +12560,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13548,10 +12571,7 @@ let sm9 = [
         "number": "194",
         "artist": "Ayaka Yoshida",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/194.png",
             "large": "https://images.pokemontcg.io/sm9/194_hires.png"
@@ -13561,6 +12581,7 @@ let sm9 = [
         "id": "sm9-195",
         "name": "Metal Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13575,10 +12596,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13589,10 +12607,7 @@ let sm9 = [
         "number": "195",
         "artist": "Yoshinobu Saito",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/195.png",
             "large": "https://images.pokemontcg.io/sm9/195_hires.png"
@@ -13602,6 +12617,7 @@ let sm9 = [
         "id": "sm9-196",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -13615,10 +12631,7 @@ let sm9 = [
             "series": "Sun & Moon",
             "printedTotal": 181,
             "total": 198,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "TEU",
             "releaseDate": "2019/02/01",
             "images": {
@@ -13629,10 +12642,7 @@ let sm9 = [
         "number": "196",
         "artist": "Ayaka Yoshida",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm9/196.png",
             "large": "https://images.pokemontcg.io/sm9/196_hires.png"
@@ -13641,6 +12651,7 @@ let sm9 = [
     {
         "id": "sm9-grass",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13652,6 +12663,7 @@ let sm9 = [
     {
         "id": "sm9-fire",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13663,6 +12675,7 @@ let sm9 = [
     {
         "id": "sm9-water",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13674,6 +12687,7 @@ let sm9 = [
     {
         "id": "sm9-lightning",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13685,6 +12699,7 @@ let sm9 = [
     {
         "id": "sm9-fighting",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13696,6 +12711,7 @@ let sm9 = [
     {
         "id": "sm9-psychic",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13707,6 +12723,7 @@ let sm9 = [
     {
         "id": "sm9-dark",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13718,6 +12735,7 @@ let sm9 = [
     {
         "id": "sm9-metal",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -13729,6 +12747,7 @@ let sm9 = [
     {
         "id": "sm9-fairy",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],

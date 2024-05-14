@@ -1,8 +1,9 @@
-let expedition = [
+let ecard1 = [
     {
         "id": "ecard1-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -60,9 +59,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/1.png",
             "large": "https://images.pokemontcg.io/ecard1/1_hires.png"
@@ -72,6 +69,7 @@ let expedition = [
         "id": "ecard1-2",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -114,9 +112,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -130,9 +126,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/2.png",
             "large": "https://images.pokemontcg.io/ecard1/2_hires.png"
@@ -142,6 +136,7 @@ let expedition = [
         "id": "ecard1-3",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -184,9 +179,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -200,9 +193,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/3.png",
             "large": "https://images.pokemontcg.io/ecard1/3_hires.png"
@@ -212,6 +203,7 @@ let expedition = [
         "id": "ecard1-4",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -253,9 +245,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -269,9 +259,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/4.png",
             "large": "https://images.pokemontcg.io/ecard1/4_hires.png"
@@ -281,6 +269,7 @@ let expedition = [
         "id": "ecard1-5",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -321,9 +310,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -337,9 +324,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/5.png",
             "large": "https://images.pokemontcg.io/ecard1/5_hires.png"
@@ -349,6 +334,7 @@ let expedition = [
         "id": "ecard1-6",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -391,9 +377,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -407,9 +391,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/6.png",
             "large": "https://images.pokemontcg.io/ecard1/6_hires.png"
@@ -419,6 +401,7 @@ let expedition = [
         "id": "ecard1-7",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -459,9 +442,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -475,9 +456,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/7.png",
             "large": "https://images.pokemontcg.io/ecard1/7_hires.png"
@@ -487,6 +466,7 @@ let expedition = [
         "id": "ecard1-8",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -531,9 +511,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -547,9 +525,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/8.png",
             "large": "https://images.pokemontcg.io/ecard1/8_hires.png"
@@ -559,6 +535,7 @@ let expedition = [
         "id": "ecard1-9",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -594,9 +571,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -610,9 +585,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/9.png",
             "large": "https://images.pokemontcg.io/ecard1/9_hires.png"
@@ -622,6 +595,7 @@ let expedition = [
         "id": "ecard1-10",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -671,9 +645,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -687,9 +659,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/10.png",
             "large": "https://images.pokemontcg.io/ecard1/10_hires.png"
@@ -699,6 +669,7 @@ let expedition = [
         "id": "ecard1-11",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -748,9 +719,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -764,9 +733,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/11.png",
             "large": "https://images.pokemontcg.io/ecard1/11_hires.png"
@@ -776,6 +743,7 @@ let expedition = [
         "id": "ecard1-12",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -818,9 +786,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -834,9 +800,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/12.png",
             "large": "https://images.pokemontcg.io/ecard1/12_hires.png"
@@ -846,6 +810,7 @@ let expedition = [
         "id": "ecard1-13",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -893,9 +858,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -909,9 +872,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/13.png",
             "large": "https://images.pokemontcg.io/ecard1/13_hires.png"
@@ -921,6 +882,7 @@ let expedition = [
         "id": "ecard1-14",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -963,9 +925,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -979,9 +939,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/14.png",
             "large": "https://images.pokemontcg.io/ecard1/14_hires.png"
@@ -991,6 +949,7 @@ let expedition = [
         "id": "ecard1-15",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1034,9 +993,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1050,9 +1007,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/15.png",
             "large": "https://images.pokemontcg.io/ecard1/15_hires.png"
@@ -1062,6 +1017,7 @@ let expedition = [
         "id": "ecard1-16",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1104,9 +1060,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1120,9 +1074,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/16.png",
             "large": "https://images.pokemontcg.io/ecard1/16_hires.png"
@@ -1132,6 +1084,7 @@ let expedition = [
         "id": "ecard1-17",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -1163,9 +1116,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1179,9 +1130,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/17.png",
             "large": "https://images.pokemontcg.io/ecard1/17_hires.png"
@@ -1191,6 +1140,7 @@ let expedition = [
         "id": "ecard1-18",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1239,9 +1189,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1255,9 +1203,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/18.png",
             "large": "https://images.pokemontcg.io/ecard1/18_hires.png"
@@ -1267,6 +1213,7 @@ let expedition = [
         "id": "ecard1-19",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1299,9 +1246,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1315,9 +1260,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/19.png",
             "large": "https://images.pokemontcg.io/ecard1/19_hires.png"
@@ -1327,6 +1270,7 @@ let expedition = [
         "id": "ecard1-20",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1369,9 +1313,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1385,9 +1327,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/20.png",
             "large": "https://images.pokemontcg.io/ecard1/20_hires.png"
@@ -1397,6 +1337,7 @@ let expedition = [
         "id": "ecard1-21",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1441,9 +1382,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1457,9 +1396,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/21.png",
             "large": "https://images.pokemontcg.io/ecard1/21_hires.png"
@@ -1469,6 +1406,7 @@ let expedition = [
         "id": "ecard1-22",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -1501,9 +1439,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1517,9 +1453,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/22.png",
             "large": "https://images.pokemontcg.io/ecard1/22_hires.png"
@@ -1529,6 +1463,7 @@ let expedition = [
         "id": "ecard1-23",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1575,9 +1510,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1591,9 +1524,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/23.png",
             "large": "https://images.pokemontcg.io/ecard1/23_hires.png"
@@ -1603,6 +1534,7 @@ let expedition = [
         "id": "ecard1-24",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1645,9 +1577,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1661,9 +1591,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/24.png",
             "large": "https://images.pokemontcg.io/ecard1/24_hires.png"
@@ -1673,6 +1601,7 @@ let expedition = [
         "id": "ecard1-25",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1716,9 +1645,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1732,9 +1659,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/25.png",
             "large": "https://images.pokemontcg.io/ecard1/25_hires.png"
@@ -1744,6 +1669,7 @@ let expedition = [
         "id": "ecard1-26",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1787,9 +1713,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1803,9 +1727,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/26.png",
             "large": "https://images.pokemontcg.io/ecard1/26_hires.png"
@@ -1815,6 +1737,7 @@ let expedition = [
         "id": "ecard1-27",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1864,9 +1787,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1880,9 +1801,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/27.png",
             "large": "https://images.pokemontcg.io/ecard1/27_hires.png"
@@ -1892,6 +1811,7 @@ let expedition = [
         "id": "ecard1-28",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1934,9 +1854,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1950,9 +1868,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/28.png",
             "large": "https://images.pokemontcg.io/ecard1/28_hires.png"
@@ -1962,6 +1878,7 @@ let expedition = [
         "id": "ecard1-29",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2010,9 +1927,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2026,9 +1941,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/29.png",
             "large": "https://images.pokemontcg.io/ecard1/29_hires.png"
@@ -2038,6 +1951,7 @@ let expedition = [
         "id": "ecard1-30",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2080,9 +1994,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2096,9 +2008,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/30.png",
             "large": "https://images.pokemontcg.io/ecard1/30_hires.png"
@@ -2108,6 +2018,7 @@ let expedition = [
         "id": "ecard1-31",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2148,9 +2059,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2164,9 +2073,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/31.png",
             "large": "https://images.pokemontcg.io/ecard1/31_hires.png"
@@ -2176,6 +2083,7 @@ let expedition = [
         "id": "ecard1-32",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2220,9 +2128,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2236,9 +2142,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/32.png",
             "large": "https://images.pokemontcg.io/ecard1/32_hires.png"
@@ -2248,6 +2152,7 @@ let expedition = [
         "id": "ecard1-33",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2289,9 +2194,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2305,9 +2208,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/33.png",
             "large": "https://images.pokemontcg.io/ecard1/33_hires.png"
@@ -2317,6 +2218,7 @@ let expedition = [
         "id": "ecard1-34",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2359,9 +2261,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2375,9 +2275,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/34.png",
             "large": "https://images.pokemontcg.io/ecard1/34_hires.png"
@@ -2387,6 +2285,7 @@ let expedition = [
         "id": "ecard1-35",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2429,9 +2328,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2445,9 +2342,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/35.png",
             "large": "https://images.pokemontcg.io/ecard1/35_hires.png"
@@ -2457,6 +2352,7 @@ let expedition = [
         "id": "ecard1-36",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2500,9 +2396,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2516,9 +2410,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/36.png",
             "large": "https://images.pokemontcg.io/ecard1/36_hires.png"
@@ -2528,6 +2420,7 @@ let expedition = [
         "id": "ecard1-37",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2569,9 +2462,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2585,9 +2476,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/37.png",
             "large": "https://images.pokemontcg.io/ecard1/37_hires.png"
@@ -2597,6 +2486,7 @@ let expedition = [
         "id": "ecard1-38",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2637,9 +2527,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2653,9 +2541,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/38.png",
             "large": "https://images.pokemontcg.io/ecard1/38_hires.png"
@@ -2665,6 +2551,7 @@ let expedition = [
         "id": "ecard1-39",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2708,9 +2595,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2724,9 +2609,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/39.png",
             "large": "https://images.pokemontcg.io/ecard1/39_hires.png"
@@ -2736,6 +2619,7 @@ let expedition = [
         "id": "ecard1-40",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2778,9 +2662,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2794,9 +2676,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/40.png",
             "large": "https://images.pokemontcg.io/ecard1/40_hires.png"
@@ -2806,6 +2686,7 @@ let expedition = [
         "id": "ecard1-41",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2846,9 +2727,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2862,9 +2741,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/41.png",
             "large": "https://images.pokemontcg.io/ecard1/41_hires.png"
@@ -2874,6 +2751,7 @@ let expedition = [
         "id": "ecard1-42",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2918,9 +2796,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2934,9 +2810,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/42.png",
             "large": "https://images.pokemontcg.io/ecard1/42_hires.png"
@@ -2946,6 +2820,7 @@ let expedition = [
         "id": "ecard1-43",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2981,9 +2856,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2997,9 +2870,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/43.png",
             "large": "https://images.pokemontcg.io/ecard1/43_hires.png"
@@ -3009,6 +2880,7 @@ let expedition = [
         "id": "ecard1-44",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3058,9 +2930,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3074,9 +2944,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/44.png",
             "large": "https://images.pokemontcg.io/ecard1/44_hires.png"
@@ -3086,6 +2954,7 @@ let expedition = [
         "id": "ecard1-45",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3135,9 +3004,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3151,9 +3018,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/45.png",
             "large": "https://images.pokemontcg.io/ecard1/45_hires.png"
@@ -3163,6 +3028,7 @@ let expedition = [
         "id": "ecard1-46",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3206,9 +3072,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3222,9 +3086,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/46.png",
             "large": "https://images.pokemontcg.io/ecard1/46_hires.png"
@@ -3234,6 +3096,7 @@ let expedition = [
         "id": "ecard1-47",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3276,9 +3139,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3292,9 +3153,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/47.png",
             "large": "https://images.pokemontcg.io/ecard1/47_hires.png"
@@ -3304,6 +3163,7 @@ let expedition = [
         "id": "ecard1-48",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3351,9 +3211,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3367,9 +3225,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/48.png",
             "large": "https://images.pokemontcg.io/ecard1/48_hires.png"
@@ -3379,6 +3235,7 @@ let expedition = [
         "id": "ecard1-49",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3421,9 +3278,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3437,9 +3292,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/49.png",
             "large": "https://images.pokemontcg.io/ecard1/49_hires.png"
@@ -3449,6 +3302,7 @@ let expedition = [
         "id": "ecard1-50",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3492,9 +3346,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3508,9 +3360,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/50.png",
             "large": "https://images.pokemontcg.io/ecard1/50_hires.png"
@@ -3520,6 +3370,7 @@ let expedition = [
         "id": "ecard1-51",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3562,9 +3413,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3578,9 +3427,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/51.png",
             "large": "https://images.pokemontcg.io/ecard1/51_hires.png"
@@ -3590,6 +3437,7 @@ let expedition = [
         "id": "ecard1-52",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -3622,9 +3470,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3638,9 +3484,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/52.png",
             "large": "https://images.pokemontcg.io/ecard1/52_hires.png"
@@ -3650,6 +3494,7 @@ let expedition = [
         "id": "ecard1-53",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3699,9 +3544,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3715,9 +3558,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/53.png",
             "large": "https://images.pokemontcg.io/ecard1/53_hires.png"
@@ -3727,6 +3568,7 @@ let expedition = [
         "id": "ecard1-54",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3775,9 +3617,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3791,9 +3631,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/54.png",
             "large": "https://images.pokemontcg.io/ecard1/54_hires.png"
@@ -3803,6 +3641,7 @@ let expedition = [
         "id": "ecard1-55",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -3835,9 +3674,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3851,9 +3688,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/55.png",
             "large": "https://images.pokemontcg.io/ecard1/55_hires.png"
@@ -3863,6 +3698,7 @@ let expedition = [
         "id": "ecard1-56",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -3905,9 +3741,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3921,9 +3755,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/56.png",
             "large": "https://images.pokemontcg.io/ecard1/56_hires.png"
@@ -3933,6 +3765,7 @@ let expedition = [
         "id": "ecard1-57",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3977,9 +3810,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3993,9 +3824,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/57.png",
             "large": "https://images.pokemontcg.io/ecard1/57_hires.png"
@@ -4005,6 +3834,7 @@ let expedition = [
         "id": "ecard1-58",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -4036,9 +3866,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4052,9 +3880,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/58.png",
             "large": "https://images.pokemontcg.io/ecard1/58_hires.png"
@@ -4064,6 +3890,7 @@ let expedition = [
         "id": "ecard1-59",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4110,9 +3937,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4126,9 +3951,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/59.png",
             "large": "https://images.pokemontcg.io/ecard1/59_hires.png"
@@ -4138,6 +3961,7 @@ let expedition = [
         "id": "ecard1-60",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4180,9 +4004,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4196,9 +4018,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/60.png",
             "large": "https://images.pokemontcg.io/ecard1/60_hires.png"
@@ -4208,6 +4028,7 @@ let expedition = [
         "id": "ecard1-61",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4251,9 +4072,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4267,9 +4086,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/61.png",
             "large": "https://images.pokemontcg.io/ecard1/61_hires.png"
@@ -4279,6 +4096,7 @@ let expedition = [
         "id": "ecard1-62",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4322,9 +4140,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4338,9 +4154,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/62.png",
             "large": "https://images.pokemontcg.io/ecard1/62_hires.png"
@@ -4350,6 +4164,7 @@ let expedition = [
         "id": "ecard1-63",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -4399,9 +4214,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4415,9 +4228,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/63.png",
             "large": "https://images.pokemontcg.io/ecard1/63_hires.png"
@@ -4427,6 +4238,7 @@ let expedition = [
         "id": "ecard1-64",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4470,9 +4282,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4486,9 +4296,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/64.png",
             "large": "https://images.pokemontcg.io/ecard1/64_hires.png"
@@ -4498,6 +4306,7 @@ let expedition = [
         "id": "ecard1-65",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4540,9 +4349,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4556,9 +4363,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/65.png",
             "large": "https://images.pokemontcg.io/ecard1/65_hires.png"
@@ -4568,6 +4373,7 @@ let expedition = [
         "id": "ecard1-66",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4616,9 +4422,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4632,9 +4436,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/66.png",
             "large": "https://images.pokemontcg.io/ecard1/66_hires.png"
@@ -4644,6 +4446,7 @@ let expedition = [
         "id": "ecard1-67",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4687,9 +4490,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4703,9 +4504,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/67.png",
             "large": "https://images.pokemontcg.io/ecard1/67_hires.png"
@@ -4715,6 +4514,7 @@ let expedition = [
         "id": "ecard1-68",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4757,9 +4557,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4773,9 +4571,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/68.png",
             "large": "https://images.pokemontcg.io/ecard1/68_hires.png"
@@ -4785,6 +4581,7 @@ let expedition = [
         "id": "ecard1-69",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4825,9 +4622,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4841,9 +4636,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/69.png",
             "large": "https://images.pokemontcg.io/ecard1/69_hires.png"
@@ -4853,6 +4646,7 @@ let expedition = [
         "id": "ecard1-70",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4897,9 +4691,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4913,9 +4705,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/70.png",
             "large": "https://images.pokemontcg.io/ecard1/70_hires.png"
@@ -4925,6 +4715,7 @@ let expedition = [
         "id": "ecard1-71",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4976,9 +4767,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4992,9 +4781,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/71.png",
             "large": "https://images.pokemontcg.io/ecard1/71_hires.png"
@@ -5004,6 +4791,7 @@ let expedition = [
         "id": "ecard1-72",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5050,9 +4838,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5066,9 +4852,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/72.png",
             "large": "https://images.pokemontcg.io/ecard1/72_hires.png"
@@ -5078,6 +4862,7 @@ let expedition = [
         "id": "ecard1-73",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5125,9 +4910,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5141,9 +4924,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/73.png",
             "large": "https://images.pokemontcg.io/ecard1/73_hires.png"
@@ -5153,6 +4934,7 @@ let expedition = [
         "id": "ecard1-74",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5200,9 +4982,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5216,9 +4996,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/74.png",
             "large": "https://images.pokemontcg.io/ecard1/74_hires.png"
@@ -5228,6 +5006,7 @@ let expedition = [
         "id": "ecard1-75",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5258,9 +5037,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5274,9 +5051,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/75.png",
             "large": "https://images.pokemontcg.io/ecard1/75_hires.png"
@@ -5286,6 +5061,7 @@ let expedition = [
         "id": "ecard1-76",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5330,9 +5106,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5346,9 +5120,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/76.png",
             "large": "https://images.pokemontcg.io/ecard1/76_hires.png"
@@ -5358,6 +5130,7 @@ let expedition = [
         "id": "ecard1-77",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5405,9 +5178,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5421,9 +5192,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/77.png",
             "large": "https://images.pokemontcg.io/ecard1/77_hires.png"
@@ -5433,6 +5202,7 @@ let expedition = [
         "id": "ecard1-78",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5481,9 +5251,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5497,9 +5265,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/78.png",
             "large": "https://images.pokemontcg.io/ecard1/78_hires.png"
@@ -5509,6 +5275,7 @@ let expedition = [
         "id": "ecard1-79",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5556,9 +5323,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5572,9 +5337,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/79.png",
             "large": "https://images.pokemontcg.io/ecard1/79_hires.png"
@@ -5584,6 +5347,7 @@ let expedition = [
         "id": "ecard1-80",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5636,9 +5400,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5652,9 +5414,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/80.png",
             "large": "https://images.pokemontcg.io/ecard1/80_hires.png"
@@ -5664,6 +5424,7 @@ let expedition = [
         "id": "ecard1-81",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5706,9 +5467,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5722,9 +5481,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/81.png",
             "large": "https://images.pokemontcg.io/ecard1/81_hires.png"
@@ -5734,6 +5491,7 @@ let expedition = [
         "id": "ecard1-82",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5781,9 +5539,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5797,9 +5553,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/82.png",
             "large": "https://images.pokemontcg.io/ecard1/82_hires.png"
@@ -5809,6 +5563,7 @@ let expedition = [
         "id": "ecard1-83",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5852,9 +5607,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5868,9 +5621,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/83.png",
             "large": "https://images.pokemontcg.io/ecard1/83_hires.png"
@@ -5880,6 +5631,7 @@ let expedition = [
         "id": "ecard1-84",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5925,9 +5677,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5941,9 +5691,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/84.png",
             "large": "https://images.pokemontcg.io/ecard1/84_hires.png"
@@ -5953,6 +5701,7 @@ let expedition = [
         "id": "ecard1-85",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6000,9 +5749,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6016,9 +5763,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/85.png",
             "large": "https://images.pokemontcg.io/ecard1/85_hires.png"
@@ -6028,6 +5773,7 @@ let expedition = [
         "id": "ecard1-86",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6074,9 +5820,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6090,9 +5834,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/86.png",
             "large": "https://images.pokemontcg.io/ecard1/86_hires.png"
@@ -6102,6 +5844,7 @@ let expedition = [
         "id": "ecard1-87",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6144,9 +5887,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6160,9 +5901,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/87.png",
             "large": "https://images.pokemontcg.io/ecard1/87_hires.png"
@@ -6172,6 +5911,7 @@ let expedition = [
         "id": "ecard1-88",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6213,9 +5953,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6229,9 +5967,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/88.png",
             "large": "https://images.pokemontcg.io/ecard1/88_hires.png"
@@ -6241,6 +5977,7 @@ let expedition = [
         "id": "ecard1-89",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6289,9 +6026,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6305,9 +6040,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/89.png",
             "large": "https://images.pokemontcg.io/ecard1/89_hires.png"
@@ -6317,6 +6050,7 @@ let expedition = [
         "id": "ecard1-90",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6352,9 +6086,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6368,9 +6100,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/90.png",
             "large": "https://images.pokemontcg.io/ecard1/90_hires.png"
@@ -6380,6 +6110,7 @@ let expedition = [
         "id": "ecard1-91",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6427,9 +6158,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6443,9 +6172,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/91.png",
             "large": "https://images.pokemontcg.io/ecard1/91_hires.png"
@@ -6455,6 +6182,7 @@ let expedition = [
         "id": "ecard1-92",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6500,9 +6228,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6516,9 +6242,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/92.png",
             "large": "https://images.pokemontcg.io/ecard1/92_hires.png"
@@ -6528,6 +6252,7 @@ let expedition = [
         "id": "ecard1-93",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6571,9 +6296,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6587,9 +6310,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/93.png",
             "large": "https://images.pokemontcg.io/ecard1/93_hires.png"
@@ -6599,6 +6320,7 @@ let expedition = [
         "id": "ecard1-94",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6643,9 +6365,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6659,9 +6379,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/94.png",
             "large": "https://images.pokemontcg.io/ecard1/94_hires.png"
@@ -6671,6 +6389,7 @@ let expedition = [
         "id": "ecard1-95",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6715,9 +6434,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6731,9 +6448,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/95.png",
             "large": "https://images.pokemontcg.io/ecard1/95_hires.png"
@@ -6743,6 +6458,7 @@ let expedition = [
         "id": "ecard1-96",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6787,9 +6503,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6803,9 +6517,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/96.png",
             "large": "https://images.pokemontcg.io/ecard1/96_hires.png"
@@ -6815,6 +6527,7 @@ let expedition = [
         "id": "ecard1-97",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6859,9 +6572,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6875,9 +6586,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/97.png",
             "large": "https://images.pokemontcg.io/ecard1/97_hires.png"
@@ -6887,6 +6596,7 @@ let expedition = [
         "id": "ecard1-98",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6931,9 +6641,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6947,9 +6655,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/98.png",
             "large": "https://images.pokemontcg.io/ecard1/98_hires.png"
@@ -6959,6 +6665,7 @@ let expedition = [
         "id": "ecard1-99",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7009,9 +6716,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7025,9 +6730,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/99.png",
             "large": "https://images.pokemontcg.io/ecard1/99_hires.png"
@@ -7037,6 +6740,7 @@ let expedition = [
         "id": "ecard1-100",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7087,9 +6791,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7103,9 +6805,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/100.png",
             "large": "https://images.pokemontcg.io/ecard1/100_hires.png"
@@ -7115,6 +6815,7 @@ let expedition = [
         "id": "ecard1-101",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7158,9 +6859,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7174,9 +6873,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/101.png",
             "large": "https://images.pokemontcg.io/ecard1/101_hires.png"
@@ -7186,6 +6883,7 @@ let expedition = [
         "id": "ecard1-102",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7232,9 +6930,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7248,9 +6944,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/102.png",
             "large": "https://images.pokemontcg.io/ecard1/102_hires.png"
@@ -7260,6 +6954,7 @@ let expedition = [
         "id": "ecard1-103",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7310,9 +7005,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7326,9 +7019,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/103.png",
             "large": "https://images.pokemontcg.io/ecard1/103_hires.png"
@@ -7338,6 +7029,7 @@ let expedition = [
         "id": "ecard1-104",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7382,9 +7074,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7398,9 +7088,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/104.png",
             "large": "https://images.pokemontcg.io/ecard1/104_hires.png"
@@ -7410,6 +7098,7 @@ let expedition = [
         "id": "ecard1-105",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7454,9 +7143,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7470,9 +7157,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/105.png",
             "large": "https://images.pokemontcg.io/ecard1/105_hires.png"
@@ -7482,6 +7167,7 @@ let expedition = [
         "id": "ecard1-106",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7522,9 +7208,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7538,9 +7222,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/106.png",
             "large": "https://images.pokemontcg.io/ecard1/106_hires.png"
@@ -7550,6 +7232,7 @@ let expedition = [
         "id": "ecard1-107",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7579,9 +7262,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7595,9 +7276,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/107.png",
             "large": "https://images.pokemontcg.io/ecard1/107_hires.png"
@@ -7607,6 +7286,7 @@ let expedition = [
         "id": "ecard1-108",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7641,9 +7321,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7657,9 +7335,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/108.png",
             "large": "https://images.pokemontcg.io/ecard1/108_hires.png"
@@ -7669,6 +7345,7 @@ let expedition = [
         "id": "ecard1-109",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7709,9 +7386,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7725,9 +7400,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/109.png",
             "large": "https://images.pokemontcg.io/ecard1/109_hires.png"
@@ -7737,6 +7410,7 @@ let expedition = [
         "id": "ecard1-110",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7771,9 +7445,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7787,9 +7459,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/110.png",
             "large": "https://images.pokemontcg.io/ecard1/110_hires.png"
@@ -7799,6 +7469,7 @@ let expedition = [
         "id": "ecard1-111",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7833,9 +7504,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7849,9 +7518,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/111.png",
             "large": "https://images.pokemontcg.io/ecard1/111_hires.png"
@@ -7861,6 +7528,7 @@ let expedition = [
         "id": "ecard1-112",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7901,9 +7569,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7917,9 +7583,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/112.png",
             "large": "https://images.pokemontcg.io/ecard1/112_hires.png"
@@ -7929,6 +7593,7 @@ let expedition = [
         "id": "ecard1-113",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7969,9 +7634,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7985,9 +7648,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/113.png",
             "large": "https://images.pokemontcg.io/ecard1/113_hires.png"
@@ -7997,6 +7658,7 @@ let expedition = [
         "id": "ecard1-114",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8040,9 +7702,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8056,9 +7716,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/114.png",
             "large": "https://images.pokemontcg.io/ecard1/114_hires.png"
@@ -8068,6 +7726,7 @@ let expedition = [
         "id": "ecard1-115",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8103,9 +7762,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8119,9 +7776,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/115.png",
             "large": "https://images.pokemontcg.io/ecard1/115_hires.png"
@@ -8131,6 +7786,7 @@ let expedition = [
         "id": "ecard1-116",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8175,9 +7831,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8191,9 +7845,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/116.png",
             "large": "https://images.pokemontcg.io/ecard1/116_hires.png"
@@ -8203,6 +7855,7 @@ let expedition = [
         "id": "ecard1-117",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8247,9 +7900,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8263,9 +7914,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/117.png",
             "large": "https://images.pokemontcg.io/ecard1/117_hires.png"
@@ -8275,6 +7924,7 @@ let expedition = [
         "id": "ecard1-118",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8309,9 +7959,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8325,9 +7973,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/118.png",
             "large": "https://images.pokemontcg.io/ecard1/118_hires.png"
@@ -8337,6 +7983,7 @@ let expedition = [
         "id": "ecard1-119",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8371,9 +8018,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8387,9 +8032,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/119.png",
             "large": "https://images.pokemontcg.io/ecard1/119_hires.png"
@@ -8399,6 +8042,7 @@ let expedition = [
         "id": "ecard1-120",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8443,9 +8087,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8459,9 +8101,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/120.png",
             "large": "https://images.pokemontcg.io/ecard1/120_hires.png"
@@ -8471,6 +8111,7 @@ let expedition = [
         "id": "ecard1-121",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8515,9 +8156,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8531,9 +8170,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/121.png",
             "large": "https://images.pokemontcg.io/ecard1/121_hires.png"
@@ -8543,6 +8180,7 @@ let expedition = [
         "id": "ecard1-122",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8587,9 +8225,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8603,9 +8239,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/122.png",
             "large": "https://images.pokemontcg.io/ecard1/122_hires.png"
@@ -8615,6 +8249,7 @@ let expedition = [
         "id": "ecard1-123",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8665,9 +8300,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8681,9 +8314,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/123.png",
             "large": "https://images.pokemontcg.io/ecard1/123_hires.png"
@@ -8693,6 +8324,7 @@ let expedition = [
         "id": "ecard1-124",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8737,9 +8369,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8753,9 +8383,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/124.png",
             "large": "https://images.pokemontcg.io/ecard1/124_hires.png"
@@ -8765,6 +8393,7 @@ let expedition = [
         "id": "ecard1-125",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8809,9 +8438,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8825,9 +8452,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/125.png",
             "large": "https://images.pokemontcg.io/ecard1/125_hires.png"
@@ -8837,6 +8462,7 @@ let expedition = [
         "id": "ecard1-126",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8881,9 +8507,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8897,9 +8521,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/126.png",
             "large": "https://images.pokemontcg.io/ecard1/126_hires.png"
@@ -8909,6 +8531,7 @@ let expedition = [
         "id": "ecard1-127",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8941,9 +8564,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8957,9 +8578,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/127.png",
             "large": "https://images.pokemontcg.io/ecard1/127_hires.png"
@@ -8969,6 +8588,7 @@ let expedition = [
         "id": "ecard1-128",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9003,9 +8623,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9019,9 +8637,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/128.png",
             "large": "https://images.pokemontcg.io/ecard1/128_hires.png"
@@ -9031,6 +8647,7 @@ let expedition = [
         "id": "ecard1-129",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9075,9 +8692,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9091,9 +8706,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/129.png",
             "large": "https://images.pokemontcg.io/ecard1/129_hires.png"
@@ -9103,6 +8716,7 @@ let expedition = [
         "id": "ecard1-130",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9143,9 +8757,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9159,9 +8771,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/130.png",
             "large": "https://images.pokemontcg.io/ecard1/130_hires.png"
@@ -9171,6 +8781,7 @@ let expedition = [
         "id": "ecard1-131",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9215,9 +8826,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9231,9 +8840,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/131.png",
             "large": "https://images.pokemontcg.io/ecard1/131_hires.png"
@@ -9243,6 +8850,7 @@ let expedition = [
         "id": "ecard1-132",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9287,9 +8895,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9303,9 +8909,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/132.png",
             "large": "https://images.pokemontcg.io/ecard1/132_hires.png"
@@ -9315,6 +8919,7 @@ let expedition = [
         "id": "ecard1-133",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9357,9 +8962,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9373,9 +8976,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/133.png",
             "large": "https://images.pokemontcg.io/ecard1/133_hires.png"
@@ -9385,6 +8986,7 @@ let expedition = [
         "id": "ecard1-134",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9429,9 +9031,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9445,9 +9045,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/134.png",
             "large": "https://images.pokemontcg.io/ecard1/134_hires.png"
@@ -9457,6 +9055,7 @@ let expedition = [
         "id": "ecard1-135",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9501,9 +9100,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9517,9 +9114,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/135.png",
             "large": "https://images.pokemontcg.io/ecard1/135_hires.png"
@@ -9529,6 +9124,7 @@ let expedition = [
         "id": "ecard1-136",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9573,9 +9169,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9589,9 +9183,7 @@ let expedition = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/136.png",
             "large": "https://images.pokemontcg.io/ecard1/136_hires.png"
@@ -9601,6 +9193,7 @@ let expedition = [
         "id": "ecard1-137",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9614,9 +9207,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9627,10 +9218,7 @@ let expedition = [
         "number": "137",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/137.png",
             "large": "https://images.pokemontcg.io/ecard1/137_hires.png"
@@ -9640,6 +9228,7 @@ let expedition = [
         "id": "ecard1-138",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9653,9 +9242,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9666,11 +9253,7 @@ let expedition = [
         "number": "138",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/138.png",
             "large": "https://images.pokemontcg.io/ecard1/138_hires.png"
@@ -9680,6 +9263,7 @@ let expedition = [
         "id": "ecard1-139",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip 2 coins. For each heads, search your deck for a Basic Pokémon card other than a Baby Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -9689,9 +9273,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9702,9 +9284,7 @@ let expedition = [
         "number": "139",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/139.png",
             "large": "https://images.pokemontcg.io/ecard1/139_hires.png"
@@ -9714,6 +9294,7 @@ let expedition = [
         "id": "ecard1-140",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
         ],
@@ -9723,9 +9304,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9736,9 +9315,7 @@ let expedition = [
         "number": "140",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/140.png",
             "large": "https://images.pokemontcg.io/ecard1/140_hires.png"
@@ -9748,6 +9325,7 @@ let expedition = [
         "id": "ecard1-141",
         "name": "Energy Restore",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip 3 coins. For each heads, put a Basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand."
         ],
@@ -9757,9 +9335,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9770,9 +9346,7 @@ let expedition = [
         "number": "141",
         "artist": "Hideyuki Nakajima",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/141.png",
             "large": "https://images.pokemontcg.io/ecard1/141_hires.png"
@@ -9782,6 +9356,7 @@ let expedition = [
         "id": "ecard1-142",
         "name": "Mary's Impulse",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9795,9 +9370,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9808,9 +9381,7 @@ let expedition = [
         "number": "142",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/142.png",
             "large": "https://images.pokemontcg.io/ecard1/142_hires.png"
@@ -9820,6 +9391,7 @@ let expedition = [
         "id": "ecard1-143",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Look at 7 cards from the top of your deck. You may choose a Basic Pokémon or Evolution card from those cards, show it your opponent, and put it into your hand. Shuffle the rest into your deck."
         ],
@@ -9829,9 +9401,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9842,9 +9412,7 @@ let expedition = [
         "number": "143",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/143.png",
             "large": "https://images.pokemontcg.io/ecard1/143_hires.png"
@@ -9854,6 +9422,7 @@ let expedition = [
         "id": "ecard1-144",
         "name": "Multi Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9877,9 +9446,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9890,9 +9457,7 @@ let expedition = [
         "number": "144",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/144.png",
             "large": "https://images.pokemontcg.io/ecard1/144_hires.png"
@@ -9902,6 +9467,7 @@ let expedition = [
         "id": "ecard1-145",
         "name": "Pokémon Nurse",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9915,9 +9481,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9928,9 +9492,7 @@ let expedition = [
         "number": "145",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/145.png",
             "large": "https://images.pokemontcg.io/ecard1/145_hires.png"
@@ -9940,6 +9502,7 @@ let expedition = [
         "id": "ecard1-146",
         "name": "Pokémon Reversal",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Choose 1 of your opponent's Benched Pokémon. Flip a coin. If heads, switch that Pokémon with the Defending Pokémon."
         ],
@@ -9949,9 +9512,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9962,9 +9523,7 @@ let expedition = [
         "number": "146",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/146.png",
             "large": "https://images.pokemontcg.io/ecard1/146_hires.png"
@@ -9974,6 +9533,7 @@ let expedition = [
         "id": "ecard1-147",
         "name": "Power Charge",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, shuffle 2 Energy cards from your discard pile into your deck (1 if you have only 1)."
         ],
@@ -9983,9 +9543,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9996,9 +9554,7 @@ let expedition = [
         "number": "147",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/147.png",
             "large": "https://images.pokemontcg.io/ecard1/147_hires.png"
@@ -10008,6 +9564,7 @@ let expedition = [
         "id": "ecard1-148",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -10021,9 +9578,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10034,9 +9589,7 @@ let expedition = [
         "number": "148",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/148.png",
             "large": "https://images.pokemontcg.io/ecard1/148_hires.png"
@@ -10046,6 +9599,7 @@ let expedition = [
         "id": "ecard1-149",
         "name": "Professor Oak's Research",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -10059,9 +9613,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10072,9 +9624,7 @@ let expedition = [
         "number": "149",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/149.png",
             "large": "https://images.pokemontcg.io/ecard1/149_hires.png"
@@ -10084,6 +9634,7 @@ let expedition = [
         "id": "ecard1-150",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10097,9 +9648,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10110,9 +9659,7 @@ let expedition = [
         "number": "150",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/150.png",
             "large": "https://images.pokemontcg.io/ecard1/150_hires.png"
@@ -10122,6 +9669,7 @@ let expedition = [
         "id": "ecard1-151",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
         ],
@@ -10131,9 +9679,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10144,10 +9690,7 @@ let expedition = [
         "number": "151",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/151.png",
             "large": "https://images.pokemontcg.io/ecard1/151_hires.png"
@@ -10157,6 +9700,7 @@ let expedition = [
         "id": "ecard1-152",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any; then you switch your Active Pokémon with 1 of your Benched Pokémon, if any."
         ],
@@ -10166,9 +9710,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10179,9 +9721,7 @@ let expedition = [
         "number": "152",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/152.png",
             "large": "https://images.pokemontcg.io/ecard1/152_hires.png"
@@ -10191,6 +9731,7 @@ let expedition = [
         "id": "ecard1-153",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -10200,9 +9741,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10213,11 +9752,7 @@ let expedition = [
         "number": "153",
         "artist": "Kai Ishikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/153.png",
             "large": "https://images.pokemontcg.io/ecard1/153_hires.png"
@@ -10227,6 +9762,7 @@ let expedition = [
         "id": "ecard1-154",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Remove all Special Conditions from your Active Pokémon."
         ],
@@ -10236,9 +9772,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10249,11 +9783,7 @@ let expedition = [
         "number": "154",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/154.png",
             "large": "https://images.pokemontcg.io/ecard1/154_hires.png"
@@ -10263,6 +9793,7 @@ let expedition = [
         "id": "ecard1-155",
         "name": "Moo-Moo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
         ],
@@ -10272,9 +9803,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10285,9 +9814,7 @@ let expedition = [
         "number": "155",
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/155.png",
             "large": "https://images.pokemontcg.io/ecard1/155_hires.png"
@@ -10297,6 +9824,7 @@ let expedition = [
         "id": "ecard1-156",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Remove 2 damage counters from 1 of your Pokémon (1 if that Pokémon has only 1)."
         ],
@@ -10306,9 +9834,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10319,11 +9845,7 @@ let expedition = [
         "number": "156",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/156.png",
             "large": "https://images.pokemontcg.io/ecard1/156_hires.png"
@@ -10333,6 +9855,7 @@ let expedition = [
         "id": "ecard1-157",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Switch your Active Pokémon with 1 of your Benched Pokémon."
         ],
@@ -10342,9 +9865,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10355,11 +9876,7 @@ let expedition = [
         "number": "157",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/157.png",
             "large": "https://images.pokemontcg.io/ecard1/157_hires.png"
@@ -10369,6 +9886,7 @@ let expedition = [
         "id": "ecard1-158",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Special"
         ],
@@ -10381,9 +9899,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10394,9 +9910,7 @@ let expedition = [
         "number": "158",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/158.png",
             "large": "https://images.pokemontcg.io/ecard1/158_hires.png"
@@ -10406,6 +9920,7 @@ let expedition = [
         "id": "ecard1-159",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Special"
         ],
@@ -10418,9 +9933,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10431,9 +9944,7 @@ let expedition = [
         "number": "159",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/159.png",
             "large": "https://images.pokemontcg.io/ecard1/159_hires.png"
@@ -10443,6 +9954,7 @@ let expedition = [
         "id": "ecard1-160",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10452,9 +9964,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10463,11 +9973,7 @@ let expedition = [
             }
         },
         "number": "160",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/160.png",
             "large": "https://images.pokemontcg.io/ecard1/160_hires.png"
@@ -10477,6 +9983,7 @@ let expedition = [
         "id": "ecard1-161",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10486,9 +9993,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10497,11 +10002,7 @@ let expedition = [
             }
         },
         "number": "161",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/161.png",
             "large": "https://images.pokemontcg.io/ecard1/161_hires.png"
@@ -10511,6 +10012,7 @@ let expedition = [
         "id": "ecard1-162",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10520,9 +10022,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10531,11 +10031,7 @@ let expedition = [
             }
         },
         "number": "162",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/162.png",
             "large": "https://images.pokemontcg.io/ecard1/162_hires.png"
@@ -10545,6 +10041,7 @@ let expedition = [
         "id": "ecard1-163",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10554,9 +10051,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10565,11 +10060,7 @@ let expedition = [
             }
         },
         "number": "163",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/163.png",
             "large": "https://images.pokemontcg.io/ecard1/163_hires.png"
@@ -10579,6 +10070,7 @@ let expedition = [
         "id": "ecard1-164",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10588,9 +10080,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10599,11 +10089,7 @@ let expedition = [
             }
         },
         "number": "164",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/164.png",
             "large": "https://images.pokemontcg.io/ecard1/164_hires.png"
@@ -10613,6 +10099,7 @@ let expedition = [
         "id": "ecard1-165",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -10622,9 +10109,7 @@ let expedition = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10633,11 +10118,7 @@ let expedition = [
             }
         },
         "number": "165",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/165.png",
             "large": "https://images.pokemontcg.io/ecard1/165_hires.png"

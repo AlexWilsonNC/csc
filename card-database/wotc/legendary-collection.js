@@ -1,8 +1,9 @@
-let legendaryCollection = [
+let base6 = [
     {
         "id": "base6-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -61,9 +60,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/1.png",
             "large": "https://images.pokemontcg.io/base6/1_hires.png"
@@ -73,6 +70,7 @@ let legendaryCollection = [
         "id": "base6-2",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -118,9 +116,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -135,9 +131,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/2.png",
             "large": "https://images.pokemontcg.io/base6/2_hires.png"
@@ -147,6 +141,7 @@ let legendaryCollection = [
         "id": "base6-3",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -195,9 +190,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -212,9 +205,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/3.png",
             "large": "https://images.pokemontcg.io/base6/3_hires.png"
@@ -224,6 +215,7 @@ let legendaryCollection = [
         "id": "base6-4",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -268,9 +260,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -285,9 +275,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/4.png",
             "large": "https://images.pokemontcg.io/base6/4_hires.png"
@@ -297,6 +285,7 @@ let legendaryCollection = [
         "id": "base6-5",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -339,9 +328,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -356,9 +343,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/5.png",
             "large": "https://images.pokemontcg.io/base6/5_hires.png"
@@ -368,6 +353,7 @@ let legendaryCollection = [
         "id": "base6-6",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -415,9 +401,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -432,9 +416,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/6.png",
             "large": "https://images.pokemontcg.io/base6/6_hires.png"
@@ -444,6 +426,7 @@ let legendaryCollection = [
         "id": "base6-7",
         "name": "Dark Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -478,9 +461,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -495,9 +476,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/7.png",
             "large": "https://images.pokemontcg.io/base6/7_hires.png"
@@ -507,6 +486,7 @@ let legendaryCollection = [
         "id": "base6-8",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -547,9 +527,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -564,9 +542,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/8.png",
             "large": "https://images.pokemontcg.io/base6/8_hires.png"
@@ -576,6 +552,7 @@ let legendaryCollection = [
         "id": "base6-9",
         "name": "Dark Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -621,9 +598,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -638,9 +613,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/9.png",
             "large": "https://images.pokemontcg.io/base6/9_hires.png"
@@ -650,6 +623,7 @@ let legendaryCollection = [
         "id": "base6-10",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -695,9 +669,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -712,9 +684,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/10.png",
             "large": "https://images.pokemontcg.io/base6/10_hires.png"
@@ -724,6 +694,7 @@ let legendaryCollection = [
         "id": "base6-11",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -765,9 +736,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -782,9 +751,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/11.png",
             "large": "https://images.pokemontcg.io/base6/11_hires.png"
@@ -794,6 +761,7 @@ let legendaryCollection = [
         "id": "base6-12",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -846,9 +814,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -863,9 +829,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/12.png",
             "large": "https://images.pokemontcg.io/base6/12_hires.png"
@@ -875,6 +839,7 @@ let legendaryCollection = [
         "id": "base6-13",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -918,9 +883,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -935,9 +898,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/13.png",
             "large": "https://images.pokemontcg.io/base6/13_hires.png"
@@ -947,6 +908,7 @@ let legendaryCollection = [
         "id": "base6-14",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -991,9 +953,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1008,9 +968,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/14.png",
             "large": "https://images.pokemontcg.io/base6/14_hires.png"
@@ -1020,6 +978,7 @@ let legendaryCollection = [
         "id": "base6-15",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1062,9 +1021,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1079,9 +1036,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/15.png",
             "large": "https://images.pokemontcg.io/base6/15_hires.png"
@@ -1091,6 +1046,7 @@ let legendaryCollection = [
         "id": "base6-16",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1132,9 +1088,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1149,9 +1103,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/16.png",
             "large": "https://images.pokemontcg.io/base6/16_hires.png"
@@ -1161,6 +1113,7 @@ let legendaryCollection = [
         "id": "base6-17",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1206,9 +1159,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1223,9 +1174,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/17.png",
             "large": "https://images.pokemontcg.io/base6/17_hires.png"
@@ -1235,6 +1184,7 @@ let legendaryCollection = [
         "id": "base6-18",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1277,9 +1227,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1294,9 +1242,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/18.png",
             "large": "https://images.pokemontcg.io/base6/18_hires.png"
@@ -1306,6 +1252,7 @@ let legendaryCollection = [
         "id": "base6-19",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -1352,9 +1299,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1369,9 +1314,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/19.png",
             "large": "https://images.pokemontcg.io/base6/19_hires.png"
@@ -1381,6 +1324,7 @@ let legendaryCollection = [
         "id": "base6-20",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1431,9 +1375,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1448,9 +1390,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/20.png",
             "large": "https://images.pokemontcg.io/base6/20_hires.png"
@@ -1460,6 +1400,7 @@ let legendaryCollection = [
         "id": "base6-21",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1510,9 +1451,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1527,9 +1466,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/21.png",
             "large": "https://images.pokemontcg.io/base6/21_hires.png"
@@ -1539,6 +1476,7 @@ let legendaryCollection = [
         "id": "base6-22",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1583,9 +1521,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1600,9 +1536,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/22.png",
             "large": "https://images.pokemontcg.io/base6/22_hires.png"
@@ -1612,6 +1546,7 @@ let legendaryCollection = [
         "id": "base6-23",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1653,9 +1588,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1670,9 +1603,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/23.png",
             "large": "https://images.pokemontcg.io/base6/23_hires.png"
@@ -1682,6 +1613,7 @@ let legendaryCollection = [
         "id": "base6-24",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1729,9 +1661,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1746,9 +1676,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/24.png",
             "large": "https://images.pokemontcg.io/base6/24_hires.png"
@@ -1758,6 +1686,7 @@ let legendaryCollection = [
         "id": "base6-25",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1801,9 +1730,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1818,9 +1745,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/25.png",
             "large": "https://images.pokemontcg.io/base6/25_hires.png"
@@ -1830,6 +1755,7 @@ let legendaryCollection = [
         "id": "base6-26",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -1872,9 +1798,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1889,9 +1813,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/26.png",
             "large": "https://images.pokemontcg.io/base6/26_hires.png"
@@ -1901,6 +1823,7 @@ let legendaryCollection = [
         "id": "base6-27",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1946,9 +1869,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1963,9 +1884,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/27.png",
             "large": "https://images.pokemontcg.io/base6/27_hires.png"
@@ -1975,6 +1894,7 @@ let legendaryCollection = [
         "id": "base6-28",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2023,9 +1943,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2040,9 +1958,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/28.png",
             "large": "https://images.pokemontcg.io/base6/28_hires.png"
@@ -2052,6 +1968,7 @@ let legendaryCollection = [
         "id": "base6-29",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -2094,9 +2011,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2111,9 +2026,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/29.png",
             "large": "https://images.pokemontcg.io/base6/29_hires.png"
@@ -2123,6 +2036,7 @@ let legendaryCollection = [
         "id": "base6-30",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -2166,9 +2080,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2183,9 +2095,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/30.png",
             "large": "https://images.pokemontcg.io/base6/30_hires.png"
@@ -2195,6 +2105,7 @@ let legendaryCollection = [
         "id": "base6-31",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2240,9 +2151,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2257,9 +2166,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/31.png",
             "large": "https://images.pokemontcg.io/base6/31_hires.png"
@@ -2269,6 +2176,7 @@ let legendaryCollection = [
         "id": "base6-32",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2314,9 +2222,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2331,9 +2237,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/32.png",
             "large": "https://images.pokemontcg.io/base6/32_hires.png"
@@ -2343,6 +2247,7 @@ let legendaryCollection = [
         "id": "base6-33",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2392,9 +2297,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2409,9 +2312,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/33.png",
             "large": "https://images.pokemontcg.io/base6/33_hires.png"
@@ -2421,6 +2322,7 @@ let legendaryCollection = [
         "id": "base6-34",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2474,9 +2376,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2491,9 +2391,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/34.png",
             "large": "https://images.pokemontcg.io/base6/34_hires.png"
@@ -2503,6 +2401,7 @@ let legendaryCollection = [
         "id": "base6-35",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2558,9 +2457,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2575,9 +2472,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/35.png",
             "large": "https://images.pokemontcg.io/base6/35_hires.png"
@@ -2587,6 +2482,7 @@ let legendaryCollection = [
         "id": "base6-36",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2633,9 +2529,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2650,9 +2544,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/36.png",
             "large": "https://images.pokemontcg.io/base6/36_hires.png"
@@ -2662,6 +2554,7 @@ let legendaryCollection = [
         "id": "base6-37",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2710,9 +2603,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2727,9 +2618,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/37.png",
             "large": "https://images.pokemontcg.io/base6/37_hires.png"
@@ -2739,6 +2628,7 @@ let legendaryCollection = [
         "id": "base6-38",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2783,9 +2673,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2800,9 +2688,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/38.png",
             "large": "https://images.pokemontcg.io/base6/38_hires.png"
@@ -2812,6 +2698,7 @@ let legendaryCollection = [
         "id": "base6-39",
         "name": "Dark Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2857,9 +2744,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2874,9 +2759,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/39.png",
             "large": "https://images.pokemontcg.io/base6/39_hires.png"
@@ -2886,6 +2769,7 @@ let legendaryCollection = [
         "id": "base6-40",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2932,9 +2816,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2949,9 +2831,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/40.png",
             "large": "https://images.pokemontcg.io/base6/40_hires.png"
@@ -2961,6 +2841,7 @@ let legendaryCollection = [
         "id": "base6-41",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3007,9 +2888,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3024,9 +2903,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/41.png",
             "large": "https://images.pokemontcg.io/base6/41_hires.png"
@@ -3036,6 +2913,7 @@ let legendaryCollection = [
         "id": "base6-42",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3087,9 +2965,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3104,9 +2980,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/42.png",
             "large": "https://images.pokemontcg.io/base6/42_hires.png"
@@ -3116,6 +2990,7 @@ let legendaryCollection = [
         "id": "base6-43",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3159,9 +3034,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3176,9 +3049,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/43.png",
             "large": "https://images.pokemontcg.io/base6/43_hires.png"
@@ -3188,6 +3059,7 @@ let legendaryCollection = [
         "id": "base6-44",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3235,9 +3107,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3252,9 +3122,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/44.png",
             "large": "https://images.pokemontcg.io/base6/44_hires.png"
@@ -3264,6 +3132,7 @@ let legendaryCollection = [
         "id": "base6-45",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3299,9 +3168,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3316,9 +3183,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/45.png",
             "large": "https://images.pokemontcg.io/base6/45_hires.png"
@@ -3328,6 +3193,7 @@ let legendaryCollection = [
         "id": "base6-46",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3370,9 +3236,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3387,9 +3251,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/46.png",
             "large": "https://images.pokemontcg.io/base6/46_hires.png"
@@ -3399,6 +3261,7 @@ let legendaryCollection = [
         "id": "base6-47",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3447,9 +3310,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3464,9 +3325,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/47.png",
             "large": "https://images.pokemontcg.io/base6/47_hires.png"
@@ -3476,6 +3335,7 @@ let legendaryCollection = [
         "id": "base6-48",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3518,9 +3378,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3535,9 +3393,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/48.png",
             "large": "https://images.pokemontcg.io/base6/48_hires.png"
@@ -3547,6 +3403,7 @@ let legendaryCollection = [
         "id": "base6-49",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3594,9 +3451,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3611,9 +3466,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/49.png",
             "large": "https://images.pokemontcg.io/base6/49_hires.png"
@@ -3623,6 +3476,7 @@ let legendaryCollection = [
         "id": "base6-50",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3669,9 +3523,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3686,9 +3538,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/50.png",
             "large": "https://images.pokemontcg.io/base6/50_hires.png"
@@ -3698,6 +3548,7 @@ let legendaryCollection = [
         "id": "base6-51",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3747,9 +3598,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3764,9 +3613,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/51.png",
             "large": "https://images.pokemontcg.io/base6/51_hires.png"
@@ -3776,6 +3623,7 @@ let legendaryCollection = [
         "id": "base6-52",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3819,9 +3667,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3836,9 +3682,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/52.png",
             "large": "https://images.pokemontcg.io/base6/52_hires.png"
@@ -3848,6 +3692,7 @@ let legendaryCollection = [
         "id": "base6-53",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3889,9 +3734,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3906,9 +3749,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/53.png",
             "large": "https://images.pokemontcg.io/base6/53_hires.png"
@@ -3918,6 +3759,7 @@ let legendaryCollection = [
         "id": "base6-54",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3964,9 +3806,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3981,9 +3821,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/54.png",
             "large": "https://images.pokemontcg.io/base6/54_hires.png"
@@ -3993,6 +3831,7 @@ let legendaryCollection = [
         "id": "base6-55",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4039,9 +3878,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4056,9 +3893,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/55.png",
             "large": "https://images.pokemontcg.io/base6/55_hires.png"
@@ -4068,6 +3903,7 @@ let legendaryCollection = [
         "id": "base6-56",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4117,9 +3953,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4134,9 +3968,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/56.png",
             "large": "https://images.pokemontcg.io/base6/56_hires.png"
@@ -4146,6 +3978,7 @@ let legendaryCollection = [
         "id": "base6-57",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4188,9 +4021,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4205,9 +4036,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/57.png",
             "large": "https://images.pokemontcg.io/base6/57_hires.png"
@@ -4217,6 +4046,7 @@ let legendaryCollection = [
         "id": "base6-58",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4260,9 +4090,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4277,9 +4105,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/58.png",
             "large": "https://images.pokemontcg.io/base6/58_hires.png"
@@ -4289,6 +4115,7 @@ let legendaryCollection = [
         "id": "base6-59",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4333,9 +4160,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4350,9 +4175,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/59.png",
             "large": "https://images.pokemontcg.io/base6/59_hires.png"
@@ -4362,6 +4185,7 @@ let legendaryCollection = [
         "id": "base6-60",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4405,9 +4229,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4422,9 +4244,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/60.png",
             "large": "https://images.pokemontcg.io/base6/60_hires.png"
@@ -4434,6 +4254,7 @@ let legendaryCollection = [
         "id": "base6-61",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4483,9 +4304,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4500,9 +4319,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/61.png",
             "large": "https://images.pokemontcg.io/base6/61_hires.png"
@@ -4512,6 +4329,7 @@ let legendaryCollection = [
         "id": "base6-62",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4561,9 +4379,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4578,9 +4394,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/62.png",
             "large": "https://images.pokemontcg.io/base6/62_hires.png"
@@ -4590,6 +4404,7 @@ let legendaryCollection = [
         "id": "base6-63",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4637,9 +4452,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4654,9 +4467,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/63.png",
             "large": "https://images.pokemontcg.io/base6/63_hires.png"
@@ -4666,6 +4477,7 @@ let legendaryCollection = [
         "id": "base6-64",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4713,9 +4525,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4730,9 +4540,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/64.png",
             "large": "https://images.pokemontcg.io/base6/64_hires.png"
@@ -4742,6 +4550,7 @@ let legendaryCollection = [
         "id": "base6-65",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4791,9 +4600,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4808,9 +4615,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/65.png",
             "large": "https://images.pokemontcg.io/base6/65_hires.png"
@@ -4820,6 +4625,7 @@ let legendaryCollection = [
         "id": "base6-66",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4861,9 +4667,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4878,9 +4682,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/66.png",
             "large": "https://images.pokemontcg.io/base6/66_hires.png"
@@ -4890,6 +4692,7 @@ let legendaryCollection = [
         "id": "base6-67",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4923,9 +4726,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4940,9 +4741,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/67.png",
             "large": "https://images.pokemontcg.io/base6/67_hires.png"
@@ -4952,6 +4751,7 @@ let legendaryCollection = [
         "id": "base6-68",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4987,9 +4787,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5004,9 +4802,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/68.png",
             "large": "https://images.pokemontcg.io/base6/68_hires.png"
@@ -5016,6 +4812,7 @@ let legendaryCollection = [
         "id": "base6-69",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5050,9 +4847,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5067,10 +4862,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/69.png",
             "large": "https://images.pokemontcg.io/base6/69_hires.png"
@@ -5080,6 +4872,7 @@ let legendaryCollection = [
         "id": "base6-70",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5124,9 +4917,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5141,9 +4932,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/70.png",
             "large": "https://images.pokemontcg.io/base6/70_hires.png"
@@ -5153,6 +4942,7 @@ let legendaryCollection = [
         "id": "base6-71",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5192,9 +4982,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5209,9 +4997,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/71.png",
             "large": "https://images.pokemontcg.io/base6/71_hires.png"
@@ -5221,6 +5007,7 @@ let legendaryCollection = [
         "id": "base6-72",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5255,9 +5042,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5272,9 +5057,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/72.png",
             "large": "https://images.pokemontcg.io/base6/72_hires.png"
@@ -5284,6 +5067,7 @@ let legendaryCollection = [
         "id": "base6-73",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5326,9 +5110,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5343,9 +5125,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/73.png",
             "large": "https://images.pokemontcg.io/base6/73_hires.png"
@@ -5355,6 +5135,7 @@ let legendaryCollection = [
         "id": "base6-74",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5412,9 +5193,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5429,9 +5208,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/74.png",
             "large": "https://images.pokemontcg.io/base6/74_hires.png"
@@ -5441,6 +5218,7 @@ let legendaryCollection = [
         "id": "base6-75",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5485,9 +5263,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5502,9 +5278,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/75.png",
             "large": "https://images.pokemontcg.io/base6/75_hires.png"
@@ -5514,6 +5288,7 @@ let legendaryCollection = [
         "id": "base6-76",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5557,9 +5332,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5574,9 +5347,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/76.png",
             "large": "https://images.pokemontcg.io/base6/76_hires.png"
@@ -5586,6 +5357,7 @@ let legendaryCollection = [
         "id": "base6-77",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5621,9 +5393,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5638,9 +5408,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/77.png",
             "large": "https://images.pokemontcg.io/base6/77_hires.png"
@@ -5650,6 +5418,7 @@ let legendaryCollection = [
         "id": "base6-78",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5693,9 +5462,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5710,9 +5477,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/78.png",
             "large": "https://images.pokemontcg.io/base6/78_hires.png"
@@ -5722,6 +5487,7 @@ let legendaryCollection = [
         "id": "base6-79",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5768,9 +5534,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5785,9 +5549,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/79.png",
             "large": "https://images.pokemontcg.io/base6/79_hires.png"
@@ -5797,6 +5559,7 @@ let legendaryCollection = [
         "id": "base6-80",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5841,9 +5604,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5858,9 +5619,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/80.png",
             "large": "https://images.pokemontcg.io/base6/80_hires.png"
@@ -5870,6 +5629,7 @@ let legendaryCollection = [
         "id": "base6-81",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5913,9 +5673,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5930,9 +5688,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/81.png",
             "large": "https://images.pokemontcg.io/base6/81_hires.png"
@@ -5942,6 +5698,7 @@ let legendaryCollection = [
         "id": "base6-82",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5986,9 +5743,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6003,9 +5758,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/82.png",
             "large": "https://images.pokemontcg.io/base6/82_hires.png"
@@ -6015,6 +5768,7 @@ let legendaryCollection = [
         "id": "base6-83",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6049,9 +5803,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6066,9 +5818,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/83.png",
             "large": "https://images.pokemontcg.io/base6/83_hires.png"
@@ -6078,6 +5828,7 @@ let legendaryCollection = [
         "id": "base6-84",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6122,9 +5873,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6139,9 +5888,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/84.png",
             "large": "https://images.pokemontcg.io/base6/84_hires.png"
@@ -6151,6 +5898,7 @@ let legendaryCollection = [
         "id": "base6-85",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6192,9 +5940,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6209,9 +5955,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/85.png",
             "large": "https://images.pokemontcg.io/base6/85_hires.png"
@@ -6221,6 +5965,7 @@ let legendaryCollection = [
         "id": "base6-86",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6256,9 +6001,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6273,9 +6016,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/86.png",
             "large": "https://images.pokemontcg.io/base6/86_hires.png"
@@ -6285,6 +6026,7 @@ let legendaryCollection = [
         "id": "base6-87",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6330,9 +6072,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6347,9 +6087,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/87.png",
             "large": "https://images.pokemontcg.io/base6/87_hires.png"
@@ -6359,6 +6097,7 @@ let legendaryCollection = [
         "id": "base6-88",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6403,9 +6142,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6420,9 +6157,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/88.png",
             "large": "https://images.pokemontcg.io/base6/88_hires.png"
@@ -6432,6 +6167,7 @@ let legendaryCollection = [
         "id": "base6-89",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6471,9 +6207,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6488,9 +6222,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/89.png",
             "large": "https://images.pokemontcg.io/base6/89_hires.png"
@@ -6500,6 +6232,7 @@ let legendaryCollection = [
         "id": "base6-90",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6551,9 +6284,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6568,9 +6299,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/90.png",
             "large": "https://images.pokemontcg.io/base6/90_hires.png"
@@ -6580,6 +6309,7 @@ let legendaryCollection = [
         "id": "base6-91",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6620,9 +6350,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6637,9 +6365,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/91.png",
             "large": "https://images.pokemontcg.io/base6/91_hires.png"
@@ -6649,6 +6375,7 @@ let legendaryCollection = [
         "id": "base6-92",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6683,9 +6410,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6700,9 +6425,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/92.png",
             "large": "https://images.pokemontcg.io/base6/92_hires.png"
@@ -6712,6 +6435,7 @@ let legendaryCollection = [
         "id": "base6-93",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6757,9 +6481,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6774,9 +6496,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/93.png",
             "large": "https://images.pokemontcg.io/base6/93_hires.png"
@@ -6786,6 +6506,7 @@ let legendaryCollection = [
         "id": "base6-94",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6836,9 +6557,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6853,9 +6572,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/94.png",
             "large": "https://images.pokemontcg.io/base6/94_hires.png"
@@ -6865,6 +6582,7 @@ let legendaryCollection = [
         "id": "base6-95",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6909,9 +6627,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6926,9 +6642,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/95.png",
             "large": "https://images.pokemontcg.io/base6/95_hires.png"
@@ -6938,6 +6652,7 @@ let legendaryCollection = [
         "id": "base6-96",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6978,9 +6693,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6995,9 +6708,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/96.png",
             "large": "https://images.pokemontcg.io/base6/96_hires.png"
@@ -7007,6 +6718,7 @@ let legendaryCollection = [
         "id": "base6-97",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -7041,9 +6753,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7058,9 +6768,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/97.png",
             "large": "https://images.pokemontcg.io/base6/97_hires.png"
@@ -7070,6 +6778,7 @@ let legendaryCollection = [
         "id": "base6-98",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -7105,9 +6814,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7122,9 +6829,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/98.png",
             "large": "https://images.pokemontcg.io/base6/98_hires.png"
@@ -7134,6 +6839,7 @@ let legendaryCollection = [
         "id": "base6-99",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -7168,9 +6874,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7185,10 +6889,7 @@ let legendaryCollection = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/99.png",
             "large": "https://images.pokemontcg.io/base6/99_hires.png"
@@ -7198,6 +6899,7 @@ let legendaryCollection = [
         "id": "base6-100",
         "name": "Full Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "LC",
         "subtypes": [
             "Special"
         ],
@@ -7210,9 +6912,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7223,9 +6923,7 @@ let legendaryCollection = [
         "number": "100",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/100.png",
             "large": "https://images.pokemontcg.io/base6/100_hires.png"
@@ -7235,6 +6933,7 @@ let legendaryCollection = [
         "id": "base6-101",
         "name": "Potion Energy",
         "supertype": "Energy",
+        "setAbbrev": "LC",
         "subtypes": [
             "Special"
         ],
@@ -7247,9 +6946,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7260,9 +6957,7 @@ let legendaryCollection = [
         "number": "101",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/101.png",
             "large": "https://images.pokemontcg.io/base6/101_hires.png"
@@ -7272,6 +6967,7 @@ let legendaryCollection = [
         "id": "base6-102",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can play this card only when you would be allowed to evolve that Pokémon anyway."
         ],
@@ -7281,9 +6977,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7294,9 +6988,7 @@ let legendaryCollection = [
         "number": "102",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/102.png",
             "large": "https://images.pokemontcg.io/base6/102_hires.png"
@@ -7306,6 +6998,7 @@ let legendaryCollection = [
         "id": "base6-103",
         "name": "Pokémon Trader",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
         ],
@@ -7315,9 +7008,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7328,9 +7019,7 @@ let legendaryCollection = [
         "number": "103",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/103.png",
             "large": "https://images.pokemontcg.io/base6/103_hires.png"
@@ -7340,6 +7029,7 @@ let legendaryCollection = [
         "id": "base6-104",
         "name": "Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
         ],
@@ -7349,9 +7039,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7362,9 +7050,7 @@ let legendaryCollection = [
         "number": "104",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/104.png",
             "large": "https://images.pokemontcg.io/base6/104_hires.png"
@@ -7374,6 +7060,7 @@ let legendaryCollection = [
         "id": "base6-105",
         "name": "The Boss's Way",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Search your deck for an Evolution card with Dark in its name. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
         ],
@@ -7383,9 +7070,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7396,9 +7081,7 @@ let legendaryCollection = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/105.png",
             "large": "https://images.pokemontcg.io/base6/105_hires.png"
@@ -7408,6 +7091,7 @@ let legendaryCollection = [
         "id": "base6-106",
         "name": "Challenge!",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Ask your opponent if he or she accepts your challenge. If your opponent declines (or if both Benches are full), draw 2 cards. If your opponent accepts, each of you searches your decks for any number of Basic Pokémon cards and puts them face down onto your Benches. (A player can't do this if his or her Bench is full.) When you both have finished, shuffle your decks and turn those cards face up."
         ],
@@ -7417,9 +7101,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7430,9 +7112,7 @@ let legendaryCollection = [
         "number": "106",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/106.png",
             "large": "https://images.pokemontcg.io/base6/106_hires.png"
@@ -7442,6 +7122,7 @@ let legendaryCollection = [
         "id": "base6-107",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
         ],
@@ -7451,9 +7132,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7464,11 +7143,7 @@ let legendaryCollection = [
         "number": "107",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/107.png",
             "large": "https://images.pokemontcg.io/base6/107_hires.png"
@@ -7478,6 +7153,7 @@ let legendaryCollection = [
         "id": "base6-108",
         "name": "Bill",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Draw 2 cards."
         ],
@@ -7487,9 +7163,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7500,9 +7174,7 @@ let legendaryCollection = [
         "number": "108",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/108.png",
             "large": "https://images.pokemontcg.io/base6/108_hires.png"
@@ -7512,6 +7184,7 @@ let legendaryCollection = [
         "id": "base6-109",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "hp": "10",
         "rules": [
             "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be affected by Special Conditions. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play. You can put Pokémon that evolve from Mysterious Fossil on this card."
@@ -7522,9 +7195,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7535,9 +7206,7 @@ let legendaryCollection = [
         "number": "109",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/109.png",
             "large": "https://images.pokemontcg.io/base6/109_hires.png"
@@ -7547,6 +7216,7 @@ let legendaryCollection = [
         "id": "base6-110",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Remove up to 2 damage counters from 1 of your Pokémon."
         ],
@@ -7556,9 +7226,7 @@ let legendaryCollection = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7569,11 +7237,7 @@ let legendaryCollection = [
         "number": "110",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/110.png",
             "large": "https://images.pokemontcg.io/base6/110_hires.png"

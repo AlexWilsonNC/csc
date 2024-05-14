@@ -3,6 +3,7 @@ let xy11 = [
         "id": "xy11-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -49,10 +50,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -67,10 +65,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/1.png",
             "large": "https://images.pokemontcg.io/xy11/1_hires.png"
@@ -80,6 +75,7 @@ let xy11 = [
         "id": "xy11-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -126,10 +122,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -144,10 +137,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/2.png",
             "large": "https://images.pokemontcg.io/xy11/2_hires.png"
@@ -157,6 +147,7 @@ let xy11 = [
         "id": "xy11-3",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -191,10 +182,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -209,10 +197,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/3.png",
             "large": "https://images.pokemontcg.io/xy11/3_hires.png"
@@ -222,6 +207,7 @@ let xy11 = [
         "id": "xy11-4",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -257,10 +243,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -275,10 +258,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/4.png",
             "large": "https://images.pokemontcg.io/xy11/4_hires.png"
@@ -288,6 +268,7 @@ let xy11 = [
         "id": "xy11-5",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -329,10 +310,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -347,10 +325,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/5.png",
             "large": "https://images.pokemontcg.io/xy11/5_hires.png"
@@ -360,6 +335,7 @@ let xy11 = [
         "id": "xy11-6",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -411,10 +387,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -429,10 +402,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/6.png",
             "large": "https://images.pokemontcg.io/xy11/6_hires.png"
@@ -442,6 +412,7 @@ let xy11 = [
         "id": "xy11-7",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -488,10 +459,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -506,10 +474,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/7.png",
             "large": "https://images.pokemontcg.io/xy11/7_hires.png"
@@ -519,6 +484,7 @@ let xy11 = [
         "id": "xy11-8",
         "name": "Yanmega BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -549,10 +515,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -566,10 +529,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/8.png",
             "large": "https://images.pokemontcg.io/xy11/8_hires.png"
@@ -579,6 +539,7 @@ let xy11 = [
         "id": "xy11-9",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -613,10 +574,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -631,10 +589,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/9.png",
             "large": "https://images.pokemontcg.io/xy11/9_hires.png"
@@ -644,6 +599,7 @@ let xy11 = [
         "id": "xy11-10",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -689,10 +645,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -707,10 +660,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/10.png",
             "large": "https://images.pokemontcg.io/xy11/10_hires.png"
@@ -720,6 +670,7 @@ let xy11 = [
         "id": "xy11-11",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -763,10 +714,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -781,10 +729,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/11.png",
             "large": "https://images.pokemontcg.io/xy11/11_hires.png"
@@ -794,6 +739,7 @@ let xy11 = [
         "id": "xy11-12",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -835,10 +781,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -853,10 +796,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/12.png",
             "large": "https://images.pokemontcg.io/xy11/12_hires.png"
@@ -866,6 +806,7 @@ let xy11 = [
         "id": "xy11-13",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -908,10 +849,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -926,10 +864,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/13.png",
             "large": "https://images.pokemontcg.io/xy11/13_hires.png"
@@ -939,6 +874,7 @@ let xy11 = [
         "id": "xy11-14",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -974,10 +910,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -992,10 +925,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/14.png",
             "large": "https://images.pokemontcg.io/xy11/14_hires.png"
@@ -1005,6 +935,7 @@ let xy11 = [
         "id": "xy11-15",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1049,10 +980,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1067,10 +995,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/15.png",
             "large": "https://images.pokemontcg.io/xy11/15_hires.png"
@@ -1080,6 +1005,7 @@ let xy11 = [
         "id": "xy11-16",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1123,10 +1049,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1141,10 +1064,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/16.png",
             "large": "https://images.pokemontcg.io/xy11/16_hires.png"
@@ -1154,6 +1074,7 @@ let xy11 = [
         "id": "xy11-17",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1196,10 +1117,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1214,10 +1132,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/17.png",
             "large": "https://images.pokemontcg.io/xy11/17_hires.png"
@@ -1227,6 +1142,7 @@ let xy11 = [
         "id": "xy11-18",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1271,10 +1187,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1289,10 +1202,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/18.png",
             "large": "https://images.pokemontcg.io/xy11/18_hires.png"
@@ -1302,6 +1212,7 @@ let xy11 = [
         "id": "xy11-19",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1347,10 +1258,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1365,10 +1273,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             391
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/19.png",
             "large": "https://images.pokemontcg.io/xy11/19_hires.png"
@@ -1378,6 +1283,7 @@ let xy11 = [
         "id": "xy11-20",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1421,10 +1327,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1439,10 +1342,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/20.png",
             "large": "https://images.pokemontcg.io/xy11/20_hires.png"
@@ -1452,6 +1352,7 @@ let xy11 = [
         "id": "xy11-21",
         "name": "Talonflame BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -1481,10 +1382,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1498,10 +1396,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/21.png",
             "large": "https://images.pokemontcg.io/xy11/21_hires.png"
@@ -1511,6 +1406,7 @@ let xy11 = [
         "id": "xy11-22",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1546,10 +1442,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1564,10 +1457,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/22.png",
             "large": "https://images.pokemontcg.io/xy11/22_hires.png"
@@ -1577,6 +1467,7 @@ let xy11 = [
         "id": "xy11-23",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1621,10 +1512,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1639,10 +1527,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/23.png",
             "large": "https://images.pokemontcg.io/xy11/23_hires.png"
@@ -1652,6 +1537,7 @@ let xy11 = [
         "id": "xy11-24",
         "name": "Pyroar BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -1682,10 +1568,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1699,10 +1582,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/24.png",
             "large": "https://images.pokemontcg.io/xy11/24_hires.png"
@@ -1712,6 +1592,7 @@ let xy11 = [
         "id": "xy11-25",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1754,10 +1635,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1772,10 +1650,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/25.png",
             "large": "https://images.pokemontcg.io/xy11/25_hires.png"
@@ -1785,6 +1660,7 @@ let xy11 = [
         "id": "xy11-26",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -1830,10 +1706,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1847,10 +1720,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/26.png",
             "large": "https://images.pokemontcg.io/xy11/26_hires.png"
@@ -1860,6 +1730,7 @@ let xy11 = [
         "id": "xy11-27",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1908,10 +1779,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1926,10 +1794,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/27.png",
             "large": "https://images.pokemontcg.io/xy11/27_hires.png"
@@ -1939,6 +1804,7 @@ let xy11 = [
         "id": "xy11-28",
         "name": "Shellos",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1973,10 +1839,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -1991,10 +1854,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             422
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/28.png",
             "large": "https://images.pokemontcg.io/xy11/28_hires.png"
@@ -2004,6 +1864,7 @@ let xy11 = [
         "id": "xy11-29",
         "name": "Gastrodon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2047,10 +1908,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2065,10 +1923,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             423
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/29.png",
             "large": "https://images.pokemontcg.io/xy11/29_hires.png"
@@ -2078,6 +1933,7 @@ let xy11 = [
         "id": "xy11-30",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2113,10 +1969,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2131,10 +1984,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/30.png",
             "large": "https://images.pokemontcg.io/xy11/30_hires.png"
@@ -2144,6 +1994,7 @@ let xy11 = [
         "id": "xy11-31",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2180,10 +2031,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2198,10 +2046,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/31.png",
             "large": "https://images.pokemontcg.io/xy11/31_hires.png"
@@ -2211,6 +2056,7 @@ let xy11 = [
         "id": "xy11-32",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2255,10 +2101,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2273,10 +2116,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/32.png",
             "large": "https://images.pokemontcg.io/xy11/32_hires.png"
@@ -2286,6 +2126,7 @@ let xy11 = [
         "id": "xy11-33",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2320,10 +2161,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2338,10 +2176,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/33.png",
             "large": "https://images.pokemontcg.io/xy11/33_hires.png"
@@ -2351,6 +2186,7 @@ let xy11 = [
         "id": "xy11-34",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2392,10 +2228,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2410,10 +2243,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             693
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/34.png",
             "large": "https://images.pokemontcg.io/xy11/34_hires.png"
@@ -2423,6 +2253,7 @@ let xy11 = [
         "id": "xy11-35",
         "name": "Clawitzer BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -2451,10 +2282,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2468,10 +2296,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             693
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/35.png",
             "large": "https://images.pokemontcg.io/xy11/35_hires.png"
@@ -2481,6 +2306,7 @@ let xy11 = [
         "id": "xy11-36",
         "name": "Bergmite",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2525,10 +2351,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2543,10 +2366,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             712
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/36.png",
             "large": "https://images.pokemontcg.io/xy11/36_hires.png"
@@ -2556,6 +2376,7 @@ let xy11 = [
         "id": "xy11-37",
         "name": "Avalugg",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2600,10 +2421,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2618,10 +2436,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             713
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/37.png",
             "large": "https://images.pokemontcg.io/xy11/37_hires.png"
@@ -2631,6 +2446,7 @@ let xy11 = [
         "id": "xy11-38",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2681,10 +2497,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2699,10 +2512,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/38.png",
             "large": "https://images.pokemontcg.io/xy11/38_hires.png"
@@ -2712,6 +2522,7 @@ let xy11 = [
         "id": "xy11-39",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2764,10 +2575,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2782,10 +2590,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/39.png",
             "large": "https://images.pokemontcg.io/xy11/39_hires.png"
@@ -2795,6 +2600,7 @@ let xy11 = [
         "id": "xy11-40",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2842,10 +2648,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2860,10 +2663,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/40.png",
             "large": "https://images.pokemontcg.io/xy11/40_hires.png"
@@ -2873,6 +2673,7 @@ let xy11 = [
         "id": "xy11-41",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2912,10 +2713,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -2930,10 +2728,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/41.png",
             "large": "https://images.pokemontcg.io/xy11/41_hires.png"
@@ -2943,6 +2738,7 @@ let xy11 = [
         "id": "xy11-42",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2991,10 +2787,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3009,10 +2802,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/42.png",
             "large": "https://images.pokemontcg.io/xy11/42_hires.png"
@@ -3022,6 +2812,7 @@ let xy11 = [
         "id": "xy11-43",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3066,10 +2857,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3084,10 +2872,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/43.png",
             "large": "https://images.pokemontcg.io/xy11/43_hires.png"
@@ -3097,6 +2882,7 @@ let xy11 = [
         "id": "xy11-44",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3144,10 +2930,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3162,10 +2945,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/44.png",
             "large": "https://images.pokemontcg.io/xy11/44_hires.png"
@@ -3175,6 +2955,7 @@ let xy11 = [
         "id": "xy11-45",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3216,10 +2997,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3234,10 +3012,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/45.png",
             "large": "https://images.pokemontcg.io/xy11/45_hires.png"
@@ -3247,6 +3022,7 @@ let xy11 = [
         "id": "xy11-46",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3287,10 +3063,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3305,10 +3078,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/46.png",
             "large": "https://images.pokemontcg.io/xy11/46_hires.png"
@@ -3318,6 +3088,7 @@ let xy11 = [
         "id": "xy11-47",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3367,10 +3138,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3385,10 +3153,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/47.png",
             "large": "https://images.pokemontcg.io/xy11/47_hires.png"
@@ -3398,6 +3163,7 @@ let xy11 = [
         "id": "xy11-48",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3438,10 +3204,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3456,10 +3219,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/48.png",
             "large": "https://images.pokemontcg.io/xy11/48_hires.png"
@@ -3469,6 +3229,7 @@ let xy11 = [
         "id": "xy11-49",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3520,10 +3281,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3538,10 +3296,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/49.png",
             "large": "https://images.pokemontcg.io/xy11/49_hires.png"
@@ -3551,6 +3306,7 @@ let xy11 = [
         "id": "xy11-50",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3597,10 +3353,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3615,10 +3368,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/50.png",
             "large": "https://images.pokemontcg.io/xy11/50_hires.png"
@@ -3628,6 +3378,7 @@ let xy11 = [
         "id": "xy11-51",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3670,10 +3421,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3688,10 +3436,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/51.png",
             "large": "https://images.pokemontcg.io/xy11/51_hires.png"
@@ -3701,6 +3446,7 @@ let xy11 = [
         "id": "xy11-52",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3744,10 +3490,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3762,10 +3505,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/52.png",
             "large": "https://images.pokemontcg.io/xy11/52_hires.png"
@@ -3775,6 +3515,7 @@ let xy11 = [
         "id": "xy11-53",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3817,10 +3558,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3835,10 +3573,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/53.png",
             "large": "https://images.pokemontcg.io/xy11/53_hires.png"
@@ -3848,6 +3583,7 @@ let xy11 = [
         "id": "xy11-54",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3893,10 +3629,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3911,10 +3644,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/54.png",
             "large": "https://images.pokemontcg.io/xy11/54_hires.png"
@@ -3924,6 +3654,7 @@ let xy11 = [
         "id": "xy11-55",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3967,10 +3698,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -3985,10 +3713,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/55.png",
             "large": "https://images.pokemontcg.io/xy11/55_hires.png"
@@ -3998,6 +3723,7 @@ let xy11 = [
         "id": "xy11-56",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Restored"
         ],
@@ -4043,10 +3769,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4061,10 +3784,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/56.png",
             "large": "https://images.pokemontcg.io/xy11/56_hires.png"
@@ -4074,6 +3794,7 @@ let xy11 = [
         "id": "xy11-57",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4117,10 +3838,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4135,10 +3853,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/57.png",
             "large": "https://images.pokemontcg.io/xy11/57_hires.png"
@@ -4148,6 +3863,7 @@ let xy11 = [
         "id": "xy11-58",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4182,10 +3898,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4200,10 +3913,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/58.png",
             "large": "https://images.pokemontcg.io/xy11/58_hires.png"
@@ -4213,6 +3923,7 @@ let xy11 = [
         "id": "xy11-59",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4253,10 +3964,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4271,10 +3979,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/59.png",
             "large": "https://images.pokemontcg.io/xy11/59_hires.png"
@@ -4284,6 +3989,7 @@ let xy11 = [
         "id": "xy11-60",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4324,10 +4030,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4342,10 +4045,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/60.png",
             "large": "https://images.pokemontcg.io/xy11/60_hires.png"
@@ -4355,6 +4055,7 @@ let xy11 = [
         "id": "xy11-61",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4401,10 +4102,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4419,10 +4117,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/61.png",
             "large": "https://images.pokemontcg.io/xy11/61_hires.png"
@@ -4432,6 +4127,7 @@ let xy11 = [
         "id": "xy11-62",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4467,10 +4163,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4485,10 +4178,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/62.png",
             "large": "https://images.pokemontcg.io/xy11/62_hires.png"
@@ -4498,6 +4188,7 @@ let xy11 = [
         "id": "xy11-63",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4538,10 +4229,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4556,10 +4244,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/63.png",
             "large": "https://images.pokemontcg.io/xy11/63_hires.png"
@@ -4569,6 +4254,7 @@ let xy11 = [
         "id": "xy11-64",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4618,10 +4304,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4636,10 +4319,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/64.png",
             "large": "https://images.pokemontcg.io/xy11/64_hires.png"
@@ -4649,6 +4329,7 @@ let xy11 = [
         "id": "xy11-65",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4697,10 +4378,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4715,10 +4393,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/65.png",
             "large": "https://images.pokemontcg.io/xy11/65_hires.png"
@@ -4728,6 +4403,7 @@ let xy11 = [
         "id": "xy11-66",
         "name": "Yveltal BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -4758,10 +4434,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4775,10 +4448,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/66.png",
             "large": "https://images.pokemontcg.io/xy11/66_hires.png"
@@ -4788,6 +4458,7 @@ let xy11 = [
         "id": "xy11-67",
         "name": "Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -4848,10 +4519,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4865,10 +4533,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/67.png",
             "large": "https://images.pokemontcg.io/xy11/67_hires.png"
@@ -4878,6 +4543,7 @@ let xy11 = [
         "id": "xy11-68",
         "name": "M Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4926,10 +4592,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -4943,10 +4606,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/68.png",
             "large": "https://images.pokemontcg.io/xy11/68_hires.png"
@@ -4956,6 +4616,7 @@ let xy11 = [
         "id": "xy11-69",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Restored"
         ],
@@ -5012,10 +4673,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5030,10 +4688,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             410
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/69.png",
             "large": "https://images.pokemontcg.io/xy11/69_hires.png"
@@ -5043,6 +4698,7 @@ let xy11 = [
         "id": "xy11-70",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5094,10 +4750,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5112,10 +4765,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             411
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/70.png",
             "large": "https://images.pokemontcg.io/xy11/70_hires.png"
@@ -5125,6 +4775,7 @@ let xy11 = [
         "id": "xy11-71",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5165,10 +4816,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5183,10 +4831,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/71.png",
             "large": "https://images.pokemontcg.io/xy11/71_hires.png"
@@ -5196,6 +4841,7 @@ let xy11 = [
         "id": "xy11-72",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5249,10 +4895,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5267,10 +4910,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/72.png",
             "large": "https://images.pokemontcg.io/xy11/72_hires.png"
@@ -5280,6 +4920,7 @@ let xy11 = [
         "id": "xy11-73",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5327,10 +4968,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5345,10 +4983,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/73.png",
             "large": "https://images.pokemontcg.io/xy11/73_hires.png"
@@ -5358,6 +4993,7 @@ let xy11 = [
         "id": "xy11-74",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5405,10 +5041,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5423,10 +5056,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/74.png",
             "large": "https://images.pokemontcg.io/xy11/74_hires.png"
@@ -5436,6 +5066,7 @@ let xy11 = [
         "id": "xy11-75",
         "name": "Magearna-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5486,10 +5117,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5503,10 +5131,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             801
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/75.png",
             "large": "https://images.pokemontcg.io/xy11/75_hires.png"
@@ -5516,6 +5141,7 @@ let xy11 = [
         "id": "xy11-76",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5556,10 +5182,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5574,10 +5197,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/76.png",
             "large": "https://images.pokemontcg.io/xy11/76_hires.png"
@@ -5587,6 +5207,7 @@ let xy11 = [
         "id": "xy11-77",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5638,10 +5259,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5656,10 +5274,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/77.png",
             "large": "https://images.pokemontcg.io/xy11/77_hires.png"
@@ -5669,6 +5284,7 @@ let xy11 = [
         "id": "xy11-78",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5725,10 +5341,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5742,10 +5355,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/78.png",
             "large": "https://images.pokemontcg.io/xy11/78_hires.png"
@@ -5755,6 +5365,7 @@ let xy11 = [
         "id": "xy11-79",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5800,10 +5411,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5817,10 +5425,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/79.png",
             "large": "https://images.pokemontcg.io/xy11/79_hires.png"
@@ -5830,6 +5435,7 @@ let xy11 = [
         "id": "xy11-80",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5875,10 +5481,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5893,10 +5496,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             707
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/80.png",
             "large": "https://images.pokemontcg.io/xy11/80_hires.png"
@@ -5906,6 +5506,7 @@ let xy11 = [
         "id": "xy11-81",
         "name": "Xerneas",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5954,10 +5555,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -5972,10 +5570,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/81.png",
             "large": "https://images.pokemontcg.io/xy11/81_hires.png"
@@ -5985,6 +5580,7 @@ let xy11 = [
         "id": "xy11-82",
         "name": "Xerneas BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -6014,10 +5610,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6031,10 +5624,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/82.png",
             "large": "https://images.pokemontcg.io/xy11/82_hires.png"
@@ -6044,6 +5634,7 @@ let xy11 = [
         "id": "xy11-83",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6087,10 +5678,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6105,10 +5693,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/83.png",
             "large": "https://images.pokemontcg.io/xy11/83_hires.png"
@@ -6118,6 +5703,7 @@ let xy11 = [
         "id": "xy11-84",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6162,10 +5748,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6180,10 +5763,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/84.png",
             "large": "https://images.pokemontcg.io/xy11/84_hires.png"
@@ -6193,6 +5773,7 @@ let xy11 = [
         "id": "xy11-85",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6239,10 +5820,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6257,10 +5835,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/85.png",
             "large": "https://images.pokemontcg.io/xy11/85_hires.png"
@@ -6270,6 +5845,7 @@ let xy11 = [
         "id": "xy11-86",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -6314,10 +5890,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6332,10 +5905,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/86.png",
             "large": "https://images.pokemontcg.io/xy11/86_hires.png"
@@ -6345,6 +5915,7 @@ let xy11 = [
         "id": "xy11-87",
         "name": "Hydreigon BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -6376,10 +5947,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6393,10 +5961,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/87.png",
             "large": "https://images.pokemontcg.io/xy11/87_hires.png"
@@ -6406,6 +5971,7 @@ let xy11 = [
         "id": "xy11-88",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6450,10 +6016,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6468,10 +6031,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/88.png",
             "large": "https://images.pokemontcg.io/xy11/88_hires.png"
@@ -6481,6 +6041,7 @@ let xy11 = [
         "id": "xy11-89",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6523,10 +6084,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6541,10 +6099,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/89.png",
             "large": "https://images.pokemontcg.io/xy11/89_hires.png"
@@ -6554,6 +6109,7 @@ let xy11 = [
         "id": "xy11-90",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6598,10 +6154,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6616,10 +6169,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/90.png",
             "large": "https://images.pokemontcg.io/xy11/90_hires.png"
@@ -6629,6 +6179,7 @@ let xy11 = [
         "id": "xy11-91",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6672,10 +6223,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6690,10 +6238,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/91.png",
             "large": "https://images.pokemontcg.io/xy11/91_hires.png"
@@ -6703,6 +6248,7 @@ let xy11 = [
         "id": "xy11-92",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6743,10 +6289,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6761,10 +6304,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/92.png",
             "large": "https://images.pokemontcg.io/xy11/92_hires.png"
@@ -6774,6 +6314,7 @@ let xy11 = [
         "id": "xy11-93",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6824,10 +6365,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6842,10 +6380,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             628
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/93.png",
             "large": "https://images.pokemontcg.io/xy11/93_hires.png"
@@ -6855,6 +6390,7 @@ let xy11 = [
         "id": "xy11-94",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6895,10 +6431,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6913,10 +6446,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/94.png",
             "large": "https://images.pokemontcg.io/xy11/94_hires.png"
@@ -6926,6 +6456,7 @@ let xy11 = [
         "id": "xy11-95",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6967,10 +6498,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -6985,10 +6513,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             662
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/95.png",
             "large": "https://images.pokemontcg.io/xy11/95_hires.png"
@@ -6998,6 +6523,7 @@ let xy11 = [
         "id": "xy11-96",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7042,10 +6568,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7060,10 +6583,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/96.png",
             "large": "https://images.pokemontcg.io/xy11/96_hires.png"
@@ -7073,6 +6593,7 @@ let xy11 = [
         "id": "xy11-97",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -7118,10 +6639,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7136,10 +6654,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/97.png",
             "large": "https://images.pokemontcg.io/xy11/97_hires.png"
@@ -7149,6 +6664,7 @@ let xy11 = [
         "id": "xy11-98",
         "name": "Armor Fossil Shieldon",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -7162,10 +6678,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7176,10 +6689,7 @@ let xy11 = [
         "number": "98",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/98.png",
             "large": "https://images.pokemontcg.io/xy11/98_hires.png"
@@ -7189,6 +6699,7 @@ let xy11 = [
         "id": "xy11-99",
         "name": "Captivating Poké Puff",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -7202,10 +6713,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7216,10 +6724,7 @@ let xy11 = [
         "number": "99",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/99.png",
             "large": "https://images.pokemontcg.io/xy11/99_hires.png"
@@ -7229,6 +6734,7 @@ let xy11 = [
         "id": "xy11-100",
         "name": "Claw Fossil Anorith",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -7242,10 +6748,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7256,10 +6759,7 @@ let xy11 = [
         "number": "100",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/100.png",
             "large": "https://images.pokemontcg.io/xy11/100_hires.png"
@@ -7269,6 +6769,7 @@ let xy11 = [
         "id": "xy11-101",
         "name": "Gardevoir Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7283,10 +6784,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7297,10 +6795,7 @@ let xy11 = [
         "number": "101",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/101.png",
             "large": "https://images.pokemontcg.io/xy11/101_hires.png"
@@ -7310,6 +6805,7 @@ let xy11 = [
         "id": "xy11-102",
         "name": "Greedy Dice",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -7324,10 +6820,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7338,10 +6831,7 @@ let xy11 = [
         "number": "102",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/102.png",
             "large": "https://images.pokemontcg.io/xy11/102_hires.png"
@@ -7351,6 +6841,7 @@ let xy11 = [
         "id": "xy11-103",
         "name": "Ninja Boy",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -7364,10 +6855,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7378,10 +6866,7 @@ let xy11 = [
         "number": "103",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/103.png",
             "large": "https://images.pokemontcg.io/xy11/103_hires.png"
@@ -7391,6 +6876,7 @@ let xy11 = [
         "id": "xy11-104",
         "name": "Pokémon Ranger",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -7404,10 +6890,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7418,10 +6901,7 @@ let xy11 = [
         "number": "104",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/104.png",
             "large": "https://images.pokemontcg.io/xy11/104_hires.png"
@@ -7431,6 +6911,7 @@ let xy11 = [
         "id": "xy11-105",
         "name": "Special Charge",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -7444,10 +6925,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7458,10 +6936,7 @@ let xy11 = [
         "number": "105",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/105.png",
             "large": "https://images.pokemontcg.io/xy11/105_hires.png"
@@ -7471,6 +6946,7 @@ let xy11 = [
         "id": "xy11-106",
         "name": "Steelix Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7485,10 +6961,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7499,10 +6972,7 @@ let xy11 = [
         "number": "106",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/106.png",
             "large": "https://images.pokemontcg.io/xy11/106_hires.png"
@@ -7512,6 +6982,7 @@ let xy11 = [
         "id": "xy11-107",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7557,10 +7028,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7574,10 +7042,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/107.png",
             "large": "https://images.pokemontcg.io/xy11/107_hires.png"
@@ -7587,6 +7052,7 @@ let xy11 = [
         "id": "xy11-108",
         "name": "Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7647,10 +7113,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7664,10 +7127,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/108.png",
             "large": "https://images.pokemontcg.io/xy11/108_hires.png"
@@ -7677,6 +7137,7 @@ let xy11 = [
         "id": "xy11-109",
         "name": "M Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7725,10 +7186,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7742,10 +7200,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/109.png",
             "large": "https://images.pokemontcg.io/xy11/109_hires.png"
@@ -7755,6 +7210,7 @@ let xy11 = [
         "id": "xy11-110",
         "name": "Magearna-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7805,10 +7261,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7822,10 +7275,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             801
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/110.png",
             "large": "https://images.pokemontcg.io/xy11/110_hires.png"
@@ -7835,6 +7285,7 @@ let xy11 = [
         "id": "xy11-111",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7891,10 +7342,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7908,10 +7356,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/111.png",
             "large": "https://images.pokemontcg.io/xy11/111_hires.png"
@@ -7921,6 +7366,7 @@ let xy11 = [
         "id": "xy11-112",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7966,10 +7412,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -7983,10 +7426,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/112.png",
             "large": "https://images.pokemontcg.io/xy11/112_hires.png"
@@ -7996,6 +7436,7 @@ let xy11 = [
         "id": "xy11-113",
         "name": "Pokémon Ranger",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -8009,10 +7450,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -8023,10 +7461,7 @@ let xy11 = [
         "number": "113",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/113.png",
             "large": "https://images.pokemontcg.io/xy11/113_hires.png"
@@ -8036,6 +7471,7 @@ let xy11 = [
         "id": "xy11-114",
         "name": "Professor Sycamore",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -8049,10 +7485,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -8063,10 +7496,7 @@ let xy11 = [
         "number": "114",
         "artist": "Yusuke Ohmura",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/114.png",
             "large": "https://images.pokemontcg.io/xy11/114_hires.png"
@@ -8076,6 +7506,7 @@ let xy11 = [
         "id": "xy11-115",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -8121,10 +7552,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -8138,10 +7566,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/115.png",
             "large": "https://images.pokemontcg.io/xy11/115_hires.png"
@@ -8151,6 +7576,7 @@ let xy11 = [
         "id": "xy11-116",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -8207,10 +7633,7 @@ let xy11 = [
             "series": "XY",
             "printedTotal": 114,
             "total": 116,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "STS",
             "releaseDate": "2016/08/03",
             "images": {
@@ -8224,10 +7647,7 @@ let xy11 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy11/116.png",
             "large": "https://images.pokemontcg.io/xy11/116_hires.png"

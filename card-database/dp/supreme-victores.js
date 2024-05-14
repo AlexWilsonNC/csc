@@ -1,8 +1,9 @@
-let supremeVictors = [
+let pl3 = [
     {
         "id": "pl3-1",
         "name": "Absol G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -52,9 +53,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -68,9 +67,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/1.png",
             "large": "https://images.pokemontcg.io/pl3/1_hires.png"
@@ -80,6 +77,7 @@ let supremeVictors = [
         "id": "pl3-2",
         "name": "Blaziken FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -122,9 +120,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -138,9 +134,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/2.png",
             "large": "https://images.pokemontcg.io/pl3/2_hires.png"
@@ -150,6 +144,7 @@ let supremeVictors = [
         "id": "pl3-3",
         "name": "Drifblim FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -197,9 +192,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -213,9 +206,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/3.png",
             "large": "https://images.pokemontcg.io/pl3/3_hires.png"
@@ -225,6 +216,7 @@ let supremeVictors = [
         "id": "pl3-4",
         "name": "Electivire FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -274,9 +266,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -290,9 +280,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/4.png",
             "large": "https://images.pokemontcg.io/pl3/4_hires.png"
@@ -302,6 +290,7 @@ let supremeVictors = [
         "id": "pl3-5",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -352,9 +341,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -368,9 +355,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/5.png",
             "large": "https://images.pokemontcg.io/pl3/5_hires.png"
@@ -380,6 +365,7 @@ let supremeVictors = [
         "id": "pl3-6",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -431,9 +417,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -447,9 +431,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/6.png",
             "large": "https://images.pokemontcg.io/pl3/6_hires.png"
@@ -459,6 +441,7 @@ let supremeVictors = [
         "id": "pl3-7",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -506,9 +489,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -523,9 +504,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/7.png",
             "large": "https://images.pokemontcg.io/pl3/7_hires.png"
@@ -535,6 +514,7 @@ let supremeVictors = [
         "id": "pl3-8",
         "name": "Rayquaza C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -585,9 +565,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -601,9 +579,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/8.png",
             "large": "https://images.pokemontcg.io/pl3/8_hires.png"
@@ -613,6 +589,7 @@ let supremeVictors = [
         "id": "pl3-9",
         "name": "Regigigas FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -659,9 +636,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -675,9 +650,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/9.png",
             "large": "https://images.pokemontcg.io/pl3/9_hires.png"
@@ -687,6 +660,7 @@ let supremeVictors = [
         "id": "pl3-10",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -738,9 +712,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -755,9 +727,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/10.png",
             "large": "https://images.pokemontcg.io/pl3/10_hires.png"
@@ -767,6 +737,7 @@ let supremeVictors = [
         "id": "pl3-11",
         "name": "Staraptor FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -816,9 +787,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -832,9 +801,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/11.png",
             "large": "https://images.pokemontcg.io/pl3/11_hires.png"
@@ -844,6 +811,7 @@ let supremeVictors = [
         "id": "pl3-12",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -897,9 +865,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -913,9 +879,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/12.png",
             "large": "https://images.pokemontcg.io/pl3/12_hires.png"
@@ -925,6 +889,7 @@ let supremeVictors = [
         "id": "pl3-13",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -976,9 +941,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -992,9 +955,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/13.png",
             "large": "https://images.pokemontcg.io/pl3/13_hires.png"
@@ -1004,6 +965,7 @@ let supremeVictors = [
         "id": "pl3-14",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1061,9 +1023,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1077,9 +1037,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/14.png",
             "large": "https://images.pokemontcg.io/pl3/14_hires.png"
@@ -1089,6 +1047,7 @@ let supremeVictors = [
         "id": "pl3-15",
         "name": "Arcanine G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1130,9 +1089,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1146,9 +1103,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/15.png",
             "large": "https://images.pokemontcg.io/pl3/15_hires.png"
@@ -1158,6 +1113,7 @@ let supremeVictors = [
         "id": "pl3-16",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -1209,9 +1165,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1226,9 +1180,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/16.png",
             "large": "https://images.pokemontcg.io/pl3/16_hires.png"
@@ -1238,6 +1190,7 @@ let supremeVictors = [
         "id": "pl3-17",
         "name": "Butterfree FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1285,9 +1238,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1301,9 +1252,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/17.png",
             "large": "https://images.pokemontcg.io/pl3/17_hires.png"
@@ -1313,6 +1262,7 @@ let supremeVictors = [
         "id": "pl3-18",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1358,9 +1308,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1375,9 +1323,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/18.png",
             "large": "https://images.pokemontcg.io/pl3/18_hires.png"
@@ -1387,6 +1333,7 @@ let supremeVictors = [
         "id": "pl3-19",
         "name": "Camerupt G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1432,9 +1379,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1448,9 +1393,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/19.png",
             "large": "https://images.pokemontcg.io/pl3/19_hires.png"
@@ -1460,6 +1403,7 @@ let supremeVictors = [
         "id": "pl3-20",
         "name": "Charizard G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1510,9 +1454,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1526,9 +1468,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/20.png",
             "large": "https://images.pokemontcg.io/pl3/20_hires.png"
@@ -1538,6 +1478,7 @@ let supremeVictors = [
         "id": "pl3-21",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -1578,9 +1519,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1595,9 +1534,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/21.png",
             "large": "https://images.pokemontcg.io/pl3/21_hires.png"
@@ -1607,6 +1544,7 @@ let supremeVictors = [
         "id": "pl3-22",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1650,9 +1588,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1667,9 +1603,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/22.png",
             "large": "https://images.pokemontcg.io/pl3/22_hires.png"
@@ -1679,6 +1613,7 @@ let supremeVictors = [
         "id": "pl3-23",
         "name": "Crawdaunt G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1722,9 +1657,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1738,9 +1671,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/23.png",
             "large": "https://images.pokemontcg.io/pl3/23_hires.png"
@@ -1750,6 +1681,7 @@ let supremeVictors = [
         "id": "pl3-24",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1802,9 +1734,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1818,9 +1748,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/24.png",
             "large": "https://images.pokemontcg.io/pl3/24_hires.png"
@@ -1830,6 +1758,7 @@ let supremeVictors = [
         "id": "pl3-25",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1876,9 +1805,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1893,9 +1820,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/25.png",
             "large": "https://images.pokemontcg.io/pl3/25_hires.png"
@@ -1905,6 +1830,7 @@ let supremeVictors = [
         "id": "pl3-26",
         "name": "Dusknoir FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1955,9 +1881,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -1971,9 +1895,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/26.png",
             "large": "https://images.pokemontcg.io/pl3/26_hires.png"
@@ -1983,6 +1905,7 @@ let supremeVictors = [
         "id": "pl3-27",
         "name": "Empoleon FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2027,9 +1950,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2043,9 +1964,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/27.png",
             "large": "https://images.pokemontcg.io/pl3/27_hires.png"
@@ -2055,6 +1974,7 @@ let supremeVictors = [
         "id": "pl3-28",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -2106,9 +2026,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2122,9 +2040,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/28.png",
             "large": "https://images.pokemontcg.io/pl3/28_hires.png"
@@ -2134,6 +2050,7 @@ let supremeVictors = [
         "id": "pl3-29",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2181,9 +2098,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2198,9 +2113,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             430
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/29.png",
             "large": "https://images.pokemontcg.io/pl3/29_hires.png"
@@ -2210,6 +2123,7 @@ let supremeVictors = [
         "id": "pl3-30",
         "name": "Lickilicky C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2253,9 +2167,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2269,9 +2181,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             463
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/30.png",
             "large": "https://images.pokemontcg.io/pl3/30_hires.png"
@@ -2281,6 +2191,7 @@ let supremeVictors = [
         "id": "pl3-31",
         "name": "Lucario C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2324,9 +2235,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2340,9 +2249,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/31.png",
             "large": "https://images.pokemontcg.io/pl3/31_hires.png"
@@ -2352,6 +2259,7 @@ let supremeVictors = [
         "id": "pl3-32",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2390,9 +2298,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2407,9 +2313,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/32.png",
             "large": "https://images.pokemontcg.io/pl3/32_hires.png"
@@ -2419,6 +2323,7 @@ let supremeVictors = [
         "id": "pl3-33",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2476,9 +2381,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2492,9 +2395,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/33.png",
             "large": "https://images.pokemontcg.io/pl3/33_hires.png"
@@ -2504,6 +2405,7 @@ let supremeVictors = [
         "id": "pl3-34",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2548,9 +2450,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2565,9 +2465,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/34.png",
             "large": "https://images.pokemontcg.io/pl3/34_hires.png"
@@ -2577,6 +2475,7 @@ let supremeVictors = [
         "id": "pl3-35",
         "name": "Milotic C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2620,9 +2519,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2636,9 +2533,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/35.png",
             "large": "https://images.pokemontcg.io/pl3/35_hires.png"
@@ -2648,6 +2543,7 @@ let supremeVictors = [
         "id": "pl3-36",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2698,9 +2594,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2715,9 +2609,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/36.png",
             "large": "https://images.pokemontcg.io/pl3/36_hires.png"
@@ -2727,6 +2619,7 @@ let supremeVictors = [
         "id": "pl3-37",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2760,9 +2653,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2777,9 +2668,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/37.png",
             "large": "https://images.pokemontcg.io/pl3/37_hires.png"
@@ -2789,6 +2678,7 @@ let supremeVictors = [
         "id": "pl3-38",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2832,9 +2722,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2849,9 +2737,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/38.png",
             "large": "https://images.pokemontcg.io/pl3/38_hires.png"
@@ -2861,6 +2747,7 @@ let supremeVictors = [
         "id": "pl3-39",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2904,9 +2791,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2921,9 +2806,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/39.png",
             "large": "https://images.pokemontcg.io/pl3/39_hires.png"
@@ -2933,6 +2816,7 @@ let supremeVictors = [
         "id": "pl3-40",
         "name": "Roserade C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2974,9 +2858,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -2990,9 +2872,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/40.png",
             "large": "https://images.pokemontcg.io/pl3/40_hires.png"
@@ -3002,6 +2882,7 @@ let supremeVictors = [
         "id": "pl3-41",
         "name": "Sableye G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3042,9 +2923,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3058,9 +2937,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/41.png",
             "large": "https://images.pokemontcg.io/pl3/41_hires.png"
@@ -3070,6 +2947,7 @@ let supremeVictors = [
         "id": "pl3-42",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3117,9 +2995,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3134,9 +3010,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/42.png",
             "large": "https://images.pokemontcg.io/pl3/42_hires.png"
@@ -3146,6 +3020,7 @@ let supremeVictors = [
         "id": "pl3-43",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3187,9 +3062,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3204,9 +3077,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/43.png",
             "large": "https://images.pokemontcg.io/pl3/43_hires.png"
@@ -3216,6 +3087,7 @@ let supremeVictors = [
         "id": "pl3-44",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3255,9 +3127,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3272,9 +3142,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/44.png",
             "large": "https://images.pokemontcg.io/pl3/44_hires.png"
@@ -3284,6 +3152,7 @@ let supremeVictors = [
         "id": "pl3-45",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3323,9 +3192,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3340,9 +3207,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/45.png",
             "large": "https://images.pokemontcg.io/pl3/45_hires.png"
@@ -3352,6 +3217,7 @@ let supremeVictors = [
         "id": "pl3-46",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3392,9 +3258,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3409,9 +3273,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/46.png",
             "large": "https://images.pokemontcg.io/pl3/46_hires.png"
@@ -3421,6 +3283,7 @@ let supremeVictors = [
         "id": "pl3-47",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3467,9 +3330,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3484,9 +3345,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/47.png",
             "large": "https://images.pokemontcg.io/pl3/47_hires.png"
@@ -3496,6 +3355,7 @@ let supremeVictors = [
         "id": "pl3-48",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3547,9 +3407,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3564,9 +3422,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/48.png",
             "large": "https://images.pokemontcg.io/pl3/48_hires.png"
@@ -3576,6 +3432,7 @@ let supremeVictors = [
         "id": "pl3-49",
         "name": "Altaria C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3625,9 +3482,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3641,9 +3496,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/49.png",
             "large": "https://images.pokemontcg.io/pl3/49_hires.png"
@@ -3653,6 +3506,7 @@ let supremeVictors = [
         "id": "pl3-50",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3698,9 +3552,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3715,9 +3567,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/50.png",
             "large": "https://images.pokemontcg.io/pl3/50_hires.png"
@@ -3727,6 +3577,7 @@ let supremeVictors = [
         "id": "pl3-51",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3771,9 +3622,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3788,9 +3637,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/51.png",
             "large": "https://images.pokemontcg.io/pl3/51_hires.png"
@@ -3800,6 +3647,7 @@ let supremeVictors = [
         "id": "pl3-52",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3842,9 +3690,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3859,9 +3705,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/52.png",
             "large": "https://images.pokemontcg.io/pl3/52_hires.png"
@@ -3871,6 +3715,7 @@ let supremeVictors = [
         "id": "pl3-53",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3920,9 +3765,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -3937,9 +3780,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/53.png",
             "large": "https://images.pokemontcg.io/pl3/53_hires.png"
@@ -3949,6 +3790,7 @@ let supremeVictors = [
         "id": "pl3-54",
         "name": "Chatot G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3992,9 +3834,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4008,9 +3848,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/54.png",
             "large": "https://images.pokemontcg.io/pl3/54_hires.png"
@@ -4020,6 +3858,7 @@ let supremeVictors = [
         "id": "pl3-55",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4065,9 +3904,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4082,9 +3919,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/55.png",
             "large": "https://images.pokemontcg.io/pl3/55_hires.png"
@@ -4094,6 +3929,7 @@ let supremeVictors = [
         "id": "pl3-56",
         "name": "Dragonite FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -4146,9 +3982,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4162,9 +3996,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/56.png",
             "large": "https://images.pokemontcg.io/pl3/56_hires.png"
@@ -4174,6 +4006,7 @@ let supremeVictors = [
         "id": "pl3-57",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4224,9 +4057,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4241,9 +4072,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/57.png",
             "large": "https://images.pokemontcg.io/pl3/57_hires.png"
@@ -4253,6 +4082,7 @@ let supremeVictors = [
         "id": "pl3-58",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4297,9 +4127,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4314,9 +4142,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/58.png",
             "large": "https://images.pokemontcg.io/pl3/58_hires.png"
@@ -4326,6 +4152,7 @@ let supremeVictors = [
         "id": "pl3-59",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4369,9 +4196,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4386,9 +4211,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/59.png",
             "large": "https://images.pokemontcg.io/pl3/59_hires.png"
@@ -4398,6 +4221,7 @@ let supremeVictors = [
         "id": "pl3-60",
         "name": "Garchomp C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -4442,9 +4266,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4458,9 +4280,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/60.png",
             "large": "https://images.pokemontcg.io/pl3/60_hires.png"
@@ -4470,6 +4290,7 @@ let supremeVictors = [
         "id": "pl3-61",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -4516,9 +4337,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4533,9 +4352,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             449
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/61.png",
             "large": "https://images.pokemontcg.io/pl3/61_hires.png"
@@ -4545,6 +4362,7 @@ let supremeVictors = [
         "id": "pl3-62",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4589,9 +4407,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4606,9 +4422,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/62.png",
             "large": "https://images.pokemontcg.io/pl3/62_hires.png"
@@ -4618,6 +4432,7 @@ let supremeVictors = [
         "id": "pl3-63",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4661,9 +4476,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4678,9 +4491,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/63.png",
             "large": "https://images.pokemontcg.io/pl3/63_hires.png"
@@ -4690,6 +4501,7 @@ let supremeVictors = [
         "id": "pl3-64",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4737,9 +4549,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4754,9 +4564,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/64.png",
             "large": "https://images.pokemontcg.io/pl3/64_hires.png"
@@ -4766,6 +4574,7 @@ let supremeVictors = [
         "id": "pl3-65",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -4810,9 +4619,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4827,9 +4634,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/65.png",
             "large": "https://images.pokemontcg.io/pl3/65_hires.png"
@@ -4839,6 +4644,7 @@ let supremeVictors = [
         "id": "pl3-66",
         "name": "Manectric G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -4885,9 +4691,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4901,9 +4705,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/66.png",
             "large": "https://images.pokemontcg.io/pl3/66_hires.png"
@@ -4913,6 +4715,7 @@ let supremeVictors = [
         "id": "pl3-67",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4957,9 +4760,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -4974,9 +4775,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/67.png",
             "large": "https://images.pokemontcg.io/pl3/67_hires.png"
@@ -4986,6 +4785,7 @@ let supremeVictors = [
         "id": "pl3-68",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5030,9 +4830,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5047,9 +4845,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/68.png",
             "large": "https://images.pokemontcg.io/pl3/68_hires.png"
@@ -5059,6 +4855,7 @@ let supremeVictors = [
         "id": "pl3-69",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5109,9 +4906,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5126,9 +4921,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/69.png",
             "large": "https://images.pokemontcg.io/pl3/69_hires.png"
@@ -5138,6 +4931,7 @@ let supremeVictors = [
         "id": "pl3-70",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5182,9 +4976,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5199,9 +4991,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/70.png",
             "large": "https://images.pokemontcg.io/pl3/70_hires.png"
@@ -5211,6 +5001,7 @@ let supremeVictors = [
         "id": "pl3-71",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5255,9 +5046,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5272,9 +5061,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/71.png",
             "large": "https://images.pokemontcg.io/pl3/71_hires.png"
@@ -5284,6 +5071,7 @@ let supremeVictors = [
         "id": "pl3-72",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5332,9 +5120,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5349,9 +5135,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/72.png",
             "large": "https://images.pokemontcg.io/pl3/72_hires.png"
@@ -5361,6 +5145,7 @@ let supremeVictors = [
         "id": "pl3-73",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5410,9 +5195,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5427,9 +5210,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/73.png",
             "large": "https://images.pokemontcg.io/pl3/73_hires.png"
@@ -5439,6 +5220,7 @@ let supremeVictors = [
         "id": "pl3-74",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5484,9 +5266,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5501,9 +5281,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/74.png",
             "large": "https://images.pokemontcg.io/pl3/74_hires.png"
@@ -5513,6 +5291,7 @@ let supremeVictors = [
         "id": "pl3-75",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5556,9 +5335,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5573,9 +5350,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/75.png",
             "large": "https://images.pokemontcg.io/pl3/75_hires.png"
@@ -5585,6 +5360,7 @@ let supremeVictors = [
         "id": "pl3-76",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5629,9 +5405,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5646,9 +5420,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/76.png",
             "large": "https://images.pokemontcg.io/pl3/76_hires.png"
@@ -5658,6 +5430,7 @@ let supremeVictors = [
         "id": "pl3-77",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5706,9 +5479,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5723,9 +5494,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/77.png",
             "large": "https://images.pokemontcg.io/pl3/77_hires.png"
@@ -5735,6 +5504,7 @@ let supremeVictors = [
         "id": "pl3-78",
         "name": "Raticate G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -5775,9 +5545,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5791,9 +5559,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/78.png",
             "large": "https://images.pokemontcg.io/pl3/78_hires.png"
@@ -5803,6 +5569,7 @@ let supremeVictors = [
         "id": "pl3-79",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5844,9 +5611,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5861,9 +5626,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/79.png",
             "large": "https://images.pokemontcg.io/pl3/79_hires.png"
@@ -5873,6 +5636,7 @@ let supremeVictors = [
         "id": "pl3-80",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5925,9 +5689,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -5942,9 +5704,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/80.png",
             "large": "https://images.pokemontcg.io/pl3/80_hires.png"
@@ -5954,6 +5714,7 @@ let supremeVictors = [
         "id": "pl3-81",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5997,9 +5758,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6014,9 +5773,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/81.png",
             "large": "https://images.pokemontcg.io/pl3/81_hires.png"
@@ -6026,6 +5783,7 @@ let supremeVictors = [
         "id": "pl3-82",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6073,9 +5831,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6090,9 +5846,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/82.png",
             "large": "https://images.pokemontcg.io/pl3/82_hires.png"
@@ -6102,6 +5856,7 @@ let supremeVictors = [
         "id": "pl3-83",
         "name": "Skarmory FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -6150,9 +5905,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6166,9 +5919,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/83.png",
             "large": "https://images.pokemontcg.io/pl3/83_hires.png"
@@ -6178,6 +5929,7 @@ let supremeVictors = [
         "id": "pl3-84",
         "name": "Spiritomb C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -6220,9 +5972,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6236,9 +5986,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/84.png",
             "large": "https://images.pokemontcg.io/pl3/84_hires.png"
@@ -6248,6 +5996,7 @@ let supremeVictors = [
         "id": "pl3-85",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -6301,9 +6050,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6318,9 +6065,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/85.png",
             "large": "https://images.pokemontcg.io/pl3/85_hires.png"
@@ -6330,6 +6075,7 @@ let supremeVictors = [
         "id": "pl3-86",
         "name": "Togekiss C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -6375,9 +6121,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6391,9 +6135,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/86.png",
             "large": "https://images.pokemontcg.io/pl3/86_hires.png"
@@ -6403,6 +6145,7 @@ let supremeVictors = [
         "id": "pl3-87",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6449,9 +6192,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6466,9 +6207,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/87.png",
             "large": "https://images.pokemontcg.io/pl3/87_hires.png"
@@ -6478,6 +6217,7 @@ let supremeVictors = [
         "id": "pl3-88",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6527,9 +6267,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6544,9 +6282,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/88.png",
             "large": "https://images.pokemontcg.io/pl3/88_hires.png"
@@ -6556,6 +6292,7 @@ let supremeVictors = [
         "id": "pl3-89",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6600,9 +6337,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6617,9 +6352,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/89.png",
             "large": "https://images.pokemontcg.io/pl3/89_hires.png"
@@ -6629,6 +6362,7 @@ let supremeVictors = [
         "id": "pl3-90",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6678,9 +6412,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6695,9 +6427,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/90.png",
             "large": "https://images.pokemontcg.io/pl3/90_hires.png"
@@ -6707,6 +6437,7 @@ let supremeVictors = [
         "id": "pl3-91",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6741,9 +6472,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6758,9 +6487,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/91.png",
             "large": "https://images.pokemontcg.io/pl3/91_hires.png"
@@ -6770,6 +6497,7 @@ let supremeVictors = [
         "id": "pl3-92",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6814,9 +6542,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6831,9 +6557,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/92.png",
             "large": "https://images.pokemontcg.io/pl3/92_hires.png"
@@ -6843,6 +6567,7 @@ let supremeVictors = [
         "id": "pl3-93",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6887,9 +6612,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6904,9 +6627,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/93.png",
             "large": "https://images.pokemontcg.io/pl3/93_hires.png"
@@ -6916,6 +6637,7 @@ let supremeVictors = [
         "id": "pl3-94",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6960,9 +6682,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -6977,9 +6697,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/94.png",
             "large": "https://images.pokemontcg.io/pl3/94_hires.png"
@@ -6989,6 +6707,7 @@ let supremeVictors = [
         "id": "pl3-95",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7036,9 +6755,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7053,9 +6770,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/95.png",
             "large": "https://images.pokemontcg.io/pl3/95_hires.png"
@@ -7065,6 +6780,7 @@ let supremeVictors = [
         "id": "pl3-96",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7112,9 +6828,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7129,9 +6843,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/96.png",
             "large": "https://images.pokemontcg.io/pl3/96_hires.png"
@@ -7141,6 +6853,7 @@ let supremeVictors = [
         "id": "pl3-97",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7185,9 +6898,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7202,9 +6913,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/97.png",
             "large": "https://images.pokemontcg.io/pl3/97_hires.png"
@@ -7214,6 +6923,7 @@ let supremeVictors = [
         "id": "pl3-98",
         "name": "Chingling",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7253,9 +6963,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7270,9 +6978,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             433
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/98.png",
             "large": "https://images.pokemontcg.io/pl3/98_hires.png"
@@ -7282,6 +6988,7 @@ let supremeVictors = [
         "id": "pl3-99",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7332,9 +7039,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7349,9 +7054,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/99.png",
             "large": "https://images.pokemontcg.io/pl3/99_hires.png"
@@ -7361,6 +7064,7 @@ let supremeVictors = [
         "id": "pl3-100",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7404,9 +7108,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7421,9 +7123,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/100.png",
             "large": "https://images.pokemontcg.io/pl3/100_hires.png"
@@ -7433,6 +7133,7 @@ let supremeVictors = [
         "id": "pl3-101",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7477,9 +7178,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7494,9 +7193,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/101.png",
             "large": "https://images.pokemontcg.io/pl3/101_hires.png"
@@ -7506,6 +7203,7 @@ let supremeVictors = [
         "id": "pl3-102",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7545,9 +7243,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7562,9 +7258,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/102.png",
             "large": "https://images.pokemontcg.io/pl3/102_hires.png"
@@ -7574,6 +7268,7 @@ let supremeVictors = [
         "id": "pl3-103",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7623,9 +7318,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7640,9 +7333,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/103.png",
             "large": "https://images.pokemontcg.io/pl3/103_hires.png"
@@ -7652,6 +7343,7 @@ let supremeVictors = [
         "id": "pl3-104",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7693,9 +7385,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7710,9 +7400,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/104.png",
             "large": "https://images.pokemontcg.io/pl3/104_hires.png"
@@ -7722,6 +7410,7 @@ let supremeVictors = [
         "id": "pl3-105",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7766,9 +7455,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7783,9 +7470,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/105.png",
             "large": "https://images.pokemontcg.io/pl3/105_hires.png"
@@ -7795,6 +7480,7 @@ let supremeVictors = [
         "id": "pl3-106",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7838,9 +7524,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7855,9 +7539,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/106.png",
             "large": "https://images.pokemontcg.io/pl3/106_hires.png"
@@ -7867,6 +7549,7 @@ let supremeVictors = [
         "id": "pl3-107",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7910,9 +7593,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -7927,9 +7608,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/107.png",
             "large": "https://images.pokemontcg.io/pl3/107_hires.png"
@@ -7939,6 +7618,7 @@ let supremeVictors = [
         "id": "pl3-108",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7984,9 +7664,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8001,9 +7679,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/108.png",
             "large": "https://images.pokemontcg.io/pl3/108_hires.png"
@@ -8013,6 +7689,7 @@ let supremeVictors = [
         "id": "pl3-109",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8057,9 +7734,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8074,9 +7749,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/109.png",
             "large": "https://images.pokemontcg.io/pl3/109_hires.png"
@@ -8086,6 +7759,7 @@ let supremeVictors = [
         "id": "pl3-110",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8120,9 +7794,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8137,9 +7809,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/110.png",
             "large": "https://images.pokemontcg.io/pl3/110_hires.png"
@@ -8149,6 +7819,7 @@ let supremeVictors = [
         "id": "pl3-111",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8199,9 +7870,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8216,9 +7885,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/111.png",
             "large": "https://images.pokemontcg.io/pl3/111_hires.png"
@@ -8228,6 +7895,7 @@ let supremeVictors = [
         "id": "pl3-112",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8262,9 +7930,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8279,9 +7945,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/112.png",
             "large": "https://images.pokemontcg.io/pl3/112_hires.png"
@@ -8291,6 +7955,7 @@ let supremeVictors = [
         "id": "pl3-113",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8335,9 +8000,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8352,9 +8015,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/113.png",
             "large": "https://images.pokemontcg.io/pl3/113_hires.png"
@@ -8364,6 +8025,7 @@ let supremeVictors = [
         "id": "pl3-114",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8409,9 +8071,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8426,9 +8086,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/114.png",
             "large": "https://images.pokemontcg.io/pl3/114_hires.png"
@@ -8438,6 +8096,7 @@ let supremeVictors = [
         "id": "pl3-115",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8476,9 +8135,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8493,9 +8150,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             439
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/115.png",
             "large": "https://images.pokemontcg.io/pl3/115_hires.png"
@@ -8505,6 +8160,7 @@ let supremeVictors = [
         "id": "pl3-116",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8549,9 +8205,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8566,9 +8220,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/116.png",
             "large": "https://images.pokemontcg.io/pl3/116_hires.png"
@@ -8578,6 +8230,7 @@ let supremeVictors = [
         "id": "pl3-117",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8621,9 +8274,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8638,9 +8289,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/117.png",
             "large": "https://images.pokemontcg.io/pl3/117_hires.png"
@@ -8650,6 +8299,7 @@ let supremeVictors = [
         "id": "pl3-118",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8696,9 +8346,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8713,9 +8361,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/118.png",
             "large": "https://images.pokemontcg.io/pl3/118_hires.png"
@@ -8725,6 +8371,7 @@ let supremeVictors = [
         "id": "pl3-119",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8768,9 +8415,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8785,9 +8430,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/119.png",
             "large": "https://images.pokemontcg.io/pl3/119_hires.png"
@@ -8797,6 +8440,7 @@ let supremeVictors = [
         "id": "pl3-120",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8847,9 +8491,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8864,9 +8506,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/120.png",
             "large": "https://images.pokemontcg.io/pl3/120_hires.png"
@@ -8876,6 +8516,7 @@ let supremeVictors = [
         "id": "pl3-121",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8920,9 +8561,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -8937,9 +8576,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/121.png",
             "large": "https://images.pokemontcg.io/pl3/121_hires.png"
@@ -8949,6 +8586,7 @@ let supremeVictors = [
         "id": "pl3-122",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9001,9 +8639,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9018,9 +8654,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/122.png",
             "large": "https://images.pokemontcg.io/pl3/122_hires.png"
@@ -9030,6 +8664,7 @@ let supremeVictors = [
         "id": "pl3-123",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9074,9 +8709,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9091,9 +8724,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/123.png",
             "large": "https://images.pokemontcg.io/pl3/123_hires.png"
@@ -9103,6 +8734,7 @@ let supremeVictors = [
         "id": "pl3-124",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9143,9 +8775,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9160,9 +8790,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/124.png",
             "large": "https://images.pokemontcg.io/pl3/124_hires.png"
@@ -9172,6 +8800,7 @@ let supremeVictors = [
         "id": "pl3-125",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9216,9 +8845,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9233,9 +8860,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/125.png",
             "large": "https://images.pokemontcg.io/pl3/125_hires.png"
@@ -9245,6 +8870,7 @@ let supremeVictors = [
         "id": "pl3-126",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9286,9 +8912,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9303,9 +8927,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/126.png",
             "large": "https://images.pokemontcg.io/pl3/126_hires.png"
@@ -9315,6 +8937,7 @@ let supremeVictors = [
         "id": "pl3-127",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9365,9 +8988,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9382,9 +9003,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/127.png",
             "large": "https://images.pokemontcg.io/pl3/127_hires.png"
@@ -9394,6 +9013,7 @@ let supremeVictors = [
         "id": "pl3-128",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9440,9 +9060,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9457,9 +9075,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             451
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/128.png",
             "large": "https://images.pokemontcg.io/pl3/128_hires.png"
@@ -9469,6 +9085,7 @@ let supremeVictors = [
         "id": "pl3-129",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9510,9 +9127,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9527,9 +9142,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/129.png",
             "large": "https://images.pokemontcg.io/pl3/129_hires.png"
@@ -9539,6 +9152,7 @@ let supremeVictors = [
         "id": "pl3-130",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9573,9 +9187,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9590,9 +9202,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/130.png",
             "large": "https://images.pokemontcg.io/pl3/130_hires.png"
@@ -9602,6 +9212,7 @@ let supremeVictors = [
         "id": "pl3-131",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9653,9 +9264,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9670,9 +9279,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/131.png",
             "large": "https://images.pokemontcg.io/pl3/131_hires.png"
@@ -9682,6 +9289,7 @@ let supremeVictors = [
         "id": "pl3-132",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9726,9 +9334,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9743,9 +9349,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/132.png",
             "large": "https://images.pokemontcg.io/pl3/132_hires.png"
@@ -9755,6 +9359,7 @@ let supremeVictors = [
         "id": "pl3-133",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9795,9 +9400,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9812,9 +9415,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/133.png",
             "large": "https://images.pokemontcg.io/pl3/133_hires.png"
@@ -9824,6 +9425,7 @@ let supremeVictors = [
         "id": "pl3-134",
         "name": "Battle Tower",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stadium"
         ],
@@ -9837,9 +9439,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9850,9 +9450,7 @@ let supremeVictors = [
         "number": "134",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/134.png",
             "large": "https://images.pokemontcg.io/pl3/134_hires.png"
@@ -9862,6 +9460,7 @@ let supremeVictors = [
         "id": "pl3-135",
         "name": "Champion's Room",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stadium"
         ],
@@ -9875,9 +9474,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9888,9 +9485,7 @@ let supremeVictors = [
         "number": "135",
         "artist": "Yusuke Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/135.png",
             "large": "https://images.pokemontcg.io/pl3/135_hires.png"
@@ -9900,6 +9495,7 @@ let supremeVictors = [
         "id": "pl3-136",
         "name": "Cynthia's Guidance",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -9913,9 +9509,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9926,9 +9520,7 @@ let supremeVictors = [
         "number": "136",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/136.png",
             "large": "https://images.pokemontcg.io/pl3/136_hires.png"
@@ -9938,6 +9530,7 @@ let supremeVictors = [
         "id": "pl3-137",
         "name": "Cyrus's Initiative",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -9951,9 +9544,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -9964,9 +9555,7 @@ let supremeVictors = [
         "number": "137",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/137.png",
             "large": "https://images.pokemontcg.io/pl3/137_hires.png"
@@ -9976,6 +9565,7 @@ let supremeVictors = [
         "id": "pl3-138",
         "name": "Night Teleporter",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Item"
         ],
@@ -9988,9 +9578,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10001,9 +9589,7 @@ let supremeVictors = [
         "number": "138",
         "artist": "Ryota Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/138.png",
             "large": "https://images.pokemontcg.io/pl3/138_hires.png"
@@ -10013,6 +9599,7 @@ let supremeVictors = [
         "id": "pl3-139",
         "name": "Palmer's Contribution",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -10026,9 +9613,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10039,9 +9624,7 @@ let supremeVictors = [
         "number": "139",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/139.png",
             "large": "https://images.pokemontcg.io/pl3/139_hires.png"
@@ -10051,6 +9634,7 @@ let supremeVictors = [
         "id": "pl3-140",
         "name": "VS Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Item"
         ],
@@ -10063,9 +9647,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10076,10 +9658,7 @@ let supremeVictors = [
         "number": "140",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/140.png",
             "large": "https://images.pokemontcg.io/pl3/140_hires.png"
@@ -10089,6 +9668,7 @@ let supremeVictors = [
         "id": "pl3-141",
         "name": "Absol G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10139,9 +9719,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10155,9 +9733,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/141.png",
             "large": "https://images.pokemontcg.io/pl3/141_hires.png"
@@ -10167,6 +9743,7 @@ let supremeVictors = [
         "id": "pl3-142",
         "name": "Blaziken FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10211,9 +9788,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10227,9 +9802,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/142.png",
             "large": "https://images.pokemontcg.io/pl3/142_hires.png"
@@ -10239,6 +9812,7 @@ let supremeVictors = [
         "id": "pl3-143",
         "name": "Charizard G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10292,9 +9866,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10308,9 +9880,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/143.png",
             "large": "https://images.pokemontcg.io/pl3/143_hires.png"
@@ -10320,6 +9890,7 @@ let supremeVictors = [
         "id": "pl3-144",
         "name": "Electivire FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10371,9 +9942,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10387,9 +9956,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/144.png",
             "large": "https://images.pokemontcg.io/pl3/144_hires.png"
@@ -10399,6 +9966,7 @@ let supremeVictors = [
         "id": "pl3-145",
         "name": "Garchomp C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10443,9 +10011,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10459,9 +10025,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/145.png",
             "large": "https://images.pokemontcg.io/pl3/145_hires.png"
@@ -10471,6 +10035,7 @@ let supremeVictors = [
         "id": "pl3-146",
         "name": "Rayquaza C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10523,9 +10088,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10539,9 +10102,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/146.png",
             "large": "https://images.pokemontcg.io/pl3/146_hires.png"
@@ -10551,6 +10112,7 @@ let supremeVictors = [
         "id": "pl3-147",
         "name": "Staraptor FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10601,9 +10163,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10617,9 +10177,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/147.png",
             "large": "https://images.pokemontcg.io/pl3/147_hires.png"
@@ -10629,6 +10187,7 @@ let supremeVictors = [
         "id": "pl3-148",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10662,9 +10221,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10679,9 +10236,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/148.png",
             "large": "https://images.pokemontcg.io/pl3/148_hires.png"
@@ -10691,6 +10246,7 @@ let supremeVictors = [
         "id": "pl3-149",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10724,9 +10280,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10741,9 +10295,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/149.png",
             "large": "https://images.pokemontcg.io/pl3/149_hires.png"
@@ -10753,6 +10305,7 @@ let supremeVictors = [
         "id": "pl3-150",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10786,9 +10339,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10803,9 +10354,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/150.png",
             "large": "https://images.pokemontcg.io/pl3/150_hires.png"
@@ -10815,6 +10364,7 @@ let supremeVictors = [
         "id": "pl3-SH7",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -10856,9 +10406,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10873,9 +10421,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/SH7.png",
             "large": "https://images.pokemontcg.io/pl3/SH7_hires.png"
@@ -10885,6 +10431,7 @@ let supremeVictors = [
         "id": "pl3-SH8",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10928,9 +10475,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -10945,9 +10490,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/SH8.png",
             "large": "https://images.pokemontcg.io/pl3/SH8_hires.png"
@@ -10957,6 +10500,7 @@ let supremeVictors = [
         "id": "pl3-SH9",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -11008,9 +10552,7 @@ let supremeVictors = [
             "series": "Platinum",
             "printedTotal": 147,
             "total": 153,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SV",
             "releaseDate": "2009/08/19",
             "images": {
@@ -11025,9 +10567,7 @@ let supremeVictors = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl3/SH9.png",
             "large": "https://images.pokemontcg.io/pl3/SH9_hires.png"

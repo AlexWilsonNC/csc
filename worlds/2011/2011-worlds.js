@@ -11,122 +11,95 @@ let masters = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/emboar.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pignite.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tepig.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-top.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-bottom.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/fisherman.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 9,
+        numImg: '../../assets/09.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -136,146 +109,119 @@ let masters = [
     sprite1: '../../assets/sprites/vileplume.png',
     sprite2: '../../assets/sprites/reuniclus.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/vileplume.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/gloom.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/oddish.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/reuniclus.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/duosion.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/solosis.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/phanpy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/zekrom.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pichu.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/blissey-prime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/chansey.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/suicune-entei-top.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/suicune-entei-bottom.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/seeker.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tropical-beach.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -285,110 +231,83 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/ninetales.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/vulpix.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 13,
+        numImg: '../../assets/13.png'
       }
     ]
   },
@@ -398,118 +317,91 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/ninetales.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/vulpix.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/samurott.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/oshawott.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/engineers-adjustments.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 12,
+        numImg: '../../assets/12.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -519,122 +411,95 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -644,110 +509,83 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/ninetales.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/vulpix.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 12,
+        numImg: '../../assets/12.png'
       }
     ]
   },
@@ -757,12 +595,11 @@ let masters = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -772,114 +609,87 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/ninetales.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/vulpix.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -889,12 +699,11 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -904,12 +713,11 @@ let masters = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -919,12 +727,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -934,12 +741,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -949,118 +755,91 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/absol-prime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-water.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1070,12 +849,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1085,118 +863,91 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/manaphy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -1206,126 +957,99 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/manaphy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-circulator.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/lost-remover.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 9,
+        numImg: '../../assets/09.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       }
     ]
   },
@@ -1335,12 +1059,11 @@ let masters = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1350,12 +1073,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1365,12 +1087,11 @@ let masters = [
     sprite1: '../../assets/sprites/kingdra.png',
     sprite2: '../../assets/sprites/yanmega.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1380,12 +1101,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1395,12 +1115,11 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1410,12 +1129,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1425,12 +1143,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1440,12 +1157,11 @@ let masters = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1455,12 +1171,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1470,12 +1185,11 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1485,12 +1199,11 @@ let masters = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1500,12 +1213,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1515,12 +1227,11 @@ let masters = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1530,12 +1241,11 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1545,12 +1255,11 @@ let masters = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1560,12 +1269,11 @@ let masters = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }
@@ -1578,110 +1286,83 @@ let seniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/engineers-adjustments.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/elm-training-method.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1691,126 +1372,99 @@ let seniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/manaphy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1820,122 +1474,95 @@ let seniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/seadra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/seeker.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1945,102 +1572,75 @@ let seniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/revive.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/lost-remover.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       }
     ]
   },
@@ -2050,118 +1650,91 @@ let seniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/twins.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -2171,114 +1744,87 @@ let seniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/absol-prime.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/super-scoop-up-hgss.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       }
     ]
   },
@@ -2288,12 +1834,11 @@ let seniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2303,12 +1848,11 @@ let seniors = [
     sprite1: '../../assets/sprites/mew.png',
     sprite2: '../../assets/sprites/vileplume.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2318,12 +1862,11 @@ let seniors = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2333,12 +1876,11 @@ let seniors = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2348,12 +1890,11 @@ let seniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2363,126 +1904,99 @@ let seniors = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/zoroark.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/zorua.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/phanpy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/phanpy-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/bouffalant.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-circulator.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
-        "count": 5,
+        numImg: '../../assets/05.png'
       },
       {
         cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2492,12 +2006,11 @@ let seniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2507,12 +2020,11 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2522,12 +2034,11 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2537,12 +2048,11 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }
@@ -2555,118 +2065,91 @@ let juniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/seadra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pachirisu.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       }
     ]
   },
@@ -2676,106 +2159,79 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokegear.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 9,
+        numImg: '../../assets/09.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -2785,118 +2241,91 @@ let juniors = [
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/zoroark.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/zorua.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/phanpy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/bouffalant.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/potion-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2906,126 +2335,99 @@ let juniors = [
     sprite1: '../../assets/sprites/yanmega.png',
     sprite2: '../../assets/sprites/magnezone.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/yanmega.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/yanma.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magneton.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/kingdra.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/seadra.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/horsea.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/copycat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/flower-shop-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-grass.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/energy/rescue-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -3035,12 +2437,11 @@ let juniors = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3050,12 +2451,11 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3065,12 +2465,11 @@ let juniors = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3080,12 +2479,11 @@ let juniors = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3096,12 +2494,11 @@ let juniors = [
     sprite2: '../../assets/sprites/zoroark.png',
     list: '../../assets/sprites/blank.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3111,12 +2508,11 @@ let juniors = [
     sprite1: '../../assets/sprites/magnezone.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3126,12 +2522,11 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/emboar.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3141,114 +2536,87 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012/reshiram.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/quilava.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cyndaquil-col.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/ninetales.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/vulpix.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-collector.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pont.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/sages-training.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/flower-shop-lady.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/pluspower.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/junk-arm.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/switch-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        "count": 12,
+        numImg: '../../assets/12.png'
       },
     ]
   },
@@ -3258,12 +2626,11 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3273,12 +2640,11 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3288,12 +2654,11 @@ let juniors = [
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -3303,12 +2668,11 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2010-2012',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }

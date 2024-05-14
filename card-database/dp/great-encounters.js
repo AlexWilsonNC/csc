@@ -1,8 +1,9 @@
-let greatEncounters = [
+let dp4 = [
     {
         "id": "dp4-1",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -46,9 +47,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -63,9 +62,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/1.png",
             "large": "https://images.pokemontcg.io/dp4/1_hires.png"
@@ -75,6 +72,7 @@ let greatEncounters = [
         "id": "dp4-2",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -117,9 +115,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -134,9 +130,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/2.png",
             "large": "https://images.pokemontcg.io/dp4/2_hires.png"
@@ -146,6 +140,7 @@ let greatEncounters = [
         "id": "dp4-3",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -192,9 +187,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -209,9 +202,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/3.png",
             "large": "https://images.pokemontcg.io/dp4/3_hires.png"
@@ -221,6 +212,7 @@ let greatEncounters = [
         "id": "dp4-4",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -269,9 +261,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -286,9 +276,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/4.png",
             "large": "https://images.pokemontcg.io/dp4/4_hires.png"
@@ -298,6 +286,7 @@ let greatEncounters = [
         "id": "dp4-5",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -344,9 +333,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -361,9 +348,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/5.png",
             "large": "https://images.pokemontcg.io/dp4/5_hires.png"
@@ -373,6 +358,7 @@ let greatEncounters = [
         "id": "dp4-6",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -413,9 +399,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -430,9 +414,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/6.png",
             "large": "https://images.pokemontcg.io/dp4/6_hires.png"
@@ -442,6 +424,7 @@ let greatEncounters = [
         "id": "dp4-7",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -490,9 +473,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -507,9 +488,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/7.png",
             "large": "https://images.pokemontcg.io/dp4/7_hires.png"
@@ -519,6 +498,7 @@ let greatEncounters = [
         "id": "dp4-8",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -567,9 +547,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -584,9 +562,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/8.png",
             "large": "https://images.pokemontcg.io/dp4/8_hires.png"
@@ -596,6 +572,7 @@ let greatEncounters = [
         "id": "dp4-9",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -638,9 +615,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -655,9 +630,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/9.png",
             "large": "https://images.pokemontcg.io/dp4/9_hires.png"
@@ -667,6 +640,7 @@ let greatEncounters = [
         "id": "dp4-10",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -717,9 +691,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -734,9 +706,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/10.png",
             "large": "https://images.pokemontcg.io/dp4/10_hires.png"
@@ -746,6 +716,7 @@ let greatEncounters = [
         "id": "dp4-11",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -793,9 +764,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -810,9 +779,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/11.png",
             "large": "https://images.pokemontcg.io/dp4/11_hires.png"
@@ -822,6 +789,7 @@ let greatEncounters = [
         "id": "dp4-12",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -871,9 +839,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -888,9 +854,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/12.png",
             "large": "https://images.pokemontcg.io/dp4/12_hires.png"
@@ -900,6 +864,7 @@ let greatEncounters = [
         "id": "dp4-13",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -942,9 +907,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -959,9 +922,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/13.png",
             "large": "https://images.pokemontcg.io/dp4/13_hires.png"
@@ -971,6 +932,7 @@ let greatEncounters = [
         "id": "dp4-14",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -1013,9 +975,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1030,9 +990,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/14.png",
             "large": "https://images.pokemontcg.io/dp4/14_hires.png"
@@ -1042,6 +1000,7 @@ let greatEncounters = [
         "id": "dp4-15",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1082,9 +1041,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1099,9 +1056,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/15.png",
             "large": "https://images.pokemontcg.io/dp4/15_hires.png"
@@ -1111,6 +1066,7 @@ let greatEncounters = [
         "id": "dp4-16",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1159,9 +1115,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1176,9 +1130,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/16.png",
             "large": "https://images.pokemontcg.io/dp4/16_hires.png"
@@ -1188,6 +1140,7 @@ let greatEncounters = [
         "id": "dp4-17",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -1233,9 +1186,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1250,9 +1201,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/17.png",
             "large": "https://images.pokemontcg.io/dp4/17_hires.png"
@@ -1262,6 +1211,7 @@ let greatEncounters = [
         "id": "dp4-18",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1310,9 +1260,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1327,9 +1275,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/18.png",
             "large": "https://images.pokemontcg.io/dp4/18_hires.png"
@@ -1339,6 +1285,7 @@ let greatEncounters = [
         "id": "dp4-19",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1383,9 +1330,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1400,9 +1345,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/19.png",
             "large": "https://images.pokemontcg.io/dp4/19_hires.png"
@@ -1412,6 +1355,7 @@ let greatEncounters = [
         "id": "dp4-20",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1456,9 +1400,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1473,9 +1415,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/20.png",
             "large": "https://images.pokemontcg.io/dp4/20_hires.png"
@@ -1485,6 +1425,7 @@ let greatEncounters = [
         "id": "dp4-21",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1526,9 +1467,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1543,9 +1482,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/21.png",
             "large": "https://images.pokemontcg.io/dp4/21_hires.png"
@@ -1555,6 +1492,7 @@ let greatEncounters = [
         "id": "dp4-22",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1603,9 +1541,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1620,9 +1556,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/22.png",
             "large": "https://images.pokemontcg.io/dp4/22_hires.png"
@@ -1632,6 +1566,7 @@ let greatEncounters = [
         "id": "dp4-23",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1681,9 +1616,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1698,9 +1631,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/23.png",
             "large": "https://images.pokemontcg.io/dp4/23_hires.png"
@@ -1710,6 +1641,7 @@ let greatEncounters = [
         "id": "dp4-24",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1755,9 +1687,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1772,9 +1702,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/24.png",
             "large": "https://images.pokemontcg.io/dp4/24_hires.png"
@@ -1784,6 +1712,7 @@ let greatEncounters = [
         "id": "dp4-25",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1825,9 +1754,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1842,9 +1769,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/25.png",
             "large": "https://images.pokemontcg.io/dp4/25_hires.png"
@@ -1854,6 +1779,7 @@ let greatEncounters = [
         "id": "dp4-26",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1896,9 +1822,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1913,9 +1837,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/26.png",
             "large": "https://images.pokemontcg.io/dp4/26_hires.png"
@@ -1925,6 +1847,7 @@ let greatEncounters = [
         "id": "dp4-27",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1966,9 +1889,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -1983,9 +1904,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/27.png",
             "large": "https://images.pokemontcg.io/dp4/27_hires.png"
@@ -1995,6 +1914,7 @@ let greatEncounters = [
         "id": "dp4-28",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2035,9 +1955,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2052,9 +1970,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/28.png",
             "large": "https://images.pokemontcg.io/dp4/28_hires.png"
@@ -2064,6 +1980,7 @@ let greatEncounters = [
         "id": "dp4-29",
         "name": "Unown H",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -2102,9 +2019,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2119,9 +2034,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/29.png",
             "large": "https://images.pokemontcg.io/dp4/29_hires.png"
@@ -2131,6 +2044,7 @@ let greatEncounters = [
         "id": "dp4-30",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2173,9 +2087,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2190,9 +2102,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/30.png",
             "large": "https://images.pokemontcg.io/dp4/30_hires.png"
@@ -2202,6 +2112,7 @@ let greatEncounters = [
         "id": "dp4-31",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2242,9 +2153,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2259,9 +2168,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/31.png",
             "large": "https://images.pokemontcg.io/dp4/31_hires.png"
@@ -2271,6 +2178,7 @@ let greatEncounters = [
         "id": "dp4-32",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2311,9 +2219,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2328,9 +2234,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/32.png",
             "large": "https://images.pokemontcg.io/dp4/32_hires.png"
@@ -2340,6 +2244,7 @@ let greatEncounters = [
         "id": "dp4-33",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2383,9 +2288,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2400,9 +2303,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/33.png",
             "large": "https://images.pokemontcg.io/dp4/33_hires.png"
@@ -2412,6 +2313,7 @@ let greatEncounters = [
         "id": "dp4-34",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2462,9 +2364,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2479,9 +2379,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/34.png",
             "large": "https://images.pokemontcg.io/dp4/34_hires.png"
@@ -2491,6 +2389,7 @@ let greatEncounters = [
         "id": "dp4-35",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2537,9 +2436,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2554,9 +2451,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/35.png",
             "large": "https://images.pokemontcg.io/dp4/35_hires.png"
@@ -2566,6 +2461,7 @@ let greatEncounters = [
         "id": "dp4-36",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -2604,9 +2500,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2621,9 +2515,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/36.png",
             "large": "https://images.pokemontcg.io/dp4/36_hires.png"
@@ -2633,6 +2525,7 @@ let greatEncounters = [
         "id": "dp4-37",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2677,9 +2570,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2694,9 +2585,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/37.png",
             "large": "https://images.pokemontcg.io/dp4/37_hires.png"
@@ -2706,6 +2595,7 @@ let greatEncounters = [
         "id": "dp4-38",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2745,9 +2635,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2762,9 +2650,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             368
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/38.png",
             "large": "https://images.pokemontcg.io/dp4/38_hires.png"
@@ -2774,6 +2660,7 @@ let greatEncounters = [
         "id": "dp4-39",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2819,9 +2706,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2836,9 +2721,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/39.png",
             "large": "https://images.pokemontcg.io/dp4/39_hires.png"
@@ -2848,6 +2731,7 @@ let greatEncounters = [
         "id": "dp4-40",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2897,9 +2781,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2914,9 +2796,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/40.png",
             "large": "https://images.pokemontcg.io/dp4/40_hires.png"
@@ -2926,6 +2806,7 @@ let greatEncounters = [
         "id": "dp4-41",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2970,9 +2851,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -2987,9 +2866,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/41.png",
             "large": "https://images.pokemontcg.io/dp4/41_hires.png"
@@ -2999,6 +2876,7 @@ let greatEncounters = [
         "id": "dp4-42",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3039,9 +2917,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3056,9 +2932,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             367
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/42.png",
             "large": "https://images.pokemontcg.io/dp4/42_hires.png"
@@ -3068,6 +2942,7 @@ let greatEncounters = [
         "id": "dp4-43",
         "name": "Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3108,9 +2983,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3125,9 +2998,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             264
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/43.png",
             "large": "https://images.pokemontcg.io/dp4/43_hires.png"
@@ -3137,6 +3008,7 @@ let greatEncounters = [
         "id": "dp4-44",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3184,9 +3056,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3201,9 +3071,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/44.png",
             "large": "https://images.pokemontcg.io/dp4/44_hires.png"
@@ -3213,6 +3081,7 @@ let greatEncounters = [
         "id": "dp4-45",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3254,9 +3123,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3271,9 +3138,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/45.png",
             "large": "https://images.pokemontcg.io/dp4/45_hires.png"
@@ -3283,6 +3148,7 @@ let greatEncounters = [
         "id": "dp4-46",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3330,9 +3196,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3347,9 +3211,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/46.png",
             "large": "https://images.pokemontcg.io/dp4/46_hires.png"
@@ -3359,6 +3221,7 @@ let greatEncounters = [
         "id": "dp4-47",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3402,9 +3265,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3419,9 +3280,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/47.png",
             "large": "https://images.pokemontcg.io/dp4/47_hires.png"
@@ -3431,6 +3290,7 @@ let greatEncounters = [
         "id": "dp4-48",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3478,9 +3338,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3495,9 +3353,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/48.png",
             "large": "https://images.pokemontcg.io/dp4/48_hires.png"
@@ -3507,6 +3363,7 @@ let greatEncounters = [
         "id": "dp4-49",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3550,9 +3407,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3567,9 +3422,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/49.png",
             "large": "https://images.pokemontcg.io/dp4/49_hires.png"
@@ -3579,6 +3432,7 @@ let greatEncounters = [
         "id": "dp4-50",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3623,9 +3477,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3640,9 +3492,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             432
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/50.png",
             "large": "https://images.pokemontcg.io/dp4/50_hires.png"
@@ -3652,6 +3502,7 @@ let greatEncounters = [
         "id": "dp4-51",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3691,9 +3542,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3708,9 +3557,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/51.png",
             "large": "https://images.pokemontcg.io/dp4/51_hires.png"
@@ -3720,6 +3567,7 @@ let greatEncounters = [
         "id": "dp4-52",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3762,9 +3610,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3779,9 +3625,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/52.png",
             "large": "https://images.pokemontcg.io/dp4/52_hires.png"
@@ -3791,6 +3635,7 @@ let greatEncounters = [
         "id": "dp4-53",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3839,9 +3684,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3856,9 +3699,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/53.png",
             "large": "https://images.pokemontcg.io/dp4/53_hires.png"
@@ -3868,6 +3709,7 @@ let greatEncounters = [
         "id": "dp4-54",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3912,9 +3754,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -3929,9 +3769,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/54.png",
             "large": "https://images.pokemontcg.io/dp4/54_hires.png"
@@ -3941,6 +3779,7 @@ let greatEncounters = [
         "id": "dp4-55",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3994,9 +3833,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4011,9 +3848,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/55.png",
             "large": "https://images.pokemontcg.io/dp4/55_hires.png"
@@ -4023,6 +3858,7 @@ let greatEncounters = [
         "id": "dp4-56",
         "name": "Unown F",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4061,9 +3897,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4078,9 +3912,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/56.png",
             "large": "https://images.pokemontcg.io/dp4/56_hires.png"
@@ -4090,6 +3922,7 @@ let greatEncounters = [
         "id": "dp4-57",
         "name": "Unown G",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4129,9 +3962,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4146,9 +3977,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/57.png",
             "large": "https://images.pokemontcg.io/dp4/57_hires.png"
@@ -4158,6 +3987,7 @@ let greatEncounters = [
         "id": "dp4-58",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4204,9 +4034,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4221,9 +4049,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/58.png",
             "large": "https://images.pokemontcg.io/dp4/58_hires.png"
@@ -4233,6 +4059,7 @@ let greatEncounters = [
         "id": "dp4-59",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4275,9 +4102,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4292,9 +4117,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/59.png",
             "large": "https://images.pokemontcg.io/dp4/59_hires.png"
@@ -4304,6 +4127,7 @@ let greatEncounters = [
         "id": "dp4-60",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4348,9 +4172,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4365,9 +4187,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/60.png",
             "large": "https://images.pokemontcg.io/dp4/60_hires.png"
@@ -4377,6 +4197,7 @@ let greatEncounters = [
         "id": "dp4-61",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4419,9 +4240,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4436,9 +4255,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/61.png",
             "large": "https://images.pokemontcg.io/dp4/61_hires.png"
@@ -4448,6 +4265,7 @@ let greatEncounters = [
         "id": "dp4-62",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4498,9 +4316,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4515,9 +4331,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/62.png",
             "large": "https://images.pokemontcg.io/dp4/62_hires.png"
@@ -4527,6 +4341,7 @@ let greatEncounters = [
         "id": "dp4-63",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4568,9 +4383,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4585,9 +4398,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/63.png",
             "large": "https://images.pokemontcg.io/dp4/63_hires.png"
@@ -4597,6 +4408,7 @@ let greatEncounters = [
         "id": "dp4-64",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4642,9 +4454,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4659,9 +4469,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             366
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/64.png",
             "large": "https://images.pokemontcg.io/dp4/64_hires.png"
@@ -4671,6 +4479,7 @@ let greatEncounters = [
         "id": "dp4-65",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4715,9 +4524,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4732,9 +4539,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/65.png",
             "large": "https://images.pokemontcg.io/dp4/65_hires.png"
@@ -4744,6 +4549,7 @@ let greatEncounters = [
         "id": "dp4-66",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4787,9 +4593,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4804,9 +4608,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/66.png",
             "large": "https://images.pokemontcg.io/dp4/66_hires.png"
@@ -4816,6 +4618,7 @@ let greatEncounters = [
         "id": "dp4-67",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4859,9 +4662,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4876,9 +4677,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/67.png",
             "large": "https://images.pokemontcg.io/dp4/67_hires.png"
@@ -4888,6 +4687,7 @@ let greatEncounters = [
         "id": "dp4-68",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4932,9 +4732,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -4949,9 +4747,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             431
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/68.png",
             "large": "https://images.pokemontcg.io/dp4/68_hires.png"
@@ -4961,6 +4757,7 @@ let greatEncounters = [
         "id": "dp4-69",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5005,9 +4802,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5022,9 +4817,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/69.png",
             "large": "https://images.pokemontcg.io/dp4/69_hires.png"
@@ -5034,6 +4827,7 @@ let greatEncounters = [
         "id": "dp4-70",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5073,9 +4867,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5090,9 +4882,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/70.png",
             "large": "https://images.pokemontcg.io/dp4/70_hires.png"
@@ -5102,6 +4892,7 @@ let greatEncounters = [
         "id": "dp4-71",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5141,9 +4932,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5158,9 +4947,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/71.png",
             "large": "https://images.pokemontcg.io/dp4/71_hires.png"
@@ -5170,6 +4957,7 @@ let greatEncounters = [
         "id": "dp4-72",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5214,9 +5002,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5231,9 +5017,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/72.png",
             "large": "https://images.pokemontcg.io/dp4/72_hires.png"
@@ -5243,6 +5027,7 @@ let greatEncounters = [
         "id": "dp4-73",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -5285,9 +5070,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5302,9 +5085,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/73.png",
             "large": "https://images.pokemontcg.io/dp4/73_hires.png"
@@ -5314,6 +5095,7 @@ let greatEncounters = [
         "id": "dp4-74",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5358,9 +5140,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5375,9 +5155,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/74.png",
             "large": "https://images.pokemontcg.io/dp4/74_hires.png"
@@ -5387,6 +5165,7 @@ let greatEncounters = [
         "id": "dp4-75",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5431,9 +5210,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5448,9 +5225,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/75.png",
             "large": "https://images.pokemontcg.io/dp4/75_hires.png"
@@ -5460,6 +5235,7 @@ let greatEncounters = [
         "id": "dp4-76",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5498,9 +5274,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5515,9 +5289,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/76.png",
             "large": "https://images.pokemontcg.io/dp4/76_hires.png"
@@ -5527,6 +5299,7 @@ let greatEncounters = [
         "id": "dp4-77",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5567,9 +5340,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5584,9 +5355,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/77.png",
             "large": "https://images.pokemontcg.io/dp4/77_hires.png"
@@ -5596,6 +5365,7 @@ let greatEncounters = [
         "id": "dp4-78",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5640,9 +5410,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5657,9 +5425,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/78.png",
             "large": "https://images.pokemontcg.io/dp4/78_hires.png"
@@ -5669,6 +5435,7 @@ let greatEncounters = [
         "id": "dp4-79",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5713,9 +5480,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5730,9 +5495,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/79.png",
             "large": "https://images.pokemontcg.io/dp4/79_hires.png"
@@ -5742,6 +5505,7 @@ let greatEncounters = [
         "id": "dp4-80",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5787,9 +5551,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5804,9 +5566,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/80.png",
             "large": "https://images.pokemontcg.io/dp4/80_hires.png"
@@ -5816,6 +5576,7 @@ let greatEncounters = [
         "id": "dp4-81",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5860,9 +5621,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5877,9 +5636,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/81.png",
             "large": "https://images.pokemontcg.io/dp4/81_hires.png"
@@ -5889,6 +5646,7 @@ let greatEncounters = [
         "id": "dp4-82",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5933,9 +5691,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -5950,9 +5706,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/82.png",
             "large": "https://images.pokemontcg.io/dp4/82_hires.png"
@@ -5962,6 +5716,7 @@ let greatEncounters = [
         "id": "dp4-83",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6006,9 +5761,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6023,9 +5776,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/83.png",
             "large": "https://images.pokemontcg.io/dp4/83_hires.png"
@@ -6035,6 +5786,7 @@ let greatEncounters = [
         "id": "dp4-84",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6080,9 +5832,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6097,9 +5847,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/84.png",
             "large": "https://images.pokemontcg.io/dp4/84_hires.png"
@@ -6109,6 +5857,7 @@ let greatEncounters = [
         "id": "dp4-85",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6147,9 +5896,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6164,9 +5911,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/85.png",
             "large": "https://images.pokemontcg.io/dp4/85_hires.png"
@@ -6176,6 +5921,7 @@ let greatEncounters = [
         "id": "dp4-86",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6226,9 +5972,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6243,9 +5987,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/86.png",
             "large": "https://images.pokemontcg.io/dp4/86_hires.png"
@@ -6255,6 +5997,7 @@ let greatEncounters = [
         "id": "dp4-87",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6299,9 +6042,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6316,9 +6057,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/87.png",
             "large": "https://images.pokemontcg.io/dp4/87_hires.png"
@@ -6328,6 +6067,7 @@ let greatEncounters = [
         "id": "dp4-88",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6371,9 +6111,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6388,9 +6126,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/88.png",
             "large": "https://images.pokemontcg.io/dp4/88_hires.png"
@@ -6400,6 +6136,7 @@ let greatEncounters = [
         "id": "dp4-89",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6441,9 +6178,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6458,9 +6193,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/89.png",
             "large": "https://images.pokemontcg.io/dp4/89_hires.png"
@@ -6470,6 +6203,7 @@ let greatEncounters = [
         "id": "dp4-90",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6520,9 +6254,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6537,9 +6269,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/90.png",
             "large": "https://images.pokemontcg.io/dp4/90_hires.png"
@@ -6549,6 +6279,7 @@ let greatEncounters = [
         "id": "dp4-91",
         "name": "Unown L",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6588,9 +6319,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6605,9 +6334,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/91.png",
             "large": "https://images.pokemontcg.io/dp4/91_hires.png"
@@ -6617,6 +6344,7 @@ let greatEncounters = [
         "id": "dp4-92",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6656,9 +6384,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6673,9 +6399,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/92.png",
             "large": "https://images.pokemontcg.io/dp4/92_hires.png"
@@ -6685,6 +6409,7 @@ let greatEncounters = [
         "id": "dp4-93",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6728,9 +6453,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6745,9 +6468,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/93.png",
             "large": "https://images.pokemontcg.io/dp4/93_hires.png"
@@ -6757,6 +6478,7 @@ let greatEncounters = [
         "id": "dp4-94",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6798,9 +6520,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6815,9 +6535,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/94.png",
             "large": "https://images.pokemontcg.io/dp4/94_hires.png"
@@ -6827,6 +6545,7 @@ let greatEncounters = [
         "id": "dp4-95",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6877,9 +6596,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6894,9 +6611,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/95.png",
             "large": "https://images.pokemontcg.io/dp4/95_hires.png"
@@ -6906,6 +6621,7 @@ let greatEncounters = [
         "id": "dp4-96",
         "name": "Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6949,9 +6665,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -6966,9 +6680,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             263
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/96.png",
             "large": "https://images.pokemontcg.io/dp4/96_hires.png"
@@ -6978,6 +6690,7 @@ let greatEncounters = [
         "id": "dp4-97",
         "name": "Amulet Coin",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6991,9 +6704,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7004,9 +6715,7 @@ let greatEncounters = [
         "number": "97",
         "artist": "Daisuke Ito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/97.png",
             "large": "https://images.pokemontcg.io/dp4/97_hires.png"
@@ -7016,6 +6725,7 @@ let greatEncounters = [
         "id": "dp4-98",
         "name": "Felicity's Drawing",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Supporter"
         ],
@@ -7029,9 +6739,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7042,9 +6750,7 @@ let greatEncounters = [
         "number": "98",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/98.png",
             "large": "https://images.pokemontcg.io/dp4/98_hires.png"
@@ -7054,6 +6760,7 @@ let greatEncounters = [
         "id": "dp4-99",
         "name": "Leftovers",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7067,9 +6774,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7080,9 +6785,7 @@ let greatEncounters = [
         "number": "99",
         "artist": "Daisuke Ito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/99.png",
             "large": "https://images.pokemontcg.io/dp4/99_hires.png"
@@ -7092,6 +6795,7 @@ let greatEncounters = [
         "id": "dp4-100",
         "name": "Moonlight Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stadium"
         ],
@@ -7105,9 +6809,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7118,9 +6820,7 @@ let greatEncounters = [
         "number": "100",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/100.png",
             "large": "https://images.pokemontcg.io/dp4/100_hires.png"
@@ -7130,6 +6830,7 @@ let greatEncounters = [
         "id": "dp4-101",
         "name": "Premier Ball",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Item"
         ],
@@ -7142,9 +6843,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7155,9 +6854,7 @@ let greatEncounters = [
         "number": "101",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/101.png",
             "large": "https://images.pokemontcg.io/dp4/101_hires.png"
@@ -7167,6 +6864,7 @@ let greatEncounters = [
         "id": "dp4-102",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Item"
         ],
@@ -7179,9 +6877,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7192,11 +6888,7 @@ let greatEncounters = [
         "number": "102",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/102.png",
             "large": "https://images.pokemontcg.io/dp4/102_hires.png"
@@ -7206,6 +6898,7 @@ let greatEncounters = [
         "id": "dp4-103",
         "name": "Cresselia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -7250,9 +6943,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7266,9 +6957,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/103.png",
             "large": "https://images.pokemontcg.io/dp4/103_hires.png"
@@ -7278,6 +6967,7 @@ let greatEncounters = [
         "id": "dp4-104",
         "name": "Darkrai LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -7328,9 +7018,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7344,9 +7032,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/104.png",
             "large": "https://images.pokemontcg.io/dp4/104_hires.png"
@@ -7356,6 +7042,7 @@ let greatEncounters = [
         "id": "dp4-105",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -7407,9 +7094,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7423,9 +7108,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/105.png",
             "large": "https://images.pokemontcg.io/dp4/105_hires.png"
@@ -7435,6 +7118,7 @@ let greatEncounters = [
         "id": "dp4-106",
         "name": "Palkia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -7479,9 +7163,7 @@ let greatEncounters = [
             "series": "Diamond & Pearl",
             "printedTotal": 106,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "GE",
             "releaseDate": "2008/02/01",
             "images": {
@@ -7495,9 +7177,7 @@ let greatEncounters = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp4/106.png",
             "large": "https://images.pokemontcg.io/dp4/106_hires.png"

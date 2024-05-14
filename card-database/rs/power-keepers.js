@@ -1,8 +1,9 @@
-let powerKeepers = [
+let ex16 = [
     {
         "id": "ex16-1",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -62,9 +63,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -78,9 +77,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/1.png",
             "large": "https://images.pokemontcg.io/ex16/1_hires.png"
@@ -90,6 +87,7 @@ let powerKeepers = [
         "id": "ex16-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -151,9 +149,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -167,9 +163,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/2.png",
             "large": "https://images.pokemontcg.io/ex16/2_hires.png"
@@ -179,6 +173,7 @@ let powerKeepers = [
         "id": "ex16-3",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -222,9 +217,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -238,9 +231,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/3.png",
             "large": "https://images.pokemontcg.io/ex16/3_hires.png"
@@ -250,6 +241,7 @@ let powerKeepers = [
         "id": "ex16-4",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -300,9 +292,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -316,9 +306,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/4.png",
             "large": "https://images.pokemontcg.io/ex16/4_hires.png"
@@ -328,6 +316,7 @@ let powerKeepers = [
         "id": "ex16-5",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -369,9 +358,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -385,9 +372,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/5.png",
             "large": "https://images.pokemontcg.io/ex16/5_hires.png"
@@ -397,6 +382,7 @@ let powerKeepers = [
         "id": "ex16-6",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -441,9 +427,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -457,9 +441,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/6.png",
             "large": "https://images.pokemontcg.io/ex16/6_hires.png"
@@ -469,6 +451,7 @@ let powerKeepers = [
         "id": "ex16-7",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -510,9 +493,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -526,9 +507,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/7.png",
             "large": "https://images.pokemontcg.io/ex16/7_hires.png"
@@ -538,6 +517,7 @@ let powerKeepers = [
         "id": "ex16-8",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -577,9 +557,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -593,9 +571,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/8.png",
             "large": "https://images.pokemontcg.io/ex16/8_hires.png"
@@ -605,6 +581,7 @@ let powerKeepers = [
         "id": "ex16-9",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -644,9 +621,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -660,9 +635,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/9.png",
             "large": "https://images.pokemontcg.io/ex16/9_hires.png"
@@ -672,6 +645,7 @@ let powerKeepers = [
         "id": "ex16-10",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -723,9 +697,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -739,9 +711,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/10.png",
             "large": "https://images.pokemontcg.io/ex16/10_hires.png"
@@ -751,6 +721,7 @@ let powerKeepers = [
         "id": "ex16-11",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -803,9 +774,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -819,9 +788,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/11.png",
             "large": "https://images.pokemontcg.io/ex16/11_hires.png"
@@ -831,6 +798,7 @@ let powerKeepers = [
         "id": "ex16-12",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -874,9 +842,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -890,9 +856,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/12.png",
             "large": "https://images.pokemontcg.io/ex16/12_hires.png"
@@ -902,6 +866,7 @@ let powerKeepers = [
         "id": "ex16-13",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -944,9 +909,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -960,9 +923,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/13.png",
             "large": "https://images.pokemontcg.io/ex16/13_hires.png"
@@ -972,6 +933,7 @@ let powerKeepers = [
         "id": "ex16-14",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1025,9 +987,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1041,9 +1001,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/14.png",
             "large": "https://images.pokemontcg.io/ex16/14_hires.png"
@@ -1053,6 +1011,7 @@ let powerKeepers = [
         "id": "ex16-15",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1094,9 +1053,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1110,9 +1067,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/15.png",
             "large": "https://images.pokemontcg.io/ex16/15_hires.png"
@@ -1122,6 +1077,7 @@ let powerKeepers = [
         "id": "ex16-16",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1171,9 +1127,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1187,9 +1141,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/16.png",
             "large": "https://images.pokemontcg.io/ex16/16_hires.png"
@@ -1199,6 +1151,7 @@ let powerKeepers = [
         "id": "ex16-17",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1246,9 +1199,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1262,9 +1213,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/17.png",
             "large": "https://images.pokemontcg.io/ex16/17_hires.png"
@@ -1274,6 +1223,7 @@ let powerKeepers = [
         "id": "ex16-18",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1323,9 +1273,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1339,9 +1287,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/18.png",
             "large": "https://images.pokemontcg.io/ex16/18_hires.png"
@@ -1351,6 +1297,7 @@ let powerKeepers = [
         "id": "ex16-19",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1402,9 +1349,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1418,9 +1363,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/19.png",
             "large": "https://images.pokemontcg.io/ex16/19_hires.png"
@@ -1430,6 +1373,7 @@ let powerKeepers = [
         "id": "ex16-20",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1472,9 +1416,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1488,9 +1430,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/20.png",
             "large": "https://images.pokemontcg.io/ex16/20_hires.png"
@@ -1500,6 +1440,7 @@ let powerKeepers = [
         "id": "ex16-21",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1541,9 +1482,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1557,9 +1496,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/21.png",
             "large": "https://images.pokemontcg.io/ex16/21_hires.png"
@@ -1569,6 +1506,7 @@ let powerKeepers = [
         "id": "ex16-22",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1617,9 +1555,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1633,9 +1569,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/22.png",
             "large": "https://images.pokemontcg.io/ex16/22_hires.png"
@@ -1645,6 +1579,7 @@ let powerKeepers = [
         "id": "ex16-23",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1687,9 +1622,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1703,9 +1636,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/23.png",
             "large": "https://images.pokemontcg.io/ex16/23_hires.png"
@@ -1715,6 +1646,7 @@ let powerKeepers = [
         "id": "ex16-24",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1755,9 +1687,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1771,9 +1701,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/24.png",
             "large": "https://images.pokemontcg.io/ex16/24_hires.png"
@@ -1783,6 +1711,7 @@ let powerKeepers = [
         "id": "ex16-25",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1831,9 +1760,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1847,9 +1774,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/25.png",
             "large": "https://images.pokemontcg.io/ex16/25_hires.png"
@@ -1859,6 +1784,7 @@ let powerKeepers = [
         "id": "ex16-26",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1902,9 +1828,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1918,9 +1842,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/26.png",
             "large": "https://images.pokemontcg.io/ex16/26_hires.png"
@@ -1930,6 +1852,7 @@ let powerKeepers = [
         "id": "ex16-27",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1977,9 +1900,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -1993,9 +1914,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/27.png",
             "large": "https://images.pokemontcg.io/ex16/27_hires.png"
@@ -2005,6 +1924,7 @@ let powerKeepers = [
         "id": "ex16-28",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2051,9 +1971,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2067,9 +1985,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/28.png",
             "large": "https://images.pokemontcg.io/ex16/28_hires.png"
@@ -2079,6 +1995,7 @@ let powerKeepers = [
         "id": "ex16-29",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2122,9 +2039,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2138,9 +2053,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/29.png",
             "large": "https://images.pokemontcg.io/ex16/29_hires.png"
@@ -2150,6 +2063,7 @@ let powerKeepers = [
         "id": "ex16-30",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2201,9 +2115,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2217,9 +2129,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/30.png",
             "large": "https://images.pokemontcg.io/ex16/30_hires.png"
@@ -2229,6 +2139,7 @@ let powerKeepers = [
         "id": "ex16-31",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2275,9 +2186,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2291,9 +2200,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/31.png",
             "large": "https://images.pokemontcg.io/ex16/31_hires.png"
@@ -2303,6 +2210,7 @@ let powerKeepers = [
         "id": "ex16-32",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2356,9 +2264,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2372,9 +2278,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/32.png",
             "large": "https://images.pokemontcg.io/ex16/32_hires.png"
@@ -2384,6 +2288,7 @@ let powerKeepers = [
         "id": "ex16-33",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2430,9 +2335,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2446,9 +2349,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/33.png",
             "large": "https://images.pokemontcg.io/ex16/33_hires.png"
@@ -2458,6 +2359,7 @@ let powerKeepers = [
         "id": "ex16-34",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2509,9 +2411,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2525,9 +2425,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/34.png",
             "large": "https://images.pokemontcg.io/ex16/34_hires.png"
@@ -2537,6 +2435,7 @@ let powerKeepers = [
         "id": "ex16-35",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2586,9 +2485,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2602,9 +2499,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/35.png",
             "large": "https://images.pokemontcg.io/ex16/35_hires.png"
@@ -2614,6 +2509,7 @@ let powerKeepers = [
         "id": "ex16-36",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2666,9 +2562,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2682,9 +2576,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/36.png",
             "large": "https://images.pokemontcg.io/ex16/36_hires.png"
@@ -2694,6 +2586,7 @@ let powerKeepers = [
         "id": "ex16-37",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2730,9 +2623,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2746,9 +2637,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/37.png",
             "large": "https://images.pokemontcg.io/ex16/37_hires.png"
@@ -2758,6 +2647,7 @@ let powerKeepers = [
         "id": "ex16-38",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2807,9 +2697,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2823,9 +2711,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/38.png",
             "large": "https://images.pokemontcg.io/ex16/38_hires.png"
@@ -2835,6 +2721,7 @@ let powerKeepers = [
         "id": "ex16-39",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2892,9 +2779,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2908,9 +2793,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/39.png",
             "large": "https://images.pokemontcg.io/ex16/39_hires.png"
@@ -2920,6 +2803,7 @@ let powerKeepers = [
         "id": "ex16-40",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2977,9 +2861,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -2993,9 +2875,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/40.png",
             "large": "https://images.pokemontcg.io/ex16/40_hires.png"
@@ -3005,6 +2885,7 @@ let powerKeepers = [
         "id": "ex16-41",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3048,9 +2929,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3064,9 +2943,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/41.png",
             "large": "https://images.pokemontcg.io/ex16/41_hires.png"
@@ -3076,6 +2953,7 @@ let powerKeepers = [
         "id": "ex16-42",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3126,9 +3004,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3142,9 +3018,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/42.png",
             "large": "https://images.pokemontcg.io/ex16/42_hires.png"
@@ -3154,6 +3028,7 @@ let powerKeepers = [
         "id": "ex16-43",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3198,9 +3073,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3214,9 +3087,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/43.png",
             "large": "https://images.pokemontcg.io/ex16/43_hires.png"
@@ -3226,6 +3097,7 @@ let powerKeepers = [
         "id": "ex16-44",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3270,9 +3142,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3286,9 +3156,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/44.png",
             "large": "https://images.pokemontcg.io/ex16/44_hires.png"
@@ -3298,6 +3166,7 @@ let powerKeepers = [
         "id": "ex16-45",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3338,9 +3207,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3354,9 +3221,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/45.png",
             "large": "https://images.pokemontcg.io/ex16/45_hires.png"
@@ -3366,6 +3231,7 @@ let powerKeepers = [
         "id": "ex16-46",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3400,9 +3266,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3416,9 +3280,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/46.png",
             "large": "https://images.pokemontcg.io/ex16/46_hires.png"
@@ -3428,6 +3290,7 @@ let powerKeepers = [
         "id": "ex16-47",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3476,9 +3339,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3492,9 +3353,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/47.png",
             "large": "https://images.pokemontcg.io/ex16/47_hires.png"
@@ -3504,6 +3363,7 @@ let powerKeepers = [
         "id": "ex16-48",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3538,9 +3398,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3554,9 +3412,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/48.png",
             "large": "https://images.pokemontcg.io/ex16/48_hires.png"
@@ -3566,6 +3422,7 @@ let powerKeepers = [
         "id": "ex16-49",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3610,9 +3467,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3626,9 +3481,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/49.png",
             "large": "https://images.pokemontcg.io/ex16/49_hires.png"
@@ -3638,6 +3491,7 @@ let powerKeepers = [
         "id": "ex16-50",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3679,9 +3533,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3695,9 +3547,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/50.png",
             "large": "https://images.pokemontcg.io/ex16/50_hires.png"
@@ -3707,6 +3557,7 @@ let powerKeepers = [
         "id": "ex16-51",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3752,9 +3603,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3768,9 +3617,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/51.png",
             "large": "https://images.pokemontcg.io/ex16/51_hires.png"
@@ -3780,6 +3627,7 @@ let powerKeepers = [
         "id": "ex16-52",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3827,9 +3675,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3843,9 +3689,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/52.png",
             "large": "https://images.pokemontcg.io/ex16/52_hires.png"
@@ -3855,6 +3699,7 @@ let powerKeepers = [
         "id": "ex16-53",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3899,9 +3744,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3915,9 +3758,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/53.png",
             "large": "https://images.pokemontcg.io/ex16/53_hires.png"
@@ -3927,6 +3768,7 @@ let powerKeepers = [
         "id": "ex16-54",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3977,9 +3819,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -3993,9 +3833,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/54.png",
             "large": "https://images.pokemontcg.io/ex16/54_hires.png"
@@ -4005,6 +3843,7 @@ let powerKeepers = [
         "id": "ex16-55",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4048,9 +3887,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4064,9 +3901,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/55.png",
             "large": "https://images.pokemontcg.io/ex16/55_hires.png"
@@ -4076,6 +3911,7 @@ let powerKeepers = [
         "id": "ex16-56",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4121,9 +3957,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4137,9 +3971,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/56.png",
             "large": "https://images.pokemontcg.io/ex16/56_hires.png"
@@ -4149,6 +3981,7 @@ let powerKeepers = [
         "id": "ex16-57",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4193,9 +4026,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4209,9 +4040,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/57.png",
             "large": "https://images.pokemontcg.io/ex16/57_hires.png"
@@ -4221,6 +4050,7 @@ let powerKeepers = [
         "id": "ex16-58",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4261,9 +4091,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4277,9 +4105,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/58.png",
             "large": "https://images.pokemontcg.io/ex16/58_hires.png"
@@ -4289,6 +4115,7 @@ let powerKeepers = [
         "id": "ex16-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4333,9 +4160,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4349,9 +4174,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/59.png",
             "large": "https://images.pokemontcg.io/ex16/59_hires.png"
@@ -4361,6 +4184,7 @@ let powerKeepers = [
         "id": "ex16-60",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4405,9 +4229,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4421,9 +4243,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/60.png",
             "large": "https://images.pokemontcg.io/ex16/60_hires.png"
@@ -4433,6 +4253,7 @@ let powerKeepers = [
         "id": "ex16-61",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4473,9 +4294,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4489,9 +4308,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/61.png",
             "large": "https://images.pokemontcg.io/ex16/61_hires.png"
@@ -4501,6 +4318,7 @@ let powerKeepers = [
         "id": "ex16-62",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4545,9 +4363,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4561,9 +4377,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/62.png",
             "large": "https://images.pokemontcg.io/ex16/62_hires.png"
@@ -4573,6 +4387,7 @@ let powerKeepers = [
         "id": "ex16-63",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4616,9 +4431,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4632,9 +4445,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/63.png",
             "large": "https://images.pokemontcg.io/ex16/63_hires.png"
@@ -4644,6 +4455,7 @@ let powerKeepers = [
         "id": "ex16-64",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4689,9 +4501,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4705,9 +4515,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/64.png",
             "large": "https://images.pokemontcg.io/ex16/64_hires.png"
@@ -4717,6 +4525,7 @@ let powerKeepers = [
         "id": "ex16-65",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4761,9 +4570,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4777,9 +4584,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/65.png",
             "large": "https://images.pokemontcg.io/ex16/65_hires.png"
@@ -4789,6 +4594,7 @@ let powerKeepers = [
         "id": "ex16-66",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4829,9 +4635,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4845,9 +4649,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/66.png",
             "large": "https://images.pokemontcg.io/ex16/66_hires.png"
@@ -4857,6 +4659,7 @@ let powerKeepers = [
         "id": "ex16-67",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4891,9 +4694,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4907,9 +4708,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/67.png",
             "large": "https://images.pokemontcg.io/ex16/67_hires.png"
@@ -4919,6 +4718,7 @@ let powerKeepers = [
         "id": "ex16-68",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4953,9 +4753,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -4969,9 +4767,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/68.png",
             "large": "https://images.pokemontcg.io/ex16/68_hires.png"
@@ -4981,6 +4777,7 @@ let powerKeepers = [
         "id": "ex16-69",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -5025,9 +4822,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5041,9 +4836,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/69.png",
             "large": "https://images.pokemontcg.io/ex16/69_hires.png"
@@ -5053,6 +4846,7 @@ let powerKeepers = [
         "id": "ex16-70",
         "name": "Wynaut",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -5094,9 +4888,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5110,9 +4902,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             360
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/70.png",
             "large": "https://images.pokemontcg.io/ex16/70_hires.png"
@@ -5122,6 +4912,7 @@ let powerKeepers = [
         "id": "ex16-71",
         "name": "Battle Frontier",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5135,9 +4926,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5148,9 +4937,7 @@ let powerKeepers = [
         "number": "71",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/71.png",
             "large": "https://images.pokemontcg.io/ex16/71_hires.png"
@@ -5160,6 +4947,7 @@ let powerKeepers = [
         "id": "ex16-72",
         "name": "Drake's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5173,9 +4961,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5186,9 +4972,7 @@ let powerKeepers = [
         "number": "72",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/72.png",
             "large": "https://images.pokemontcg.io/ex16/72_hires.png"
@@ -5198,6 +4982,7 @@ let powerKeepers = [
         "id": "ex16-73",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5210,9 +4995,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5223,10 +5006,7 @@ let powerKeepers = [
         "number": "73",
         "artist": "Zu-Ka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/73.png",
             "large": "https://images.pokemontcg.io/ex16/73_hires.png"
@@ -5236,6 +5016,7 @@ let powerKeepers = [
         "id": "ex16-74",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5248,9 +5029,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5261,9 +5040,7 @@ let powerKeepers = [
         "number": "74",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/74.png",
             "large": "https://images.pokemontcg.io/ex16/74_hires.png"
@@ -5273,6 +5050,7 @@ let powerKeepers = [
         "id": "ex16-75",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5285,9 +5063,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5298,11 +5074,7 @@ let powerKeepers = [
         "number": "75",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/75.png",
             "large": "https://images.pokemontcg.io/ex16/75_hires.png"
@@ -5312,6 +5084,7 @@ let powerKeepers = [
         "id": "ex16-76",
         "name": "Glacia's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5325,9 +5098,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5338,9 +5109,7 @@ let powerKeepers = [
         "number": "76",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/76.png",
             "large": "https://images.pokemontcg.io/ex16/76_hires.png"
@@ -5350,6 +5119,7 @@ let powerKeepers = [
         "id": "ex16-77",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5362,9 +5132,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5375,11 +5143,7 @@ let powerKeepers = [
         "number": "77",
         "artist": "Nakaoka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/77.png",
             "large": "https://images.pokemontcg.io/ex16/77_hires.png"
@@ -5389,6 +5153,7 @@ let powerKeepers = [
         "id": "ex16-78",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5401,9 +5166,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5414,9 +5177,7 @@ let powerKeepers = [
         "number": "78",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/78.png",
             "large": "https://images.pokemontcg.io/ex16/78_hires.png"
@@ -5426,6 +5187,7 @@ let powerKeepers = [
         "id": "ex16-79",
         "name": "Phoebe's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5439,9 +5201,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5452,9 +5212,7 @@ let powerKeepers = [
         "number": "79",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/79.png",
             "large": "https://images.pokemontcg.io/ex16/79_hires.png"
@@ -5464,6 +5222,7 @@ let powerKeepers = [
         "id": "ex16-80",
         "name": "Professor Birch",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5477,9 +5236,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5490,9 +5247,7 @@ let powerKeepers = [
         "number": "80",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/80.png",
             "large": "https://images.pokemontcg.io/ex16/80_hires.png"
@@ -5502,6 +5257,7 @@ let powerKeepers = [
         "id": "ex16-81",
         "name": "Scott",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5515,9 +5271,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5528,9 +5282,7 @@ let powerKeepers = [
         "number": "81",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/81.png",
             "large": "https://images.pokemontcg.io/ex16/81_hires.png"
@@ -5540,6 +5292,7 @@ let powerKeepers = [
         "id": "ex16-82",
         "name": "Sidney's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5553,9 +5306,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5566,9 +5317,7 @@ let powerKeepers = [
         "number": "82",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/82.png",
             "large": "https://images.pokemontcg.io/ex16/82_hires.png"
@@ -5578,6 +5327,7 @@ let powerKeepers = [
         "id": "ex16-83",
         "name": "Steven's Advice",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5592,9 +5342,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5605,9 +5353,7 @@ let powerKeepers = [
         "number": "83",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/83.png",
             "large": "https://images.pokemontcg.io/ex16/83_hires.png"
@@ -5617,6 +5363,7 @@ let powerKeepers = [
         "id": "ex16-84",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5637,9 +5384,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5650,9 +5395,7 @@ let powerKeepers = [
         "number": "84",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/84.png",
             "large": "https://images.pokemontcg.io/ex16/84_hires.png"
@@ -5662,6 +5405,7 @@ let powerKeepers = [
         "id": "ex16-85",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5675,9 +5419,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5688,9 +5430,7 @@ let powerKeepers = [
         "number": "85",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/85.png",
             "large": "https://images.pokemontcg.io/ex16/85_hires.png"
@@ -5700,6 +5440,7 @@ let powerKeepers = [
         "id": "ex16-86",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5720,9 +5461,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5733,9 +5472,7 @@ let powerKeepers = [
         "number": "86",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/86.png",
             "large": "https://images.pokemontcg.io/ex16/86_hires.png"
@@ -5745,6 +5482,7 @@ let powerKeepers = [
         "id": "ex16-87",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5757,9 +5495,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5770,9 +5506,7 @@ let powerKeepers = [
         "number": "87",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/87.png",
             "large": "https://images.pokemontcg.io/ex16/87_hires.png"
@@ -5782,6 +5516,7 @@ let powerKeepers = [
         "id": "ex16-88",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5794,9 +5529,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5807,9 +5540,7 @@ let powerKeepers = [
         "number": "88",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/88.png",
             "large": "https://images.pokemontcg.io/ex16/88_hires.png"
@@ -5819,6 +5550,7 @@ let powerKeepers = [
         "id": "ex16-89",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5831,9 +5563,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5844,9 +5574,7 @@ let powerKeepers = [
         "number": "89",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/89.png",
             "large": "https://images.pokemontcg.io/ex16/89_hires.png"
@@ -5856,6 +5584,7 @@ let powerKeepers = [
         "id": "ex16-90",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5868,9 +5597,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5881,9 +5608,7 @@ let powerKeepers = [
         "number": "90",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/90.png",
             "large": "https://images.pokemontcg.io/ex16/90_hires.png"
@@ -5893,6 +5618,7 @@ let powerKeepers = [
         "id": "ex16-91",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5905,9 +5631,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5918,10 +5642,7 @@ let powerKeepers = [
         "number": "91",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/91.png",
             "large": "https://images.pokemontcg.io/ex16/91_hires.png"
@@ -5931,6 +5652,7 @@ let powerKeepers = [
         "id": "ex16-92",
         "name": "Absol ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "EX"
@@ -5980,9 +5702,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -5996,9 +5716,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/92.png",
             "large": "https://images.pokemontcg.io/ex16/92_hires.png"
@@ -6008,6 +5726,7 @@ let powerKeepers = [
         "id": "ex16-93",
         "name": "Claydol ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6063,9 +5782,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6079,9 +5796,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/93.png",
             "large": "https://images.pokemontcg.io/ex16/93_hires.png"
@@ -6091,6 +5806,7 @@ let powerKeepers = [
         "id": "ex16-94",
         "name": "Flygon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6145,9 +5861,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6161,9 +5875,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/94.png",
             "large": "https://images.pokemontcg.io/ex16/94_hires.png"
@@ -6173,6 +5885,7 @@ let powerKeepers = [
         "id": "ex16-95",
         "name": "Metagross ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6224,9 +5937,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6240,9 +5951,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/95.png",
             "large": "https://images.pokemontcg.io/ex16/95_hires.png"
@@ -6252,6 +5961,7 @@ let powerKeepers = [
         "id": "ex16-96",
         "name": "Salamence ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6313,9 +6023,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6329,9 +6037,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/96.png",
             "large": "https://images.pokemontcg.io/ex16/96_hires.png"
@@ -6341,6 +6047,7 @@ let powerKeepers = [
         "id": "ex16-97",
         "name": "Shiftry ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6394,9 +6101,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6410,9 +6115,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/97.png",
             "large": "https://images.pokemontcg.io/ex16/97_hires.png"
@@ -6422,6 +6125,7 @@ let powerKeepers = [
         "id": "ex16-98",
         "name": "Skarmory ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "EX"
@@ -6482,9 +6186,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6498,9 +6200,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/98.png",
             "large": "https://images.pokemontcg.io/ex16/98_hires.png"
@@ -6510,6 +6210,7 @@ let powerKeepers = [
         "id": "ex16-99",
         "name": "Walrein ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6555,9 +6256,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6571,9 +6270,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/99.png",
             "large": "https://images.pokemontcg.io/ex16/99_hires.png"
@@ -6583,6 +6280,7 @@ let powerKeepers = [
         "id": "ex16-100",
         "name": "Flareon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6627,9 +6325,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6643,9 +6339,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/100.png",
             "large": "https://images.pokemontcg.io/ex16/100_hires.png"
@@ -6655,6 +6349,7 @@ let powerKeepers = [
         "id": "ex16-101",
         "name": "Jolteon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6705,9 +6400,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6721,9 +6414,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/101.png",
             "large": "https://images.pokemontcg.io/ex16/101_hires.png"
@@ -6733,6 +6424,7 @@ let powerKeepers = [
         "id": "ex16-102",
         "name": "Vaporeon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6777,9 +6469,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6793,9 +6483,7 @@ let powerKeepers = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/102.png",
             "large": "https://images.pokemontcg.io/ex16/102_hires.png"
@@ -6805,6 +6493,7 @@ let powerKeepers = [
         "id": "ex16-103",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6814,9 +6503,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6826,11 +6513,7 @@ let powerKeepers = [
         },
         "number": "103",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/103.png",
             "large": "https://images.pokemontcg.io/ex16/103_hires.png"
@@ -6840,6 +6523,7 @@ let powerKeepers = [
         "id": "ex16-104",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6849,9 +6533,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6861,11 +6543,7 @@ let powerKeepers = [
         },
         "number": "104",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/104.png",
             "large": "https://images.pokemontcg.io/ex16/104_hires.png"
@@ -6875,6 +6553,7 @@ let powerKeepers = [
         "id": "ex16-105",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6884,9 +6563,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6896,11 +6573,7 @@ let powerKeepers = [
         },
         "number": "105",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/105.png",
             "large": "https://images.pokemontcg.io/ex16/105_hires.png"
@@ -6910,6 +6583,7 @@ let powerKeepers = [
         "id": "ex16-106",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6919,9 +6593,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6931,11 +6603,7 @@ let powerKeepers = [
         },
         "number": "106",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/106.png",
             "large": "https://images.pokemontcg.io/ex16/106_hires.png"
@@ -6945,6 +6613,7 @@ let powerKeepers = [
         "id": "ex16-107",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6954,9 +6623,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -6966,11 +6633,7 @@ let powerKeepers = [
         },
         "number": "107",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/107.png",
             "large": "https://images.pokemontcg.io/ex16/107_hires.png"
@@ -6980,6 +6643,7 @@ let powerKeepers = [
         "id": "ex16-108",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6989,9 +6653,7 @@ let powerKeepers = [
             "series": "EX",
             "printedTotal": 108,
             "total": 108,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PK",
             "releaseDate": "2007/02/02",
             "images": {
@@ -7001,11 +6663,7 @@ let powerKeepers = [
         },
         "number": "108",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex16/108.png",
             "large": "https://images.pokemontcg.io/ex16/108_hires.png"

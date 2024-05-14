@@ -1,8 +1,9 @@
-let promoWotc = [
+let basep = [
     {
         "id": "basep-1",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -47,9 +48,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -64,9 +63,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/1.png",
             "large": "https://images.pokemontcg.io/basep/1_hires.png"
@@ -76,6 +73,7 @@ let promoWotc = [
         "id": "basep-2",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -120,9 +118,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -137,9 +133,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/2.png",
             "large": "https://images.pokemontcg.io/basep/2_hires.png"
@@ -149,6 +143,7 @@ let promoWotc = [
         "id": "basep-3",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -191,9 +186,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -208,9 +201,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/3.png",
             "large": "https://images.pokemontcg.io/basep/3_hires.png"
@@ -220,6 +211,7 @@ let promoWotc = [
         "id": "basep-4",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -265,9 +257,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -282,9 +272,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/4.png",
             "large": "https://images.pokemontcg.io/basep/4_hires.png"
@@ -294,6 +282,7 @@ let promoWotc = [
         "id": "basep-5",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -335,9 +324,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -352,9 +339,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/5.png",
             "large": "https://images.pokemontcg.io/basep/5_hires.png"
@@ -364,6 +349,7 @@ let promoWotc = [
         "id": "basep-6",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -407,9 +393,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -424,9 +408,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/6.png",
             "large": "https://images.pokemontcg.io/basep/6_hires.png"
@@ -436,6 +418,7 @@ let promoWotc = [
         "id": "basep-7",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -487,9 +470,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -504,9 +485,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/7.png",
             "large": "https://images.pokemontcg.io/basep/7_hires.png"
@@ -516,6 +495,7 @@ let promoWotc = [
         "id": "basep-8",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -557,9 +537,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -574,9 +552,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/8.png",
             "large": "https://images.pokemontcg.io/basep/8_hires.png"
@@ -586,6 +562,7 @@ let promoWotc = [
         "id": "basep-9",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -627,9 +604,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -644,9 +619,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/9.png",
             "large": "https://images.pokemontcg.io/basep/9_hires.png"
@@ -656,6 +629,7 @@ let promoWotc = [
         "id": "basep-10",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -697,9 +671,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -714,9 +686,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/10.png",
             "large": "https://images.pokemontcg.io/basep/10_hires.png"
@@ -726,6 +696,7 @@ let promoWotc = [
         "id": "basep-11",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -779,9 +750,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -796,9 +765,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/11.png",
             "large": "https://images.pokemontcg.io/basep/11_hires.png"
@@ -808,6 +775,7 @@ let promoWotc = [
         "id": "basep-12",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -850,9 +818,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -867,9 +833,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/12.png",
             "large": "https://images.pokemontcg.io/basep/12_hires.png"
@@ -879,6 +843,7 @@ let promoWotc = [
         "id": "basep-13",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -921,9 +886,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -938,9 +901,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/13.png",
             "large": "https://images.pokemontcg.io/basep/13_hires.png"
@@ -950,6 +911,7 @@ let promoWotc = [
         "id": "basep-14",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -992,9 +954,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1009,9 +969,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/14.png",
             "large": "https://images.pokemontcg.io/basep/14_hires.png"
@@ -1021,6 +979,7 @@ let promoWotc = [
         "id": "basep-15",
         "name": "Cool Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1074,9 +1033,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1091,9 +1048,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/15.png",
             "large": "https://images.pokemontcg.io/basep/15_hires.png"
@@ -1103,6 +1058,7 @@ let promoWotc = [
         "id": "basep-16",
         "name": "Computer Error",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -1115,9 +1071,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1128,9 +1082,7 @@ let promoWotc = [
         "number": "16",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/16.png",
             "large": "https://images.pokemontcg.io/basep/16_hires.png"
@@ -1140,6 +1092,7 @@ let promoWotc = [
         "id": "basep-17",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1187,9 +1140,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1204,9 +1155,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/17.png",
             "large": "https://images.pokemontcg.io/basep/17_hires.png"
@@ -1216,6 +1165,7 @@ let promoWotc = [
         "id": "basep-18",
         "name": "Team Rocket's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1256,9 +1206,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1273,9 +1221,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/18.png",
             "large": "https://images.pokemontcg.io/basep/18_hires.png"
@@ -1285,6 +1231,7 @@ let promoWotc = [
         "id": "basep-19",
         "name": "Sabrina's Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1328,9 +1275,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1344,9 +1289,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/19.png",
             "large": "https://images.pokemontcg.io/basep/19_hires.png"
@@ -1356,6 +1299,7 @@ let promoWotc = [
         "id": "basep-20",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1399,9 +1343,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1416,9 +1358,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/20.png",
             "large": "https://images.pokemontcg.io/basep/20_hires.png"
@@ -1428,6 +1368,7 @@ let promoWotc = [
         "id": "basep-21",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1461,9 +1402,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1478,9 +1417,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/21.png",
             "large": "https://images.pokemontcg.io/basep/21_hires.png"
@@ -1490,6 +1427,7 @@ let promoWotc = [
         "id": "basep-22",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1523,9 +1461,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1540,9 +1476,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/22.png",
             "large": "https://images.pokemontcg.io/basep/22_hires.png"
@@ -1552,6 +1486,7 @@ let promoWotc = [
         "id": "basep-23",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1585,9 +1520,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1602,9 +1535,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/23.png",
             "large": "https://images.pokemontcg.io/basep/23_hires.png"
@@ -1614,6 +1545,7 @@ let promoWotc = [
         "id": "basep-24",
         "name": "_____'s Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1649,9 +1581,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1666,9 +1596,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/24.png",
             "large": "https://images.pokemontcg.io/basep/24_hires.png"
@@ -1678,6 +1606,7 @@ let promoWotc = [
         "id": "basep-25",
         "name": "Flying Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1723,9 +1652,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1740,9 +1667,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/25.png",
             "large": "https://images.pokemontcg.io/basep/25_hires.png"
@@ -1752,6 +1677,7 @@ let promoWotc = [
         "id": "basep-26",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1796,9 +1722,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1813,9 +1737,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/26.png",
             "large": "https://images.pokemontcg.io/basep/26_hires.png"
@@ -1825,6 +1747,7 @@ let promoWotc = [
         "id": "basep-27",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1868,9 +1791,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1885,9 +1806,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/27.png",
             "large": "https://images.pokemontcg.io/basep/27_hires.png"
@@ -1897,6 +1816,7 @@ let promoWotc = [
         "id": "basep-28",
         "name": "Surfing Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1932,9 +1852,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1949,10 +1867,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/28.png",
             "large": "https://images.pokemontcg.io/basep/28_hires.png"
@@ -1962,6 +1877,7 @@ let promoWotc = [
         "id": "basep-29",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1997,9 +1913,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2014,9 +1928,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/29.png",
             "large": "https://images.pokemontcg.io/basep/29_hires.png"
@@ -2026,6 +1938,7 @@ let promoWotc = [
         "id": "basep-30",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2070,9 +1983,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2087,9 +1998,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/30.png",
             "large": "https://images.pokemontcg.io/basep/30_hires.png"
@@ -2099,6 +2008,7 @@ let promoWotc = [
         "id": "basep-31",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2130,9 +2040,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2147,9 +2055,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/31.png",
             "large": "https://images.pokemontcg.io/basep/31_hires.png"
@@ -2159,6 +2065,7 @@ let promoWotc = [
         "id": "basep-32",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2196,9 +2103,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2213,9 +2118,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/32.png",
             "large": "https://images.pokemontcg.io/basep/32_hires.png"
@@ -2225,6 +2128,7 @@ let promoWotc = [
         "id": "basep-33",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2274,9 +2178,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2291,9 +2193,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/33.png",
             "large": "https://images.pokemontcg.io/basep/33_hires.png"
@@ -2303,6 +2203,7 @@ let promoWotc = [
         "id": "basep-34",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2343,9 +2244,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2360,9 +2259,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/34.png",
             "large": "https://images.pokemontcg.io/basep/34_hires.png"
@@ -2372,6 +2269,7 @@ let promoWotc = [
         "id": "basep-35",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2403,9 +2301,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2420,9 +2316,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/35.png",
             "large": "https://images.pokemontcg.io/basep/35_hires.png"
@@ -2432,6 +2326,7 @@ let promoWotc = [
         "id": "basep-36",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2463,9 +2358,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2480,9 +2373,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/36.png",
             "large": "https://images.pokemontcg.io/basep/36_hires.png"
@@ -2492,6 +2383,7 @@ let promoWotc = [
         "id": "basep-37",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2535,9 +2427,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2552,9 +2442,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/37.png",
             "large": "https://images.pokemontcg.io/basep/37_hires.png"
@@ -2564,6 +2452,7 @@ let promoWotc = [
         "id": "basep-38",
         "name": "Unown [J]",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2605,9 +2494,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2622,9 +2509,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/38.png",
             "large": "https://images.pokemontcg.io/basep/38_hires.png"
@@ -2634,6 +2519,7 @@ let promoWotc = [
         "id": "basep-39",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2678,9 +2564,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2695,9 +2579,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/39.png",
             "large": "https://images.pokemontcg.io/basep/39_hires.png"
@@ -2707,6 +2589,7 @@ let promoWotc = [
         "id": "basep-40",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "rules": [
             "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
         ],
@@ -2716,9 +2599,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2729,9 +2610,7 @@ let promoWotc = [
         "number": "40",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/40.png",
             "large": "https://images.pokemontcg.io/basep/40_hires.png"
@@ -2741,6 +2620,7 @@ let promoWotc = [
         "id": "basep-41",
         "name": "Lucky Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stadium"
         ],
@@ -2754,9 +2634,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2767,9 +2645,7 @@ let promoWotc = [
         "number": "41",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/41.png",
             "large": "https://images.pokemontcg.io/basep/41_hires.png"
@@ -2779,6 +2655,7 @@ let promoWotc = [
         "id": "basep-42",
         "name": "Pokémon Tower",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stadium"
         ],
@@ -2792,9 +2669,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2805,9 +2680,7 @@ let promoWotc = [
         "number": "42",
         "artist": "Keiji Kinebuchi",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/42.png",
             "large": "https://images.pokemontcg.io/basep/42_hires.png"
@@ -2817,6 +2690,7 @@ let promoWotc = [
         "id": "basep-43",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2862,9 +2736,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2879,9 +2751,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/43.png",
             "large": "https://images.pokemontcg.io/basep/43_hires.png"
@@ -2891,6 +2761,7 @@ let promoWotc = [
         "id": "basep-44",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2936,9 +2807,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2953,9 +2822,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/44.png",
             "large": "https://images.pokemontcg.io/basep/44_hires.png"
@@ -2965,6 +2832,7 @@ let promoWotc = [
         "id": "basep-45",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3006,9 +2874,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3023,9 +2889,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/45.png",
             "large": "https://images.pokemontcg.io/basep/45_hires.png"
@@ -3035,6 +2899,7 @@ let promoWotc = [
         "id": "basep-46",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3079,9 +2944,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3096,9 +2959,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/46.png",
             "large": "https://images.pokemontcg.io/basep/46_hires.png"
@@ -3108,6 +2969,7 @@ let promoWotc = [
         "id": "basep-47",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3146,9 +3008,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3163,9 +3023,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/47.png",
             "large": "https://images.pokemontcg.io/basep/47_hires.png"
@@ -3175,6 +3033,7 @@ let promoWotc = [
         "id": "basep-48",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3216,9 +3075,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3233,9 +3090,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/48.png",
             "large": "https://images.pokemontcg.io/basep/48_hires.png"
@@ -3245,6 +3100,7 @@ let promoWotc = [
         "id": "basep-49",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3292,9 +3148,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3309,9 +3163,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/49.png",
             "large": "https://images.pokemontcg.io/basep/49_hires.png"
@@ -3321,6 +3173,7 @@ let promoWotc = [
         "id": "basep-50",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3353,9 +3206,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3369,9 +3220,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/50.png",
             "large": "https://images.pokemontcg.io/basep/50_hires.png"
@@ -3381,6 +3230,7 @@ let promoWotc = [
         "id": "basep-51",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3424,9 +3274,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3440,9 +3288,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/51.png",
             "large": "https://images.pokemontcg.io/basep/51_hires.png"
@@ -3452,6 +3298,7 @@ let promoWotc = [
         "id": "basep-52",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3492,9 +3339,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3508,9 +3353,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/52.png",
             "large": "https://images.pokemontcg.io/basep/52_hires.png"
@@ -3520,6 +3363,7 @@ let promoWotc = [
         "id": "basep-53",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3560,9 +3404,7 @@ let promoWotc = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3576,9 +3418,7 @@ let promoWotc = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/53.png",
             "large": "https://images.pokemontcg.io/basep/53_hires.png"

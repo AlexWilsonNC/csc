@@ -3,6 +3,7 @@ let swsh3 = [
         "id": "swsh3-1",
         "name": "Butterfree V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -52,11 +53,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -71,11 +68,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/1.png",
@@ -120,6 +112,7 @@ let swsh3 = [
         "id": "swsh3-2",
         "name": "Butterfree VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -156,11 +149,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -175,11 +164,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/2.png",
@@ -224,6 +208,7 @@ let swsh3 = [
         "id": "swsh3-3",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -261,11 +246,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -281,11 +262,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/3.png",
@@ -337,6 +313,7 @@ let swsh3 = [
         "id": "swsh3-4",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -384,11 +361,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -404,11 +377,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/4.png",
@@ -460,6 +428,7 @@ let swsh3 = [
         "id": "swsh3-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -504,11 +473,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -524,11 +489,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/5.png",
@@ -580,6 +540,7 @@ let swsh3 = [
         "id": "swsh3-6",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -627,11 +588,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -647,11 +604,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/6.png",
@@ -703,6 +655,7 @@ let swsh3 = [
         "id": "swsh3-7",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -749,11 +702,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -769,11 +718,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/7.png",
@@ -825,6 +769,7 @@ let swsh3 = [
         "id": "swsh3-8",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -862,11 +807,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -882,11 +823,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             588
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/8.png",
@@ -938,6 +874,7 @@ let swsh3 = [
         "id": "swsh3-9",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -977,11 +914,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -997,11 +930,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/9.png",
@@ -1053,6 +981,7 @@ let swsh3 = [
         "id": "swsh3-10",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1085,11 +1014,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1105,11 +1030,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/10.png",
@@ -1161,6 +1081,7 @@ let swsh3 = [
         "id": "swsh3-11",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1207,11 +1128,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1227,11 +1144,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/11.png",
@@ -1283,6 +1195,7 @@ let swsh3 = [
         "id": "swsh3-12",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1321,11 +1234,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1341,11 +1250,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             723
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/12.png",
@@ -1397,6 +1301,7 @@ let swsh3 = [
         "id": "swsh3-13",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1441,11 +1346,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1461,11 +1362,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/13.png",
@@ -1517,6 +1413,7 @@ let swsh3 = [
         "id": "swsh3-14",
         "name": "Bounsweet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1564,11 +1461,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1584,11 +1477,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             761
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/14.png",
@@ -1640,6 +1528,7 @@ let swsh3 = [
         "id": "swsh3-15",
         "name": "Steenee",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1688,11 +1577,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1708,11 +1593,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             762
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/15.png",
@@ -1764,6 +1644,7 @@ let swsh3 = [
         "id": "swsh3-16",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1810,11 +1691,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1830,11 +1707,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/16.png",
@@ -1886,6 +1758,7 @@ let swsh3 = [
         "id": "swsh3-17",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1925,11 +1798,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -1945,11 +1814,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             767
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/17.png",
@@ -2001,6 +1865,7 @@ let swsh3 = [
         "id": "swsh3-18",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2049,11 +1914,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2069,11 +1930,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/18.png",
@@ -2125,6 +1981,7 @@ let swsh3 = [
         "id": "swsh3-19",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -2179,11 +2036,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2198,11 +2051,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/19.png",
@@ -2247,6 +2095,7 @@ let swsh3 = [
         "id": "swsh3-20",
         "name": "Charizard VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -2302,11 +2151,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2321,11 +2166,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/20.png",
@@ -2370,6 +2210,7 @@ let swsh3 = [
         "id": "swsh3-21",
         "name": "Houndoom V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -2419,11 +2260,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2438,11 +2275,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/21.png",
@@ -2487,6 +2319,7 @@ let swsh3 = [
         "id": "swsh3-22",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -2533,11 +2366,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2553,11 +2382,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/22.png",
@@ -2609,6 +2433,7 @@ let swsh3 = [
         "id": "swsh3-23",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2658,11 +2483,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2678,11 +2499,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/23.png",
@@ -2734,6 +2550,7 @@ let swsh3 = [
         "id": "swsh3-24",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2779,11 +2596,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2799,11 +2612,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/24.png",
@@ -2855,6 +2663,7 @@ let swsh3 = [
         "id": "swsh3-25",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -2904,11 +2713,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -2924,11 +2729,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/25.png",
@@ -2980,6 +2780,7 @@ let swsh3 = [
         "id": "swsh3-26",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -3027,11 +2828,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3047,11 +2844,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/26.png",
@@ -3103,6 +2895,7 @@ let swsh3 = [
         "id": "swsh3-27",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3149,11 +2942,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3169,11 +2958,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/27.png",
@@ -3225,6 +3009,7 @@ let swsh3 = [
         "id": "swsh3-28",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3273,11 +3058,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3293,11 +3074,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/28.png",
@@ -3349,6 +3125,7 @@ let swsh3 = [
         "id": "swsh3-29",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -3387,11 +3164,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3407,11 +3180,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/29.png",
@@ -3463,6 +3231,7 @@ let swsh3 = [
         "id": "swsh3-30",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3509,11 +3278,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3529,11 +3294,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/30.png",
@@ -3585,6 +3345,7 @@ let swsh3 = [
         "id": "swsh3-31",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3629,11 +3390,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3649,11 +3406,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             662
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/31.png",
@@ -3705,6 +3457,7 @@ let swsh3 = [
         "id": "swsh3-32",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -3755,11 +3508,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3775,11 +3524,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/32.png",
@@ -3831,6 +3575,7 @@ let swsh3 = [
         "id": "swsh3-33",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -3883,11 +3628,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -3902,11 +3643,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/33.png",
@@ -3951,6 +3687,7 @@ let swsh3 = [
         "id": "swsh3-34",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -3992,11 +3729,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4011,11 +3744,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/34.png",
@@ -4060,6 +3788,7 @@ let swsh3 = [
         "id": "swsh3-35",
         "name": "Galarian Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4107,11 +3836,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4127,11 +3852,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/35.png",
@@ -4183,6 +3903,7 @@ let swsh3 = [
         "id": "swsh3-36",
         "name": "Galarian Mr. Rime",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4228,11 +3949,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4248,11 +3965,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             866
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/36.png",
@@ -4304,6 +4016,7 @@ let swsh3 = [
         "id": "swsh3-37",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4349,11 +4062,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4369,11 +4078,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/37.png",
@@ -4425,6 +4129,7 @@ let swsh3 = [
         "id": "swsh3-38",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4462,11 +4167,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4482,11 +4183,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/38.png",
@@ -4538,6 +4234,7 @@ let swsh3 = [
         "id": "swsh3-39",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4583,11 +4280,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4603,11 +4296,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/39.png",
@@ -4659,6 +4347,7 @@ let swsh3 = [
         "id": "swsh3-40",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4703,11 +4392,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4723,11 +4408,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/40.png",
@@ -4779,6 +4459,7 @@ let swsh3 = [
         "id": "swsh3-41",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4826,11 +4507,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4846,11 +4523,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/41.png",
@@ -4902,6 +4574,7 @@ let swsh3 = [
         "id": "swsh3-42",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4948,11 +4621,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -4968,11 +4637,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/42.png",
@@ -5024,6 +4688,7 @@ let swsh3 = [
         "id": "swsh3-43",
         "name": "Galarian Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5071,11 +4736,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5091,11 +4752,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/43.png",
@@ -5147,6 +4803,7 @@ let swsh3 = [
         "id": "swsh3-44",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5198,11 +4855,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5218,11 +4871,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/44.png",
@@ -5274,6 +4922,7 @@ let swsh3 = [
         "id": "swsh3-45",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5311,11 +4960,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5331,11 +4976,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/45.png",
@@ -5387,6 +5027,7 @@ let swsh3 = [
         "id": "swsh3-46",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5426,11 +5067,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5446,11 +5083,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/46.png",
@@ -5502,6 +5134,7 @@ let swsh3 = [
         "id": "swsh3-47",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -5546,11 +5179,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5566,11 +5195,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/47.png",
@@ -5622,6 +5246,7 @@ let swsh3 = [
         "id": "swsh3-48",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5670,11 +5295,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5690,11 +5311,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/48.png",
@@ -5746,6 +5362,7 @@ let swsh3 = [
         "id": "swsh3-49",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5795,11 +5412,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5815,11 +5428,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/49.png",
@@ -5871,6 +5479,7 @@ let swsh3 = [
         "id": "swsh3-50",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5914,11 +5523,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -5934,11 +5539,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             746
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/50.png",
@@ -5990,6 +5590,7 @@ let swsh3 = [
         "id": "swsh3-51",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6038,11 +5639,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6058,11 +5655,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             747
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/51.png",
@@ -6114,6 +5706,7 @@ let swsh3 = [
         "id": "swsh3-52",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6162,11 +5755,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6182,11 +5771,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             748
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/52.png",
@@ -6238,6 +5822,7 @@ let swsh3 = [
         "id": "swsh3-53",
         "name": "Dracovish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6284,11 +5869,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6304,11 +5885,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             882
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/53.png",
@@ -6360,6 +5936,7 @@ let swsh3 = [
         "id": "swsh3-54",
         "name": "Arctovish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6410,11 +5987,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6430,11 +6003,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             883
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/54.png",
@@ -6486,6 +6054,7 @@ let swsh3 = [
         "id": "swsh3-55",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6523,11 +6092,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6543,11 +6108,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/55.png",
@@ -6599,6 +6159,7 @@ let swsh3 = [
         "id": "swsh3-56",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6637,11 +6198,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6657,11 +6214,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/56.png",
@@ -6713,6 +6265,7 @@ let swsh3 = [
         "id": "swsh3-57",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -6759,11 +6312,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6779,11 +6328,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/57.png",
@@ -6835,6 +6379,7 @@ let swsh3 = [
         "id": "swsh3-58",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6873,11 +6418,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -6893,11 +6434,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/58.png",
@@ -6949,6 +6485,7 @@ let swsh3 = [
         "id": "swsh3-59",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6995,11 +6532,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7015,11 +6548,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/59.png",
@@ -7071,6 +6599,7 @@ let swsh3 = [
         "id": "swsh3-60",
         "name": "Vikavolt V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -7123,11 +6652,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7142,11 +6667,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/60.png",
@@ -7191,6 +6711,7 @@ let swsh3 = [
         "id": "swsh3-61",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7232,11 +6753,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7252,11 +6769,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/61.png",
@@ -7308,6 +6820,7 @@ let swsh3 = [
         "id": "swsh3-62",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7356,11 +6869,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7376,11 +6885,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             848
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/62.png",
@@ -7432,6 +6936,7 @@ let swsh3 = [
         "id": "swsh3-63",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7480,11 +6985,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7500,11 +7001,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/63.png",
@@ -7556,6 +7052,7 @@ let swsh3 = [
         "id": "swsh3-64",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7602,11 +7099,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7622,11 +7115,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             871
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/64.png",
@@ -7678,6 +7166,7 @@ let swsh3 = [
         "id": "swsh3-65",
         "name": "Dracozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7728,11 +7217,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7748,11 +7233,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             880
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/65.png",
@@ -7804,6 +7284,7 @@ let swsh3 = [
         "id": "swsh3-66",
         "name": "Arctozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7848,11 +7329,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7868,11 +7345,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             881
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/66.png",
@@ -7924,6 +7396,7 @@ let swsh3 = [
         "id": "swsh3-67",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7971,11 +7444,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -7991,11 +7460,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/67.png",
@@ -8047,6 +7511,7 @@ let swsh3 = [
         "id": "swsh3-68",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8094,11 +7559,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8114,11 +7575,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/68.png",
@@ -8170,6 +7626,7 @@ let swsh3 = [
         "id": "swsh3-69",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -8211,11 +7668,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8230,11 +7683,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/69.png",
@@ -8279,6 +7727,7 @@ let swsh3 = [
         "id": "swsh3-70",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8318,11 +7767,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8338,11 +7783,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/70.png",
@@ -8394,6 +7834,7 @@ let swsh3 = [
         "id": "swsh3-71",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8442,11 +7883,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8462,11 +7899,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/71.png",
@@ -8518,6 +7950,7 @@ let swsh3 = [
         "id": "swsh3-72",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8568,11 +8001,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8588,11 +8017,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/72.png",
@@ -8644,6 +8068,7 @@ let swsh3 = [
         "id": "swsh3-73",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8697,11 +8122,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8717,11 +8138,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/73.png",
@@ -8773,6 +8189,7 @@ let swsh3 = [
         "id": "swsh3-74",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8828,11 +8245,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8848,11 +8261,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/74.png",
@@ -8904,6 +8312,7 @@ let swsh3 = [
         "id": "swsh3-75",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -8956,11 +8365,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -8976,11 +8381,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             576
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/75.png",
@@ -9032,6 +8432,7 @@ let swsh3 = [
         "id": "swsh3-76",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9089,11 +8490,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9109,11 +8506,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/76.png",
@@ -9165,6 +8557,7 @@ let swsh3 = [
         "id": "swsh3-77",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9224,11 +8617,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9244,11 +8633,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/77.png",
@@ -9300,6 +8684,7 @@ let swsh3 = [
         "id": "swsh3-78",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9336,11 +8721,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9356,11 +8737,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/78.png",
@@ -9412,6 +8788,7 @@ let swsh3 = [
         "id": "swsh3-79",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9459,11 +8836,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9479,11 +8852,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             755
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/79.png",
@@ -9535,6 +8903,7 @@ let swsh3 = [
         "id": "swsh3-80",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9581,11 +8950,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9601,11 +8966,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             756
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/80.png",
@@ -9657,6 +9017,7 @@ let swsh3 = [
         "id": "swsh3-81",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9705,11 +9066,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9725,11 +9082,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/81.png",
@@ -9781,6 +9133,7 @@ let swsh3 = [
         "id": "swsh3-82",
         "name": "Sinistea",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9824,11 +9177,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9844,11 +9193,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             854
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/82.png",
@@ -9900,6 +9244,7 @@ let swsh3 = [
         "id": "swsh3-83",
         "name": "Polteageist",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9949,11 +9294,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -9969,11 +9310,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             855
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/83.png",
@@ -10025,6 +9361,7 @@ let swsh3 = [
         "id": "swsh3-84",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10062,11 +9399,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10082,11 +9415,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/84.png",
@@ -10138,6 +9466,7 @@ let swsh3 = [
         "id": "swsh3-85",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10183,11 +9512,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10203,11 +9528,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/85.png",
@@ -10259,6 +9579,7 @@ let swsh3 = [
         "id": "swsh3-86",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10306,11 +9627,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10326,11 +9643,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/86.png",
@@ -10382,6 +9694,7 @@ let swsh3 = [
         "id": "swsh3-87",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10433,11 +9746,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10453,11 +9762,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/87.png",
@@ -10509,6 +9813,7 @@ let swsh3 = [
         "id": "swsh3-88",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -10561,11 +9866,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10581,11 +9882,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/88.png",
@@ -10637,6 +9933,7 @@ let swsh3 = [
         "id": "swsh3-89",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10674,11 +9971,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10694,11 +9987,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/89.png",
@@ -10750,6 +10038,7 @@ let swsh3 = [
         "id": "swsh3-90",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10788,11 +10077,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10808,11 +10093,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/90.png",
@@ -10864,6 +10144,7 @@ let swsh3 = [
         "id": "swsh3-91",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -10908,11 +10189,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -10928,11 +10205,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/91.png",
@@ -10984,6 +10256,7 @@ let swsh3 = [
         "id": "swsh3-92",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11026,11 +10299,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11046,11 +10315,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/92.png",
@@ -11102,6 +10366,7 @@ let swsh3 = [
         "id": "swsh3-93",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11154,11 +10419,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11174,11 +10435,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             449
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/93.png",
@@ -11230,6 +10486,7 @@ let swsh3 = [
         "id": "swsh3-94",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11282,11 +10539,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11302,11 +10555,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             450
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/94.png",
@@ -11358,6 +10606,7 @@ let swsh3 = [
         "id": "swsh3-95",
         "name": "Rhyperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -11413,11 +10662,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11432,11 +10677,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/95.png",
@@ -11481,6 +10721,7 @@ let swsh3 = [
         "id": "swsh3-96",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11532,11 +10773,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11552,11 +10789,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             660
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/96.png",
@@ -11608,6 +10840,7 @@ let swsh3 = [
         "id": "swsh3-97",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11653,11 +10886,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11673,11 +10902,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             766
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/97.png",
@@ -11729,6 +10953,7 @@ let swsh3 = [
         "id": "swsh3-98",
         "name": "Galarian Sirfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11776,11 +11001,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11796,11 +11017,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             865
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/98.png",
@@ -11852,6 +11068,7 @@ let swsh3 = [
         "id": "swsh3-99",
         "name": "Galarian Slowbro V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -11901,11 +11118,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -11920,11 +11133,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/99.png",
@@ -11969,6 +11177,7 @@ let swsh3 = [
         "id": "swsh3-100",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12019,11 +11228,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12039,11 +11244,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/100.png",
@@ -12095,6 +11295,7 @@ let swsh3 = [
         "id": "swsh3-101",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -12145,11 +11346,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12165,11 +11362,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/101.png",
@@ -12221,6 +11413,7 @@ let swsh3 = [
         "id": "swsh3-102",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12268,11 +11461,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12288,11 +11477,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/102.png",
@@ -12344,6 +11528,7 @@ let swsh3 = [
         "id": "swsh3-103",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -12388,11 +11573,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12408,11 +11589,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/103.png",
@@ -12464,6 +11640,7 @@ let swsh3 = [
         "id": "swsh3-104",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -12510,11 +11687,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12529,11 +11702,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/104.png",
@@ -12578,6 +11746,7 @@ let swsh3 = [
         "id": "swsh3-105",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12622,11 +11791,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12642,11 +11807,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/105.png",
@@ -12698,6 +11858,7 @@ let swsh3 = [
         "id": "swsh3-106",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12745,11 +11906,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12765,11 +11922,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/106.png",
@@ -12821,6 +11973,7 @@ let swsh3 = [
         "id": "swsh3-107",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -12865,11 +12018,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12885,11 +12034,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/107.png",
@@ -12941,6 +12085,7 @@ let swsh3 = [
         "id": "swsh3-108",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12978,11 +12123,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -12998,11 +12139,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/108.png",
@@ -13054,6 +12190,7 @@ let swsh3 = [
         "id": "swsh3-109",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -13105,11 +12242,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13125,11 +12258,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/109.png",
@@ -13181,6 +12309,7 @@ let swsh3 = [
         "id": "swsh3-110",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -13227,11 +12356,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13247,11 +12372,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/110.png",
@@ -13303,6 +12423,7 @@ let swsh3 = [
         "id": "swsh3-111",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -13338,11 +12459,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13358,11 +12475,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/111.png",
@@ -13414,6 +12526,7 @@ let swsh3 = [
         "id": "swsh3-112",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -13451,11 +12564,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13471,11 +12580,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             827
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/112.png",
@@ -13527,6 +12631,7 @@ let swsh3 = [
         "id": "swsh3-113",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -13572,11 +12677,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13592,11 +12693,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             828
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/113.png",
@@ -13648,6 +12744,7 @@ let swsh3 = [
         "id": "swsh3-114",
         "name": "Grimmsnarl V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -13698,11 +12795,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13717,11 +12810,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             861
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/114.png",
@@ -13766,6 +12854,7 @@ let swsh3 = [
         "id": "swsh3-115",
         "name": "Grimmsnarl VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -13808,11 +12897,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13827,11 +12912,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             861
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/115.png",
@@ -13876,6 +12956,7 @@ let swsh3 = [
         "id": "swsh3-116",
         "name": "Eternatus V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -13927,11 +13008,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -13946,11 +13023,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             890
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/116.png",
@@ -13995,6 +13067,7 @@ let swsh3 = [
         "id": "swsh3-117",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -14043,11 +13116,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14062,11 +13131,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             890
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/117.png",
@@ -14111,6 +13175,7 @@ let swsh3 = [
         "id": "swsh3-118",
         "name": "Scizor V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -14167,11 +13232,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14186,11 +13247,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/118.png",
@@ -14235,6 +13291,7 @@ let swsh3 = [
         "id": "swsh3-119",
         "name": "Scizor VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -14292,11 +13349,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14311,11 +13364,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/119.png",
@@ -14360,6 +13408,7 @@ let swsh3 = [
         "id": "swsh3-120",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14411,11 +13460,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14431,11 +13476,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/120.png",
@@ -14487,6 +13527,7 @@ let swsh3 = [
         "id": "swsh3-121",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14541,11 +13582,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14561,11 +13598,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/121.png",
@@ -14617,6 +13649,7 @@ let swsh3 = [
         "id": "swsh3-122",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -14675,11 +13708,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14695,11 +13724,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/122.png",
@@ -14751,6 +13775,7 @@ let swsh3 = [
         "id": "swsh3-123",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -14804,11 +13829,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14824,11 +13845,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/123.png",
@@ -14880,6 +13896,7 @@ let swsh3 = [
         "id": "swsh3-124",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -14932,11 +13949,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -14952,11 +13965,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             589
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/124.png",
@@ -15008,6 +14016,7 @@ let swsh3 = [
         "id": "swsh3-125",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15052,11 +14061,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15072,11 +14077,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/125.png",
@@ -15128,6 +14128,7 @@ let swsh3 = [
         "id": "swsh3-126",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15185,11 +14186,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15205,11 +14202,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/126.png",
@@ -15261,6 +14253,7 @@ let swsh3 = [
         "id": "swsh3-127",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -15316,11 +14309,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15336,11 +14325,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/127.png",
@@ -15392,6 +14376,7 @@ let swsh3 = [
         "id": "swsh3-128",
         "name": "Galarian Stunfisk V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -15447,11 +14432,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15466,11 +14447,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/128.png",
@@ -15515,6 +14491,7 @@ let swsh3 = [
         "id": "swsh3-129",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15568,11 +14545,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15588,11 +14561,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             808
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/129.png",
@@ -15644,6 +14612,7 @@ let swsh3 = [
         "id": "swsh3-130",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15700,11 +14669,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15720,11 +14685,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/130.png",
@@ -15776,6 +14736,7 @@ let swsh3 = [
         "id": "swsh3-131",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15823,11 +14784,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15843,11 +14800,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             878
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/131.png",
@@ -15899,6 +14851,7 @@ let swsh3 = [
         "id": "swsh3-132",
         "name": "Copperajah",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15953,11 +14906,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -15973,11 +14922,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             879
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/132.png",
@@ -16029,6 +14973,7 @@ let swsh3 = [
         "id": "swsh3-133",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16076,11 +15021,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16096,11 +15037,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/133.png",
@@ -16152,6 +15088,7 @@ let swsh3 = [
         "id": "swsh3-134",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16188,11 +15125,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16208,11 +15141,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/134.png",
@@ -16264,6 +15192,7 @@ let swsh3 = [
         "id": "swsh3-135",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16301,11 +15230,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16321,11 +15246,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/135.png",
@@ -16377,6 +15297,7 @@ let swsh3 = [
         "id": "swsh3-136",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -16421,11 +15342,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16441,11 +15358,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/136.png",
@@ -16497,6 +15409,7 @@ let swsh3 = [
         "id": "swsh3-137",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16538,11 +15451,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16558,11 +15467,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/137.png",
@@ -16614,6 +15518,7 @@ let swsh3 = [
         "id": "swsh3-138",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16662,11 +15567,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16682,11 +15583,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/138.png",
@@ -16738,6 +15634,7 @@ let swsh3 = [
         "id": "swsh3-139",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -16789,11 +15686,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16809,11 +15702,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/139.png",
@@ -16865,6 +15753,7 @@ let swsh3 = [
         "id": "swsh3-140",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16917,11 +15806,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -16937,11 +15822,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/140.png",
@@ -16993,6 +15873,7 @@ let swsh3 = [
         "id": "swsh3-141",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -17040,11 +15921,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17060,11 +15937,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/141.png",
@@ -17116,6 +15988,7 @@ let swsh3 = [
         "id": "swsh3-142",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -17162,11 +16035,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17182,11 +16051,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/142.png",
@@ -17238,6 +16102,7 @@ let swsh3 = [
         "id": "swsh3-143",
         "name": "Salamence V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -17297,11 +16162,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17316,11 +16177,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/143.png",
@@ -17365,6 +16221,7 @@ let swsh3 = [
         "id": "swsh3-144",
         "name": "Salamence VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -17422,11 +16279,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17441,11 +16294,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/144.png",
@@ -17490,6 +16338,7 @@ let swsh3 = [
         "id": "swsh3-145",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -17541,11 +16390,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17561,11 +16406,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/145.png",
@@ -17617,6 +16457,7 @@ let swsh3 = [
         "id": "swsh3-146",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -17671,11 +16512,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17691,11 +16528,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/146.png",
@@ -17747,6 +16579,7 @@ let swsh3 = [
         "id": "swsh3-147",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -17795,11 +16628,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17815,11 +16644,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/147.png",
@@ -17871,6 +16695,7 @@ let swsh3 = [
         "id": "swsh3-148",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -17914,11 +16739,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -17934,11 +16755,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/148.png",
@@ -17990,6 +16806,7 @@ let swsh3 = [
         "id": "swsh3-149",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -18036,11 +16853,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18056,11 +16869,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/149.png",
@@ -18112,6 +16920,7 @@ let swsh3 = [
         "id": "swsh3-150",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -18150,11 +16959,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18170,11 +16975,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/150.png",
@@ -18226,6 +17026,7 @@ let swsh3 = [
         "id": "swsh3-151",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -18269,11 +17070,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18289,11 +17086,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/151.png",
@@ -18345,6 +17137,7 @@ let swsh3 = [
         "id": "swsh3-152",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -18382,11 +17175,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18402,11 +17191,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             819
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/152.png",
@@ -18458,6 +17242,7 @@ let swsh3 = [
         "id": "swsh3-153",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -18503,11 +17288,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18523,11 +17304,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/153.png",
@@ -18579,6 +17355,7 @@ let swsh3 = [
         "id": "swsh3-154",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -18622,11 +17399,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18642,11 +17415,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             821
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/154.png",
@@ -18698,6 +17466,7 @@ let swsh3 = [
         "id": "swsh3-155",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -18753,11 +17522,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18773,11 +17538,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             822
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/155.png",
@@ -18829,6 +17589,7 @@ let swsh3 = [
         "id": "swsh3-156",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -18880,11 +17641,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18900,11 +17657,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/156.png",
@@ -18956,6 +17708,7 @@ let swsh3 = [
         "id": "swsh3-157",
         "name": "Big Parasol",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18970,11 +17723,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -18986,11 +17735,7 @@ let swsh3 = [
         "number": "157",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/157.png",
@@ -19042,6 +17787,7 @@ let swsh3 = [
         "id": "swsh3-158",
         "name": "Billowing Smoke",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -19056,11 +17802,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19072,11 +17814,7 @@ let swsh3 = [
         "number": "158",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/158.png",
@@ -19128,6 +17866,7 @@ let swsh3 = [
         "id": "swsh3-159",
         "name": "Bird Keeper",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -19141,11 +17880,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19157,11 +17892,7 @@ let swsh3 = [
         "number": "159",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/159.png",
@@ -19213,6 +17944,7 @@ let swsh3 = [
         "id": "swsh3-160",
         "name": "Cape of Toughness",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -19227,11 +17959,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19243,11 +17971,7 @@ let swsh3 = [
         "number": "160",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/160.png",
@@ -19299,6 +18023,7 @@ let swsh3 = [
         "id": "swsh3-161",
         "name": "Familiar Bell",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -19312,11 +18037,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19328,11 +18049,7 @@ let swsh3 = [
         "number": "161",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/161.png",
@@ -19384,6 +18101,7 @@ let swsh3 = [
         "id": "swsh3-162",
         "name": "Glimwood Tangle",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -19397,11 +18115,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19413,11 +18127,7 @@ let swsh3 = [
         "number": "162",
         "artist": "aky CG Works",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/162.png",
@@ -19469,6 +18179,7 @@ let swsh3 = [
         "id": "swsh3-163",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -19482,11 +18193,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19498,11 +18205,7 @@ let swsh3 = [
         "number": "163",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/163.png",
@@ -19554,6 +18257,7 @@ let swsh3 = [
         "id": "swsh3-164",
         "name": "Old PC",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -19567,11 +18271,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19583,11 +18283,7 @@ let swsh3 = [
         "number": "164",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/164.png",
@@ -19639,6 +18335,7 @@ let swsh3 = [
         "id": "swsh3-165",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -19652,11 +18349,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19668,11 +18361,7 @@ let swsh3 = [
         "number": "165",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/165.png",
@@ -19724,6 +18413,7 @@ let swsh3 = [
         "id": "swsh3-166",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -19737,11 +18427,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19753,11 +18439,7 @@ let swsh3 = [
         "number": "166",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/166.png",
@@ -19809,6 +18491,7 @@ let swsh3 = [
         "id": "swsh3-167",
         "name": "Rare Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -19824,11 +18507,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19840,11 +18519,7 @@ let swsh3 = [
         "number": "167",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/167.png",
@@ -19896,6 +18571,7 @@ let swsh3 = [
         "id": "swsh3-168",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -19909,11 +18585,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -19925,11 +18597,7 @@ let swsh3 = [
         "number": "168",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/168.png",
@@ -19981,6 +18649,7 @@ let swsh3 = [
         "id": "swsh3-169",
         "name": "Rose Tower",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -19994,11 +18663,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20010,11 +18675,7 @@ let swsh3 = [
         "number": "169",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/169.png",
@@ -20066,6 +18727,7 @@ let swsh3 = [
         "id": "swsh3-170",
         "name": "Spikemuth",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -20079,11 +18741,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20095,11 +18753,7 @@ let swsh3 = [
         "number": "170",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/170.png",
@@ -20151,6 +18805,7 @@ let swsh3 = [
         "id": "swsh3-171",
         "name": "Struggle Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -20165,11 +18820,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20181,11 +18832,7 @@ let swsh3 = [
         "number": "171",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/171.png",
@@ -20237,6 +18884,7 @@ let swsh3 = [
         "id": "swsh3-172",
         "name": "Turbo Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -20250,11 +18898,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20266,11 +18910,7 @@ let swsh3 = [
         "number": "172",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/172.png",
@@ -20322,6 +18962,7 @@ let swsh3 = [
         "id": "swsh3-173",
         "name": "Yell Horn",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -20335,11 +18976,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20351,11 +18988,7 @@ let swsh3 = [
         "number": "173",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/173.png",
@@ -20407,6 +19040,7 @@ let swsh3 = [
         "id": "swsh3-174",
         "name": "Heat Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -20420,11 +19054,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20435,11 +19065,7 @@ let swsh3 = [
         },
         "number": "174",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/174.png",
@@ -20491,6 +19117,7 @@ let swsh3 = [
         "id": "swsh3-175",
         "name": "Hiding Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -20504,11 +19131,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20519,11 +19142,7 @@ let swsh3 = [
         },
         "number": "175",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/175.png",
@@ -20575,6 +19194,7 @@ let swsh3 = [
         "id": "swsh3-176",
         "name": "Powerful Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -20588,11 +19208,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20603,11 +19219,7 @@ let swsh3 = [
         },
         "number": "176",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/176.png",
@@ -20659,6 +19271,7 @@ let swsh3 = [
         "id": "swsh3-177",
         "name": "Butterfree V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -20708,11 +19321,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20727,11 +19336,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/177.png",
@@ -20776,6 +19380,7 @@ let swsh3 = [
         "id": "swsh3-178",
         "name": "Houndoom V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -20825,11 +19430,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20844,11 +19445,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/178.png",
@@ -20893,6 +19489,7 @@ let swsh3 = [
         "id": "swsh3-179",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -20945,11 +19542,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -20964,11 +19557,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/179.png",
@@ -21013,6 +19601,7 @@ let swsh3 = [
         "id": "swsh3-180",
         "name": "Vikavolt V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21065,11 +19654,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21084,11 +19669,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/180.png",
@@ -21133,6 +19713,7 @@ let swsh3 = [
         "id": "swsh3-181",
         "name": "Rhyperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21188,11 +19769,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21207,11 +19784,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/181.png",
@@ -21256,6 +19828,7 @@ let swsh3 = [
         "id": "swsh3-182",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21302,11 +19875,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21321,11 +19890,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/182.png",
@@ -21370,6 +19934,7 @@ let swsh3 = [
         "id": "swsh3-183",
         "name": "Scizor V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21426,11 +19991,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21445,11 +20006,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/183.png",
@@ -21494,6 +20050,7 @@ let swsh3 = [
         "id": "swsh3-184",
         "name": "Galarian Stunfisk V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21549,11 +20106,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21568,11 +20121,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/184.png",
@@ -21617,6 +20165,7 @@ let swsh3 = [
         "id": "swsh3-185",
         "name": "Salamence V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -21676,11 +20225,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21695,11 +20240,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/185.png",
@@ -21744,6 +20284,7 @@ let swsh3 = [
         "id": "swsh3-186",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -21757,11 +20298,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21773,11 +20310,7 @@ let swsh3 = [
         "number": "186",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/186.png",
@@ -21822,6 +20355,7 @@ let swsh3 = [
         "id": "swsh3-187",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -21835,11 +20369,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21851,11 +20381,7 @@ let swsh3 = [
         "number": "187",
         "artist": "kirisAki",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/187.png",
@@ -21900,6 +20426,7 @@ let swsh3 = [
         "id": "swsh3-188",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -21913,11 +20440,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -21929,11 +20452,7 @@ let swsh3 = [
         "number": "188",
         "artist": "kirisAki",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/188.png",
@@ -21978,6 +20497,7 @@ let swsh3 = [
         "id": "swsh3-189",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -21991,11 +20511,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22007,11 +20523,7 @@ let swsh3 = [
         "number": "189",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/189.png",
@@ -22056,6 +20568,7 @@ let swsh3 = [
         "id": "swsh3-190",
         "name": "Butterfree VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -22092,11 +20605,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22111,11 +20620,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/190.png",
@@ -22160,6 +20664,7 @@ let swsh3 = [
         "id": "swsh3-191",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -22201,11 +20706,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22220,11 +20721,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/191.png",
@@ -22269,6 +20765,7 @@ let swsh3 = [
         "id": "swsh3-192",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -22317,11 +20814,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22336,11 +20829,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             890
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/192.png",
@@ -22385,6 +20873,7 @@ let swsh3 = [
         "id": "swsh3-193",
         "name": "Scizor VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -22442,11 +20931,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22461,11 +20946,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/193.png",
@@ -22510,6 +20990,7 @@ let swsh3 = [
         "id": "swsh3-194",
         "name": "Salamence VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -22567,11 +21048,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22586,11 +21063,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/194.png",
@@ -22635,6 +21107,7 @@ let swsh3 = [
         "id": "swsh3-195",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -22648,11 +21121,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22664,11 +21133,7 @@ let swsh3 = [
         "number": "195",
         "artist": "kirisAki",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/195.png",
@@ -22713,6 +21178,7 @@ let swsh3 = [
         "id": "swsh3-196",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -22726,11 +21192,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22742,11 +21204,7 @@ let swsh3 = [
         "number": "196",
         "artist": "Naoki Saito",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/196.png",
@@ -22791,6 +21249,7 @@ let swsh3 = [
         "id": "swsh3-197",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -22838,11 +21297,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22858,11 +21313,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             812
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/197.png",
@@ -22907,6 +21357,7 @@ let swsh3 = [
         "id": "swsh3-198",
         "name": "Coalossal",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -22955,11 +21406,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -22975,11 +21422,6 @@ let swsh3 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/198.png",
@@ -23024,6 +21466,7 @@ let swsh3 = [
         "id": "swsh3-199",
         "name": "Big Parasol",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -23038,11 +21481,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -23054,11 +21493,7 @@ let swsh3 = [
         "number": "199",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/199.png",
@@ -23103,6 +21538,7 @@ let swsh3 = [
         "id": "swsh3-200",
         "name": "Turbo Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -23116,11 +21552,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -23132,11 +21564,7 @@ let swsh3 = [
         "number": "200",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/200.png",
@@ -23181,6 +21609,7 @@ let swsh3 = [
         "id": "swsh3-201",
         "name": "Capture Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -23194,11 +21623,7 @@ let swsh3 = [
             "series": "Sword & Shield",
             "printedTotal": 189,
             "total": 201,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DAA",
             "releaseDate": "2020/08/14",
             "updatedAt": "2020/10/25 13:45:00",
@@ -23209,11 +21634,7 @@ let swsh3 = [
         },
         "number": "201",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh3/201.png",

@@ -9,140 +9,111 @@ let masters = [
     sprite1: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/rs-urshifu-vmax.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/rs-urshifu-v.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/rs-urshifu-v.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/inteleon-quick-shooting.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/inteleon-quick-shooting.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/inteleon-shady-dealings.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/inteleon-shady-dealings.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/drizzile.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/drizzile.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sobble.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/sobble.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/jirachi-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/jirachi-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/passimian-rs.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/passimian-rs.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mew-bench-barrier.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mew-bench-barrier.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/level-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/level-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/escape-rope.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/escape-rope.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tool-scrapper.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/karate-belt.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/karate-belt.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tower-of-waters.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/tower-of-waters.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 4,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/fighting-energy-swsh.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/rapid-strike-energy.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/energy/rapid-strike-energy.png',
+        numImg: '../../../assets/04.png'
       },
     ]
   },
@@ -152,126 +123,95 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/spiritomb.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/spiritomb.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/spiritomb.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/jirachi-stellar-wish.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/jirachi-stellar-wish.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 1,
-        "name": "Jynx",
-        "number": "76",
-        "set": "UNM"
+        cardImg: '../../../assets/cards/2021-2022/jynx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/hoopa-evil-abomanation.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/hoopa-evil-abomanation.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mewtwo.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mewtwo.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mew-bench-barrier.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mew-bench-barrier.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/oricorio-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/oricorio-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bird-keeper.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bird-keeper.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/level-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/level-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/escape-rope.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/escape-rope.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/scoop-up-net.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/scoop-up-net.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cape-of-toughness.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/cape-of-toughness.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/spikemuth.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/spikemuth.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 3,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/hiding-energy.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/new-energy/hiding-energy.png',
+        numImg: '../../../assets/04.png'
       },
     ]
   },
@@ -281,134 +221,99 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/adp-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/adp-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-zapdos-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/galarian-zapdos-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cobalion-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cobalion-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/crobat-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/crobat-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/eldegoss-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/eldegoss-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cherish-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/cherish-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/energy-switch-ssh.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/energy-switch-ssh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/great-catcher.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/great-catcher.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/viridian-forest.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/viridian-forest.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 7,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/07.png'
       },
       {
-        "count": 1,
-          "name": "Water Energy",
-          "number": "water",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/water-energy-swsh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 1,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/metal-energy-swsh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/aurora-energy.png',
+        numImg: '../../../assets/04.png'
       },
     ]
   },
@@ -418,114 +323,87 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-shadow-rider.png',
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-vmax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-vmax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cresselia.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cresselia.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/fog-crystal.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/fog-crystal.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        "count": 13,
+        cardImg: '../../../assets/cards/new-energy/psychic-energy-swsh.png',
+        numImg: '../../../assets/13.png'
       },
     ]
   },
@@ -535,134 +413,99 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/adp-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/adp-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-zapdos-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/galarian-zapdos-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cobalion-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cobalion-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/crobat-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/crobat-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/eldegoss-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/eldegoss-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cherish-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/cherish-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/energy-switch-ssh.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/energy-switch-ssh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/great-catcher.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/great-catcher.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/viridian-forest.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/viridian-forest.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 7,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/07.png'
       },
       {
-        "count": 1,
-          "name": "Water Energy",
-          "number": "water",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/water-energy-swsh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 1,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/metal-energy-swsh.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 4,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/aurora-energy.png',
+        numImg: '../../../assets/04.png'
       },
     ]
   },
@@ -672,128 +515,99 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-shadow-rider.png',
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-vmax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-vmax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cresselia.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cresselia.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/fog-crystal.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/fog-crystal.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/training-court.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/training-court.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        "count": 13,
+        cardImg: '../../../assets/cards/new-energy/psychic-energy-swsh.png',
+        numImg: '../../../assets/13.png'
       },
       {
-        "count": 1,
-          "name": "Weakness Guard Energy",
-          "number": "213",
-          "set": "UNM"
+        cardImg: '../../../assets/cards/energy/weakness-gaurd-energy.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
@@ -803,106 +617,79 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-shadow-rider.png',
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-vmax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-vmax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/trevenant-and-dusknoir-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/trevenant-and-dusknoir-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
             {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/fog-crystal.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/fog-crystal.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        "count": 14,
+        cardImg: '../../../assets/cards/new-energy/psychic-energy-swsh.png',
+        numImg: '../../../assets/14.png'
       },
     ]
   },
@@ -912,156 +699,127 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/weavile.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/weavile-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/weavile-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sneasel-water.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/sneasel-water.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/malamar-vmax.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/malamar-vmax.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/malamar-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/malamar-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/umbreon-darkrai-tagteam.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/umbreon-darkrai-tagteam.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sableye-tyranitar-tagteam.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/sableye-tyranitar-tagteam.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/eldegoss-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/eldegoss-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/guzzlord.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/guzzlord.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mew-bench-barrier.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mew-bench-barrier.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/red-blue.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/red-blue.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cynthia-caitlin.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cynthia-caitlin.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mallow-lana.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mallow-lana.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/cheryl.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/cheryl.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/phoebe.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/phoebe.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tag-call.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/tag-call.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/chaotic-swell.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/chaotic-swell.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/viridian-forest.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/viridian-forest.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 8,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/capture-energy.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/new-energy/capture-energy.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
@@ -1071,112 +829,83 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-ice-rider.png',
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-ice-rider.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-ice-rider.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ice-rider-calyrex-v.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/ice-rider-calyrex-v.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/inteleon-shady-dealings.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/inteleon-shady-dealings.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/drizzile.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/drizzile.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sobble.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/sobble.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/melony.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/melony.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bird-keeper.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/bird-keeper.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/level-ball.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/level-ball.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/capacious-bucket.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/capacious-bucket.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 8,
-          "name": "Water Energy",
-          "number": "water",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/water-energy-swsh.png',
+        numImg: '../../../assets/08.png'
       },
     ]
   },
@@ -1186,126 +915,99 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-shadow-rider.png',
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-vmax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-vmax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/alcramie-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/alcramie-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sonia.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/sonia.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/fog-crystal.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/fog-crystal.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/escape-rope.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/escape-rope.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/pal-pad.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/pal-pad.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        "count": 14,
+        cardImg: '../../../assets/cards/new-energy/psychic-energy-swsh.png',
+        numImg: '../../../assets/14.png'
       },
     ]
   },
@@ -1315,156 +1017,115 @@ let masters = [
     sprite1: '../../../assets/sprites/excadrill.png',
     sprite2: '../../../assets/sprites/cinccino.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/excadrill.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/excadrill.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/drilbur.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/drilbur.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 4,
-          "name": "Cinccino",
-          "number": "147",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/2019-2020/cinccino.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 4,
-        "name": "Minccino",
-        "number": "145",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/2019-2020/minccino.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/jirachi-stellar-wish.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/jirachi-stellar-wish.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/snorlax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/snorlax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 1,
-          "name": "Absol",
-          "number": "88",
-          "set": "TEU"
+        cardImg: '../../../assets/cards/2019-2020/absol.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/giratina.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/giratina.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/weezing-surrender.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2019-2020/weezing-surrender.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mew-bench-barrier.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mew-bench-barrier.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 2,
-          "name": "Lt. Surge's Strategy",
-          "number": "178",
-          "set": "UNB"
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/banned/jessie-james.png',
-        "count": 2,
+        cardImg: '../../../assets/banned/jessie-james.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/klara.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2022-2023/klara.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bird-keeper.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/bird-keeper.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 4,
-          "name": "Crushing Hammer",
-          "number": "159",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer-swsh.png',
+        numImg: '../../../assets/04.png'
       },
             {
-        cardImg: '../../assets/cards/2021-2022/level-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/level-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/scoop-up-net.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/scoop-up-net.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 2,
-          "name": "Chip-Chip Ice Axe",
-          "number": "165",
-          "set": "UNB"
+        cardImg: '../../../assets/cards/2019-2020/chipchip-ice-axe.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/echoing-horn.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/echoing-horn.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tool-scrapper.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 3,
-          "name": "Fighting Energy",
-          "number": "fighting",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/fighting-energy-swsh.png',
+        numImg: '../../../assets/03.png'
       },
     ]
   },
@@ -1474,110 +1135,83 @@ let masters = [
     sprite1: '../../../assets/sprites/calyrex-shadow-rider.png',
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/calyrex-v-shadow-rider.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/gengar-and-mimikyu-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-attack.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-attack.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/phoebe.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/phoebe.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/fog-crystal.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/fog-crystal.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/evolution-incense.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/evolution-incense.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/pal-pad.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/pal-pad.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/path-to-the-peak.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/path-to-the-peak.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/psychic-energy-swsh.png',
-        "count": 14,
+        cardImg: '../../../assets/cards/new-energy/psychic-energy-swsh.png',
+        numImg: '../../../assets/14.png'
       },
     ]
   },
@@ -1587,160 +1221,123 @@ let masters = [
     sprite1: '../../../assets/sprites/adp.png',
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/adp-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/adp-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/zacian-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/zacian-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-zapdos-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/galarian-zapdos-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/mawile-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2019-2020/mawile-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/crobat-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/crobat-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/eldegoss-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/eldegoss-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/hoopa-evil-abomanation.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/hoopa-evil-abomanation.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/skyla.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/skyla.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 4,
-        "name": "Metal Saucer",
-        "number": "170",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/2019-2020/metal-saucer.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/energy-switch-ssh.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/energy-switch-ssh.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cherish-ball.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/cherish-ball.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/switch.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/switch.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/escape-rope.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/escape-rope.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/great-catcher.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/great-catcher.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tool-scrapper.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/echoing-horn.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/echoing-horn.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/big-charm.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/big-charm.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/viridian-forest.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/viridian-forest.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 5,
-          "name": "Metal Energy",
-          "number": "metal",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/metal-energy-swsh.png',
+        numImg: '../../../assets/05.png'
       },
       {
-        "count": 4,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        "count": 2,
-          "name": "Water Energy",
-          "number": "water",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/water-energy-swsh.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        "count": 3,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/aurora-energy.png',
+        numImg: '../../../assets/03.png'
       },
     ]
   },
@@ -1750,146 +1347,115 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/weavile.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/weavile-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/weavile-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sneasel-water.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/sneasel-water.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/umbreon-darkrai-tagteam.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/umbreon-darkrai-tagteam.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/silvally-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/silvally-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/type-null.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/type-null.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/sableye-tyranitar-tagteam.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/sableye-tyranitar-tagteam.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/hoopa-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/hoopa-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-zapdos-v.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/galarian-zapdos-v.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/heatmor.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/heatmor.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/guzma-hala.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/guzma-hala.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/red-blue.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/red-blue.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mallow-lana.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/mallow-lana.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/cynthia-caitlin.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/cynthia-caitlin.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/tag-call.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/tag-call.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/viridian-forest.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/viridian-forest.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        "count": 9,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/09.png'
       },
       {
-        "count": 2,
-          "name": "Aurora Energy",
-          "number": "186",
-          "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/aurora-energy.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/capture-energy.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/new-energy/capture-energy.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
@@ -1899,150 +1465,119 @@ let masters = [
     sprite1: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022/rs-urshifu-vmax.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/rs-urshifu-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/rs-urshifu-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/galarian-moltres-v.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/galarian-moltres-v.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/cinccino.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2019-2020/cinccino.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/minccino-tail-whip60.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/minccino-tail-whip60.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/snorlax.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2022-2023/snorlax.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/jirachi-stellar-wish.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/jirachi-stellar-wish.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        "count": 1,
-        "name": "Galarian Zigzagoon",
-        "number": "117",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/2019-2020/zigzagoon.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mewtwo.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mewtwo.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marshadow-resetting-hole.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/marshadow-resetting-hole.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/mimikyu.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/mimikyu.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/dedenne-gx.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/dedenne-gx.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/marnie.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/marnie.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bird-keeper.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bird-keeper.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/bosss-orders.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/bosss-orders.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/cheryl.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2022-2023/cheryl.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/professors-research-magnolia.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/professors-research-magnolia.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/phoebe.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/phoebe.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/quick-ball.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/quick-ball.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/poke-communication.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/poke-communication.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/scoop-up-net.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022/scoop-up-net.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/level-ball.png',
-        "count": 3,
+        cardImg: '../../../assets/cards/2021-2022/level-ball.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/reset-stamp.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/reset-stamp.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/ordinary-rod.png',
-        "count": 1,
+        cardImg: '../../../assets/cards/2021-2022/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2021-2022/air-balloon.png',
-        "count": 2,
+        cardImg: '../../../assets/cards/2021-2022/air-balloon.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        "count": 4,
-        "name": "Dark Energy",
-        "number": "dark",
-        "set": "SSH"
+        cardImg: '../../../assets/cards/new-energy/dark-energy-swsh.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/rapid-strike-energy.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/new-energy/rapid-strike-energy.png',
+        numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/new-energy/capture-energy.png',
-        "count": 4,
+        cardImg: '../../../assets/cards/new-energy/capture-energy.png',
+        numImg: '../../../assets/04.png'
       },
     ]
   },
@@ -2052,38 +1587,11 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../assets/cards/2021-2022',
-        "count": 4,
+        cardImg: '../../../assets/cards/2021-2022',
+        numImg: '../../../assets/04.png'
       },
     ]
   },

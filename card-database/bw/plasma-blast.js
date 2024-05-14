@@ -1,8 +1,9 @@
-let plasmaBlast = [
+let bw10 = [
     {
         "id": "bw10-1",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -55,10 +53,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/1.png",
             "large": "https://images.pokemontcg.io/bw10/1_hires.png"
@@ -68,6 +63,7 @@ let plasmaBlast = [
         "id": "bw10-2",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -110,10 +106,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -128,10 +121,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/2.png",
             "large": "https://images.pokemontcg.io/bw10/2_hires.png"
@@ -141,6 +131,7 @@ let plasmaBlast = [
         "id": "bw10-3",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -193,10 +184,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -211,10 +199,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/3.png",
             "large": "https://images.pokemontcg.io/bw10/3_hires.png"
@@ -224,6 +209,7 @@ let plasmaBlast = [
         "id": "bw10-4",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -273,10 +259,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -291,10 +274,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/4.png",
             "large": "https://images.pokemontcg.io/bw10/4_hires.png"
@@ -304,6 +284,7 @@ let plasmaBlast = [
         "id": "bw10-5",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -351,10 +332,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -369,10 +347,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/5.png",
             "large": "https://images.pokemontcg.io/bw10/5_hires.png"
@@ -382,6 +357,7 @@ let plasmaBlast = [
         "id": "bw10-6",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -417,10 +393,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -435,10 +408,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             588
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/6.png",
             "large": "https://images.pokemontcg.io/bw10/6_hires.png"
@@ -448,6 +418,7 @@ let plasmaBlast = [
         "id": "bw10-7",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -492,10 +463,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -510,10 +478,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/7.png",
             "large": "https://images.pokemontcg.io/bw10/7_hires.png"
@@ -523,6 +488,7 @@ let plasmaBlast = [
         "id": "bw10-8",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -565,10 +531,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -583,10 +546,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/8.png",
             "large": "https://images.pokemontcg.io/bw10/8_hires.png"
@@ -596,6 +556,7 @@ let plasmaBlast = [
         "id": "bw10-9",
         "name": "Virizion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -645,10 +606,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -662,10 +620,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/9.png",
             "large": "https://images.pokemontcg.io/bw10/9_hires.png"
@@ -675,6 +630,7 @@ let plasmaBlast = [
         "id": "bw10-10",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -717,10 +673,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -735,10 +688,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/10.png",
             "large": "https://images.pokemontcg.io/bw10/10_hires.png"
@@ -748,6 +698,7 @@ let plasmaBlast = [
         "id": "bw10-11",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -793,10 +744,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -810,10 +758,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/11.png",
             "large": "https://images.pokemontcg.io/bw10/11_hires.png"
@@ -823,6 +768,7 @@ let plasmaBlast = [
         "id": "bw10-12",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -867,10 +813,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -885,10 +828,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/12.png",
             "large": "https://images.pokemontcg.io/bw10/12_hires.png"
@@ -898,6 +838,7 @@ let plasmaBlast = [
         "id": "bw10-13",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -942,10 +883,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -960,10 +898,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/13.png",
             "large": "https://images.pokemontcg.io/bw10/13_hires.png"
@@ -973,6 +908,7 @@ let plasmaBlast = [
         "id": "bw10-14",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1017,10 +953,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1035,10 +968,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/14.png",
             "large": "https://images.pokemontcg.io/bw10/14_hires.png"
@@ -1048,6 +978,7 @@ let plasmaBlast = [
         "id": "bw10-15",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1094,10 +1025,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1112,10 +1040,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/15.png",
             "large": "https://images.pokemontcg.io/bw10/15_hires.png"
@@ -1125,6 +1050,7 @@ let plasmaBlast = [
         "id": "bw10-16",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -1167,10 +1093,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1185,10 +1108,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/16.png",
             "large": "https://images.pokemontcg.io/bw10/16_hires.png"
@@ -1198,6 +1118,7 @@ let plasmaBlast = [
         "id": "bw10-17",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1242,10 +1163,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1260,10 +1178,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/17.png",
             "large": "https://images.pokemontcg.io/bw10/17_hires.png"
@@ -1273,6 +1188,7 @@ let plasmaBlast = [
         "id": "bw10-18",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1308,10 +1224,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1326,10 +1239,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/18.png",
             "large": "https://images.pokemontcg.io/bw10/18_hires.png"
@@ -1339,6 +1249,7 @@ let plasmaBlast = [
         "id": "bw10-19",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1382,10 +1293,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1400,10 +1308,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/19.png",
             "large": "https://images.pokemontcg.io/bw10/19_hires.png"
@@ -1413,6 +1318,7 @@ let plasmaBlast = [
         "id": "bw10-20",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1453,10 +1359,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1471,10 +1374,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/20.png",
             "large": "https://images.pokemontcg.io/bw10/20_hires.png"
@@ -1484,6 +1384,7 @@ let plasmaBlast = [
         "id": "bw10-21",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1529,10 +1430,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1547,10 +1445,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/21.png",
             "large": "https://images.pokemontcg.io/bw10/21_hires.png"
@@ -1560,6 +1455,7 @@ let plasmaBlast = [
         "id": "bw10-22",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1605,10 +1501,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1623,10 +1516,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/22.png",
             "large": "https://images.pokemontcg.io/bw10/22_hires.png"
@@ -1636,6 +1526,7 @@ let plasmaBlast = [
         "id": "bw10-23",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1677,10 +1568,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1695,10 +1583,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/23.png",
             "large": "https://images.pokemontcg.io/bw10/23_hires.png"
@@ -1708,6 +1593,7 @@ let plasmaBlast = [
         "id": "bw10-24",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -1750,10 +1636,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1768,10 +1651,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/24.png",
             "large": "https://images.pokemontcg.io/bw10/24_hires.png"
@@ -1781,6 +1661,7 @@ let plasmaBlast = [
         "id": "bw10-25",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1827,10 +1708,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1845,10 +1723,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             459
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/25.png",
             "large": "https://images.pokemontcg.io/bw10/25_hires.png"
@@ -1858,6 +1733,7 @@ let plasmaBlast = [
         "id": "bw10-26",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1902,10 +1778,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1920,10 +1793,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             460
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/26.png",
             "large": "https://images.pokemontcg.io/bw10/26_hires.png"
@@ -1933,6 +1803,7 @@ let plasmaBlast = [
         "id": "bw10-27",
         "name": "Tirtouga",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -1980,10 +1851,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -1998,10 +1866,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             564
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/27.png",
             "large": "https://images.pokemontcg.io/bw10/27_hires.png"
@@ -2011,6 +1876,7 @@ let plasmaBlast = [
         "id": "bw10-28",
         "name": "Carracosta",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2057,10 +1923,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2075,10 +1938,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             565
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/28.png",
             "large": "https://images.pokemontcg.io/bw10/28_hires.png"
@@ -2088,6 +1948,7 @@ let plasmaBlast = [
         "id": "bw10-29",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2129,10 +1990,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2147,10 +2005,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/29.png",
             "large": "https://images.pokemontcg.io/bw10/29_hires.png"
@@ -2160,6 +2015,7 @@ let plasmaBlast = [
         "id": "bw10-30",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -2208,10 +2064,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2225,10 +2078,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/30.png",
             "large": "https://images.pokemontcg.io/bw10/30_hires.png"
@@ -2238,6 +2088,7 @@ let plasmaBlast = [
         "id": "bw10-31",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2272,10 +2123,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2290,10 +2138,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/31.png",
             "large": "https://images.pokemontcg.io/bw10/31_hires.png"
@@ -2303,6 +2148,7 @@ let plasmaBlast = [
         "id": "bw10-32",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2348,10 +2194,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2366,10 +2209,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             603
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/32.png",
             "large": "https://images.pokemontcg.io/bw10/32_hires.png"
@@ -2379,6 +2219,7 @@ let plasmaBlast = [
         "id": "bw10-33",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -2425,10 +2266,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2443,10 +2281,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             604
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/33.png",
             "large": "https://images.pokemontcg.io/bw10/33_hires.png"
@@ -2456,6 +2291,7 @@ let plasmaBlast = [
         "id": "bw10-34",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2501,10 +2337,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2519,10 +2352,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/34.png",
             "large": "https://images.pokemontcg.io/bw10/34_hires.png"
@@ -2532,6 +2362,7 @@ let plasmaBlast = [
         "id": "bw10-35",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2572,10 +2403,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2590,10 +2418,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/35.png",
             "large": "https://images.pokemontcg.io/bw10/35_hires.png"
@@ -2603,6 +2428,7 @@ let plasmaBlast = [
         "id": "bw10-36",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2634,10 +2460,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2652,10 +2475,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/36.png",
             "large": "https://images.pokemontcg.io/bw10/36_hires.png"
@@ -2665,6 +2485,7 @@ let plasmaBlast = [
         "id": "bw10-37",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2705,10 +2526,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2723,10 +2541,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/37.png",
             "large": "https://images.pokemontcg.io/bw10/37_hires.png"
@@ -2736,6 +2551,7 @@ let plasmaBlast = [
         "id": "bw10-38",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2778,10 +2594,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2796,10 +2609,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/38.png",
             "large": "https://images.pokemontcg.io/bw10/38_hires.png"
@@ -2809,6 +2619,7 @@ let plasmaBlast = [
         "id": "bw10-39",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2853,10 +2664,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2871,10 +2679,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/39.png",
             "large": "https://images.pokemontcg.io/bw10/39_hires.png"
@@ -2884,6 +2689,7 @@ let plasmaBlast = [
         "id": "bw10-40",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2927,10 +2733,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -2945,10 +2748,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/40.png",
             "large": "https://images.pokemontcg.io/bw10/40_hires.png"
@@ -2958,6 +2758,7 @@ let plasmaBlast = [
         "id": "bw10-41",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3004,10 +2805,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3022,10 +2820,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/41.png",
             "large": "https://images.pokemontcg.io/bw10/41_hires.png"
@@ -3035,6 +2830,7 @@ let plasmaBlast = [
         "id": "bw10-42",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3069,10 +2865,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3087,10 +2880,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/42.png",
             "large": "https://images.pokemontcg.io/bw10/42_hires.png"
@@ -3100,6 +2890,7 @@ let plasmaBlast = [
         "id": "bw10-43",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3136,10 +2927,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3154,10 +2942,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             578
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/43.png",
             "large": "https://images.pokemontcg.io/bw10/43_hires.png"
@@ -3167,6 +2952,7 @@ let plasmaBlast = [
         "id": "bw10-44",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3210,10 +2996,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3228,10 +3011,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/44.png",
             "large": "https://images.pokemontcg.io/bw10/44_hires.png"
@@ -3241,6 +3021,7 @@ let plasmaBlast = [
         "id": "bw10-45",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3286,10 +3067,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3304,10 +3082,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/45.png",
             "large": "https://images.pokemontcg.io/bw10/45_hires.png"
@@ -3317,6 +3092,7 @@ let plasmaBlast = [
         "id": "bw10-46",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3362,10 +3138,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3380,10 +3153,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/46.png",
             "large": "https://images.pokemontcg.io/bw10/46_hires.png"
@@ -3393,6 +3163,7 @@ let plasmaBlast = [
         "id": "bw10-47",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3428,10 +3199,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3446,10 +3214,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/47.png",
             "large": "https://images.pokemontcg.io/bw10/47_hires.png"
@@ -3459,6 +3224,7 @@ let plasmaBlast = [
         "id": "bw10-48",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3505,10 +3271,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3523,10 +3286,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/48.png",
             "large": "https://images.pokemontcg.io/bw10/48_hires.png"
@@ -3536,6 +3296,7 @@ let plasmaBlast = [
         "id": "bw10-49",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3578,10 +3339,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3596,10 +3354,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/49.png",
             "large": "https://images.pokemontcg.io/bw10/49_hires.png"
@@ -3609,6 +3364,7 @@ let plasmaBlast = [
         "id": "bw10-50",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3655,10 +3411,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3673,10 +3426,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/50.png",
             "large": "https://images.pokemontcg.io/bw10/50_hires.png"
@@ -3686,6 +3436,7 @@ let plasmaBlast = [
         "id": "bw10-51",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3729,10 +3480,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3747,10 +3495,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             538
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/51.png",
             "large": "https://images.pokemontcg.io/bw10/51_hires.png"
@@ -3760,6 +3505,7 @@ let plasmaBlast = [
         "id": "bw10-52",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3802,10 +3548,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3820,10 +3563,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             539
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/52.png",
             "large": "https://images.pokemontcg.io/bw10/52_hires.png"
@@ -3833,6 +3573,7 @@ let plasmaBlast = [
         "id": "bw10-53",
         "name": "Archen",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -3879,10 +3620,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3897,10 +3635,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             566
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/53.png",
             "large": "https://images.pokemontcg.io/bw10/53_hires.png"
@@ -3910,6 +3645,7 @@ let plasmaBlast = [
         "id": "bw10-54",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3951,10 +3687,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -3969,10 +3702,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             567
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/54.png",
             "large": "https://images.pokemontcg.io/bw10/54_hires.png"
@@ -3982,6 +3712,7 @@ let plasmaBlast = [
         "id": "bw10-55",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4032,10 +3763,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4050,10 +3778,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/55.png",
             "large": "https://images.pokemontcg.io/bw10/55_hires.png"
@@ -4063,6 +3788,7 @@ let plasmaBlast = [
         "id": "bw10-56",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4113,10 +3839,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4131,10 +3854,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/56.png",
             "large": "https://images.pokemontcg.io/bw10/56_hires.png"
@@ -4144,6 +3864,7 @@ let plasmaBlast = [
         "id": "bw10-57",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4195,10 +3916,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4213,10 +3931,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/57.png",
             "large": "https://images.pokemontcg.io/bw10/57_hires.png"
@@ -4226,6 +3941,7 @@ let plasmaBlast = [
         "id": "bw10-58",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4278,10 +3994,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4296,10 +4009,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/58.png",
             "large": "https://images.pokemontcg.io/bw10/58_hires.png"
@@ -4309,6 +4019,7 @@ let plasmaBlast = [
         "id": "bw10-59",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4360,10 +4071,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4378,10 +4086,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/59.png",
             "large": "https://images.pokemontcg.io/bw10/59_hires.png"
@@ -4391,6 +4096,7 @@ let plasmaBlast = [
         "id": "bw10-60",
         "name": "Jirachi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -4441,10 +4147,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4458,10 +4161,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/60.png",
             "large": "https://images.pokemontcg.io/bw10/60_hires.png"
@@ -4471,6 +4171,7 @@ let plasmaBlast = [
         "id": "bw10-61",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4522,10 +4223,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4540,10 +4238,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             589
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/61.png",
             "large": "https://images.pokemontcg.io/bw10/61_hires.png"
@@ -4553,6 +4248,7 @@ let plasmaBlast = [
         "id": "bw10-62",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4597,10 +4293,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4615,10 +4308,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/62.png",
             "large": "https://images.pokemontcg.io/bw10/62_hires.png"
@@ -4628,6 +4318,7 @@ let plasmaBlast = [
         "id": "bw10-63",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4674,10 +4365,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4692,10 +4380,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/63.png",
             "large": "https://images.pokemontcg.io/bw10/63_hires.png"
@@ -4705,6 +4390,7 @@ let plasmaBlast = [
         "id": "bw10-64",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4747,10 +4433,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4765,10 +4448,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/64.png",
             "large": "https://images.pokemontcg.io/bw10/64_hires.png"
@@ -4778,6 +4458,7 @@ let plasmaBlast = [
         "id": "bw10-65",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -4828,10 +4509,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4845,10 +4523,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/65.png",
             "large": "https://images.pokemontcg.io/bw10/65_hires.png"
@@ -4858,6 +4533,7 @@ let plasmaBlast = [
         "id": "bw10-66",
         "name": "Palkia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -4908,10 +4584,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -4925,10 +4598,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/66.png",
             "large": "https://images.pokemontcg.io/bw10/66_hires.png"
@@ -4938,6 +4608,7 @@ let plasmaBlast = [
         "id": "bw10-67",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4982,10 +4653,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5000,10 +4668,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/67.png",
             "large": "https://images.pokemontcg.io/bw10/67_hires.png"
@@ -5013,6 +4678,7 @@ let plasmaBlast = [
         "id": "bw10-68",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5058,10 +4724,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5076,10 +4739,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/68.png",
             "large": "https://images.pokemontcg.io/bw10/68_hires.png"
@@ -5089,6 +4749,7 @@ let plasmaBlast = [
         "id": "bw10-69",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -5131,10 +4792,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5149,10 +4807,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/69.png",
             "large": "https://images.pokemontcg.io/bw10/69_hires.png"
@@ -5162,6 +4817,7 @@ let plasmaBlast = [
         "id": "bw10-70",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -5204,10 +4860,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5222,10 +4875,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/70.png",
             "large": "https://images.pokemontcg.io/bw10/70_hires.png"
@@ -5235,6 +4885,7 @@ let plasmaBlast = [
         "id": "bw10-71",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -5276,10 +4927,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5294,10 +4942,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/71.png",
             "large": "https://images.pokemontcg.io/bw10/71_hires.png"
@@ -5307,6 +4952,7 @@ let plasmaBlast = [
         "id": "bw10-72",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -5341,10 +4987,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5359,10 +5002,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/72.png",
             "large": "https://images.pokemontcg.io/bw10/72_hires.png"
@@ -5372,6 +5012,7 @@ let plasmaBlast = [
         "id": "bw10-73",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5408,10 +5049,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5426,10 +5064,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/73.png",
             "large": "https://images.pokemontcg.io/bw10/73_hires.png"
@@ -5439,6 +5074,7 @@ let plasmaBlast = [
         "id": "bw10-74",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -5481,10 +5117,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5499,10 +5132,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/74.png",
             "large": "https://images.pokemontcg.io/bw10/74_hires.png"
@@ -5512,6 +5142,7 @@ let plasmaBlast = [
         "id": "bw10-75",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -5547,10 +5178,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5565,10 +5193,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/75.png",
             "large": "https://images.pokemontcg.io/bw10/75_hires.png"
@@ -5578,6 +5203,7 @@ let plasmaBlast = [
         "id": "bw10-76",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5625,10 +5251,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5643,10 +5266,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/76.png",
             "large": "https://images.pokemontcg.io/bw10/76_hires.png"
@@ -5656,6 +5276,7 @@ let plasmaBlast = [
         "id": "bw10-77",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5704,10 +5325,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5722,10 +5340,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/77.png",
             "large": "https://images.pokemontcg.io/bw10/77_hires.png"
@@ -5735,6 +5350,7 @@ let plasmaBlast = [
         "id": "bw10-78",
         "name": "Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5748,10 +5364,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5762,10 +5375,7 @@ let plasmaBlast = [
         "number": "78",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/78.png",
             "large": "https://images.pokemontcg.io/bw10/78_hires.png"
@@ -5775,6 +5385,7 @@ let plasmaBlast = [
         "id": "bw10-79",
         "name": "Cover Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5788,10 +5399,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5802,10 +5410,7 @@ let plasmaBlast = [
         "number": "79",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/79.png",
             "large": "https://images.pokemontcg.io/bw10/79_hires.png"
@@ -5815,6 +5420,7 @@ let plasmaBlast = [
         "id": "bw10-80",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5828,10 +5434,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5842,11 +5445,7 @@ let plasmaBlast = [
         "number": "80",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/80.png",
             "large": "https://images.pokemontcg.io/bw10/80_hires.png"
@@ -5856,6 +5455,7 @@ let plasmaBlast = [
         "id": "bw10-81",
         "name": "Iris",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5869,10 +5469,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5883,10 +5480,7 @@ let plasmaBlast = [
         "number": "81",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/81.png",
             "large": "https://images.pokemontcg.io/bw10/81_hires.png"
@@ -5896,6 +5490,7 @@ let plasmaBlast = [
         "id": "bw10-82",
         "name": "Plume Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5909,10 +5504,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5923,10 +5515,7 @@ let plasmaBlast = [
         "number": "82",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/82.png",
             "large": "https://images.pokemontcg.io/bw10/82_hires.png"
@@ -5936,6 +5525,7 @@ let plasmaBlast = [
         "id": "bw10-83",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5949,10 +5539,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -5963,20 +5550,17 @@ let plasmaBlast = [
         "number": "83",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/bw10/83.png",
-            "large": "https://images.pokemontcg.io/bw10/83_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/en_US-BW10-083-pokemon_catcher.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-BW10-083-pokemon_catcher.jpg"
         }
     },
     {
         "id": "bw10-84",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5990,10 +5574,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6004,10 +5585,7 @@ let plasmaBlast = [
         "number": "84",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/84.png",
             "large": "https://images.pokemontcg.io/bw10/84_hires.png"
@@ -6017,6 +5595,7 @@ let plasmaBlast = [
         "id": "bw10-85",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -6030,10 +5609,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6044,11 +5620,7 @@ let plasmaBlast = [
         "number": "85",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/85.png",
             "large": "https://images.pokemontcg.io/bw10/85_hires.png"
@@ -6058,6 +5630,7 @@ let plasmaBlast = [
         "id": "bw10-86",
         "name": "Reversal Trigger",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "Team Plasma"
@@ -6073,10 +5646,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6087,10 +5657,7 @@ let plasmaBlast = [
         "number": "86",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/86.png",
             "large": "https://images.pokemontcg.io/bw10/86_hires.png"
@@ -6100,6 +5667,7 @@ let plasmaBlast = [
         "id": "bw10-87",
         "name": "Root Fossil Lileep",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -6113,10 +5681,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6127,10 +5692,7 @@ let plasmaBlast = [
         "number": "87",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/87.png",
             "large": "https://images.pokemontcg.io/bw10/87_hires.png"
@@ -6140,6 +5702,7 @@ let plasmaBlast = [
         "id": "bw10-88",
         "name": "Silver Bangle",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6154,10 +5717,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6168,10 +5728,7 @@ let plasmaBlast = [
         "number": "88",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/88.png",
             "large": "https://images.pokemontcg.io/bw10/88_hires.png"
@@ -6181,6 +5738,7 @@ let plasmaBlast = [
         "id": "bw10-89",
         "name": "Silver Mirror",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6195,10 +5753,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6209,10 +5764,7 @@ let plasmaBlast = [
         "number": "89",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/89.png",
             "large": "https://images.pokemontcg.io/bw10/89_hires.png"
@@ -6222,6 +5774,7 @@ let plasmaBlast = [
         "id": "bw10-90",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -6235,10 +5788,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6249,10 +5799,7 @@ let plasmaBlast = [
         "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/90.png",
             "large": "https://images.pokemontcg.io/bw10/90_hires.png"
@@ -6262,6 +5809,7 @@ let plasmaBlast = [
         "id": "bw10-91",
         "name": "Plasma Energy",
         "supertype": "Energy",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Special",
             "Team Plasma"
@@ -6275,10 +5823,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6289,10 +5834,7 @@ let plasmaBlast = [
         "number": "91",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/91.png",
             "large": "https://images.pokemontcg.io/bw10/91_hires.png"
@@ -6302,6 +5844,7 @@ let plasmaBlast = [
         "id": "bw10-92",
         "name": "G Booster",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC",
@@ -6332,10 +5875,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6346,10 +5886,7 @@ let plasmaBlast = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/92.png",
             "large": "https://images.pokemontcg.io/bw10/92_hires.png"
@@ -6359,6 +5896,7 @@ let plasmaBlast = [
         "id": "bw10-93",
         "name": "G Scope",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC",
@@ -6389,10 +5927,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6403,10 +5938,7 @@ let plasmaBlast = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/93.png",
             "large": "https://images.pokemontcg.io/bw10/93_hires.png"
@@ -6416,6 +5948,7 @@ let plasmaBlast = [
         "id": "bw10-94",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -6431,10 +5964,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6445,10 +5975,7 @@ let plasmaBlast = [
         "number": "94",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/94.png",
             "large": "https://images.pokemontcg.io/bw10/94_hires.png"
@@ -6458,6 +5985,7 @@ let plasmaBlast = [
         "id": "bw10-95",
         "name": "Scoop Up Cyclone",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -6473,10 +6001,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6487,10 +6012,7 @@ let plasmaBlast = [
         "number": "95",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/95.png",
             "large": "https://images.pokemontcg.io/bw10/95_hires.png"
@@ -6500,6 +6022,7 @@ let plasmaBlast = [
         "id": "bw10-96",
         "name": "Virizion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -6549,10 +6072,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6566,10 +6086,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/96.png",
             "large": "https://images.pokemontcg.io/bw10/96_hires.png"
@@ -6579,6 +6096,7 @@ let plasmaBlast = [
         "id": "bw10-97",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6624,10 +6142,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6641,10 +6156,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/97.png",
             "large": "https://images.pokemontcg.io/bw10/97_hires.png"
@@ -6654,6 +6166,7 @@ let plasmaBlast = [
         "id": "bw10-98",
         "name": "Jirachi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -6704,10 +6217,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6721,10 +6231,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/98.png",
             "large": "https://images.pokemontcg.io/bw10/98_hires.png"
@@ -6734,6 +6241,7 @@ let plasmaBlast = [
         "id": "bw10-99",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6784,10 +6292,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6801,10 +6306,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/99.png",
             "large": "https://images.pokemontcg.io/bw10/99_hires.png"
@@ -6814,6 +6316,7 @@ let plasmaBlast = [
         "id": "bw10-100",
         "name": "Palkia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6864,10 +6367,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6881,10 +6381,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/100.png",
             "large": "https://images.pokemontcg.io/bw10/100_hires.png"
@@ -6894,6 +6391,7 @@ let plasmaBlast = [
         "id": "bw10-101",
         "name": "Iris",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -6907,10 +6405,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -6921,10 +6416,7 @@ let plasmaBlast = [
         "number": "101",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/101.png",
             "large": "https://images.pokemontcg.io/bw10/101_hires.png"
@@ -6934,6 +6426,7 @@ let plasmaBlast = [
         "id": "bw10-102",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -6982,10 +6475,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -7000,10 +6490,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/102.png",
             "large": "https://images.pokemontcg.io/bw10/102_hires.png"
@@ -7013,6 +6500,7 @@ let plasmaBlast = [
         "id": "bw10-103",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -7060,10 +6548,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -7078,10 +6563,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/103.png",
             "large": "https://images.pokemontcg.io/bw10/103_hires.png"
@@ -7091,6 +6573,7 @@ let plasmaBlast = [
         "id": "bw10-104",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -7133,10 +6616,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -7151,10 +6631,7 @@ let plasmaBlast = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/104.png",
             "large": "https://images.pokemontcg.io/bw10/104_hires.png"
@@ -7164,6 +6641,7 @@ let plasmaBlast = [
         "id": "bw10-105",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -7177,10 +6655,7 @@ let plasmaBlast = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 105,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLB",
             "releaseDate": "2013/08/14",
             "images": {
@@ -7191,11 +6666,7 @@ let plasmaBlast = [
         "number": "105",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw10/105.png",
             "large": "https://images.pokemontcg.io/bw10/105_hires.png"

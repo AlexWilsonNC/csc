@@ -1,8 +1,9 @@
-let teamRocket = [
+let base5 = [
     {
         "id": "base5-1",
         "name": "Dark Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -48,9 +49,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -65,9 +64,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/1.png",
             "large": "https://images.pokemontcg.io/base5/1_hires.png"
@@ -77,6 +74,7 @@ let teamRocket = [
         "id": "base5-2",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -121,9 +119,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -138,9 +134,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/2.png",
             "large": "https://images.pokemontcg.io/base5/2_hires.png"
@@ -150,6 +144,7 @@ let teamRocket = [
         "id": "base5-3",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -194,9 +189,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -211,9 +204,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/3.png",
             "large": "https://images.pokemontcg.io/base5/3_hires.png"
@@ -223,6 +214,7 @@ let teamRocket = [
         "id": "base5-4",
         "name": "Dark Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -271,9 +263,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -288,9 +278,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/4.png",
             "large": "https://images.pokemontcg.io/base5/4_hires.png"
@@ -300,6 +288,7 @@ let teamRocket = [
         "id": "base5-5",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -342,9 +331,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -359,9 +346,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/5.png",
             "large": "https://images.pokemontcg.io/base5/5_hires.png"
@@ -371,6 +356,7 @@ let teamRocket = [
         "id": "base5-6",
         "name": "Dark Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -417,9 +403,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -434,9 +418,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/6.png",
             "large": "https://images.pokemontcg.io/base5/6_hires.png"
@@ -446,6 +428,7 @@ let teamRocket = [
         "id": "base5-7",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -494,9 +477,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -511,9 +492,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/7.png",
             "large": "https://images.pokemontcg.io/base5/7_hires.png"
@@ -523,6 +502,7 @@ let teamRocket = [
         "id": "base5-8",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -570,9 +550,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -587,9 +565,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/8.png",
             "large": "https://images.pokemontcg.io/base5/8_hires.png"
@@ -599,6 +575,7 @@ let teamRocket = [
         "id": "base5-9",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -642,9 +619,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -659,9 +634,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/9.png",
             "large": "https://images.pokemontcg.io/base5/9_hires.png"
@@ -671,6 +644,7 @@ let teamRocket = [
         "id": "base5-10",
         "name": "Dark Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -716,9 +690,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -733,9 +705,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/10.png",
             "large": "https://images.pokemontcg.io/base5/10_hires.png"
@@ -745,6 +715,7 @@ let teamRocket = [
         "id": "base5-11",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -791,9 +762,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -808,9 +777,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/11.png",
             "large": "https://images.pokemontcg.io/base5/11_hires.png"
@@ -820,6 +787,7 @@ let teamRocket = [
         "id": "base5-12",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -860,9 +828,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -877,9 +843,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/12.png",
             "large": "https://images.pokemontcg.io/base5/12_hires.png"
@@ -889,6 +853,7 @@ let teamRocket = [
         "id": "base5-13",
         "name": "Dark Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -930,9 +895,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -947,9 +910,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/13.png",
             "large": "https://images.pokemontcg.io/base5/13_hires.png"
@@ -959,6 +920,7 @@ let teamRocket = [
         "id": "base5-14",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1003,9 +965,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1020,9 +980,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/14.png",
             "large": "https://images.pokemontcg.io/base5/14_hires.png"
@@ -1032,6 +990,7 @@ let teamRocket = [
         "id": "base5-15",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Each player plays with his or her Prize cards face up for the rest of the game."
         ],
@@ -1041,9 +1000,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1054,9 +1011,7 @@ let teamRocket = [
         "number": "15",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/15.png",
             "large": "https://images.pokemontcg.io/base5/15_hires.png"
@@ -1066,6 +1021,7 @@ let teamRocket = [
         "id": "base5-16",
         "name": "Rocket's Sneak Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Look at your opponent's hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck."
         ],
@@ -1075,9 +1031,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1088,9 +1042,7 @@ let teamRocket = [
         "number": "16",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/16.png",
             "large": "https://images.pokemontcg.io/base5/16_hires.png"
@@ -1100,6 +1052,7 @@ let teamRocket = [
         "id": "base5-17",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -1112,9 +1065,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1125,9 +1076,7 @@ let teamRocket = [
         "number": "17",
         "artist": "Takumi Akabane",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/17.png",
             "large": "https://images.pokemontcg.io/base5/17_hires.png"
@@ -1137,6 +1086,7 @@ let teamRocket = [
         "id": "base5-18",
         "name": "Dark Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1182,9 +1132,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1199,9 +1147,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/18.png",
             "large": "https://images.pokemontcg.io/base5/18_hires.png"
@@ -1211,6 +1157,7 @@ let teamRocket = [
         "id": "base5-19",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1255,9 +1202,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1272,9 +1217,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/19.png",
             "large": "https://images.pokemontcg.io/base5/19_hires.png"
@@ -1284,6 +1227,7 @@ let teamRocket = [
         "id": "base5-20",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1328,9 +1272,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1345,9 +1287,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/20.png",
             "large": "https://images.pokemontcg.io/base5/20_hires.png"
@@ -1357,6 +1297,7 @@ let teamRocket = [
         "id": "base5-21",
         "name": "Dark Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1405,9 +1346,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1422,9 +1361,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/21.png",
             "large": "https://images.pokemontcg.io/base5/21_hires.png"
@@ -1434,6 +1371,7 @@ let teamRocket = [
         "id": "base5-22",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1476,9 +1414,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1493,9 +1429,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/22.png",
             "large": "https://images.pokemontcg.io/base5/22_hires.png"
@@ -1505,6 +1439,7 @@ let teamRocket = [
         "id": "base5-23",
         "name": "Dark Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1551,9 +1486,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1568,9 +1501,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/23.png",
             "large": "https://images.pokemontcg.io/base5/23_hires.png"
@@ -1580,6 +1511,7 @@ let teamRocket = [
         "id": "base5-24",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1628,9 +1560,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1645,9 +1575,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/24.png",
             "large": "https://images.pokemontcg.io/base5/24_hires.png"
@@ -1657,6 +1585,7 @@ let teamRocket = [
         "id": "base5-25",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1704,9 +1633,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1721,9 +1648,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/25.png",
             "large": "https://images.pokemontcg.io/base5/25_hires.png"
@@ -1733,6 +1658,7 @@ let teamRocket = [
         "id": "base5-26",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1776,9 +1702,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1793,9 +1717,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/26.png",
             "large": "https://images.pokemontcg.io/base5/26_hires.png"
@@ -1805,6 +1727,7 @@ let teamRocket = [
         "id": "base5-27",
         "name": "Dark Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1850,9 +1773,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1867,9 +1788,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/27.png",
             "large": "https://images.pokemontcg.io/base5/27_hires.png"
@@ -1879,6 +1798,7 @@ let teamRocket = [
         "id": "base5-28",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1925,9 +1845,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -1942,9 +1860,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/28.png",
             "large": "https://images.pokemontcg.io/base5/28_hires.png"
@@ -1954,6 +1870,7 @@ let teamRocket = [
         "id": "base5-29",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1994,9 +1911,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2011,9 +1926,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/29.png",
             "large": "https://images.pokemontcg.io/base5/29_hires.png"
@@ -2023,6 +1936,7 @@ let teamRocket = [
         "id": "base5-30",
         "name": "Dark Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2064,9 +1978,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2081,9 +1993,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/30.png",
             "large": "https://images.pokemontcg.io/base5/30_hires.png"
@@ -2093,6 +2003,7 @@ let teamRocket = [
         "id": "base5-31",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2137,9 +2048,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2154,9 +2063,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/31.png",
             "large": "https://images.pokemontcg.io/base5/31_hires.png"
@@ -2166,6 +2073,7 @@ let teamRocket = [
         "id": "base5-32",
         "name": "Dark Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2213,9 +2121,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2230,9 +2136,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/32.png",
             "large": "https://images.pokemontcg.io/base5/32_hires.png"
@@ -2242,6 +2146,7 @@ let teamRocket = [
         "id": "base5-33",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2286,9 +2191,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2303,9 +2206,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/33.png",
             "large": "https://images.pokemontcg.io/base5/33_hires.png"
@@ -2315,6 +2216,7 @@ let teamRocket = [
         "id": "base5-34",
         "name": "Dark Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2357,9 +2259,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2374,9 +2274,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/34.png",
             "large": "https://images.pokemontcg.io/base5/34_hires.png"
@@ -2386,6 +2284,7 @@ let teamRocket = [
         "id": "base5-35",
         "name": "Dark Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2428,9 +2327,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2445,9 +2342,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/35.png",
             "large": "https://images.pokemontcg.io/base5/35_hires.png"
@@ -2457,6 +2352,7 @@ let teamRocket = [
         "id": "base5-36",
         "name": "Dark Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2501,9 +2397,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2518,9 +2412,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/36.png",
             "large": "https://images.pokemontcg.io/base5/36_hires.png"
@@ -2530,6 +2422,7 @@ let teamRocket = [
         "id": "base5-37",
         "name": "Dark Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2573,9 +2466,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2590,9 +2481,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/37.png",
             "large": "https://images.pokemontcg.io/base5/37_hires.png"
@@ -2602,6 +2491,7 @@ let teamRocket = [
         "id": "base5-38",
         "name": "Dark Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2645,9 +2535,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2662,9 +2550,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/38.png",
             "large": "https://images.pokemontcg.io/base5/38_hires.png"
@@ -2674,6 +2560,7 @@ let teamRocket = [
         "id": "base5-39",
         "name": "Dark Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2717,9 +2604,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2734,9 +2619,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/39.png",
             "large": "https://images.pokemontcg.io/base5/39_hires.png"
@@ -2746,6 +2629,7 @@ let teamRocket = [
         "id": "base5-40",
         "name": "Dark Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2794,9 +2678,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2811,9 +2693,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/40.png",
             "large": "https://images.pokemontcg.io/base5/40_hires.png"
@@ -2823,6 +2703,7 @@ let teamRocket = [
         "id": "base5-41",
         "name": "Dark Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2863,9 +2744,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2880,9 +2759,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/41.png",
             "large": "https://images.pokemontcg.io/base5/41_hires.png"
@@ -2892,6 +2769,7 @@ let teamRocket = [
         "id": "base5-42",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2939,9 +2817,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -2956,9 +2832,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/42.png",
             "large": "https://images.pokemontcg.io/base5/42_hires.png"
@@ -2968,6 +2842,7 @@ let teamRocket = [
         "id": "base5-43",
         "name": "Dark Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3008,9 +2883,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3025,9 +2898,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/43.png",
             "large": "https://images.pokemontcg.io/base5/43_hires.png"
@@ -3037,6 +2908,7 @@ let teamRocket = [
         "id": "base5-44",
         "name": "Dark Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3079,9 +2951,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3096,9 +2966,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/44.png",
             "large": "https://images.pokemontcg.io/base5/44_hires.png"
@@ -3108,6 +2976,7 @@ let teamRocket = [
         "id": "base5-45",
         "name": "Dark Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3153,9 +3022,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3170,9 +3037,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/45.png",
             "large": "https://images.pokemontcg.io/base5/45_hires.png"
@@ -3182,6 +3047,7 @@ let teamRocket = [
         "id": "base5-46",
         "name": "Dark Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3227,9 +3093,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3244,9 +3108,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/46.png",
             "large": "https://images.pokemontcg.io/base5/46_hires.png"
@@ -3256,6 +3118,7 @@ let teamRocket = [
         "id": "base5-47",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3301,9 +3164,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3318,9 +3179,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/47.png",
             "large": "https://images.pokemontcg.io/base5/47_hires.png"
@@ -3330,6 +3189,7 @@ let teamRocket = [
         "id": "base5-48",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3380,9 +3240,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3397,9 +3255,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/48.png",
             "large": "https://images.pokemontcg.io/base5/48_hires.png"
@@ -3409,6 +3265,7 @@ let teamRocket = [
         "id": "base5-49",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3452,9 +3309,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3469,9 +3324,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/49.png",
             "large": "https://images.pokemontcg.io/base5/49_hires.png"
@@ -3481,6 +3334,7 @@ let teamRocket = [
         "id": "base5-50",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3522,9 +3376,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3539,9 +3391,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/50.png",
             "large": "https://images.pokemontcg.io/base5/50_hires.png"
@@ -3551,6 +3401,7 @@ let teamRocket = [
         "id": "base5-51",
         "name": "Dark Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3601,9 +3452,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3618,9 +3467,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/51.png",
             "large": "https://images.pokemontcg.io/base5/51_hires.png"
@@ -3630,6 +3477,7 @@ let teamRocket = [
         "id": "base5-52",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3679,9 +3527,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3696,9 +3542,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/52.png",
             "large": "https://images.pokemontcg.io/base5/52_hires.png"
@@ -3708,6 +3552,7 @@ let teamRocket = [
         "id": "base5-53",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3743,9 +3588,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3760,9 +3603,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/53.png",
             "large": "https://images.pokemontcg.io/base5/53_hires.png"
@@ -3772,6 +3613,7 @@ let teamRocket = [
         "id": "base5-54",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3814,9 +3656,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3831,9 +3671,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/54.png",
             "large": "https://images.pokemontcg.io/base5/54_hires.png"
@@ -3843,6 +3681,7 @@ let teamRocket = [
         "id": "base5-55",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3900,9 +3739,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3917,9 +3754,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/55.png",
             "large": "https://images.pokemontcg.io/base5/55_hires.png"
@@ -3929,6 +3764,7 @@ let teamRocket = [
         "id": "base5-56",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3973,9 +3809,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -3990,9 +3824,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/56.png",
             "large": "https://images.pokemontcg.io/base5/56_hires.png"
@@ -4002,6 +3834,7 @@ let teamRocket = [
         "id": "base5-57",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4046,9 +3879,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4063,9 +3894,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/57.png",
             "large": "https://images.pokemontcg.io/base5/57_hires.png"
@@ -4075,6 +3904,7 @@ let teamRocket = [
         "id": "base5-58",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4119,9 +3949,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4136,9 +3964,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/58.png",
             "large": "https://images.pokemontcg.io/base5/58_hires.png"
@@ -4148,6 +3974,7 @@ let teamRocket = [
         "id": "base5-59",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4194,9 +4021,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4211,9 +4036,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/59.png",
             "large": "https://images.pokemontcg.io/base5/59_hires.png"
@@ -4223,6 +4046,7 @@ let teamRocket = [
         "id": "base5-60",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4268,9 +4092,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4285,9 +4107,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/60.png",
             "large": "https://images.pokemontcg.io/base5/60_hires.png"
@@ -4297,6 +4117,7 @@ let teamRocket = [
         "id": "base5-61",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4340,9 +4161,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4357,9 +4176,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/61.png",
             "large": "https://images.pokemontcg.io/base5/61_hires.png"
@@ -4369,6 +4186,7 @@ let teamRocket = [
         "id": "base5-62",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4410,9 +4228,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4427,9 +4243,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/62.png",
             "large": "https://images.pokemontcg.io/base5/62_hires.png"
@@ -4439,6 +4253,7 @@ let teamRocket = [
         "id": "base5-63",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4482,9 +4297,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4499,9 +4312,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/63.png",
             "large": "https://images.pokemontcg.io/base5/63_hires.png"
@@ -4511,6 +4322,7 @@ let teamRocket = [
         "id": "base5-64",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4546,9 +4358,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4563,9 +4373,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/64.png",
             "large": "https://images.pokemontcg.io/base5/64_hires.png"
@@ -4575,6 +4383,7 @@ let teamRocket = [
         "id": "base5-65",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4619,9 +4428,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4636,9 +4443,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/65.png",
             "large": "https://images.pokemontcg.io/base5/65_hires.png"
@@ -4648,6 +4453,7 @@ let teamRocket = [
         "id": "base5-66",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4694,9 +4500,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4711,9 +4515,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/66.png",
             "large": "https://images.pokemontcg.io/base5/66_hires.png"
@@ -4723,6 +4525,7 @@ let teamRocket = [
         "id": "base5-67",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4767,9 +4570,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4784,9 +4585,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/67.png",
             "large": "https://images.pokemontcg.io/base5/67_hires.png"
@@ -4796,6 +4595,7 @@ let teamRocket = [
         "id": "base5-68",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4831,9 +4631,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4848,9 +4646,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/68.png",
             "large": "https://images.pokemontcg.io/base5/68_hires.png"
@@ -4860,6 +4656,7 @@ let teamRocket = [
         "id": "base5-69",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4894,9 +4691,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4911,9 +4706,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/69.png",
             "large": "https://images.pokemontcg.io/base5/69_hires.png"
@@ -4923,6 +4716,7 @@ let teamRocket = [
         "id": "base5-70",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4972,9 +4766,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -4989,9 +4781,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/70.png",
             "large": "https://images.pokemontcg.io/base5/70_hires.png"
@@ -5001,6 +4791,7 @@ let teamRocket = [
         "id": "base5-71",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Each player plays with his or her Prize cards face up for the rest of the game."
         ],
@@ -5010,9 +4801,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5023,9 +4812,7 @@ let teamRocket = [
         "number": "71",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/71.png",
             "large": "https://images.pokemontcg.io/base5/71_hires.png"
@@ -5035,6 +4822,7 @@ let teamRocket = [
         "id": "base5-72",
         "name": "Rocket's Sneak Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Look at your opponent's hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck."
         ],
@@ -5044,9 +4832,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5057,9 +4843,7 @@ let teamRocket = [
         "number": "72",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/72.png",
             "large": "https://images.pokemontcg.io/base5/72_hires.png"
@@ -5069,6 +4853,7 @@ let teamRocket = [
         "id": "base5-73",
         "name": "The Boss's Way",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Search your deck for an Evolution card with Dark in its name. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
         ],
@@ -5078,9 +4863,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5091,9 +4874,7 @@ let teamRocket = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/73.png",
             "large": "https://images.pokemontcg.io/base5/73_hires.png"
@@ -5103,6 +4884,7 @@ let teamRocket = [
         "id": "base5-74",
         "name": "Challenge!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Ask your opponent if he or she accepts your challenge. If your opponent declines (or if both Benches are full), draw 2 cards. If your opponent accepts, each of you searches your decks for any number of Basic Pokémon cards and puts them face down onto your Benches. (A player can't do this if his or her Bench is full.) When you both have finished, shuffle your decks and turn those cards face up."
         ],
@@ -5112,9 +4894,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5125,9 +4905,7 @@ let teamRocket = [
         "number": "74",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/74.png",
             "large": "https://images.pokemontcg.io/base5/74_hires.png"
@@ -5137,6 +4915,7 @@ let teamRocket = [
         "id": "base5-75",
         "name": "Digger",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5149,9 +4928,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5162,9 +4939,7 @@ let teamRocket = [
         "number": "75",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/75.png",
             "large": "https://images.pokemontcg.io/base5/75_hires.png"
@@ -5174,6 +4949,7 @@ let teamRocket = [
         "id": "base5-76",
         "name": "Imposter Oak's Revenge",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Discard a card from your hand in order to play this card. Your opponent shuffles his or her hand into his or her deck, then draws 4 cards."
         ],
@@ -5183,9 +4959,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5196,9 +4970,7 @@ let teamRocket = [
         "number": "76",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/76.png",
             "large": "https://images.pokemontcg.io/base5/76_hires.png"
@@ -5208,6 +4980,7 @@ let teamRocket = [
         "id": "base5-77",
         "name": "Nightly Garbage Run",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5220,9 +4993,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5233,9 +5004,7 @@ let teamRocket = [
         "number": "77",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/77.png",
             "large": "https://images.pokemontcg.io/base5/77_hires.png"
@@ -5245,6 +5014,7 @@ let teamRocket = [
         "id": "base5-78",
         "name": "Goop Gas Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "All Pokémon Powers stop working until the end of your opponent's next turn."
         ],
@@ -5254,9 +5024,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5267,9 +5035,7 @@ let teamRocket = [
         "number": "78",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/78.png",
             "large": "https://images.pokemontcg.io/base5/78_hires.png"
@@ -5279,6 +5045,7 @@ let teamRocket = [
         "id": "base5-79",
         "name": "Sleep!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5291,9 +5058,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5304,9 +5069,7 @@ let teamRocket = [
         "number": "79",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/79.png",
             "large": "https://images.pokemontcg.io/base5/79_hires.png"
@@ -5316,6 +5079,7 @@ let teamRocket = [
         "id": "base5-80",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5328,9 +5092,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5341,9 +5103,7 @@ let teamRocket = [
         "number": "80",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/80.png",
             "large": "https://images.pokemontcg.io/base5/80_hires.png"
@@ -5353,6 +5113,7 @@ let teamRocket = [
         "id": "base5-81",
         "name": "Full Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5366,9 +5127,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5379,9 +5138,7 @@ let teamRocket = [
         "number": "81",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/81.png",
             "large": "https://images.pokemontcg.io/base5/81_hires.png"
@@ -5391,6 +5148,7 @@ let teamRocket = [
         "id": "base5-82",
         "name": "Potion Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5404,9 +5162,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5417,9 +5173,7 @@ let teamRocket = [
         "number": "82",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/82.png",
             "large": "https://images.pokemontcg.io/base5/82_hires.png"
@@ -5429,6 +5183,7 @@ let teamRocket = [
         "id": "base5-83",
         "name": "Dark Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5463,9 +5218,7 @@ let teamRocket = [
             "series": "Base",
             "printedTotal": 82,
             "total": 83,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "TR",
             "releaseDate": "2000/04/24",
             "images": {
@@ -5480,9 +5233,7 @@ let teamRocket = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base5/83.png",
             "large": "https://images.pokemontcg.io/base5/83_hires.png"

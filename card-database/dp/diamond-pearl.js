@@ -1,8 +1,9 @@
-let diamondPearl = [
+let dp1 = [
     {
         "id": "dp1-1",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -51,9 +52,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -68,9 +67,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/1.png",
             "large": "https://images.pokemontcg.io/dp1/1_hires.png"
@@ -80,6 +77,7 @@ let diamondPearl = [
         "id": "dp1-2",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -127,9 +125,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -144,9 +140,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/2.png",
             "large": "https://images.pokemontcg.io/dp1/2_hires.png"
@@ -156,6 +150,7 @@ let diamondPearl = [
         "id": "dp1-3",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -204,9 +199,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -221,9 +214,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/3.png",
             "large": "https://images.pokemontcg.io/dp1/3_hires.png"
@@ -233,6 +224,7 @@ let diamondPearl = [
         "id": "dp1-4",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -277,9 +269,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -294,9 +284,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/4.png",
             "large": "https://images.pokemontcg.io/dp1/4_hires.png"
@@ -306,6 +294,7 @@ let diamondPearl = [
         "id": "dp1-5",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -347,9 +336,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -364,9 +351,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/5.png",
             "large": "https://images.pokemontcg.io/dp1/5_hires.png"
@@ -376,6 +361,7 @@ let diamondPearl = [
         "id": "dp1-6",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -418,9 +404,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -435,9 +419,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/6.png",
             "large": "https://images.pokemontcg.io/dp1/6_hires.png"
@@ -447,6 +429,7 @@ let diamondPearl = [
         "id": "dp1-7",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -495,9 +478,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -512,9 +493,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/7.png",
             "large": "https://images.pokemontcg.io/dp1/7_hires.png"
@@ -524,6 +503,7 @@ let diamondPearl = [
         "id": "dp1-8",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -571,9 +551,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -588,9 +566,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/8.png",
             "large": "https://images.pokemontcg.io/dp1/8_hires.png"
@@ -600,6 +576,7 @@ let diamondPearl = [
         "id": "dp1-9",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -641,9 +618,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -658,9 +633,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             490
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/9.png",
             "large": "https://images.pokemontcg.io/dp1/9_hires.png"
@@ -670,6 +643,7 @@ let diamondPearl = [
         "id": "dp1-10",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -719,9 +693,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -736,9 +708,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/10.png",
             "large": "https://images.pokemontcg.io/dp1/10_hires.png"
@@ -748,6 +718,7 @@ let diamondPearl = [
         "id": "dp1-11",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -790,9 +761,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -807,9 +776,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/11.png",
             "large": "https://images.pokemontcg.io/dp1/11_hires.png"
@@ -819,6 +786,7 @@ let diamondPearl = [
         "id": "dp1-12",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -866,9 +834,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -883,9 +849,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/12.png",
             "large": "https://images.pokemontcg.io/dp1/12_hires.png"
@@ -895,6 +859,7 @@ let diamondPearl = [
         "id": "dp1-13",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -939,9 +904,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -956,9 +919,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/13.png",
             "large": "https://images.pokemontcg.io/dp1/13_hires.png"
@@ -968,6 +929,7 @@ let diamondPearl = [
         "id": "dp1-14",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1015,9 +977,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1032,9 +992,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/14.png",
             "large": "https://images.pokemontcg.io/dp1/14_hires.png"
@@ -1044,6 +1002,7 @@ let diamondPearl = [
         "id": "dp1-15",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1094,9 +1053,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1111,9 +1068,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/15.png",
             "large": "https://images.pokemontcg.io/dp1/15_hires.png"
@@ -1123,6 +1078,7 @@ let diamondPearl = [
         "id": "dp1-16",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1172,9 +1128,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1189,9 +1143,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/16.png",
             "large": "https://images.pokemontcg.io/dp1/16_hires.png"
@@ -1201,6 +1153,7 @@ let diamondPearl = [
         "id": "dp1-17",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1247,9 +1200,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1264,9 +1215,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/17.png",
             "large": "https://images.pokemontcg.io/dp1/17_hires.png"
@@ -1276,6 +1225,7 @@ let diamondPearl = [
         "id": "dp1-18",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1318,9 +1268,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1335,9 +1283,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/18.png",
             "large": "https://images.pokemontcg.io/dp1/18_hires.png"
@@ -1347,6 +1293,7 @@ let diamondPearl = [
         "id": "dp1-19",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1398,9 +1345,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1415,9 +1360,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             267
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/19.png",
             "large": "https://images.pokemontcg.io/dp1/19_hires.png"
@@ -1427,6 +1370,7 @@ let diamondPearl = [
         "id": "dp1-20",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1470,9 +1414,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1487,9 +1429,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/20.png",
             "large": "https://images.pokemontcg.io/dp1/20_hires.png"
@@ -1499,6 +1439,7 @@ let diamondPearl = [
         "id": "dp1-21",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -1547,9 +1488,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1564,9 +1503,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/21.png",
             "large": "https://images.pokemontcg.io/dp1/21_hires.png"
@@ -1576,6 +1513,7 @@ let diamondPearl = [
         "id": "dp1-22",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1620,9 +1558,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1637,9 +1573,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/22.png",
             "large": "https://images.pokemontcg.io/dp1/22_hires.png"
@@ -1649,6 +1583,7 @@ let diamondPearl = [
         "id": "dp1-23",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1693,9 +1628,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1710,9 +1643,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/23.png",
             "large": "https://images.pokemontcg.io/dp1/23_hires.png"
@@ -1722,6 +1653,7 @@ let diamondPearl = [
         "id": "dp1-24",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1770,9 +1702,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1787,9 +1717,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/24.png",
             "large": "https://images.pokemontcg.io/dp1/24_hires.png"
@@ -1799,6 +1727,7 @@ let diamondPearl = [
         "id": "dp1-25",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1844,9 +1773,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1861,9 +1788,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             269
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/25.png",
             "large": "https://images.pokemontcg.io/dp1/25_hires.png"
@@ -1873,6 +1798,7 @@ let diamondPearl = [
         "id": "dp1-26",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1916,9 +1842,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1933,9 +1857,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/26.png",
             "large": "https://images.pokemontcg.io/dp1/26_hires.png"
@@ -1945,6 +1867,7 @@ let diamondPearl = [
         "id": "dp1-27",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1994,9 +1917,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2011,9 +1932,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/27.png",
             "large": "https://images.pokemontcg.io/dp1/27_hires.png"
@@ -2023,6 +1942,7 @@ let diamondPearl = [
         "id": "dp1-28",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -2064,9 +1984,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2081,9 +1999,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/28.png",
             "large": "https://images.pokemontcg.io/dp1/28_hires.png"
@@ -2093,6 +2009,7 @@ let diamondPearl = [
         "id": "dp1-29",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2145,9 +2062,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2162,9 +2077,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             450
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/29.png",
             "large": "https://images.pokemontcg.io/dp1/29_hires.png"
@@ -2174,6 +2087,7 @@ let diamondPearl = [
         "id": "dp1-30",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2217,9 +2131,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2234,9 +2146,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/30.png",
             "large": "https://images.pokemontcg.io/dp1/30_hires.png"
@@ -2246,6 +2156,7 @@ let diamondPearl = [
         "id": "dp1-31",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2289,9 +2200,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2306,9 +2215,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/31.png",
             "large": "https://images.pokemontcg.io/dp1/31_hires.png"
@@ -2318,6 +2225,7 @@ let diamondPearl = [
         "id": "dp1-32",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2361,9 +2269,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2378,9 +2284,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/32.png",
             "large": "https://images.pokemontcg.io/dp1/32_hires.png"
@@ -2390,6 +2294,7 @@ let diamondPearl = [
         "id": "dp1-33",
         "name": "Munchlax",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -2431,9 +2336,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2448,9 +2351,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             446
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/33.png",
             "large": "https://images.pokemontcg.io/dp1/33_hires.png"
@@ -2460,6 +2361,7 @@ let diamondPearl = [
         "id": "dp1-34",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2509,9 +2411,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2526,9 +2426,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/34.png",
             "large": "https://images.pokemontcg.io/dp1/34_hires.png"
@@ -2538,6 +2436,7 @@ let diamondPearl = [
         "id": "dp1-35",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -2584,9 +2483,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2601,9 +2498,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/35.png",
             "large": "https://images.pokemontcg.io/dp1/35_hires.png"
@@ -2613,6 +2508,7 @@ let diamondPearl = [
         "id": "dp1-36",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2657,9 +2553,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2674,9 +2568,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             432
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/36.png",
             "large": "https://images.pokemontcg.io/dp1/36_hires.png"
@@ -2686,6 +2578,7 @@ let diamondPearl = [
         "id": "dp1-37",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -2729,9 +2622,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2746,9 +2637,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/37.png",
             "large": "https://images.pokemontcg.io/dp1/37_hires.png"
@@ -2758,6 +2647,7 @@ let diamondPearl = [
         "id": "dp1-38",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2808,9 +2698,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2825,9 +2713,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/38.png",
             "large": "https://images.pokemontcg.io/dp1/38_hires.png"
@@ -2837,6 +2723,7 @@ let diamondPearl = [
         "id": "dp1-39",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2886,9 +2773,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2903,9 +2788,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/39.png",
             "large": "https://images.pokemontcg.io/dp1/39_hires.png"
@@ -2915,6 +2798,7 @@ let diamondPearl = [
         "id": "dp1-40",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2964,9 +2848,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2981,9 +2863,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/40.png",
             "large": "https://images.pokemontcg.io/dp1/40_hires.png"
@@ -2993,6 +2873,7 @@ let diamondPearl = [
         "id": "dp1-41",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3025,9 +2906,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3042,9 +2921,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/41.png",
             "large": "https://images.pokemontcg.io/dp1/41_hires.png"
@@ -3054,6 +2931,7 @@ let diamondPearl = [
         "id": "dp1-42",
         "name": "Wynaut",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3093,9 +2971,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3110,9 +2986,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             360
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/42.png",
             "large": "https://images.pokemontcg.io/dp1/42_hires.png"
@@ -3122,6 +2996,7 @@ let diamondPearl = [
         "id": "dp1-43",
         "name": "Budew",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3161,9 +3036,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3178,9 +3051,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             406
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/43.png",
             "large": "https://images.pokemontcg.io/dp1/43_hires.png"
@@ -3190,6 +3061,7 @@ let diamondPearl = [
         "id": "dp1-44",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3235,9 +3107,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3252,9 +3122,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             268
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/44.png",
             "large": "https://images.pokemontcg.io/dp1/44_hires.png"
@@ -3264,6 +3132,7 @@ let diamondPearl = [
         "id": "dp1-45",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3312,9 +3181,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3329,9 +3196,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/45.png",
             "large": "https://images.pokemontcg.io/dp1/45_hires.png"
@@ -3341,6 +3206,7 @@ let diamondPearl = [
         "id": "dp1-46",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3391,9 +3257,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3408,9 +3272,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/46.png",
             "large": "https://images.pokemontcg.io/dp1/46_hires.png"
@@ -3420,6 +3282,7 @@ let diamondPearl = [
         "id": "dp1-47",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3472,9 +3335,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3489,9 +3350,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/47.png",
             "large": "https://images.pokemontcg.io/dp1/47_hires.png"
@@ -3501,6 +3360,7 @@ let diamondPearl = [
         "id": "dp1-48",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3546,9 +3406,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3563,9 +3421,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/48.png",
             "large": "https://images.pokemontcg.io/dp1/48_hires.png"
@@ -3575,6 +3431,7 @@ let diamondPearl = [
         "id": "dp1-49",
         "name": "Grotle",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3627,9 +3484,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3644,9 +3499,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             388
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/49.png",
             "large": "https://images.pokemontcg.io/dp1/49_hires.png"
@@ -3656,6 +3509,7 @@ let diamondPearl = [
         "id": "dp1-50",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3706,9 +3560,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3723,9 +3575,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/50.png",
             "large": "https://images.pokemontcg.io/dp1/50_hires.png"
@@ -3735,6 +3585,7 @@ let diamondPearl = [
         "id": "dp1-51",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -3784,9 +3635,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3801,9 +3650,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             449
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/51.png",
             "large": "https://images.pokemontcg.io/dp1/51_hires.png"
@@ -3813,6 +3660,7 @@ let diamondPearl = [
         "id": "dp1-52",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3863,9 +3711,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3880,9 +3726,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/52.png",
             "large": "https://images.pokemontcg.io/dp1/52_hires.png"
@@ -3892,6 +3736,7 @@ let diamondPearl = [
         "id": "dp1-53",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3939,9 +3784,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3956,9 +3799,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/53.png",
             "large": "https://images.pokemontcg.io/dp1/53_hires.png"
@@ -3968,6 +3809,7 @@ let diamondPearl = [
         "id": "dp1-54",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4021,9 +3863,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4038,9 +3878,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/54.png",
             "large": "https://images.pokemontcg.io/dp1/54_hires.png"
@@ -4050,6 +3888,7 @@ let diamondPearl = [
         "id": "dp1-55",
         "name": "Mantyke",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -4095,9 +3934,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4112,9 +3949,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             458
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/55.png",
             "large": "https://images.pokemontcg.io/dp1/55_hires.png"
@@ -4124,6 +3959,7 @@ let diamondPearl = [
         "id": "dp1-56",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4168,9 +4004,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4185,9 +4019,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             391
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/56.png",
             "large": "https://images.pokemontcg.io/dp1/56_hires.png"
@@ -4197,6 +4029,7 @@ let diamondPearl = [
         "id": "dp1-57",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4248,9 +4081,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4265,9 +4096,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/57.png",
             "large": "https://images.pokemontcg.io/dp1/57_hires.png"
@@ -4277,6 +4106,7 @@ let diamondPearl = [
         "id": "dp1-58",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4322,9 +4152,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4339,9 +4167,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             394
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/58.png",
             "large": "https://images.pokemontcg.io/dp1/58_hires.png"
@@ -4351,6 +4177,7 @@ let diamondPearl = [
         "id": "dp1-59",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4394,9 +4221,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4411,9 +4236,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/59.png",
             "large": "https://images.pokemontcg.io/dp1/59_hires.png"
@@ -4423,6 +4246,7 @@ let diamondPearl = [
         "id": "dp1-60",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4476,9 +4300,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4493,9 +4315,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/60.png",
             "large": "https://images.pokemontcg.io/dp1/60_hires.png"
@@ -4505,6 +4325,7 @@ let diamondPearl = [
         "id": "dp1-61",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -4539,9 +4360,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4556,9 +4375,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/61.png",
             "large": "https://images.pokemontcg.io/dp1/61_hires.png"
@@ -4568,6 +4385,7 @@ let diamondPearl = [
         "id": "dp1-62",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4611,9 +4429,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4628,9 +4444,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/62.png",
             "large": "https://images.pokemontcg.io/dp1/62_hires.png"
@@ -4640,6 +4454,7 @@ let diamondPearl = [
         "id": "dp1-63",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4685,9 +4500,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4702,9 +4515,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             266
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/63.png",
             "large": "https://images.pokemontcg.io/dp1/63_hires.png"
@@ -4714,6 +4525,7 @@ let diamondPearl = [
         "id": "dp1-64",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4765,9 +4577,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4782,9 +4592,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/64.png",
             "large": "https://images.pokemontcg.io/dp1/64_hires.png"
@@ -4794,6 +4602,7 @@ let diamondPearl = [
         "id": "dp1-65",
         "name": "Unown A",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -4832,9 +4641,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4849,9 +4656,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/65.png",
             "large": "https://images.pokemontcg.io/dp1/65_hires.png"
@@ -4861,6 +4666,7 @@ let diamondPearl = [
         "id": "dp1-66",
         "name": "Unown B",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -4899,9 +4705,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4916,9 +4720,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/66.png",
             "large": "https://images.pokemontcg.io/dp1/66_hires.png"
@@ -4928,6 +4730,7 @@ let diamondPearl = [
         "id": "dp1-67",
         "name": "Unown C",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -4966,9 +4769,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -4983,9 +4784,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/67.png",
             "large": "https://images.pokemontcg.io/dp1/67_hires.png"
@@ -4995,6 +4794,7 @@ let diamondPearl = [
         "id": "dp1-68",
         "name": "Unown D",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5033,9 +4833,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5050,9 +4848,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/68.png",
             "large": "https://images.pokemontcg.io/dp1/68_hires.png"
@@ -5062,6 +4858,7 @@ let diamondPearl = [
         "id": "dp1-69",
         "name": "Azurill",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5101,9 +4898,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5118,9 +4913,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             298
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/69.png",
             "large": "https://images.pokemontcg.io/dp1/69_hires.png"
@@ -5130,6 +4923,7 @@ let diamondPearl = [
         "id": "dp1-70",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5173,9 +4967,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5190,9 +4982,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/70.png",
             "large": "https://images.pokemontcg.io/dp1/70_hires.png"
@@ -5202,6 +4992,7 @@ let diamondPearl = [
         "id": "dp1-71",
         "name": "Bonsly",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5241,9 +5032,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5258,9 +5047,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             438
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/71.png",
             "large": "https://images.pokemontcg.io/dp1/71_hires.png"
@@ -5270,6 +5057,7 @@ let diamondPearl = [
         "id": "dp1-72",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5304,9 +5092,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5321,9 +5107,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/72.png",
             "large": "https://images.pokemontcg.io/dp1/72_hires.png"
@@ -5333,6 +5117,7 @@ let diamondPearl = [
         "id": "dp1-73",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5377,9 +5162,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5394,9 +5177,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/73.png",
             "large": "https://images.pokemontcg.io/dp1/73_hires.png"
@@ -5406,6 +5187,7 @@ let diamondPearl = [
         "id": "dp1-74",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5452,9 +5234,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5469,9 +5249,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/74.png",
             "large": "https://images.pokemontcg.io/dp1/74_hires.png"
@@ -5481,6 +5259,7 @@ let diamondPearl = [
         "id": "dp1-75",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5531,9 +5310,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5548,9 +5325,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/75.png",
             "large": "https://images.pokemontcg.io/dp1/75_hires.png"
@@ -5560,6 +5335,7 @@ let diamondPearl = [
         "id": "dp1-76",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5602,9 +5378,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5619,9 +5393,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/76.png",
             "large": "https://images.pokemontcg.io/dp1/76_hires.png"
@@ -5631,6 +5403,7 @@ let diamondPearl = [
         "id": "dp1-77",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5675,9 +5448,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5692,9 +5463,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/77.png",
             "large": "https://images.pokemontcg.io/dp1/77_hires.png"
@@ -5704,6 +5473,7 @@ let diamondPearl = [
         "id": "dp1-78",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5743,9 +5513,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5760,9 +5528,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/78.png",
             "large": "https://images.pokemontcg.io/dp1/78_hires.png"
@@ -5772,6 +5538,7 @@ let diamondPearl = [
         "id": "dp1-79",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5822,9 +5589,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5839,9 +5604,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/79.png",
             "large": "https://images.pokemontcg.io/dp1/79_hires.png"
@@ -5851,6 +5614,7 @@ let diamondPearl = [
         "id": "dp1-80",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5901,9 +5665,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5918,9 +5680,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/80.png",
             "large": "https://images.pokemontcg.io/dp1/80_hires.png"
@@ -5930,6 +5690,7 @@ let diamondPearl = [
         "id": "dp1-81",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -5981,9 +5742,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -5998,9 +5757,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/81.png",
             "large": "https://images.pokemontcg.io/dp1/81_hires.png"
@@ -6010,6 +5767,7 @@ let diamondPearl = [
         "id": "dp1-82",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6050,9 +5808,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6067,9 +5823,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/82.png",
             "large": "https://images.pokemontcg.io/dp1/82_hires.png"
@@ -6079,6 +5833,7 @@ let diamondPearl = [
         "id": "dp1-83",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6123,9 +5878,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6140,9 +5893,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             431
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/83.png",
             "large": "https://images.pokemontcg.io/dp1/83_hires.png"
@@ -6152,6 +5903,7 @@ let diamondPearl = [
         "id": "dp1-84",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6196,9 +5948,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6213,9 +5963,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/84.png",
             "large": "https://images.pokemontcg.io/dp1/84_hires.png"
@@ -6225,6 +5973,7 @@ let diamondPearl = [
         "id": "dp1-85",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6275,9 +6024,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6292,9 +6039,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/85.png",
             "large": "https://images.pokemontcg.io/dp1/85_hires.png"
@@ -6304,6 +6049,7 @@ let diamondPearl = [
         "id": "dp1-86",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6338,9 +6084,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6355,9 +6099,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/86.png",
             "large": "https://images.pokemontcg.io/dp1/86_hires.png"
@@ -6367,6 +6109,7 @@ let diamondPearl = [
         "id": "dp1-87",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6417,9 +6160,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6434,9 +6175,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/87.png",
             "large": "https://images.pokemontcg.io/dp1/87_hires.png"
@@ -6446,6 +6185,7 @@ let diamondPearl = [
         "id": "dp1-88",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6490,9 +6230,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6507,9 +6245,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/88.png",
             "large": "https://images.pokemontcg.io/dp1/88_hires.png"
@@ -6519,6 +6255,7 @@ let diamondPearl = [
         "id": "dp1-89",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6563,9 +6300,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6580,9 +6315,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/89.png",
             "large": "https://images.pokemontcg.io/dp1/89_hires.png"
@@ -6592,6 +6325,7 @@ let diamondPearl = [
         "id": "dp1-90",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6630,9 +6364,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6647,9 +6379,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             439
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/90.png",
             "large": "https://images.pokemontcg.io/dp1/90_hires.png"
@@ -6659,6 +6389,7 @@ let diamondPearl = [
         "id": "dp1-91",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6709,9 +6440,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6726,9 +6455,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/91.png",
             "large": "https://images.pokemontcg.io/dp1/91_hires.png"
@@ -6738,6 +6465,7 @@ let diamondPearl = [
         "id": "dp1-92",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6782,9 +6510,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6799,9 +6525,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/92.png",
             "large": "https://images.pokemontcg.io/dp1/92_hires.png"
@@ -6811,6 +6535,7 @@ let diamondPearl = [
         "id": "dp1-93",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6853,9 +6578,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6870,9 +6593,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/93.png",
             "large": "https://images.pokemontcg.io/dp1/93_hires.png"
@@ -6882,6 +6603,7 @@ let diamondPearl = [
         "id": "dp1-94",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -6926,9 +6648,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -6943,9 +6663,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/94.png",
             "large": "https://images.pokemontcg.io/dp1/94_hires.png"
@@ -6955,6 +6673,7 @@ let diamondPearl = [
         "id": "dp1-95",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7005,9 +6724,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7022,9 +6739,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/95.png",
             "large": "https://images.pokemontcg.io/dp1/95_hires.png"
@@ -7034,6 +6749,7 @@ let diamondPearl = [
         "id": "dp1-96",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7078,9 +6794,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7095,9 +6809,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/96.png",
             "large": "https://images.pokemontcg.io/dp1/96_hires.png"
@@ -7107,6 +6819,7 @@ let diamondPearl = [
         "id": "dp1-97",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7157,9 +6870,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7174,9 +6885,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/97.png",
             "large": "https://images.pokemontcg.io/dp1/97_hires.png"
@@ -7186,6 +6895,7 @@ let diamondPearl = [
         "id": "dp1-98",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7226,9 +6936,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7243,9 +6951,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/98.png",
             "large": "https://images.pokemontcg.io/dp1/98_hires.png"
@@ -7255,6 +6961,7 @@ let diamondPearl = [
         "id": "dp1-99",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7299,9 +7006,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7316,9 +7021,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             451
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/99.png",
             "large": "https://images.pokemontcg.io/dp1/99_hires.png"
@@ -7328,6 +7031,7 @@ let diamondPearl = [
         "id": "dp1-100",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7378,9 +7082,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7395,9 +7097,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/100.png",
             "large": "https://images.pokemontcg.io/dp1/100_hires.png"
@@ -7407,6 +7107,7 @@ let diamondPearl = [
         "id": "dp1-101",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7457,9 +7158,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7474,9 +7173,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/101.png",
             "large": "https://images.pokemontcg.io/dp1/101_hires.png"
@@ -7486,6 +7183,7 @@ let diamondPearl = [
         "id": "dp1-102",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7536,9 +7234,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7553,9 +7249,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             434
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/102.png",
             "large": "https://images.pokemontcg.io/dp1/102_hires.png"
@@ -7565,6 +7259,7 @@ let diamondPearl = [
         "id": "dp1-103",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7612,9 +7307,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7629,9 +7322,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/103.png",
             "large": "https://images.pokemontcg.io/dp1/103_hires.png"
@@ -7641,6 +7332,7 @@ let diamondPearl = [
         "id": "dp1-104",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -7685,9 +7377,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7702,9 +7392,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/104.png",
             "large": "https://images.pokemontcg.io/dp1/104_hires.png"
@@ -7714,6 +7402,7 @@ let diamondPearl = [
         "id": "dp1-105",
         "name": "Double Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7726,9 +7415,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7739,9 +7426,7 @@ let diamondPearl = [
         "number": "105",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/105.png",
             "large": "https://images.pokemontcg.io/dp1/105_hires.png"
@@ -7751,6 +7436,7 @@ let diamondPearl = [
         "id": "dp1-106",
         "name": "Energy Restore",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7763,9 +7449,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7776,9 +7460,7 @@ let diamondPearl = [
         "number": "106",
         "artist": "Hideyuki Nakajima",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/106.png",
             "large": "https://images.pokemontcg.io/dp1/106_hires.png"
@@ -7788,6 +7470,7 @@ let diamondPearl = [
         "id": "dp1-107",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7800,9 +7483,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7813,11 +7494,7 @@ let diamondPearl = [
         "number": "107",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/107.png",
             "large": "https://images.pokemontcg.io/dp1/107_hires.png"
@@ -7827,6 +7504,7 @@ let diamondPearl = [
         "id": "dp1-108",
         "name": "Night Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7839,9 +7517,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7852,9 +7528,7 @@ let diamondPearl = [
         "number": "108",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/108.png",
             "large": "https://images.pokemontcg.io/dp1/108_hires.png"
@@ -7864,6 +7538,7 @@ let diamondPearl = [
         "id": "dp1-109",
         "name": "PlusPower",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7877,9 +7552,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7890,10 +7563,7 @@ let diamondPearl = [
         "number": "109",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/109.png",
             "large": "https://images.pokemontcg.io/dp1/109_hires.png"
@@ -7903,6 +7573,7 @@ let diamondPearl = [
         "id": "dp1-110",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7915,9 +7586,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7928,11 +7597,7 @@ let diamondPearl = [
         "number": "110",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/110.png",
             "large": "https://images.pokemontcg.io/dp1/110_hires.png"
@@ -7942,6 +7607,7 @@ let diamondPearl = [
         "id": "dp1-111",
         "name": "Pokédex HANDY910is",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -7954,9 +7620,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -7967,9 +7631,7 @@ let diamondPearl = [
         "number": "111",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/111.png",
             "large": "https://images.pokemontcg.io/dp1/111_hires.png"
@@ -7979,6 +7641,7 @@ let diamondPearl = [
         "id": "dp1-112",
         "name": "Professor Rowan",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Supporter"
         ],
@@ -7992,9 +7655,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8005,9 +7666,7 @@ let diamondPearl = [
         "number": "112",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/112.png",
             "large": "https://images.pokemontcg.io/dp1/112_hires.png"
@@ -8017,6 +7676,7 @@ let diamondPearl = [
         "id": "dp1-113",
         "name": "Rival",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Supporter"
         ],
@@ -8030,9 +7690,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8043,9 +7701,7 @@ let diamondPearl = [
         "number": "113",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/113.png",
             "large": "https://images.pokemontcg.io/dp1/113_hires.png"
@@ -8055,6 +7711,7 @@ let diamondPearl = [
         "id": "dp1-114",
         "name": "Speed Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Stadium"
         ],
@@ -8068,9 +7725,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8081,9 +7736,7 @@ let diamondPearl = [
         "number": "114",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/114.png",
             "large": "https://images.pokemontcg.io/dp1/114_hires.png"
@@ -8093,6 +7746,7 @@ let diamondPearl = [
         "id": "dp1-115",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -8105,9 +7759,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8118,10 +7770,7 @@ let diamondPearl = [
         "number": "115",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/115.png",
             "large": "https://images.pokemontcg.io/dp1/115_hires.png"
@@ -8131,6 +7780,7 @@ let diamondPearl = [
         "id": "dp1-116",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -8143,9 +7793,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8156,9 +7804,7 @@ let diamondPearl = [
         "number": "116",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/116.png",
             "large": "https://images.pokemontcg.io/dp1/116_hires.png"
@@ -8168,6 +7814,7 @@ let diamondPearl = [
         "id": "dp1-117",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -8180,9 +7827,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8193,11 +7838,7 @@ let diamondPearl = [
         "number": "117",
         "artist": "Kai Ishikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/117.png",
             "large": "https://images.pokemontcg.io/dp1/117_hires.png"
@@ -8207,6 +7848,7 @@ let diamondPearl = [
         "id": "dp1-118",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -8219,9 +7861,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8232,11 +7872,7 @@ let diamondPearl = [
         "number": "118",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/118.png",
             "large": "https://images.pokemontcg.io/dp1/118_hires.png"
@@ -8246,6 +7882,7 @@ let diamondPearl = [
         "id": "dp1-119",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DP",
         "subtypes": [
             "Item"
         ],
@@ -8258,9 +7895,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8271,11 +7906,7 @@ let diamondPearl = [
         "number": "119",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/119.png",
             "large": "https://images.pokemontcg.io/dp1/119_hires.png"
@@ -8285,6 +7916,7 @@ let diamondPearl = [
         "id": "dp1-120",
         "name": "Empoleon LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -8329,9 +7961,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8345,9 +7975,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/120.png",
             "large": "https://images.pokemontcg.io/dp1/120_hires.png"
@@ -8357,6 +7985,7 @@ let diamondPearl = [
         "id": "dp1-121",
         "name": "Infernape LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -8399,9 +8028,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8415,9 +8042,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/121.png",
             "large": "https://images.pokemontcg.io/dp1/121_hires.png"
@@ -8427,6 +8052,7 @@ let diamondPearl = [
         "id": "dp1-122",
         "name": "Torterra LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -8472,9 +8098,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8488,9 +8112,7 @@ let diamondPearl = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/122.png",
             "large": "https://images.pokemontcg.io/dp1/122_hires.png"
@@ -8500,6 +8122,7 @@ let diamondPearl = [
         "id": "dp1-123",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8509,9 +8132,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8521,11 +8142,7 @@ let diamondPearl = [
         },
         "number": "123",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/123.png",
             "large": "https://images.pokemontcg.io/dp1/123_hires.png"
@@ -8535,6 +8152,7 @@ let diamondPearl = [
         "id": "dp1-124",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8544,9 +8162,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8556,11 +8172,7 @@ let diamondPearl = [
         },
         "number": "124",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/124.png",
             "large": "https://images.pokemontcg.io/dp1/124_hires.png"
@@ -8570,6 +8182,7 @@ let diamondPearl = [
         "id": "dp1-125",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8579,9 +8192,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8591,11 +8202,7 @@ let diamondPearl = [
         },
         "number": "125",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/125.png",
             "large": "https://images.pokemontcg.io/dp1/125_hires.png"
@@ -8605,6 +8212,7 @@ let diamondPearl = [
         "id": "dp1-126",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8614,9 +8222,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8626,11 +8232,7 @@ let diamondPearl = [
         },
         "number": "126",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/126.png",
             "large": "https://images.pokemontcg.io/dp1/126_hires.png"
@@ -8640,6 +8242,7 @@ let diamondPearl = [
         "id": "dp1-127",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8649,9 +8252,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8661,11 +8262,7 @@ let diamondPearl = [
         },
         "number": "127",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/127.png",
             "large": "https://images.pokemontcg.io/dp1/127_hires.png"
@@ -8675,6 +8272,7 @@ let diamondPearl = [
         "id": "dp1-128",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8684,9 +8282,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8696,11 +8292,7 @@ let diamondPearl = [
         },
         "number": "128",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/128.png",
             "large": "https://images.pokemontcg.io/dp1/128_hires.png"
@@ -8710,6 +8302,7 @@ let diamondPearl = [
         "id": "dp1-129",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8719,9 +8312,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8731,11 +8322,7 @@ let diamondPearl = [
         },
         "number": "129",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/129.png",
             "large": "https://images.pokemontcg.io/dp1/129_hires.png"
@@ -8745,6 +8332,7 @@ let diamondPearl = [
         "id": "dp1-130",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "DP",
         "subtypes": [
             "Basic"
         ],
@@ -8754,9 +8342,7 @@ let diamondPearl = [
             "series": "Diamond & Pearl",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -8766,11 +8352,7 @@ let diamondPearl = [
         },
         "number": "130",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp1/130.png",
             "large": "https://images.pokemontcg.io/dp1/130_hires.png"

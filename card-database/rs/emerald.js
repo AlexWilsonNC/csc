@@ -1,8 +1,9 @@
-let emerald = [
+let ex9 = [
     {
         "id": "ex9-1",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 2"
         ],
@@ -53,9 +54,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -69,9 +68,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/1.png",
             "large": "https://images.pokemontcg.io/ex9/1_hires.png"
@@ -81,6 +78,7 @@ let emerald = [
         "id": "ex9-2",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -120,9 +118,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -136,9 +132,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/2.png",
             "large": "https://images.pokemontcg.io/ex9/2_hires.png"
@@ -148,6 +142,7 @@ let emerald = [
         "id": "ex9-3",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 2"
         ],
@@ -213,9 +208,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -229,9 +222,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/3.png",
             "large": "https://images.pokemontcg.io/ex9/3_hires.png"
@@ -241,6 +232,7 @@ let emerald = [
         "id": "ex9-4",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 2"
         ],
@@ -293,9 +285,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -309,9 +299,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/4.png",
             "large": "https://images.pokemontcg.io/ex9/4_hires.png"
@@ -321,6 +309,7 @@ let emerald = [
         "id": "ex9-5",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -363,9 +352,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -379,9 +366,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/5.png",
             "large": "https://images.pokemontcg.io/ex9/5_hires.png"
@@ -391,6 +376,7 @@ let emerald = [
         "id": "ex9-6",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -433,9 +419,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -449,9 +433,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/6.png",
             "large": "https://images.pokemontcg.io/ex9/6_hires.png"
@@ -461,6 +443,7 @@ let emerald = [
         "id": "ex9-7",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -511,9 +494,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -527,9 +508,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/7.png",
             "large": "https://images.pokemontcg.io/ex9/7_hires.png"
@@ -539,6 +518,7 @@ let emerald = [
         "id": "ex9-8",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -582,9 +562,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -598,9 +576,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/8.png",
             "large": "https://images.pokemontcg.io/ex9/8_hires.png"
@@ -610,6 +586,7 @@ let emerald = [
         "id": "ex9-9",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -653,9 +630,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -669,9 +644,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/9.png",
             "large": "https://images.pokemontcg.io/ex9/9_hires.png"
@@ -681,6 +654,7 @@ let emerald = [
         "id": "ex9-10",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 2"
         ],
@@ -738,9 +712,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -754,9 +726,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/10.png",
             "large": "https://images.pokemontcg.io/ex9/10_hires.png"
@@ -766,6 +736,7 @@ let emerald = [
         "id": "ex9-11",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 2"
         ],
@@ -816,9 +787,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -832,9 +801,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/11.png",
             "large": "https://images.pokemontcg.io/ex9/11_hires.png"
@@ -844,6 +811,7 @@ let emerald = [
         "id": "ex9-12",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -885,9 +853,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -901,9 +867,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/12.png",
             "large": "https://images.pokemontcg.io/ex9/12_hires.png"
@@ -913,6 +877,7 @@ let emerald = [
         "id": "ex9-13",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -956,9 +921,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -972,9 +935,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/13.png",
             "large": "https://images.pokemontcg.io/ex9/13_hires.png"
@@ -984,6 +945,7 @@ let emerald = [
         "id": "ex9-14",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1028,9 +990,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1044,9 +1004,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/14.png",
             "large": "https://images.pokemontcg.io/ex9/14_hires.png"
@@ -1056,6 +1014,7 @@ let emerald = [
         "id": "ex9-15",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1098,9 +1057,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1114,9 +1071,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/15.png",
             "large": "https://images.pokemontcg.io/ex9/15_hires.png"
@@ -1126,6 +1081,7 @@ let emerald = [
         "id": "ex9-16",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1174,9 +1130,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1190,9 +1144,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/16.png",
             "large": "https://images.pokemontcg.io/ex9/16_hires.png"
@@ -1202,6 +1154,7 @@ let emerald = [
         "id": "ex9-17",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1246,9 +1199,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1262,9 +1213,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/17.png",
             "large": "https://images.pokemontcg.io/ex9/17_hires.png"
@@ -1274,6 +1223,7 @@ let emerald = [
         "id": "ex9-18",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1315,9 +1265,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1331,9 +1279,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/18.png",
             "large": "https://images.pokemontcg.io/ex9/18_hires.png"
@@ -1343,6 +1289,7 @@ let emerald = [
         "id": "ex9-19",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1391,9 +1338,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1407,9 +1352,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/19.png",
             "large": "https://images.pokemontcg.io/ex9/19_hires.png"
@@ -1419,6 +1362,7 @@ let emerald = [
         "id": "ex9-20",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1461,9 +1405,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1477,9 +1419,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/20.png",
             "large": "https://images.pokemontcg.io/ex9/20_hires.png"
@@ -1489,6 +1429,7 @@ let emerald = [
         "id": "ex9-21",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -1530,9 +1471,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1546,9 +1485,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/21.png",
             "large": "https://images.pokemontcg.io/ex9/21_hires.png"
@@ -1558,6 +1495,7 @@ let emerald = [
         "id": "ex9-22",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1601,9 +1539,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1617,9 +1553,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/22.png",
             "large": "https://images.pokemontcg.io/ex9/22_hires.png"
@@ -1629,6 +1563,7 @@ let emerald = [
         "id": "ex9-23",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1673,9 +1608,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1689,9 +1622,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/23.png",
             "large": "https://images.pokemontcg.io/ex9/23_hires.png"
@@ -1701,6 +1632,7 @@ let emerald = [
         "id": "ex9-24",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1741,9 +1673,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1757,9 +1687,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/24.png",
             "large": "https://images.pokemontcg.io/ex9/24_hires.png"
@@ -1769,6 +1697,7 @@ let emerald = [
         "id": "ex9-25",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1816,9 +1745,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1832,9 +1759,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/25.png",
             "large": "https://images.pokemontcg.io/ex9/25_hires.png"
@@ -1844,6 +1769,7 @@ let emerald = [
         "id": "ex9-26",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1894,9 +1820,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1910,9 +1834,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/26.png",
             "large": "https://images.pokemontcg.io/ex9/26_hires.png"
@@ -1922,6 +1844,7 @@ let emerald = [
         "id": "ex9-27",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1965,9 +1888,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -1981,9 +1902,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/27.png",
             "large": "https://images.pokemontcg.io/ex9/27_hires.png"
@@ -1993,6 +1912,7 @@ let emerald = [
         "id": "ex9-28",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2045,9 +1965,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2061,9 +1979,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/28.png",
             "large": "https://images.pokemontcg.io/ex9/28_hires.png"
@@ -2073,6 +1989,7 @@ let emerald = [
         "id": "ex9-29",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2116,9 +2033,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2132,9 +2047,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/29.png",
             "large": "https://images.pokemontcg.io/ex9/29_hires.png"
@@ -2144,6 +2057,7 @@ let emerald = [
         "id": "ex9-30",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2186,9 +2100,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2202,9 +2114,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/30.png",
             "large": "https://images.pokemontcg.io/ex9/30_hires.png"
@@ -2214,6 +2124,7 @@ let emerald = [
         "id": "ex9-31",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2258,9 +2169,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2274,9 +2183,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/31.png",
             "large": "https://images.pokemontcg.io/ex9/31_hires.png"
@@ -2286,6 +2193,7 @@ let emerald = [
         "id": "ex9-32",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -2327,9 +2235,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2343,9 +2249,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/32.png",
             "large": "https://images.pokemontcg.io/ex9/32_hires.png"
@@ -2355,6 +2259,7 @@ let emerald = [
         "id": "ex9-33",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2403,9 +2308,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2419,9 +2322,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/33.png",
             "large": "https://images.pokemontcg.io/ex9/33_hires.png"
@@ -2431,6 +2332,7 @@ let emerald = [
         "id": "ex9-34",
         "name": "Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2472,9 +2374,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2488,9 +2388,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             264
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/34.png",
             "large": "https://images.pokemontcg.io/ex9/34_hires.png"
@@ -2500,6 +2398,7 @@ let emerald = [
         "id": "ex9-35",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2546,9 +2445,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2562,9 +2459,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/35.png",
             "large": "https://images.pokemontcg.io/ex9/35_hires.png"
@@ -2574,6 +2469,7 @@ let emerald = [
         "id": "ex9-36",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2620,9 +2516,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2636,9 +2530,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/36.png",
             "large": "https://images.pokemontcg.io/ex9/36_hires.png"
@@ -2648,6 +2540,7 @@ let emerald = [
         "id": "ex9-37",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -2693,9 +2586,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2709,9 +2600,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/37.png",
             "large": "https://images.pokemontcg.io/ex9/37_hires.png"
@@ -2721,6 +2610,7 @@ let emerald = [
         "id": "ex9-38",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2764,9 +2654,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2780,9 +2668,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/38.png",
             "large": "https://images.pokemontcg.io/ex9/38_hires.png"
@@ -2792,6 +2678,7 @@ let emerald = [
         "id": "ex9-39",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -2839,9 +2726,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2855,9 +2740,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/39.png",
             "large": "https://images.pokemontcg.io/ex9/39_hires.png"
@@ -2867,6 +2750,7 @@ let emerald = [
         "id": "ex9-40",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2911,9 +2795,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -2927,9 +2809,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/40.png",
             "large": "https://images.pokemontcg.io/ex9/40_hires.png"
@@ -2939,6 +2819,7 @@ let emerald = [
         "id": "ex9-41",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2987,9 +2868,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3003,9 +2882,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/41.png",
             "large": "https://images.pokemontcg.io/ex9/41_hires.png"
@@ -3015,6 +2892,7 @@ let emerald = [
         "id": "ex9-42",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3056,9 +2934,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3072,9 +2948,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/42.png",
             "large": "https://images.pokemontcg.io/ex9/42_hires.png"
@@ -3084,6 +2958,7 @@ let emerald = [
         "id": "ex9-43",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3129,9 +3004,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3145,9 +3018,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/43.png",
             "large": "https://images.pokemontcg.io/ex9/43_hires.png"
@@ -3157,6 +3028,7 @@ let emerald = [
         "id": "ex9-44",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3191,9 +3063,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3207,9 +3077,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/44.png",
             "large": "https://images.pokemontcg.io/ex9/44_hires.png"
@@ -3219,6 +3087,7 @@ let emerald = [
         "id": "ex9-45",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3259,9 +3128,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3275,9 +3142,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/45.png",
             "large": "https://images.pokemontcg.io/ex9/45_hires.png"
@@ -3287,6 +3152,7 @@ let emerald = [
         "id": "ex9-46",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3327,9 +3193,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3343,9 +3207,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/46.png",
             "large": "https://images.pokemontcg.io/ex9/46_hires.png"
@@ -3355,6 +3217,7 @@ let emerald = [
         "id": "ex9-47",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3395,9 +3258,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3411,9 +3272,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/47.png",
             "large": "https://images.pokemontcg.io/ex9/47_hires.png"
@@ -3423,6 +3282,7 @@ let emerald = [
         "id": "ex9-48",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3473,9 +3333,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3489,9 +3347,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/48.png",
             "large": "https://images.pokemontcg.io/ex9/48_hires.png"
@@ -3501,6 +3357,7 @@ let emerald = [
         "id": "ex9-49",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3543,9 +3400,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3559,9 +3414,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/49.png",
             "large": "https://images.pokemontcg.io/ex9/49_hires.png"
@@ -3571,6 +3424,7 @@ let emerald = [
         "id": "ex9-50",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3605,9 +3459,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3621,9 +3473,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/50.png",
             "large": "https://images.pokemontcg.io/ex9/50_hires.png"
@@ -3633,6 +3483,7 @@ let emerald = [
         "id": "ex9-51",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3677,9 +3528,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3693,9 +3542,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/51.png",
             "large": "https://images.pokemontcg.io/ex9/51_hires.png"
@@ -3705,6 +3552,7 @@ let emerald = [
         "id": "ex9-52",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3740,9 +3588,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3756,9 +3602,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/52.png",
             "large": "https://images.pokemontcg.io/ex9/52_hires.png"
@@ -3768,6 +3612,7 @@ let emerald = [
         "id": "ex9-53",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3809,9 +3654,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3825,9 +3668,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/53.png",
             "large": "https://images.pokemontcg.io/ex9/53_hires.png"
@@ -3837,6 +3678,7 @@ let emerald = [
         "id": "ex9-54",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3871,9 +3713,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3887,9 +3727,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/54.png",
             "large": "https://images.pokemontcg.io/ex9/54_hires.png"
@@ -3899,6 +3737,7 @@ let emerald = [
         "id": "ex9-55",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -3943,9 +3782,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -3959,9 +3796,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/55.png",
             "large": "https://images.pokemontcg.io/ex9/55_hires.png"
@@ -3971,6 +3806,7 @@ let emerald = [
         "id": "ex9-56",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4005,9 +3841,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4021,9 +3855,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/56.png",
             "large": "https://images.pokemontcg.io/ex9/56_hires.png"
@@ -4033,6 +3865,7 @@ let emerald = [
         "id": "ex9-57",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4076,9 +3909,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4092,9 +3923,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/57.png",
             "large": "https://images.pokemontcg.io/ex9/57_hires.png"
@@ -4104,6 +3933,7 @@ let emerald = [
         "id": "ex9-58",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4148,9 +3978,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4164,9 +3992,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/58.png",
             "large": "https://images.pokemontcg.io/ex9/58_hires.png"
@@ -4176,6 +4002,7 @@ let emerald = [
         "id": "ex9-59",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4217,9 +4044,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4233,9 +4058,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/59.png",
             "large": "https://images.pokemontcg.io/ex9/59_hires.png"
@@ -4245,6 +4068,7 @@ let emerald = [
         "id": "ex9-60",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4289,9 +4113,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4305,9 +4127,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/60.png",
             "large": "https://images.pokemontcg.io/ex9/60_hires.png"
@@ -4317,6 +4137,7 @@ let emerald = [
         "id": "ex9-61",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4351,9 +4172,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4367,9 +4186,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/61.png",
             "large": "https://images.pokemontcg.io/ex9/61_hires.png"
@@ -4379,6 +4196,7 @@ let emerald = [
         "id": "ex9-62",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4423,9 +4241,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4439,9 +4255,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/62.png",
             "large": "https://images.pokemontcg.io/ex9/62_hires.png"
@@ -4451,6 +4265,7 @@ let emerald = [
         "id": "ex9-63",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4501,9 +4316,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4517,9 +4330,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/63.png",
             "large": "https://images.pokemontcg.io/ex9/63_hires.png"
@@ -4529,6 +4340,7 @@ let emerald = [
         "id": "ex9-64",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4564,9 +4376,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4580,9 +4390,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/64.png",
             "large": "https://images.pokemontcg.io/ex9/64_hires.png"
@@ -4592,6 +4400,7 @@ let emerald = [
         "id": "ex9-65",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4626,9 +4435,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4642,9 +4449,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/65.png",
             "large": "https://images.pokemontcg.io/ex9/65_hires.png"
@@ -4654,6 +4459,7 @@ let emerald = [
         "id": "ex9-66",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4688,9 +4494,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4704,9 +4508,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/66.png",
             "large": "https://images.pokemontcg.io/ex9/66_hires.png"
@@ -4716,6 +4518,7 @@ let emerald = [
         "id": "ex9-67",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4763,9 +4566,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4779,9 +4580,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/67.png",
             "large": "https://images.pokemontcg.io/ex9/67_hires.png"
@@ -4791,6 +4590,7 @@ let emerald = [
         "id": "ex9-68",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4831,9 +4631,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4847,9 +4645,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/68.png",
             "large": "https://images.pokemontcg.io/ex9/68_hires.png"
@@ -4859,6 +4655,7 @@ let emerald = [
         "id": "ex9-69",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4893,9 +4690,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4909,9 +4704,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/69.png",
             "large": "https://images.pokemontcg.io/ex9/69_hires.png"
@@ -4921,6 +4714,7 @@ let emerald = [
         "id": "ex9-70",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -4961,9 +4755,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -4977,9 +4769,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/70.png",
             "large": "https://images.pokemontcg.io/ex9/70_hires.png"
@@ -4989,6 +4779,7 @@ let emerald = [
         "id": "ex9-71",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -5034,9 +4825,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5050,9 +4839,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/71.png",
             "large": "https://images.pokemontcg.io/ex9/71_hires.png"
@@ -5062,6 +4849,7 @@ let emerald = [
         "id": "ex9-72",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -5106,9 +4894,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5122,9 +4908,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/72.png",
             "large": "https://images.pokemontcg.io/ex9/72_hires.png"
@@ -5134,6 +4918,7 @@ let emerald = [
         "id": "ex9-73",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -5178,9 +4963,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5194,9 +4977,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/73.png",
             "large": "https://images.pokemontcg.io/ex9/73_hires.png"
@@ -5206,6 +4987,7 @@ let emerald = [
         "id": "ex9-74",
         "name": "Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -5250,9 +5032,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5266,9 +5046,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             263
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/74.png",
             "large": "https://images.pokemontcg.io/ex9/74_hires.png"
@@ -5278,6 +5056,7 @@ let emerald = [
         "id": "ex9-75",
         "name": "Battle Frontier",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stadium"
         ],
@@ -5291,9 +5070,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5304,9 +5081,7 @@ let emerald = [
         "number": "75",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/75.png",
             "large": "https://images.pokemontcg.io/ex9/75_hires.png"
@@ -5316,6 +5091,7 @@ let emerald = [
         "id": "ex9-76",
         "name": "Double Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Item"
         ],
@@ -5328,9 +5104,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5341,9 +5115,7 @@ let emerald = [
         "number": "76",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/76.png",
             "large": "https://images.pokemontcg.io/ex9/76_hires.png"
@@ -5353,6 +5125,7 @@ let emerald = [
         "id": "ex9-77",
         "name": "Lanette's Net Search",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Supporter"
         ],
@@ -5366,9 +5139,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5379,9 +5150,7 @@ let emerald = [
         "number": "77",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/77.png",
             "large": "https://images.pokemontcg.io/ex9/77_hires.png"
@@ -5391,6 +5160,7 @@ let emerald = [
         "id": "ex9-78",
         "name": "Lum Berry",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5404,9 +5174,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5417,11 +5185,7 @@ let emerald = [
         "number": "78",
         "artist": "Kazuo Yazawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/78.png",
             "large": "https://images.pokemontcg.io/ex9/78_hires.png"
@@ -5431,6 +5195,7 @@ let emerald = [
         "id": "ex9-79",
         "name": "Mr. Stone's Project",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Supporter"
         ],
@@ -5444,9 +5209,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5457,9 +5220,7 @@ let emerald = [
         "number": "79",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/79.png",
             "large": "https://images.pokemontcg.io/ex9/79_hires.png"
@@ -5469,6 +5230,7 @@ let emerald = [
         "id": "ex9-80",
         "name": "Oran Berry",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5482,9 +5244,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5495,9 +5255,7 @@ let emerald = [
         "number": "80",
         "artist": "Kazuo Yazawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/80.png",
             "large": "https://images.pokemontcg.io/ex9/80_hires.png"
@@ -5507,6 +5265,7 @@ let emerald = [
         "id": "ex9-81",
         "name": "PokéNav",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Item"
         ],
@@ -5519,9 +5278,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5532,9 +5289,7 @@ let emerald = [
         "number": "81",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/81.png",
             "large": "https://images.pokemontcg.io/ex9/81_hires.png"
@@ -5544,6 +5299,7 @@ let emerald = [
         "id": "ex9-82",
         "name": "Professor Birch",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Supporter"
         ],
@@ -5557,9 +5313,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5570,9 +5324,7 @@ let emerald = [
         "number": "82",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/82.png",
             "large": "https://images.pokemontcg.io/ex9/82_hires.png"
@@ -5582,6 +5334,7 @@ let emerald = [
         "id": "ex9-83",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Item"
         ],
@@ -5594,9 +5347,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5607,11 +5358,7 @@ let emerald = [
         "number": "83",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/83.png",
             "large": "https://images.pokemontcg.io/ex9/83_hires.png"
@@ -5621,6 +5368,7 @@ let emerald = [
         "id": "ex9-84",
         "name": "Scott",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Supporter"
         ],
@@ -5634,9 +5382,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5647,9 +5393,7 @@ let emerald = [
         "number": "84",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/84.png",
             "large": "https://images.pokemontcg.io/ex9/84_hires.png"
@@ -5659,6 +5403,7 @@ let emerald = [
         "id": "ex9-85",
         "name": "Wally's Training",
         "supertype": "Trainer",
+        "setAbbrev": "EM",
         "subtypes": [
             "Supporter"
         ],
@@ -5672,9 +5417,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5685,9 +5428,7 @@ let emerald = [
         "number": "85",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/85.png",
             "large": "https://images.pokemontcg.io/ex9/85_hires.png"
@@ -5697,6 +5438,7 @@ let emerald = [
         "id": "ex9-86",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Special"
         ],
@@ -5709,9 +5451,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5722,9 +5462,7 @@ let emerald = [
         "number": "86",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/86.png",
             "large": "https://images.pokemontcg.io/ex9/86_hires.png"
@@ -5734,6 +5472,7 @@ let emerald = [
         "id": "ex9-87",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Special"
         ],
@@ -5746,9 +5485,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5759,9 +5496,7 @@ let emerald = [
         "number": "87",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/87.png",
             "large": "https://images.pokemontcg.io/ex9/87_hires.png"
@@ -5771,6 +5506,7 @@ let emerald = [
         "id": "ex9-88",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Special"
         ],
@@ -5783,9 +5519,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5796,9 +5530,7 @@ let emerald = [
         "number": "88",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/88.png",
             "large": "https://images.pokemontcg.io/ex9/88_hires.png"
@@ -5808,6 +5540,7 @@ let emerald = [
         "id": "ex9-89",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Special"
         ],
@@ -5820,9 +5553,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5833,9 +5564,7 @@ let emerald = [
         "number": "89",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/89.png",
             "large": "https://images.pokemontcg.io/ex9/89_hires.png"
@@ -5845,6 +5574,7 @@ let emerald = [
         "id": "ex9-90",
         "name": "Altaria ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5893,9 +5623,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5909,9 +5637,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/90.png",
             "large": "https://images.pokemontcg.io/ex9/90_hires.png"
@@ -5921,6 +5647,7 @@ let emerald = [
         "id": "ex9-91",
         "name": "Cacturne ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5975,9 +5702,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -5991,9 +5716,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/91.png",
             "large": "https://images.pokemontcg.io/ex9/91_hires.png"
@@ -6003,6 +5726,7 @@ let emerald = [
         "id": "ex9-92",
         "name": "Camerupt ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6058,9 +5782,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6074,9 +5796,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/92.png",
             "large": "https://images.pokemontcg.io/ex9/92_hires.png"
@@ -6086,6 +5806,7 @@ let emerald = [
         "id": "ex9-93",
         "name": "Deoxys ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic",
             "EX"
@@ -6130,9 +5851,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6146,9 +5865,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/93.png",
             "large": "https://images.pokemontcg.io/ex9/93_hires.png"
@@ -6158,6 +5875,7 @@ let emerald = [
         "id": "ex9-94",
         "name": "Dusclops ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6214,9 +5932,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6230,9 +5946,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/94.png",
             "large": "https://images.pokemontcg.io/ex9/94_hires.png"
@@ -6242,6 +5956,7 @@ let emerald = [
         "id": "ex9-95",
         "name": "Medicham ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6297,9 +6012,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6313,9 +6026,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/95.png",
             "large": "https://images.pokemontcg.io/ex9/95_hires.png"
@@ -6325,6 +6036,7 @@ let emerald = [
         "id": "ex9-96",
         "name": "Milotic ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6379,9 +6091,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6395,9 +6105,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/96.png",
             "large": "https://images.pokemontcg.io/ex9/96_hires.png"
@@ -6407,6 +6115,7 @@ let emerald = [
         "id": "ex9-97",
         "name": "Raichu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6462,9 +6171,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6478,9 +6185,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/97.png",
             "large": "https://images.pokemontcg.io/ex9/97_hires.png"
@@ -6490,6 +6195,7 @@ let emerald = [
         "id": "ex9-98",
         "name": "Regice ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic",
             "EX"
@@ -6536,9 +6242,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6552,9 +6256,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/98.png",
             "large": "https://images.pokemontcg.io/ex9/98_hires.png"
@@ -6564,6 +6266,7 @@ let emerald = [
         "id": "ex9-99",
         "name": "Regirock ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic",
             "EX"
@@ -6610,9 +6313,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6626,9 +6327,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/99.png",
             "large": "https://images.pokemontcg.io/ex9/99_hires.png"
@@ -6638,6 +6337,7 @@ let emerald = [
         "id": "ex9-100",
         "name": "Registeel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic",
             "EX"
@@ -6684,9 +6384,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6700,9 +6398,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/100.png",
             "large": "https://images.pokemontcg.io/ex9/100_hires.png"
@@ -6712,6 +6408,7 @@ let emerald = [
         "id": "ex9-101",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6721,9 +6418,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6733,11 +6428,7 @@ let emerald = [
         },
         "number": "101",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/101.png",
             "large": "https://images.pokemontcg.io/ex9/101_hires.png"
@@ -6747,6 +6438,7 @@ let emerald = [
         "id": "ex9-102",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6756,9 +6448,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6768,11 +6458,7 @@ let emerald = [
         },
         "number": "102",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/102.png",
             "large": "https://images.pokemontcg.io/ex9/102_hires.png"
@@ -6782,6 +6468,7 @@ let emerald = [
         "id": "ex9-103",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6791,9 +6478,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6803,11 +6488,7 @@ let emerald = [
         },
         "number": "103",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/103.png",
             "large": "https://images.pokemontcg.io/ex9/103_hires.png"
@@ -6817,6 +6498,7 @@ let emerald = [
         "id": "ex9-104",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6826,9 +6508,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6838,11 +6518,7 @@ let emerald = [
         },
         "number": "104",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/104.png",
             "large": "https://images.pokemontcg.io/ex9/104_hires.png"
@@ -6852,6 +6528,7 @@ let emerald = [
         "id": "ex9-105",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6861,9 +6538,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6873,11 +6548,7 @@ let emerald = [
         },
         "number": "105",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/105.png",
             "large": "https://images.pokemontcg.io/ex9/105_hires.png"
@@ -6887,6 +6558,7 @@ let emerald = [
         "id": "ex9-106",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6896,9 +6568,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6908,11 +6578,7 @@ let emerald = [
         },
         "number": "106",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/106.png",
             "large": "https://images.pokemontcg.io/ex9/106_hires.png"
@@ -6922,6 +6588,7 @@ let emerald = [
         "id": "ex9-107",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "EM",
         "subtypes": [
             "Basic"
         ],
@@ -6972,9 +6639,7 @@ let emerald = [
             "series": "EX",
             "printedTotal": 106,
             "total": 107,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EM",
             "releaseDate": "2005/05/01",
             "images": {
@@ -6988,9 +6653,7 @@ let emerald = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex9/107.png",
             "large": "https://images.pokemontcg.io/ex9/107_hires.png"

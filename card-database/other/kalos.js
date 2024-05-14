@@ -1,8 +1,9 @@
-let kalos = [
+let xy0 = [
     {
         "id": "xy0-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -54,10 +52,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/1.png",
             "large": "https://images.pokemontcg.io/xy0/1_hires.png"
@@ -67,6 +62,7 @@ let kalos = [
         "id": "xy0-2",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -111,10 +107,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -128,10 +121,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/2.png",
             "large": "https://images.pokemontcg.io/xy0/2_hires.png"
@@ -141,6 +131,7 @@ let kalos = [
         "id": "xy0-3",
         "name": "Chespin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -185,10 +176,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -202,10 +190,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             650
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/3.png",
             "large": "https://images.pokemontcg.io/xy0/3_hires.png"
@@ -215,6 +200,7 @@ let kalos = [
         "id": "xy0-4",
         "name": "Quilladin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -262,10 +248,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -279,10 +262,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             651
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/4.png",
             "large": "https://images.pokemontcg.io/xy0/4_hires.png"
@@ -292,6 +272,7 @@ let kalos = [
         "id": "xy0-5",
         "name": "Chesnaught",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -338,10 +319,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -355,10 +333,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             652
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/5.png",
             "large": "https://images.pokemontcg.io/xy0/5_hires.png"
@@ -368,6 +343,7 @@ let kalos = [
         "id": "xy0-6",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -403,10 +379,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -420,10 +393,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/6.png",
             "large": "https://images.pokemontcg.io/xy0/6_hires.png"
@@ -433,6 +403,7 @@ let kalos = [
         "id": "xy0-7",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -477,10 +448,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -494,10 +462,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/7.png",
             "large": "https://images.pokemontcg.io/xy0/7_hires.png"
@@ -507,6 +472,7 @@ let kalos = [
         "id": "xy0-8",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -551,10 +517,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -568,10 +531,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/8.png",
             "large": "https://images.pokemontcg.io/xy0/8_hires.png"
@@ -581,6 +541,7 @@ let kalos = [
         "id": "xy0-9",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -628,10 +589,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -645,10 +603,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/9.png",
             "large": "https://images.pokemontcg.io/xy0/9_hires.png"
@@ -658,6 +613,7 @@ let kalos = [
         "id": "xy0-10",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -703,10 +659,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -720,10 +673,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             655
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/10.png",
             "large": "https://images.pokemontcg.io/xy0/10_hires.png"
@@ -733,6 +683,7 @@ let kalos = [
         "id": "xy0-11",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -777,10 +728,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -794,10 +742,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/11.png",
             "large": "https://images.pokemontcg.io/xy0/11_hires.png"
@@ -807,6 +752,7 @@ let kalos = [
         "id": "xy0-12",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -851,10 +797,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -868,10 +811,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             656
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/12.png",
             "large": "https://images.pokemontcg.io/xy0/12_hires.png"
@@ -881,6 +821,7 @@ let kalos = [
         "id": "xy0-13",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -927,10 +868,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -944,10 +882,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             657
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/13.png",
             "large": "https://images.pokemontcg.io/xy0/13_hires.png"
@@ -957,6 +892,7 @@ let kalos = [
         "id": "xy0-14",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1000,10 +936,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1017,10 +950,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/14.png",
             "large": "https://images.pokemontcg.io/xy0/14_hires.png"
@@ -1030,6 +960,7 @@ let kalos = [
         "id": "xy0-15",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1065,10 +996,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1082,10 +1010,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/15.png",
             "large": "https://images.pokemontcg.io/xy0/15_hires.png"
@@ -1095,6 +1020,7 @@ let kalos = [
         "id": "xy0-16",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1136,10 +1062,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1153,10 +1076,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/16.png",
             "large": "https://images.pokemontcg.io/xy0/16_hires.png"
@@ -1166,6 +1086,7 @@ let kalos = [
         "id": "xy0-17",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1205,10 +1126,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1222,10 +1140,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/17.png",
             "large": "https://images.pokemontcg.io/xy0/17_hires.png"
@@ -1235,6 +1150,7 @@ let kalos = [
         "id": "xy0-18",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1275,10 +1191,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1292,10 +1205,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             686
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/18.png",
             "large": "https://images.pokemontcg.io/xy0/18_hires.png"
@@ -1305,6 +1215,7 @@ let kalos = [
         "id": "xy0-19",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1355,10 +1266,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1372,10 +1280,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/19.png",
             "large": "https://images.pokemontcg.io/xy0/19_hires.png"
@@ -1385,6 +1290,7 @@ let kalos = [
         "id": "xy0-20",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1434,10 +1340,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1451,10 +1354,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/20.png",
             "large": "https://images.pokemontcg.io/xy0/20_hires.png"
@@ -1464,6 +1364,7 @@ let kalos = [
         "id": "xy0-21",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1505,10 +1406,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1522,10 +1420,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/21.png",
             "large": "https://images.pokemontcg.io/xy0/21_hires.png"
@@ -1535,6 +1430,7 @@ let kalos = [
         "id": "xy0-22",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1576,10 +1472,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1593,10 +1486,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/22.png",
             "large": "https://images.pokemontcg.io/xy0/22_hires.png"
@@ -1606,6 +1496,7 @@ let kalos = [
         "id": "xy0-23",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1656,10 +1547,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1673,10 +1561,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/23.png",
             "large": "https://images.pokemontcg.io/xy0/23_hires.png"
@@ -1686,6 +1571,7 @@ let kalos = [
         "id": "xy0-24",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1726,10 +1612,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1743,10 +1626,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             684
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/24.png",
             "large": "https://images.pokemontcg.io/xy0/24_hires.png"
@@ -1756,6 +1636,7 @@ let kalos = [
         "id": "xy0-25",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1796,10 +1677,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1813,10 +1691,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/25.png",
             "large": "https://images.pokemontcg.io/xy0/25_hires.png"
@@ -1826,6 +1701,7 @@ let kalos = [
         "id": "xy0-26",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1871,10 +1747,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1888,10 +1761,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/26.png",
             "large": "https://images.pokemontcg.io/xy0/26_hires.png"
@@ -1901,6 +1771,7 @@ let kalos = [
         "id": "xy0-27",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1934,10 +1805,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -1951,10 +1819,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/27.png",
             "large": "https://images.pokemontcg.io/xy0/27_hires.png"
@@ -1964,6 +1829,7 @@ let kalos = [
         "id": "xy0-28",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1999,10 +1865,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2016,10 +1879,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/28.png",
             "large": "https://images.pokemontcg.io/xy0/28_hires.png"
@@ -2029,6 +1889,7 @@ let kalos = [
         "id": "xy0-29",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2065,10 +1926,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2082,10 +1940,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/29.png",
             "large": "https://images.pokemontcg.io/xy0/29_hires.png"
@@ -2095,6 +1950,7 @@ let kalos = [
         "id": "xy0-30",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2130,10 +1986,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2147,10 +2000,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/30.png",
             "large": "https://images.pokemontcg.io/xy0/30_hires.png"
@@ -2160,6 +2010,7 @@ let kalos = [
         "id": "xy0-31",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2200,10 +2051,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2217,10 +2065,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/31.png",
             "large": "https://images.pokemontcg.io/xy0/31_hires.png"
@@ -2230,6 +2075,7 @@ let kalos = [
         "id": "xy0-32",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2273,10 +2119,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2290,10 +2133,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             676
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/32.png",
             "large": "https://images.pokemontcg.io/xy0/32_hires.png"
@@ -2303,6 +2143,7 @@ let kalos = [
         "id": "xy0-33",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2346,10 +2187,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2363,10 +2201,7 @@ let kalos = [
         "nationalPokedexNumbers": [
             676
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/33.png",
             "large": "https://images.pokemontcg.io/xy0/33_hires.png"
@@ -2376,6 +2211,7 @@ let kalos = [
         "id": "xy0-34",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2389,10 +2225,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2402,10 +2235,7 @@ let kalos = [
         },
         "number": "34",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/34.png",
             "large": "https://images.pokemontcg.io/xy0/34_hires.png"
@@ -2415,6 +2245,7 @@ let kalos = [
         "id": "xy0-35",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2428,10 +2259,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2441,11 +2269,7 @@ let kalos = [
         },
         "number": "35",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/35.png",
             "large": "https://images.pokemontcg.io/xy0/35_hires.png"
@@ -2455,6 +2279,7 @@ let kalos = [
         "id": "xy0-36",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2468,10 +2293,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2481,11 +2303,7 @@ let kalos = [
         },
         "number": "36",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/36.png",
             "large": "https://images.pokemontcg.io/xy0/36_hires.png"
@@ -2495,6 +2313,7 @@ let kalos = [
         "id": "xy0-37",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2508,10 +2327,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2521,11 +2337,7 @@ let kalos = [
         },
         "number": "37",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/37.png",
             "large": "https://images.pokemontcg.io/xy0/37_hires.png"
@@ -2535,6 +2347,7 @@ let kalos = [
         "id": "xy0-38",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2548,10 +2361,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2561,11 +2371,7 @@ let kalos = [
         },
         "number": "38",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/38.png",
             "large": "https://images.pokemontcg.io/xy0/38_hires.png"
@@ -2575,6 +2381,7 @@ let kalos = [
         "id": "xy0-39",
         "name": "Tierno",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Supporter"
         ],
@@ -2588,10 +2395,7 @@ let kalos = [
             "series": "XY",
             "printedTotal": 39,
             "total": 39,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "KSS",
             "releaseDate": "2013/11/08",
             "images": {
@@ -2601,10 +2405,7 @@ let kalos = [
         },
         "number": "39",
         "artist": "Ken Sugimori",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy0/39.png",
             "large": "https://images.pokemontcg.io/xy0/39_hires.png"

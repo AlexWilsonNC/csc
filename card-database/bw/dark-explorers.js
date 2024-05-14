@@ -1,8 +1,9 @@
-let darkExplorers = [
+let bw5 = [
     {
         "id": "bw5-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -54,10 +55,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -72,10 +70,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/1.png",
             "large": "https://images.pokemontcg.io/bw5/1_hires.png"
@@ -85,6 +80,7 @@ let darkExplorers = [
         "id": "bw5-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -138,10 +134,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -156,10 +149,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/2.png",
             "large": "https://images.pokemontcg.io/bw5/2_hires.png"
@@ -169,6 +159,7 @@ let darkExplorers = [
         "id": "bw5-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -217,10 +208,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -235,10 +223,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/3.png",
             "large": "https://images.pokemontcg.io/bw5/3_hires.png"
@@ -248,6 +233,7 @@ let darkExplorers = [
         "id": "bw5-4",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -284,10 +270,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -302,10 +285,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/4.png",
             "large": "https://images.pokemontcg.io/bw5/4_hires.png"
@@ -315,6 +295,7 @@ let darkExplorers = [
         "id": "bw5-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -363,10 +344,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -381,10 +359,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/5.png",
             "large": "https://images.pokemontcg.io/bw5/5_hires.png"
@@ -394,6 +369,7 @@ let darkExplorers = [
         "id": "bw5-6",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -442,10 +418,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -460,10 +433,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/6.png",
             "large": "https://images.pokemontcg.io/bw5/6_hires.png"
@@ -473,6 +443,7 @@ let darkExplorers = [
         "id": "bw5-7",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -518,10 +489,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -536,10 +504,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             557
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/7.png",
             "large": "https://images.pokemontcg.io/bw5/7_hires.png"
@@ -549,6 +514,7 @@ let darkExplorers = [
         "id": "bw5-8",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -593,10 +559,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -611,10 +574,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/8.png",
             "large": "https://images.pokemontcg.io/bw5/8_hires.png"
@@ -624,6 +584,7 @@ let darkExplorers = [
         "id": "bw5-9",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -669,10 +630,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -687,10 +645,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             588
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/9.png",
             "large": "https://images.pokemontcg.io/bw5/9_hires.png"
@@ -700,6 +655,7 @@ let darkExplorers = [
         "id": "bw5-10",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -735,10 +691,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -753,10 +706,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/10.png",
             "large": "https://images.pokemontcg.io/bw5/10_hires.png"
@@ -766,6 +716,7 @@ let darkExplorers = [
         "id": "bw5-11",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -807,10 +758,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -825,10 +773,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/11.png",
             "large": "https://images.pokemontcg.io/bw5/11_hires.png"
@@ -838,6 +783,7 @@ let darkExplorers = [
         "id": "bw5-12",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -881,10 +827,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -899,10 +842,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/12.png",
             "large": "https://images.pokemontcg.io/bw5/12_hires.png"
@@ -912,6 +852,7 @@ let darkExplorers = [
         "id": "bw5-13",
         "name": "Entei-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -959,10 +900,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -976,10 +914,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/13.png",
             "large": "https://images.pokemontcg.io/bw5/13_hires.png"
@@ -989,6 +924,7 @@ let darkExplorers = [
         "id": "bw5-14",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1024,10 +960,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1042,10 +975,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/14.png",
             "large": "https://images.pokemontcg.io/bw5/14_hires.png"
@@ -1055,6 +985,7 @@ let darkExplorers = [
         "id": "bw5-15",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1099,10 +1030,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1117,10 +1045,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/15.png",
             "large": "https://images.pokemontcg.io/bw5/15_hires.png"
@@ -1130,6 +1055,7 @@ let darkExplorers = [
         "id": "bw5-16",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1176,10 +1102,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1194,10 +1117,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/16.png",
             "large": "https://images.pokemontcg.io/bw5/16_hires.png"
@@ -1207,6 +1127,7 @@ let darkExplorers = [
         "id": "bw5-17",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1251,10 +1172,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1269,10 +1187,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/17.png",
             "large": "https://images.pokemontcg.io/bw5/17_hires.png"
@@ -1282,6 +1197,7 @@ let darkExplorers = [
         "id": "bw5-18",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1324,10 +1240,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1342,10 +1255,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/18.png",
             "large": "https://images.pokemontcg.io/bw5/18_hires.png"
@@ -1355,6 +1265,7 @@ let darkExplorers = [
         "id": "bw5-19",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1397,10 +1308,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1415,10 +1323,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             631
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/19.png",
             "large": "https://images.pokemontcg.io/bw5/19_hires.png"
@@ -1428,6 +1333,7 @@ let darkExplorers = [
         "id": "bw5-20",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1474,10 +1380,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1492,10 +1395,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/20.png",
             "large": "https://images.pokemontcg.io/bw5/20_hires.png"
@@ -1505,6 +1405,7 @@ let darkExplorers = [
         "id": "bw5-21",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1540,10 +1441,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1558,10 +1456,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/21.png",
             "large": "https://images.pokemontcg.io/bw5/21_hires.png"
@@ -1571,6 +1466,7 @@ let darkExplorers = [
         "id": "bw5-22",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1612,10 +1508,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1630,10 +1523,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/22.png",
             "large": "https://images.pokemontcg.io/bw5/22_hires.png"
@@ -1643,6 +1533,7 @@ let darkExplorers = [
         "id": "bw5-23",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1688,10 +1579,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1706,10 +1594,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/23.png",
             "large": "https://images.pokemontcg.io/bw5/23_hires.png"
@@ -1719,6 +1604,7 @@ let darkExplorers = [
         "id": "bw5-24",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1759,10 +1645,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1777,10 +1660,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/24.png",
             "large": "https://images.pokemontcg.io/bw5/24_hires.png"
@@ -1790,6 +1670,7 @@ let darkExplorers = [
         "id": "bw5-25",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1833,10 +1714,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1851,10 +1729,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/25.png",
             "large": "https://images.pokemontcg.io/bw5/25_hires.png"
@@ -1864,6 +1739,7 @@ let darkExplorers = [
         "id": "bw5-26",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -1911,10 +1787,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1928,10 +1801,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/26.png",
             "large": "https://images.pokemontcg.io/bw5/26_hires.png"
@@ -1941,6 +1811,7 @@ let darkExplorers = [
         "id": "bw5-27",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1975,10 +1846,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -1993,10 +1861,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/27.png",
             "large": "https://images.pokemontcg.io/bw5/27_hires.png"
@@ -2006,6 +1871,7 @@ let darkExplorers = [
         "id": "bw5-28",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2052,10 +1918,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2070,10 +1933,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             394
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/28.png",
             "large": "https://images.pokemontcg.io/bw5/28_hires.png"
@@ -2083,6 +1943,7 @@ let darkExplorers = [
         "id": "bw5-29",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2122,10 +1983,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2140,10 +1998,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/29.png",
             "large": "https://images.pokemontcg.io/bw5/29_hires.png"
@@ -2153,6 +2008,7 @@ let darkExplorers = [
         "id": "bw5-30",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2195,10 +2051,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2213,10 +2066,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/30.png",
             "large": "https://images.pokemontcg.io/bw5/30_hires.png"
@@ -2226,6 +2076,7 @@ let darkExplorers = [
         "id": "bw5-31",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2261,10 +2112,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2279,10 +2127,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/31.png",
             "large": "https://images.pokemontcg.io/bw5/31_hires.png"
@@ -2292,6 +2137,7 @@ let darkExplorers = [
         "id": "bw5-32",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2328,10 +2174,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2346,10 +2189,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/32.png",
             "large": "https://images.pokemontcg.io/bw5/32_hires.png"
@@ -2359,6 +2199,7 @@ let darkExplorers = [
         "id": "bw5-33",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2393,10 +2234,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2411,10 +2249,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/33.png",
             "large": "https://images.pokemontcg.io/bw5/33_hires.png"
@@ -2424,6 +2259,7 @@ let darkExplorers = [
         "id": "bw5-34",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2470,10 +2306,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2488,10 +2321,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/34.png",
             "large": "https://images.pokemontcg.io/bw5/34_hires.png"
@@ -2501,6 +2331,7 @@ let darkExplorers = [
         "id": "bw5-35",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2542,10 +2373,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2560,10 +2388,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/35.png",
             "large": "https://images.pokemontcg.io/bw5/35_hires.png"
@@ -2573,6 +2398,7 @@ let darkExplorers = [
         "id": "bw5-36",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2622,10 +2448,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2640,10 +2463,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/36.png",
             "large": "https://images.pokemontcg.io/bw5/36_hires.png"
@@ -2653,6 +2473,7 @@ let darkExplorers = [
         "id": "bw5-37",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2695,10 +2516,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2713,10 +2531,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/37.png",
             "large": "https://images.pokemontcg.io/bw5/37_hires.png"
@@ -2726,6 +2541,7 @@ let darkExplorers = [
         "id": "bw5-38",
         "name": "Raikou-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -2773,10 +2589,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2790,10 +2603,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/38.png",
             "large": "https://images.pokemontcg.io/bw5/38_hires.png"
@@ -2803,6 +2613,7 @@ let darkExplorers = [
         "id": "bw5-39",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2843,10 +2654,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2861,10 +2669,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/39.png",
             "large": "https://images.pokemontcg.io/bw5/39_hires.png"
@@ -2874,6 +2679,7 @@ let darkExplorers = [
         "id": "bw5-40",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2914,10 +2720,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -2932,10 +2735,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/40.png",
             "large": "https://images.pokemontcg.io/bw5/40_hires.png"
@@ -2945,6 +2745,7 @@ let darkExplorers = [
         "id": "bw5-41",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2989,10 +2790,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3007,10 +2805,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/41.png",
             "large": "https://images.pokemontcg.io/bw5/41_hires.png"
@@ -3020,6 +2815,7 @@ let darkExplorers = [
         "id": "bw5-42",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3054,10 +2850,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3072,10 +2865,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/42.png",
             "large": "https://images.pokemontcg.io/bw5/42_hires.png"
@@ -3085,6 +2875,7 @@ let darkExplorers = [
         "id": "bw5-43",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3127,10 +2918,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3145,10 +2933,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/43.png",
             "large": "https://images.pokemontcg.io/bw5/43_hires.png"
@@ -3158,6 +2943,7 @@ let darkExplorers = [
         "id": "bw5-44",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3192,10 +2978,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3210,10 +2993,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/44.png",
             "large": "https://images.pokemontcg.io/bw5/44_hires.png"
@@ -3223,6 +3003,7 @@ let darkExplorers = [
         "id": "bw5-45",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3257,10 +3038,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3275,10 +3053,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/45.png",
             "large": "https://images.pokemontcg.io/bw5/45_hires.png"
@@ -3288,6 +3063,7 @@ let darkExplorers = [
         "id": "bw5-46",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3334,10 +3110,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3352,10 +3125,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             603
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/46.png",
             "large": "https://images.pokemontcg.io/bw5/46_hires.png"
@@ -3365,6 +3135,7 @@ let darkExplorers = [
         "id": "bw5-47",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3411,10 +3182,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3429,10 +3197,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             604
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/47.png",
             "large": "https://images.pokemontcg.io/bw5/47_hires.png"
@@ -3442,6 +3207,7 @@ let darkExplorers = [
         "id": "bw5-48",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3483,10 +3249,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3501,10 +3264,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/48.png",
             "large": "https://images.pokemontcg.io/bw5/48_hires.png"
@@ -3514,6 +3274,7 @@ let darkExplorers = [
         "id": "bw5-49",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3557,10 +3318,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3575,10 +3333,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/49.png",
             "large": "https://images.pokemontcg.io/bw5/49_hires.png"
@@ -3588,6 +3343,7 @@ let darkExplorers = [
         "id": "bw5-50",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3638,10 +3394,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3656,10 +3409,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/50.png",
             "large": "https://images.pokemontcg.io/bw5/50_hires.png"
@@ -3669,6 +3419,7 @@ let darkExplorers = [
         "id": "bw5-51",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3703,10 +3454,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3721,10 +3469,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/51.png",
             "large": "https://images.pokemontcg.io/bw5/51_hires.png"
@@ -3734,6 +3479,7 @@ let darkExplorers = [
         "id": "bw5-52",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3777,10 +3523,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3795,10 +3538,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/52.png",
             "large": "https://images.pokemontcg.io/bw5/52_hires.png"
@@ -3808,6 +3548,7 @@ let darkExplorers = [
         "id": "bw5-53",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Restored"
         ],
@@ -3852,10 +3593,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3870,10 +3608,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/53.png",
             "large": "https://images.pokemontcg.io/bw5/53_hires.png"
@@ -3883,6 +3618,7 @@ let darkExplorers = [
         "id": "bw5-54",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3936,10 +3672,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -3953,10 +3686,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/54.png",
             "large": "https://images.pokemontcg.io/bw5/54_hires.png"
@@ -3966,6 +3696,7 @@ let darkExplorers = [
         "id": "bw5-55",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4007,10 +3738,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4025,10 +3753,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/55.png",
             "large": "https://images.pokemontcg.io/bw5/55_hires.png"
@@ -4038,6 +3763,7 @@ let darkExplorers = [
         "id": "bw5-56",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4086,10 +3812,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4104,10 +3827,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/56.png",
             "large": "https://images.pokemontcg.io/bw5/56_hires.png"
@@ -4117,6 +3837,7 @@ let darkExplorers = [
         "id": "bw5-57",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4169,10 +3890,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4187,10 +3905,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/57.png",
             "large": "https://images.pokemontcg.io/bw5/57_hires.png"
@@ -4200,6 +3915,7 @@ let darkExplorers = [
         "id": "bw5-58",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4245,10 +3961,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4263,10 +3976,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/58.png",
             "large": "https://images.pokemontcg.io/bw5/58_hires.png"
@@ -4276,6 +3986,7 @@ let darkExplorers = [
         "id": "bw5-59",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4322,10 +4033,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4340,10 +4048,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/59.png",
             "large": "https://images.pokemontcg.io/bw5/59_hires.png"
@@ -4353,6 +4058,7 @@ let darkExplorers = [
         "id": "bw5-60",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4403,10 +4109,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4421,10 +4124,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/60.png",
             "large": "https://images.pokemontcg.io/bw5/60_hires.png"
@@ -4434,6 +4134,7 @@ let darkExplorers = [
         "id": "bw5-61",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4483,10 +4184,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4501,10 +4199,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/61.png",
             "large": "https://images.pokemontcg.io/bw5/61_hires.png"
@@ -4514,6 +4209,7 @@ let darkExplorers = [
         "id": "bw5-62",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4548,10 +4244,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4579,6 +4272,7 @@ let darkExplorers = [
         "id": "bw5-63",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -4629,10 +4323,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4646,10 +4337,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/63.png",
             "large": "https://images.pokemontcg.io/bw5/63_hires.png"
@@ -4659,6 +4347,7 @@ let darkExplorers = [
         "id": "bw5-64",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4710,10 +4399,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4728,10 +4414,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/64.png",
             "large": "https://images.pokemontcg.io/bw5/64_hires.png"
@@ -4741,6 +4424,7 @@ let darkExplorers = [
         "id": "bw5-65",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4795,10 +4479,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4813,10 +4494,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/65.png",
             "large": "https://images.pokemontcg.io/bw5/65_hires.png"
@@ -4826,6 +4504,7 @@ let darkExplorers = [
         "id": "bw5-66",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4878,10 +4557,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4896,10 +4572,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/66.png",
             "large": "https://images.pokemontcg.io/bw5/66_hires.png"
@@ -4909,6 +4582,7 @@ let darkExplorers = [
         "id": "bw5-67",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4950,10 +4624,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -4968,10 +4639,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/67.png",
             "large": "https://images.pokemontcg.io/bw5/67_hires.png"
@@ -4981,6 +4649,7 @@ let darkExplorers = [
         "id": "bw5-68",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5031,10 +4700,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5049,10 +4715,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/68.png",
             "large": "https://images.pokemontcg.io/bw5/68_hires.png"
@@ -5062,6 +4725,7 @@ let darkExplorers = [
         "id": "bw5-69",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5112,10 +4776,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5130,10 +4791,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/69.png",
             "large": "https://images.pokemontcg.io/bw5/69_hires.png"
@@ -5143,6 +4801,7 @@ let darkExplorers = [
         "id": "bw5-70",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5193,10 +4852,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5211,10 +4867,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/70.png",
             "large": "https://images.pokemontcg.io/bw5/70_hires.png"
@@ -5224,6 +4877,7 @@ let darkExplorers = [
         "id": "bw5-71",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5273,10 +4927,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5291,10 +4942,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/71.png",
             "large": "https://images.pokemontcg.io/bw5/71_hires.png"
@@ -5304,6 +4952,7 @@ let darkExplorers = [
         "id": "bw5-72",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5354,10 +5003,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5372,10 +5018,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/72.png",
             "large": "https://images.pokemontcg.io/bw5/72_hires.png"
@@ -5385,6 +5028,7 @@ let darkExplorers = [
         "id": "bw5-73",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5425,10 +5069,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5443,10 +5084,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/73.png",
             "large": "https://images.pokemontcg.io/bw5/73_hires.png"
@@ -5456,6 +5094,7 @@ let darkExplorers = [
         "id": "bw5-74",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5505,10 +5144,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5523,10 +5159,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             589
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/74.png",
             "large": "https://images.pokemontcg.io/bw5/74_hires.png"
@@ -5536,6 +5169,7 @@ let darkExplorers = [
         "id": "bw5-75",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5577,10 +5211,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5595,10 +5226,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/75.png",
             "large": "https://images.pokemontcg.io/bw5/75_hires.png"
@@ -5608,6 +5236,7 @@ let darkExplorers = [
         "id": "bw5-76",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5661,10 +5290,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5679,10 +5305,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/76.png",
             "large": "https://images.pokemontcg.io/bw5/76_hires.png"
@@ -5692,6 +5315,7 @@ let darkExplorers = [
         "id": "bw5-77",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -5742,10 +5366,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5760,10 +5381,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/77.png",
             "large": "https://images.pokemontcg.io/bw5/77_hires.png"
@@ -5773,6 +5391,7 @@ let darkExplorers = [
         "id": "bw5-78",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5825,10 +5444,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5843,10 +5459,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/78.png",
             "large": "https://images.pokemontcg.io/bw5/78_hires.png"
@@ -5856,6 +5469,7 @@ let darkExplorers = [
         "id": "bw5-79",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5906,10 +5520,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -5924,10 +5535,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/79.png",
             "large": "https://images.pokemontcg.io/bw5/79_hires.png"
@@ -5937,6 +5545,7 @@ let darkExplorers = [
         "id": "bw5-80",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5982,10 +5591,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6000,10 +5606,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/80.png",
             "large": "https://images.pokemontcg.io/bw5/80_hires.png"
@@ -6013,6 +5616,7 @@ let darkExplorers = [
         "id": "bw5-81",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -6048,10 +5652,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6066,10 +5667,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/81.png",
             "large": "https://images.pokemontcg.io/bw5/81_hires.png"
@@ -6079,6 +5677,7 @@ let darkExplorers = [
         "id": "bw5-82",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6120,10 +5719,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6138,10 +5734,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/82.png",
             "large": "https://images.pokemontcg.io/bw5/82_hires.png"
@@ -6151,6 +5744,7 @@ let darkExplorers = [
         "id": "bw5-83",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -6192,10 +5786,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6210,10 +5801,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/83.png",
             "large": "https://images.pokemontcg.io/bw5/83_hires.png"
@@ -6223,6 +5811,7 @@ let darkExplorers = [
         "id": "bw5-84",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -6274,10 +5863,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6292,10 +5878,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/84.png",
             "large": "https://images.pokemontcg.io/bw5/84_hires.png"
@@ -6305,6 +5888,7 @@ let darkExplorers = [
         "id": "bw5-85",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -6352,10 +5936,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6370,10 +5951,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/85.png",
             "large": "https://images.pokemontcg.io/bw5/85_hires.png"
@@ -6383,6 +5961,7 @@ let darkExplorers = [
         "id": "bw5-86",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -6427,10 +6006,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6445,10 +6021,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/86.png",
             "large": "https://images.pokemontcg.io/bw5/86_hires.png"
@@ -6458,6 +6031,7 @@ let darkExplorers = [
         "id": "bw5-87",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6503,10 +6077,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6521,10 +6092,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/87.png",
             "large": "https://images.pokemontcg.io/bw5/87_hires.png"
@@ -6534,6 +6102,7 @@ let darkExplorers = [
         "id": "bw5-88",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6580,10 +6149,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6598,10 +6164,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/88.png",
             "large": "https://images.pokemontcg.io/bw5/88_hires.png"
@@ -6611,6 +6174,7 @@ let darkExplorers = [
         "id": "bw5-89",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6651,10 +6215,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6669,10 +6230,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/89.png",
             "large": "https://images.pokemontcg.io/bw5/89_hires.png"
@@ -6682,6 +6240,7 @@ let darkExplorers = [
         "id": "bw5-90",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6735,10 +6294,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6752,10 +6308,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/90.png",
             "large": "https://images.pokemontcg.io/bw5/90_hires.png"
@@ -6765,6 +6318,7 @@ let darkExplorers = [
         "id": "bw5-91",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6778,10 +6332,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6792,10 +6343,7 @@ let darkExplorers = [
         "number": "91",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/91.png",
             "large": "https://images.pokemontcg.io/bw5/91_hires.png"
@@ -6805,6 +6353,7 @@ let darkExplorers = [
         "id": "bw5-92",
         "name": "Dark Claw",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6819,10 +6368,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6833,10 +6379,7 @@ let darkExplorers = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/92.png",
             "large": "https://images.pokemontcg.io/bw5/92_hires.png"
@@ -6846,6 +6389,7 @@ let darkExplorers = [
         "id": "bw5-93",
         "name": "Dark Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6859,10 +6403,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6873,10 +6414,7 @@ let darkExplorers = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/93.png",
             "large": "https://images.pokemontcg.io/bw5/93_hires.png"
@@ -6886,6 +6424,7 @@ let darkExplorers = [
         "id": "bw5-94",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6899,10 +6438,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6913,19 +6449,17 @@ let darkExplorers = [
         "number": "94",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/bw5/94.png",
-            "large": "https://images.pokemontcg.io/bw5/94_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN.png"
         }
     },
     {
         "id": "bw5-95",
         "name": "Hooligans Jim & Cas",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6939,10 +6473,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6953,10 +6484,7 @@ let darkExplorers = [
         "number": "95",
         "artist": "Masakazu Fukuda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/95.png",
             "large": "https://images.pokemontcg.io/bw5/95_hires.png"
@@ -6966,6 +6494,7 @@ let darkExplorers = [
         "id": "bw5-96",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6979,10 +6508,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -6993,10 +6519,7 @@ let darkExplorers = [
         "number": "96",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/96.png",
             "large": "https://images.pokemontcg.io/bw5/96_hires.png"
@@ -7006,6 +6529,7 @@ let darkExplorers = [
         "id": "bw5-97",
         "name": "Old Amber Aerodactyl",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -7019,10 +6543,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7033,10 +6554,7 @@ let darkExplorers = [
         "number": "97",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/97.png",
             "large": "https://images.pokemontcg.io/bw5/97_hires.png"
@@ -7046,6 +6564,7 @@ let darkExplorers = [
         "id": "bw5-98",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -7059,10 +6578,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7073,10 +6589,7 @@ let darkExplorers = [
         "number": "98",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/98.png",
             "large": "https://images.pokemontcg.io/bw5/98_hires.png"
@@ -7086,6 +6599,7 @@ let darkExplorers = [
         "id": "bw5-99",
         "name": "Random Receiver",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -7099,10 +6613,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7113,10 +6624,7 @@ let darkExplorers = [
         "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/99.png",
             "large": "https://images.pokemontcg.io/bw5/99_hires.png"
@@ -7126,6 +6634,7 @@ let darkExplorers = [
         "id": "bw5-100",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -7139,10 +6648,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7153,11 +6659,7 @@ let darkExplorers = [
         "number": "100",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/100.png",
             "large": "https://images.pokemontcg.io/bw5/100_hires.png"
@@ -7167,6 +6669,7 @@ let darkExplorers = [
         "id": "bw5-101",
         "name": "Twist Mountain",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stadium"
         ],
@@ -7180,10 +6683,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7194,10 +6694,7 @@ let darkExplorers = [
         "number": "101",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/101.png",
             "large": "https://images.pokemontcg.io/bw5/101_hires.png"
@@ -7207,6 +6704,7 @@ let darkExplorers = [
         "id": "bw5-102",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -7220,10 +6718,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7234,10 +6729,7 @@ let darkExplorers = [
         "number": "102",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/102.png",
             "large": "https://images.pokemontcg.io/bw5/102_hires.png"
@@ -7247,6 +6739,7 @@ let darkExplorers = [
         "id": "bw5-103",
         "name": "Entei-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7294,10 +6787,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7311,10 +6801,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/103.png",
             "large": "https://images.pokemontcg.io/bw5/103_hires.png"
@@ -7324,6 +6811,7 @@ let darkExplorers = [
         "id": "bw5-104",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7371,10 +6859,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7388,10 +6873,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/104.png",
             "large": "https://images.pokemontcg.io/bw5/104_hires.png"
@@ -7401,6 +6883,7 @@ let darkExplorers = [
         "id": "bw5-105",
         "name": "Raikou-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7448,10 +6931,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7465,10 +6945,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/105.png",
             "large": "https://images.pokemontcg.io/bw5/105_hires.png"
@@ -7478,6 +6955,7 @@ let darkExplorers = [
         "id": "bw5-106",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7531,10 +7009,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7548,10 +7023,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/106.png",
             "large": "https://images.pokemontcg.io/bw5/106_hires.png"
@@ -7561,6 +7033,7 @@ let darkExplorers = [
         "id": "bw5-107",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7611,10 +7084,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7628,10 +7098,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/107.png",
             "large": "https://images.pokemontcg.io/bw5/107_hires.png"
@@ -7641,6 +7108,7 @@ let darkExplorers = [
         "id": "bw5-108",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7694,10 +7162,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7711,10 +7176,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/108.png",
             "large": "https://images.pokemontcg.io/bw5/108_hires.png"
@@ -7724,6 +7186,7 @@ let darkExplorers = [
         "id": "bw5-109",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7766,10 +7229,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7784,10 +7244,7 @@ let darkExplorers = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/109.png",
             "large": "https://images.pokemontcg.io/bw5/109_hires.png"
@@ -7797,6 +7254,7 @@ let darkExplorers = [
         "id": "bw5-110",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7838,10 +7296,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7869,6 +7324,7 @@ let darkExplorers = [
         "id": "bw5-111",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -7882,10 +7338,7 @@ let darkExplorers = [
             "series": "Black & White",
             "printedTotal": 108,
             "total": 111,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DEX",
             "releaseDate": "2012/05/09",
             "images": {
@@ -7896,14 +7349,10 @@ let darkExplorers = [
         "number": "111",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw5/111.png",
-            "large": "https://images.pokemontcg.io/bw5/111_hires.png"
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-XY5-111-pokemon_catcher.jpg"
         }
     }
 ]

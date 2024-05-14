@@ -3,6 +3,7 @@ let swsh8 = [
         "id": "swsh8-1",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -46,11 +47,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -65,11 +62,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/1.png",
@@ -80,6 +72,7 @@ let swsh8 = [
         "id": "swsh8-2",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -122,11 +115,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -141,11 +130,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/2.png",
@@ -156,6 +140,7 @@ let swsh8 = [
         "id": "swsh8-3",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -196,11 +181,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -215,11 +196,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/3.png",
@@ -230,6 +206,7 @@ let swsh8 = [
         "id": "swsh8-4",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -274,11 +251,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -293,11 +266,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/4.png",
@@ -308,6 +276,7 @@ let swsh8 = [
         "id": "swsh8-5",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -351,11 +320,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -370,11 +335,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/5.png",
@@ -385,6 +345,7 @@ let swsh8 = [
         "id": "swsh8-6",
         "name": "Breloom V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -433,11 +394,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -451,11 +408,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/6.png",
@@ -466,6 +418,7 @@ let swsh8 = [
         "id": "swsh8-7",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -500,11 +453,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -519,11 +468,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/7.png",
@@ -534,6 +478,7 @@ let swsh8 = [
         "id": "swsh8-8",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -576,11 +521,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -595,11 +536,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/8.png",
@@ -610,6 +546,7 @@ let swsh8 = [
         "id": "swsh8-9",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -644,11 +581,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -663,11 +596,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/9.png",
@@ -678,6 +606,7 @@ let swsh8 = [
         "id": "swsh8-10",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -724,11 +653,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -743,11 +668,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/10.png",
@@ -758,6 +678,7 @@ let swsh8 = [
         "id": "swsh8-11",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -802,11 +723,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -821,11 +738,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/11.png",
@@ -836,6 +748,7 @@ let swsh8 = [
         "id": "swsh8-12",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -877,11 +790,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -896,11 +805,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/12.png",
@@ -911,6 +815,7 @@ let swsh8 = [
         "id": "swsh8-13",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -946,11 +851,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -965,11 +866,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/13.png",
@@ -980,6 +876,7 @@ let swsh8 = [
         "id": "swsh8-14",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -1015,11 +912,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1034,11 +927,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/14.png",
@@ -1049,6 +937,7 @@ let swsh8 = [
         "id": "swsh8-15",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1091,11 +980,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1110,11 +995,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/15.png",
@@ -1125,6 +1005,7 @@ let swsh8 = [
         "id": "swsh8-16",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1169,11 +1050,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1188,11 +1065,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             708
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/16.png",
@@ -1203,6 +1075,7 @@ let swsh8 = [
         "id": "swsh8-17",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -1247,11 +1120,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1266,11 +1135,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             709
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/17.png",
@@ -1281,6 +1145,7 @@ let swsh8 = [
         "id": "swsh8-18",
         "name": "Grubbin",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1326,11 +1191,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1345,11 +1206,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             736
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/18.png",
@@ -1360,6 +1216,7 @@ let swsh8 = [
         "id": "swsh8-19",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1394,11 +1251,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1413,11 +1266,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             751
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/19.png",
@@ -1428,6 +1276,7 @@ let swsh8 = [
         "id": "swsh8-20",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -1471,11 +1320,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1490,11 +1335,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             752
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/20.png",
@@ -1505,6 +1345,7 @@ let swsh8 = [
         "id": "swsh8-21",
         "name": "Tsareena V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -1541,11 +1382,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1559,11 +1396,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/21.png",
@@ -1574,6 +1406,7 @@ let swsh8 = [
         "id": "swsh8-22",
         "name": "Rillaboom V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -1624,11 +1457,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1642,11 +1471,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             812
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/22.png",
@@ -1657,6 +1481,7 @@ let swsh8 = [
         "id": "swsh8-23",
         "name": "Rillaboom VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -1696,11 +1521,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1714,11 +1535,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             812
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/23.png",
@@ -1729,6 +1545,7 @@ let swsh8 = [
         "id": "swsh8-24",
         "name": "Gossifleur",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1763,11 +1580,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1782,11 +1595,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             829
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/24.png",
@@ -1797,6 +1605,7 @@ let swsh8 = [
         "id": "swsh8-25",
         "name": "Eldegoss",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -1829,11 +1638,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1848,11 +1653,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             830
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/25.png",
@@ -1863,6 +1663,7 @@ let swsh8 = [
         "id": "swsh8-26",
         "name": "Appletun V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -1909,11 +1710,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -1927,11 +1724,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             842
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/26.png",
@@ -1942,6 +1734,7 @@ let swsh8 = [
         "id": "swsh8-27",
         "name": "Zarude",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -1983,11 +1776,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2002,11 +1791,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             893
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/27.png",
@@ -2017,6 +1801,7 @@ let swsh8 = [
         "id": "swsh8-28",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2052,11 +1837,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2071,11 +1852,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/28.png",
@@ -2086,6 +1862,7 @@ let swsh8 = [
         "id": "swsh8-29",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2120,11 +1897,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2139,11 +1912,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/29.png",
@@ -2154,6 +1922,7 @@ let swsh8 = [
         "id": "swsh8-30",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -2187,11 +1956,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2206,11 +1971,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/30.png",
@@ -2221,6 +1981,7 @@ let swsh8 = [
         "id": "swsh8-31",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -2261,11 +2022,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2280,11 +2037,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/31.png",
@@ -2295,6 +2047,7 @@ let swsh8 = [
         "id": "swsh8-32",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2340,11 +2093,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2359,11 +2108,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/32.png",
@@ -2374,6 +2118,7 @@ let swsh8 = [
         "id": "swsh8-33",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -2417,11 +2162,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2436,11 +2177,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/33.png",
@@ -2451,6 +2187,7 @@ let swsh8 = [
         "id": "swsh8-34",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2495,11 +2232,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2514,11 +2247,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/34.png",
@@ -2529,6 +2257,7 @@ let swsh8 = [
         "id": "swsh8-35",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -2573,11 +2302,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2592,11 +2317,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/35.png",
@@ -2607,6 +2327,7 @@ let swsh8 = [
         "id": "swsh8-36",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2647,11 +2368,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2666,11 +2383,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/36.png",
@@ -2681,6 +2393,7 @@ let swsh8 = [
         "id": "swsh8-37",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -2715,11 +2428,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2734,11 +2443,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/37.png",
@@ -2749,6 +2453,7 @@ let swsh8 = [
         "id": "swsh8-38",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -2790,11 +2495,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2809,11 +2510,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/38.png",
@@ -2824,6 +2520,7 @@ let swsh8 = [
         "id": "swsh8-39",
         "name": "Chandelure V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -2869,11 +2566,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2887,11 +2580,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/39.png",
@@ -2902,6 +2590,7 @@ let swsh8 = [
         "id": "swsh8-40",
         "name": "Chandelure VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -2945,11 +2634,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -2963,11 +2648,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/40.png",
@@ -2978,6 +2658,7 @@ let swsh8 = [
         "id": "swsh8-41",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -3020,11 +2701,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3039,11 +2716,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             631
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/41.png",
@@ -3054,6 +2726,7 @@ let swsh8 = [
         "id": "swsh8-42",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -3094,11 +2767,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3113,11 +2782,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/42.png",
@@ -3128,6 +2792,7 @@ let swsh8 = [
         "id": "swsh8-43",
         "name": "Cinderace V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -3165,11 +2830,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3183,11 +2844,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             815
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/43.png",
@@ -3198,6 +2854,7 @@ let swsh8 = [
         "id": "swsh8-44",
         "name": "Cinderace V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -3247,11 +2904,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3265,11 +2918,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             815
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/44.png",
@@ -3280,6 +2928,7 @@ let swsh8 = [
         "id": "swsh8-45",
         "name": "Cinderace VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -3319,11 +2968,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3337,11 +2982,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             815
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/45.png",
@@ -3352,6 +2992,7 @@ let swsh8 = [
         "id": "swsh8-46",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -3396,11 +3037,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3415,11 +3052,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             850
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/46.png",
@@ -3430,6 +3062,7 @@ let swsh8 = [
         "id": "swsh8-47",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3465,11 +3098,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3484,11 +3113,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             850
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/47.png",
@@ -3499,6 +3123,7 @@ let swsh8 = [
         "id": "swsh8-48",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -3544,11 +3169,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3563,11 +3184,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/48.png",
@@ -3578,6 +3194,7 @@ let swsh8 = [
         "id": "swsh8-49",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -3621,11 +3238,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3640,11 +3253,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/49.png",
@@ -3655,6 +3263,7 @@ let swsh8 = [
         "id": "swsh8-50",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3700,11 +3309,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3719,11 +3324,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/50.png",
@@ -3734,6 +3334,7 @@ let swsh8 = [
         "id": "swsh8-51",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -3775,11 +3376,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3794,11 +3391,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/51.png",
@@ -3809,6 +3401,7 @@ let swsh8 = [
         "id": "swsh8-52",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3853,11 +3446,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3872,11 +3461,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/52.png",
@@ -3887,6 +3471,7 @@ let swsh8 = [
         "id": "swsh8-53",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -3920,11 +3505,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -3939,11 +3520,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/53.png",
@@ -3954,6 +3530,7 @@ let swsh8 = [
         "id": "swsh8-54",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3997,11 +3574,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4016,11 +3589,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/54.png",
@@ -4031,6 +3599,7 @@ let swsh8 = [
         "id": "swsh8-55",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -4065,11 +3634,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4084,11 +3649,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/55.png",
@@ -4099,6 +3659,7 @@ let swsh8 = [
         "id": "swsh8-56",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4145,11 +3706,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4164,11 +3721,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/56.png",
@@ -4179,6 +3731,7 @@ let swsh8 = [
         "id": "swsh8-57",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -4220,11 +3773,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4239,11 +3788,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/57.png",
@@ -4254,6 +3798,7 @@ let swsh8 = [
         "id": "swsh8-58",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -4298,11 +3843,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4317,11 +3858,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/58.png",
@@ -4332,6 +3868,7 @@ let swsh8 = [
         "id": "swsh8-59",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4375,11 +3912,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4394,11 +3927,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/59.png",
@@ -4409,6 +3937,7 @@ let swsh8 = [
         "id": "swsh8-60",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -4450,11 +3979,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4469,11 +3994,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/60.png",
@@ -4484,6 +4004,7 @@ let swsh8 = [
         "id": "swsh8-61",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -4526,11 +4047,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4545,11 +4062,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/61.png",
@@ -4560,6 +4072,7 @@ let swsh8 = [
         "id": "swsh8-62",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -4606,11 +4119,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4625,11 +4134,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/62.png",
@@ -4640,6 +4144,7 @@ let swsh8 = [
         "id": "swsh8-63",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4687,11 +4192,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4706,11 +4207,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/63.png",
@@ -4721,6 +4217,7 @@ let swsh8 = [
         "id": "swsh8-64",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -4762,11 +4259,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4781,11 +4274,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/64.png",
@@ -4796,6 +4284,7 @@ let swsh8 = [
         "id": "swsh8-65",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -4832,11 +4321,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4851,11 +4336,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             366
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/65.png",
@@ -4866,6 +4346,7 @@ let swsh8 = [
         "id": "swsh8-66",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -4908,11 +4389,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -4927,11 +4404,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             367
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/66.png",
@@ -4942,6 +4414,7 @@ let swsh8 = [
         "id": "swsh8-67",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -4983,11 +4456,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5002,11 +4471,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             368
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/67.png",
@@ -5017,6 +4481,7 @@ let swsh8 = [
         "id": "swsh8-68",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -5051,11 +4516,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5070,11 +4531,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/68.png",
@@ -5085,6 +4541,7 @@ let swsh8 = [
         "id": "swsh8-69",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -5127,11 +4584,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5146,11 +4599,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/69.png",
@@ -5161,6 +4609,7 @@ let swsh8 = [
         "id": "swsh8-70",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -5194,11 +4643,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5213,11 +4658,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/70.png",
@@ -5228,6 +4668,7 @@ let swsh8 = [
         "id": "swsh8-71",
         "name": "Galarian Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -5262,11 +4703,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5281,11 +4718,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/71.png",
@@ -5296,6 +4728,7 @@ let swsh8 = [
         "id": "swsh8-72",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -5340,11 +4773,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5359,11 +4788,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/72.png",
@@ -5374,6 +4798,7 @@ let swsh8 = [
         "id": "swsh8-73",
         "name": "Greninja V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -5421,11 +4846,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5439,11 +4860,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/73.png",
@@ -5454,6 +4870,7 @@ let swsh8 = [
         "id": "swsh8-74",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -5498,11 +4915,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5517,11 +4930,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/74.png",
@@ -5532,6 +4940,7 @@ let swsh8 = [
         "id": "swsh8-75",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -5575,11 +4984,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5594,11 +4999,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             693
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/75.png",
@@ -5609,6 +5009,7 @@ let swsh8 = [
         "id": "swsh8-76",
         "name": "Crabominable V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -5655,11 +5056,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5673,11 +5070,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             740
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/76.png",
@@ -5688,6 +5080,7 @@ let swsh8 = [
         "id": "swsh8-77",
         "name": "Pyukumuku",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -5728,11 +5121,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5747,11 +5136,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             771
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/77.png",
@@ -5762,6 +5146,7 @@ let swsh8 = [
         "id": "swsh8-78",
         "name": "Inteleon V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -5810,11 +5195,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5828,11 +5209,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             818
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/78.png",
@@ -5843,6 +5219,7 @@ let swsh8 = [
         "id": "swsh8-79",
         "name": "Inteleon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -5887,11 +5264,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5905,11 +5278,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             818
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/79.png",
@@ -5920,6 +5288,7 @@ let swsh8 = [
         "id": "swsh8-80",
         "name": "Chewtle",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -5955,11 +5324,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -5974,11 +5339,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             833
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/80.png",
@@ -5989,6 +5349,7 @@ let swsh8 = [
         "id": "swsh8-81",
         "name": "Drednaw",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6023,11 +5384,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6042,11 +5399,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             834
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/81.png",
@@ -6057,6 +5409,7 @@ let swsh8 = [
         "id": "swsh8-82",
         "name": "Arrokuda",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -6091,11 +5444,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6110,11 +5459,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             846
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/82.png",
@@ -6125,6 +5469,7 @@ let swsh8 = [
         "id": "swsh8-83",
         "name": "Barraskewda",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6157,11 +5502,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6176,11 +5517,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             847
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/83.png",
@@ -6191,6 +5527,7 @@ let swsh8 = [
         "id": "swsh8-84",
         "name": "Snom",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -6225,11 +5562,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6244,11 +5577,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             872
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/84.png",
@@ -6259,6 +5587,7 @@ let swsh8 = [
         "id": "swsh8-85",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6302,11 +5631,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6321,11 +5646,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             873
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/85.png",
@@ -6336,6 +5656,7 @@ let swsh8 = [
         "id": "swsh8-86",
         "name": "Pikachu V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -6385,11 +5706,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6403,11 +5720,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/86.png",
@@ -6418,6 +5730,7 @@ let swsh8 = [
         "id": "swsh8-87",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -6453,11 +5766,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6472,11 +5781,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/87.png",
@@ -6487,6 +5791,7 @@ let swsh8 = [
         "id": "swsh8-88",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -6529,11 +5834,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6548,11 +5849,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/88.png",
@@ -6563,6 +5859,7 @@ let swsh8 = [
         "id": "swsh8-89",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -6595,11 +5892,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6614,11 +5907,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/89.png",
@@ -6629,6 +5917,7 @@ let swsh8 = [
         "id": "swsh8-90",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -6670,11 +5959,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6689,11 +5974,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/90.png",
@@ -6704,6 +5984,7 @@ let swsh8 = [
         "id": "swsh8-91",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -6748,11 +6029,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6767,11 +6044,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/91.png",
@@ -6782,6 +6054,7 @@ let swsh8 = [
         "id": "swsh8-92",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6818,11 +6091,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6837,11 +6106,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/92.png",
@@ -6852,6 +6116,7 @@ let swsh8 = [
         "id": "swsh8-93",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -6884,11 +6149,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6903,11 +6164,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/93.png",
@@ -6918,6 +6174,7 @@ let swsh8 = [
         "id": "swsh8-94",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -6958,11 +6215,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -6977,11 +6230,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/94.png",
@@ -6992,6 +6240,7 @@ let swsh8 = [
         "id": "swsh8-95",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -7036,11 +6285,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7055,11 +6300,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/95.png",
@@ -7070,6 +6310,7 @@ let swsh8 = [
         "id": "swsh8-96",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7116,11 +6357,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7135,11 +6372,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             603
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/96.png",
@@ -7150,6 +6382,7 @@ let swsh8 = [
         "id": "swsh8-97",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -7193,11 +6426,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7212,11 +6441,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             604
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/97.png",
@@ -7227,6 +6451,7 @@ let swsh8 = [
         "id": "swsh8-98",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -7271,11 +6496,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7290,11 +6511,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             694
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/98.png",
@@ -7305,6 +6521,7 @@ let swsh8 = [
         "id": "swsh8-99",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7347,11 +6564,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7366,11 +6579,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             695
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/99.png",
@@ -7381,6 +6589,7 @@ let swsh8 = [
         "id": "swsh8-100",
         "name": "Charjabug",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7428,11 +6637,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7447,11 +6652,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             737
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/100.png",
@@ -7462,6 +6662,7 @@ let swsh8 = [
         "id": "swsh8-101",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -7507,11 +6708,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7526,11 +6723,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/101.png",
@@ -7541,6 +6733,7 @@ let swsh8 = [
         "id": "swsh8-102",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -7573,11 +6766,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7592,11 +6781,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/102.png",
@@ -7607,6 +6791,7 @@ let swsh8 = [
         "id": "swsh8-103",
         "name": "Boltund V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -7653,11 +6838,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7671,11 +6852,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             836
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/103.png",
@@ -7686,6 +6862,7 @@ let swsh8 = [
         "id": "swsh8-104",
         "name": "Boltund VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -7733,11 +6910,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7751,11 +6924,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             836
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/104.png",
@@ -7766,6 +6934,7 @@ let swsh8 = [
         "id": "swsh8-105",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -7800,11 +6969,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7819,11 +6984,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             848
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/105.png",
@@ -7834,6 +6994,7 @@ let swsh8 = [
         "id": "swsh8-106",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -7878,11 +7039,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7897,11 +7054,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             848
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/106.png",
@@ -7912,6 +7064,7 @@ let swsh8 = [
         "id": "swsh8-107",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7945,11 +7098,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -7964,11 +7113,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/107.png",
@@ -7979,6 +7123,7 @@ let swsh8 = [
         "id": "swsh8-108",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -8021,11 +7166,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8040,11 +7181,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/108.png",
@@ -8055,6 +7191,7 @@ let swsh8 = [
         "id": "swsh8-109",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8087,11 +7224,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8106,11 +7239,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             877
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/109.png",
@@ -8121,6 +7249,7 @@ let swsh8 = [
         "id": "swsh8-110",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8165,11 +7294,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8184,11 +7309,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/110.png",
@@ -8199,6 +7319,7 @@ let swsh8 = [
         "id": "swsh8-111",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8242,11 +7363,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8261,11 +7378,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/111.png",
@@ -8276,6 +7388,7 @@ let swsh8 = [
         "id": "swsh8-112",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8323,11 +7436,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8342,11 +7451,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/112.png",
@@ -8357,6 +7461,7 @@ let swsh8 = [
         "id": "swsh8-113",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -8408,11 +7513,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8426,11 +7527,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/113.png",
@@ -8441,6 +7537,7 @@ let swsh8 = [
         "id": "swsh8-114",
         "name": "Mew VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Fusion Strike"
@@ -8493,11 +7590,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8511,11 +7604,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/114.png",
@@ -8526,6 +7614,7 @@ let swsh8 = [
         "id": "swsh8-115",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8571,11 +7660,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8590,11 +7675,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/115.png",
@@ -8605,6 +7685,7 @@ let swsh8 = [
         "id": "swsh8-116",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8646,11 +7727,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8665,11 +7742,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/116.png",
@@ -8680,6 +7752,7 @@ let swsh8 = [
         "id": "swsh8-117",
         "name": "Galarian Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8721,11 +7794,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8740,11 +7809,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/117.png",
@@ -8755,6 +7819,7 @@ let swsh8 = [
         "id": "swsh8-118",
         "name": "Galarian Cursola",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8804,11 +7869,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8823,11 +7884,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             864
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/118.png",
@@ -8838,6 +7894,7 @@ let swsh8 = [
         "id": "swsh8-119",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -8869,11 +7926,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8888,11 +7941,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/119.png",
@@ -8903,6 +7951,7 @@ let swsh8 = [
         "id": "swsh8-120",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike",
@@ -8945,11 +7994,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -8964,11 +8009,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/120.png",
@@ -8979,6 +8019,7 @@ let swsh8 = [
         "id": "swsh8-121",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9019,11 +8060,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9038,11 +8075,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/121.png",
@@ -9053,6 +8085,7 @@ let swsh8 = [
         "id": "swsh8-122",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -9101,11 +8134,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9120,11 +8149,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/122.png",
@@ -9135,6 +8159,7 @@ let swsh8 = [
         "id": "swsh8-123",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9182,11 +8207,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9201,11 +8222,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/123.png",
@@ -9216,6 +8232,7 @@ let swsh8 = [
         "id": "swsh8-124",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -9255,11 +8272,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9274,11 +8287,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/124.png",
@@ -9289,6 +8297,7 @@ let swsh8 = [
         "id": "swsh8-125",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9339,11 +8348,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9358,11 +8363,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             769
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/125.png",
@@ -9373,6 +8373,7 @@ let swsh8 = [
         "id": "swsh8-126",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -9425,11 +8426,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9444,11 +8441,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             770
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/126.png",
@@ -9459,6 +8451,7 @@ let swsh8 = [
         "id": "swsh8-127",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9507,11 +8500,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9526,11 +8515,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             876
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/127.png",
@@ -9541,6 +8525,7 @@ let swsh8 = [
         "id": "swsh8-128",
         "name": "Dreepy",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -9582,11 +8567,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9601,11 +8582,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             885
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/128.png",
@@ -9616,6 +8592,7 @@ let swsh8 = [
         "id": "swsh8-129",
         "name": "Drakloak",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -9668,11 +8645,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9687,11 +8660,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             886
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/129.png",
@@ -9702,6 +8670,7 @@ let swsh8 = [
         "id": "swsh8-130",
         "name": "Dragapult",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2",
             "Fusion Strike"
@@ -9750,11 +8719,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9769,11 +8734,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             887
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/130.png",
@@ -9784,6 +8744,7 @@ let swsh8 = [
         "id": "swsh8-131",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9828,11 +8789,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9847,11 +8804,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/131.png",
@@ -9862,6 +8814,7 @@ let swsh8 = [
         "id": "swsh8-132",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -9895,11 +8848,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9914,11 +8863,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/132.png",
@@ -9929,6 +8873,7 @@ let swsh8 = [
         "id": "swsh8-133",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -9963,11 +8908,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -9982,11 +8923,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/133.png",
@@ -9997,6 +8933,7 @@ let swsh8 = [
         "id": "swsh8-134",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10029,11 +8966,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10048,11 +8981,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/134.png",
@@ -10063,6 +8991,7 @@ let swsh8 = [
         "id": "swsh8-135",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -10107,11 +9036,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10126,11 +9051,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/135.png",
@@ -10141,6 +9061,7 @@ let swsh8 = [
         "id": "swsh8-136",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10187,11 +9108,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10206,11 +9123,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/136.png",
@@ -10221,6 +9133,7 @@ let swsh8 = [
         "id": "swsh8-137",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -10262,11 +9175,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10281,11 +9190,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/137.png",
@@ -10296,6 +9200,7 @@ let swsh8 = [
         "id": "swsh8-138",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -10342,11 +9247,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10361,11 +9262,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/138.png",
@@ -10376,6 +9272,7 @@ let swsh8 = [
         "id": "swsh8-139",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10420,11 +9317,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10439,11 +9332,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/139.png",
@@ -10454,6 +9342,7 @@ let swsh8 = [
         "id": "swsh8-140",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -10498,11 +9387,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10517,11 +9402,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/140.png",
@@ -10532,6 +9412,7 @@ let swsh8 = [
         "id": "swsh8-141",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10576,11 +9457,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10595,11 +9472,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/141.png",
@@ -10610,6 +9482,7 @@ let swsh8 = [
         "id": "swsh8-142",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -10656,11 +9529,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10675,11 +9544,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/142.png",
@@ -10690,6 +9554,7 @@ let swsh8 = [
         "id": "swsh8-143",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -10732,11 +9597,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10751,11 +9612,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/143.png",
@@ -10766,6 +9622,7 @@ let swsh8 = [
         "id": "swsh8-144",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -10801,11 +9658,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10820,11 +9673,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/144.png",
@@ -10835,6 +9683,7 @@ let swsh8 = [
         "id": "swsh8-145",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10878,11 +9727,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10897,11 +9742,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/145.png",
@@ -10912,6 +9752,7 @@ let swsh8 = [
         "id": "swsh8-146",
         "name": "Lucario V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -10949,11 +9790,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -10967,11 +9804,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/146.png",
@@ -10982,6 +9814,7 @@ let swsh8 = [
         "id": "swsh8-147",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11016,11 +9849,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11035,11 +9864,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/147.png",
@@ -11050,6 +9874,7 @@ let swsh8 = [
         "id": "swsh8-148",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11092,11 +9917,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11111,11 +9932,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/148.png",
@@ -11126,6 +9942,7 @@ let swsh8 = [
         "id": "swsh8-149",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11171,11 +9988,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11190,11 +10003,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             674
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/149.png",
@@ -11205,6 +10013,7 @@ let swsh8 = [
         "id": "swsh8-150",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11249,11 +10058,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11268,11 +10073,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             759
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/150.png",
@@ -11283,6 +10083,7 @@ let swsh8 = [
         "id": "swsh8-151",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11327,11 +10128,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11346,11 +10143,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/151.png",
@@ -11361,6 +10153,7 @@ let swsh8 = [
         "id": "swsh8-152",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11405,11 +10198,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11424,11 +10213,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             852
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/152.png",
@@ -11439,6 +10223,7 @@ let swsh8 = [
         "id": "swsh8-153",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11483,11 +10268,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11502,11 +10283,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             853
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/153.png",
@@ -11517,6 +10293,7 @@ let swsh8 = [
         "id": "swsh8-154",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11559,11 +10336,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11578,11 +10351,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             870
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/154.png",
@@ -11593,6 +10361,7 @@ let swsh8 = [
         "id": "swsh8-155",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11624,11 +10393,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11643,11 +10408,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             870
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/155.png",
@@ -11658,6 +10418,7 @@ let swsh8 = [
         "id": "swsh8-156",
         "name": "Gengar V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -11706,11 +10467,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11724,11 +10481,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/156.png",
@@ -11739,6 +10491,7 @@ let swsh8 = [
         "id": "swsh8-157",
         "name": "Gengar VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -11787,11 +10540,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11805,11 +10554,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/157.png",
@@ -11820,6 +10564,7 @@ let swsh8 = [
         "id": "swsh8-158",
         "name": "Tyranitar V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -11869,11 +10614,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11887,11 +10628,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/158.png",
@@ -11902,6 +10638,7 @@ let swsh8 = [
         "id": "swsh8-159",
         "name": "Galarian Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -11936,11 +10673,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -11955,11 +10688,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             263
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/159.png",
@@ -11970,6 +10698,7 @@ let swsh8 = [
         "id": "swsh8-160",
         "name": "Galarian Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12002,11 +10731,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12021,11 +10746,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             264
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/160.png",
@@ -12036,6 +10756,7 @@ let swsh8 = [
         "id": "swsh8-161",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -12077,11 +10798,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12096,11 +10813,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             862
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/161.png",
@@ -12111,6 +10823,7 @@ let swsh8 = [
         "id": "swsh8-162",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12145,11 +10858,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12164,11 +10873,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/162.png",
@@ -12179,6 +10883,7 @@ let swsh8 = [
         "id": "swsh8-163",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12212,11 +10917,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12231,11 +10932,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/163.png",
@@ -12246,6 +10942,7 @@ let swsh8 = [
         "id": "swsh8-164",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12289,11 +10986,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12308,11 +11001,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/164.png",
@@ -12323,6 +11011,7 @@ let swsh8 = [
         "id": "swsh8-165",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12357,11 +11046,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12376,11 +11061,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/165.png",
@@ -12391,6 +11071,7 @@ let swsh8 = [
         "id": "swsh8-166",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12434,11 +11115,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12453,11 +11130,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/166.png",
@@ -12468,6 +11140,7 @@ let swsh8 = [
         "id": "swsh8-167",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12501,11 +11174,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12520,11 +11189,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/167.png",
@@ -12535,6 +11199,7 @@ let swsh8 = [
         "id": "swsh8-168",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12579,11 +11244,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12598,11 +11259,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/168.png",
@@ -12613,6 +11269,7 @@ let swsh8 = [
         "id": "swsh8-169",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12656,11 +11313,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12675,11 +11328,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/169.png",
@@ -12690,6 +11338,7 @@ let swsh8 = [
         "id": "swsh8-170",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12734,11 +11383,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12753,11 +11398,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/170.png",
@@ -12768,6 +11408,7 @@ let swsh8 = [
         "id": "swsh8-171",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12811,11 +11452,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12830,11 +11467,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/171.png",
@@ -12845,6 +11477,7 @@ let swsh8 = [
         "id": "swsh8-172",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -12895,11 +11528,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12914,11 +11543,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/172.png",
@@ -12929,6 +11553,7 @@ let swsh8 = [
         "id": "swsh8-173",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12977,11 +11602,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -12996,11 +11617,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/173.png",
@@ -13011,6 +11627,7 @@ let swsh8 = [
         "id": "swsh8-174",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -13057,11 +11674,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13076,11 +11689,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             675
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/174.png",
@@ -13091,6 +11699,7 @@ let swsh8 = [
         "id": "swsh8-175",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -13141,11 +11750,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13160,11 +11765,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/175.png",
@@ -13175,6 +11775,7 @@ let swsh8 = [
         "id": "swsh8-176",
         "name": "Impidimp",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -13210,11 +11811,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13229,11 +11826,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             859
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/176.png",
@@ -13244,6 +11836,7 @@ let swsh8 = [
         "id": "swsh8-177",
         "name": "Morgrem",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -13290,11 +11883,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13309,11 +11898,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             860
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/177.png",
@@ -13324,6 +11908,7 @@ let swsh8 = [
         "id": "swsh8-178",
         "name": "Grimmsnarl",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2",
             "Single Strike"
@@ -13367,11 +11952,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13386,11 +11967,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             861
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/178.png",
@@ -13401,6 +11977,7 @@ let swsh8 = [
         "id": "swsh8-179",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -13433,11 +12010,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13452,11 +12025,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             877
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/179.png",
@@ -13467,6 +12035,7 @@ let swsh8 = [
         "id": "swsh8-180",
         "name": "Galarian Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -13517,11 +12086,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13536,11 +12101,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/180.png",
@@ -13551,6 +12111,7 @@ let swsh8 = [
         "id": "swsh8-181",
         "name": "Galarian Perrserker",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -13600,11 +12161,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13619,11 +12176,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             863
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/181.png",
@@ -13634,6 +12186,7 @@ let swsh8 = [
         "id": "swsh8-182",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -13684,11 +12237,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13703,11 +12252,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/182.png",
@@ -13718,6 +12262,7 @@ let swsh8 = [
         "id": "swsh8-183",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -13768,11 +12313,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13787,11 +12328,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/183.png",
@@ -13802,6 +12338,7 @@ let swsh8 = [
         "id": "swsh8-184",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -13841,11 +12378,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13860,11 +12393,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/184.png",
@@ -13875,6 +12403,7 @@ let swsh8 = [
         "id": "swsh8-185",
         "name": "Genesect V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -13926,11 +12455,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -13944,11 +12469,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/185.png",
@@ -13959,6 +12479,7 @@ let swsh8 = [
         "id": "swsh8-186",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -13996,11 +12517,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14015,11 +12532,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             707
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/186.png",
@@ -14030,6 +12542,7 @@ let swsh8 = [
         "id": "swsh8-187",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -14079,11 +12592,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14098,11 +12607,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/187.png",
@@ -14113,6 +12617,7 @@ let swsh8 = [
         "id": "swsh8-188",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -14164,11 +12669,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14183,11 +12684,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             808
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/188.png",
@@ -14198,6 +12694,7 @@ let swsh8 = [
         "id": "swsh8-189",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -14251,11 +12748,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14270,11 +12763,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/189.png",
@@ -14285,6 +12773,7 @@ let swsh8 = [
         "id": "swsh8-190",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -14334,11 +12823,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14353,11 +12838,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/190.png",
@@ -14368,6 +12848,7 @@ let swsh8 = [
         "id": "swsh8-191",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -14420,11 +12901,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14439,11 +12916,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             878
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/191.png",
@@ -14454,6 +12926,7 @@ let swsh8 = [
         "id": "swsh8-192",
         "name": "Copperajah",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -14507,11 +12980,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14526,11 +12995,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             879
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/192.png",
@@ -14541,6 +13005,7 @@ let swsh8 = [
         "id": "swsh8-193",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -14576,11 +13041,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14595,11 +13056,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/193.png",
@@ -14610,6 +13066,7 @@ let swsh8 = [
         "id": "swsh8-194",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -14646,11 +13103,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14665,11 +13118,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/194.png",
@@ -14680,6 +13128,7 @@ let swsh8 = [
         "id": "swsh8-195",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -14718,11 +13167,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14737,11 +13182,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             704
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/195.png",
@@ -14752,6 +13192,7 @@ let swsh8 = [
         "id": "swsh8-196",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -14791,11 +13232,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14810,11 +13247,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             705
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/196.png",
@@ -14825,6 +13257,7 @@ let swsh8 = [
         "id": "swsh8-197",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 2"
         ],
@@ -14859,11 +13292,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14878,11 +13307,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             706
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/197.png",
@@ -14893,6 +13317,7 @@ let swsh8 = [
         "id": "swsh8-198",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -14930,11 +13355,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -14949,11 +13370,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             776
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/198.png",
@@ -14964,6 +13380,7 @@ let swsh8 = [
         "id": "swsh8-199",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -14998,11 +13415,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15017,11 +13430,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/199.png",
@@ -15032,6 +13440,7 @@ let swsh8 = [
         "id": "swsh8-200",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -15074,11 +13483,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15093,11 +13498,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/200.png",
@@ -15108,6 +13508,7 @@ let swsh8 = [
         "id": "swsh8-201",
         "name": "Dodrio V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -15161,11 +13562,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15179,11 +13576,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/201.png",
@@ -15194,6 +13586,7 @@ let swsh8 = [
         "id": "swsh8-202",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15240,11 +13633,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15259,11 +13648,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/202.png",
@@ -15274,6 +13658,7 @@ let swsh8 = [
         "id": "swsh8-203",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -15315,11 +13700,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15334,11 +13715,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/203.png",
@@ -15349,6 +13725,7 @@ let swsh8 = [
         "id": "swsh8-204",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -15392,11 +13769,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15411,11 +13784,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/204.png",
@@ -15426,6 +13794,7 @@ let swsh8 = [
         "id": "swsh8-205",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15467,11 +13836,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15486,11 +13851,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/205.png",
@@ -15501,6 +13861,7 @@ let swsh8 = [
         "id": "swsh8-206",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15534,11 +13895,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15553,11 +13910,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/206.png",
@@ -15568,6 +13920,7 @@ let swsh8 = [
         "id": "swsh8-207",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15607,11 +13960,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15626,11 +13975,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/207.png",
@@ -15641,6 +13985,7 @@ let swsh8 = [
         "id": "swsh8-208",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15682,11 +14027,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15701,11 +14042,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/208.png",
@@ -15716,6 +14052,7 @@ let swsh8 = [
         "id": "swsh8-209",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -15759,11 +14096,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15778,11 +14111,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/209.png",
@@ -15793,6 +14121,7 @@ let swsh8 = [
         "id": "swsh8-210",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -15827,11 +14156,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15846,11 +14171,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/210.png",
@@ -15861,6 +14181,7 @@ let swsh8 = [
         "id": "swsh8-211",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -15903,11 +14224,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15922,11 +14239,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/211.png",
@@ -15937,6 +14249,7 @@ let swsh8 = [
         "id": "swsh8-212",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -15973,11 +14286,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -15992,11 +14301,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/212.png",
@@ -16007,6 +14311,7 @@ let swsh8 = [
         "id": "swsh8-213",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -16041,11 +14346,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16060,11 +14361,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/213.png",
@@ -16075,6 +14371,7 @@ let swsh8 = [
         "id": "swsh8-214",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -16119,11 +14416,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16138,11 +14431,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/214.png",
@@ -16153,6 +14441,7 @@ let swsh8 = [
         "id": "swsh8-215",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -16199,11 +14488,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16218,11 +14503,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             660
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/215.png",
@@ -16233,6 +14513,7 @@ let swsh8 = [
         "id": "swsh8-216",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -16271,11 +14552,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16290,11 +14567,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/216.png",
@@ -16305,6 +14577,7 @@ let swsh8 = [
         "id": "swsh8-217",
         "name": "Greedent V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -16352,11 +14625,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16370,11 +14639,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/217.png",
@@ -16385,6 +14649,7 @@ let swsh8 = [
         "id": "swsh8-218",
         "name": "Greedent VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -16432,11 +14697,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16450,11 +14711,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/218.png",
@@ -16465,6 +14721,7 @@ let swsh8 = [
         "id": "swsh8-219",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -16505,11 +14762,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16524,11 +14777,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             821
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/219.png",
@@ -16539,6 +14787,7 @@ let swsh8 = [
         "id": "swsh8-220",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -16581,11 +14830,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16600,11 +14845,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             822
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/220.png",
@@ -16615,6 +14855,7 @@ let swsh8 = [
         "id": "swsh8-221",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -16659,11 +14900,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16678,11 +14915,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             831
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/221.png",
@@ -16693,6 +14925,7 @@ let swsh8 = [
         "id": "swsh8-222",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic"
         ],
@@ -16728,11 +14961,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16747,11 +14976,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             831
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/222.png",
@@ -16762,6 +14986,7 @@ let swsh8 = [
         "id": "swsh8-223",
         "name": "Dubwool",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -16804,11 +15029,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16823,11 +15044,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             832
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/223.png",
@@ -16838,6 +15054,7 @@ let swsh8 = [
         "id": "swsh8-224",
         "name": "Adventurer's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -16851,11 +15068,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16866,11 +15079,7 @@ let swsh8 = [
         "number": "224",
         "artist": "Taira Akitsu",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/224.png",
@@ -16881,6 +15090,7 @@ let swsh8 = [
         "id": "swsh8-225",
         "name": "Battle VIP Pass",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item"
         ],
@@ -16895,11 +15105,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16910,11 +15116,7 @@ let swsh8 = [
         "number": "225",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/225.png",
@@ -16925,6 +15127,7 @@ let swsh8 = [
         "id": "swsh8-226",
         "name": "Bug Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -16938,11 +15141,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16953,11 +15152,7 @@ let swsh8 = [
         "number": "226",
         "artist": "Yuu Nishida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/226.png",
@@ -16968,6 +15163,7 @@ let swsh8 = [
         "id": "swsh8-227",
         "name": "Chili & Cilan & Cress",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -16982,11 +15178,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -16997,11 +15189,7 @@ let swsh8 = [
         "number": "227",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/227.png",
@@ -17012,6 +15200,7 @@ let swsh8 = [
         "id": "swsh8-228",
         "name": "Cook",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17025,11 +15214,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17040,11 +15225,7 @@ let swsh8 = [
         "number": "228",
         "artist": "Sanosuke Sakuma",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/228.png",
@@ -17055,6 +15236,7 @@ let swsh8 = [
         "id": "swsh8-229",
         "name": "Cram-o-matic",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item"
         ],
@@ -17068,11 +15250,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17083,11 +15261,7 @@ let swsh8 = [
         "number": "229",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/229.png",
@@ -17098,6 +15272,7 @@ let swsh8 = [
         "id": "swsh8-230",
         "name": "Cross Switcher",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item",
             "Fusion Strike"
@@ -17113,11 +15288,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17128,11 +15299,7 @@ let swsh8 = [
         "number": "230",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/230.png",
@@ -17143,6 +15310,7 @@ let swsh8 = [
         "id": "swsh8-231",
         "name": "Crossceiver",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item",
             "Fusion Strike"
@@ -17158,11 +15326,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17173,11 +15337,7 @@ let swsh8 = [
         "number": "231",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/231.png",
@@ -17188,6 +15348,7 @@ let swsh8 = [
         "id": "swsh8-232",
         "name": "Dancer",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17201,11 +15362,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17216,11 +15373,7 @@ let swsh8 = [
         "number": "232",
         "artist": "Sanosuke Sakuma",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/232.png",
@@ -17231,6 +15384,7 @@ let swsh8 = [
         "id": "swsh8-233",
         "name": "Elesa's Sparkle",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -17245,11 +15399,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17260,11 +15410,7 @@ let swsh8 = [
         "number": "233",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/233.png",
@@ -17275,8 +15421,8 @@ let swsh8 = [
         "id": "swsh8-234",
         "name": "Farewell Bell",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -17290,11 +15436,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17305,11 +15447,7 @@ let swsh8 = [
         "number": "234",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/234.png",
@@ -17320,6 +15458,7 @@ let swsh8 = [
         "id": "swsh8-235",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17333,11 +15472,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17348,11 +15483,7 @@ let swsh8 = [
         "number": "235",
         "artist": "Ryuta Fuse",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/235.png",
@@ -17363,6 +15494,7 @@ let swsh8 = [
         "id": "swsh8-236",
         "name": "Power Tablet",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item",
             "Fusion Strike"
@@ -17377,11 +15509,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17392,11 +15520,7 @@ let swsh8 = [
         "number": "236",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/236.png",
@@ -17407,6 +15531,7 @@ let swsh8 = [
         "id": "swsh8-237",
         "name": "Quick Ball",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item"
         ],
@@ -17420,11 +15545,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17435,11 +15556,7 @@ let swsh8 = [
         "number": "237",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/237.png",
@@ -17450,6 +15567,7 @@ let swsh8 = [
         "id": "swsh8-238",
         "name": "Schoolboy",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17463,11 +15581,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17478,11 +15592,7 @@ let swsh8 = [
         "number": "238",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/238.png",
@@ -17493,6 +15603,7 @@ let swsh8 = [
         "id": "swsh8-239",
         "name": "Schoolgirl",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17506,11 +15617,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17521,11 +15628,7 @@ let swsh8 = [
         "number": "239",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/239.png",
@@ -17536,6 +15639,7 @@ let swsh8 = [
         "id": "swsh8-240",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17549,11 +15653,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17564,11 +15664,7 @@ let swsh8 = [
         "number": "240",
         "artist": "Yuu Nishida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/240.png",
@@ -17579,6 +15675,7 @@ let swsh8 = [
         "id": "swsh8-241",
         "name": "Sidney",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -17592,11 +15689,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17607,11 +15700,7 @@ let swsh8 = [
         "number": "241",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/241.png",
@@ -17622,6 +15711,7 @@ let swsh8 = [
         "id": "swsh8-242",
         "name": "Skaters' Park",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stadium"
         ],
@@ -17634,11 +15724,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17649,11 +15735,7 @@ let swsh8 = [
         "number": "242",
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/242.png",
@@ -17664,8 +15746,8 @@ let swsh8 = [
         "id": "swsh8-243",
         "name": "Spongy Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -17679,11 +15761,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17694,11 +15772,7 @@ let swsh8 = [
         "number": "243",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/243.png",
@@ -17709,6 +15783,7 @@ let swsh8 = [
         "id": "swsh8-244",
         "name": "Fusion Strike Energy",
         "supertype": "Energy",
+        "setAbbrev": "FST",
         "subtypes": [
             "Fusion Strike",
             "Special"
@@ -17722,11 +15797,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17736,11 +15807,7 @@ let swsh8 = [
         },
         "number": "244",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/244.png",
@@ -17751,6 +15818,7 @@ let swsh8 = [
         "id": "swsh8-245",
         "name": "Celebi V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -17796,11 +15864,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17814,11 +15878,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/245.png",
@@ -17829,6 +15888,7 @@ let swsh8 = [
         "id": "swsh8-246",
         "name": "Tsareena V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -17865,11 +15925,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17883,11 +15939,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/246.png",
@@ -17898,6 +15949,7 @@ let swsh8 = [
         "id": "swsh8-247",
         "name": "Chandelure V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -17943,11 +15995,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -17961,11 +16009,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/247.png",
@@ -17976,6 +16019,7 @@ let swsh8 = [
         "id": "swsh8-248",
         "name": "Crabominable V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -18022,11 +16066,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18040,11 +16080,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             740
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/248.png",
@@ -18055,6 +16090,7 @@ let swsh8 = [
         "id": "swsh8-249",
         "name": "Boltund V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -18101,11 +16137,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18119,11 +16151,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             836
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/249.png",
@@ -18134,6 +16161,7 @@ let swsh8 = [
         "id": "swsh8-250",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -18185,11 +16213,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18203,11 +16227,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/250.png",
@@ -18218,6 +16237,7 @@ let swsh8 = [
         "id": "swsh8-251",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -18269,11 +16289,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18287,11 +16303,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/251.png",
@@ -18302,6 +16313,7 @@ let swsh8 = [
         "id": "swsh8-252",
         "name": "Sandaconda V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -18346,11 +16358,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18364,11 +16372,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             844
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/252.png",
@@ -18379,6 +16382,7 @@ let swsh8 = [
         "id": "swsh8-253",
         "name": "Hoopa V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -18424,11 +16428,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18442,11 +16442,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/253.png",
@@ -18457,6 +16452,7 @@ let swsh8 = [
         "id": "swsh8-254",
         "name": "Genesect V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -18508,11 +16504,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18526,11 +16518,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/254.png",
@@ -18541,6 +16528,7 @@ let swsh8 = [
         "id": "swsh8-255",
         "name": "Genesect V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V",
@@ -18592,11 +16580,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18610,11 +16594,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/255.png",
@@ -18625,6 +16604,7 @@ let swsh8 = [
         "id": "swsh8-256",
         "name": "Greedent V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -18672,11 +16652,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18690,11 +16666,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/256.png",
@@ -18705,6 +16676,7 @@ let swsh8 = [
         "id": "swsh8-257",
         "name": "Greedent V",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Basic",
             "V"
@@ -18752,11 +16724,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18770,11 +16738,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/257.png",
@@ -18785,6 +16748,7 @@ let swsh8 = [
         "id": "swsh8-258",
         "name": "Chili & Cilan & Cress",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -18799,11 +16763,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18814,11 +16774,7 @@ let swsh8 = [
         "number": "258",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/258.png",
@@ -18829,6 +16785,7 @@ let swsh8 = [
         "id": "swsh8-259",
         "name": "Dancer",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -18842,11 +16799,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18857,11 +16810,7 @@ let swsh8 = [
         "number": "259",
         "artist": "Yuu Nishida",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/259.png",
@@ -18872,6 +16821,7 @@ let swsh8 = [
         "id": "swsh8-260",
         "name": "Elesa's Sparkle",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -18886,11 +16836,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18901,11 +16847,7 @@ let swsh8 = [
         "number": "260",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/260.png",
@@ -18916,6 +16858,7 @@ let swsh8 = [
         "id": "swsh8-261",
         "name": "Schoolboy",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -18929,11 +16872,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18944,11 +16883,7 @@ let swsh8 = [
         "number": "261",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/261.png",
@@ -18959,6 +16894,7 @@ let swsh8 = [
         "id": "swsh8-262",
         "name": "Schoolgirl",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -18972,11 +16908,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -18987,11 +16919,7 @@ let swsh8 = [
         "number": "262",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/262.png",
@@ -19002,6 +16930,7 @@ let swsh8 = [
         "id": "swsh8-263",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19015,11 +16944,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19030,11 +16955,7 @@ let swsh8 = [
         "number": "263",
         "artist": "Yuu Nishida",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/263.png",
@@ -19045,6 +16966,7 @@ let swsh8 = [
         "id": "swsh8-264",
         "name": "Sidney",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19058,11 +16980,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19073,11 +16991,7 @@ let swsh8 = [
         "number": "264",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/264.png",
@@ -19088,6 +17002,7 @@ let swsh8 = [
         "id": "swsh8-265",
         "name": "Chandelure VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -19131,11 +17046,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19149,11 +17060,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/265.png",
@@ -19164,6 +17070,7 @@ let swsh8 = [
         "id": "swsh8-266",
         "name": "Inteleon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -19208,11 +17115,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19226,11 +17129,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             818
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/266.png",
@@ -19241,6 +17139,7 @@ let swsh8 = [
         "id": "swsh8-267",
         "name": "Boltund VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -19288,11 +17187,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19306,11 +17201,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             836
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/267.png",
@@ -19321,6 +17211,7 @@ let swsh8 = [
         "id": "swsh8-268",
         "name": "Mew VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Fusion Strike"
@@ -19373,11 +17264,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19391,11 +17278,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/268.png",
@@ -19406,6 +17288,7 @@ let swsh8 = [
         "id": "swsh8-269",
         "name": "Mew VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Fusion Strike"
@@ -19458,11 +17341,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19476,11 +17355,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/269.png",
@@ -19491,6 +17365,7 @@ let swsh8 = [
         "id": "swsh8-270",
         "name": "Espeon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -19541,11 +17416,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19559,11 +17430,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/270.png",
@@ -19574,6 +17440,7 @@ let swsh8 = [
         "id": "swsh8-271",
         "name": "Gengar VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -19622,11 +17489,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19640,11 +17503,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/271.png",
@@ -19655,6 +17513,7 @@ let swsh8 = [
         "id": "swsh8-272",
         "name": "Greedent VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "VMAX"
         ],
@@ -19702,11 +17561,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19720,11 +17575,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/272.png",
@@ -19735,6 +17585,7 @@ let swsh8 = [
         "id": "swsh8-273",
         "name": "Chili & Cilan & Cress",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -19749,11 +17600,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19764,11 +17611,7 @@ let swsh8 = [
         "number": "273",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/273.png",
@@ -19779,6 +17622,7 @@ let swsh8 = [
         "id": "swsh8-274",
         "name": "Dancer",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19792,11 +17636,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19807,11 +17647,7 @@ let swsh8 = [
         "number": "274",
         "artist": "Yuu Nishida",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/274.png",
@@ -19822,6 +17658,7 @@ let swsh8 = [
         "id": "swsh8-275",
         "name": "Elesa's Sparkle",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter",
             "Fusion Strike"
@@ -19836,11 +17673,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19851,11 +17684,7 @@ let swsh8 = [
         "number": "275",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/275.png",
@@ -19866,6 +17695,7 @@ let swsh8 = [
         "id": "swsh8-276",
         "name": "Schoolboy",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19879,11 +17709,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19894,11 +17720,7 @@ let swsh8 = [
         "number": "276",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/276.png",
@@ -19909,6 +17731,7 @@ let swsh8 = [
         "id": "swsh8-277",
         "name": "Schoolgirl",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19922,11 +17745,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19937,11 +17756,7 @@ let swsh8 = [
         "number": "277",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/277.png",
@@ -19952,6 +17767,7 @@ let swsh8 = [
         "id": "swsh8-278",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -19965,11 +17781,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -19980,11 +17792,7 @@ let swsh8 = [
         "number": "278",
         "artist": "Yuu Nishida",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/278.png",
@@ -19995,6 +17803,7 @@ let swsh8 = [
         "id": "swsh8-279",
         "name": "Sidney",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Supporter"
         ],
@@ -20008,11 +17817,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20023,11 +17828,7 @@ let swsh8 = [
         "number": "279",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/279.png",
@@ -20038,6 +17839,7 @@ let swsh8 = [
         "id": "swsh8-280",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stage 1"
         ],
@@ -20082,11 +17884,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20101,11 +17899,6 @@ let swsh8 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/280.png",
@@ -20116,6 +17909,7 @@ let swsh8 = [
         "id": "swsh8-281",
         "name": "Power Tablet",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Item",
             "Fusion Strike"
@@ -20130,11 +17924,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20145,11 +17935,7 @@ let swsh8 = [
         "number": "281",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/281.png",
@@ -20160,6 +17946,7 @@ let swsh8 = [
         "id": "swsh8-282",
         "name": "Training Court",
         "supertype": "Trainer",
+        "setAbbrev": "FST",
         "subtypes": [
             "Stadium"
         ],
@@ -20172,11 +17959,7 @@ let swsh8 = [
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20187,11 +17970,7 @@ let swsh8 = [
         "number": "282",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/282.png",
@@ -20202,17 +17981,14 @@ let swsh8 = [
         "id": "swsh8-283",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "FST",
         "set": {
             "id": "swsh8",
             "name": "Fusion Strike",
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20222,11 +17998,7 @@ let swsh8 = [
         },
         "number": "283",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/283.png",
             "large": "https://images.pokemontcg.io/swsh8/283_hires.png"
@@ -20236,17 +18008,14 @@ let swsh8 = [
         "id": "swsh8-284",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "FST",
         "set": {
             "id": "swsh8",
             "name": "Fusion Strike",
             "series": "Sword & Shield",
             "printedTotal": 264,
             "total": 284,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FST",
             "releaseDate": "2021/11/12",
             "images": {
@@ -20256,11 +18025,7 @@ let swsh8 = [
         },
         "number": "284",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/swsh8/284.png",
             "large": "https://images.pokemontcg.io/swsh8/284_hires.png"

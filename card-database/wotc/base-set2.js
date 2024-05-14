@@ -1,8 +1,9 @@
-let baseSet2 = [
+let base4 = [
     {
         "id": "base4-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -61,9 +60,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/1.png",
             "large": "https://images.pokemontcg.io/base4/1_hires.png"
@@ -73,6 +70,7 @@ let baseSet2 = [
         "id": "base4-2",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -114,9 +112,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -131,9 +127,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/2.png",
             "large": "https://images.pokemontcg.io/base4/2_hires.png"
@@ -143,6 +137,7 @@ let baseSet2 = [
         "id": "base4-3",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -196,9 +191,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -213,9 +206,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/3.png",
             "large": "https://images.pokemontcg.io/base4/3_hires.png"
@@ -225,6 +216,7 @@ let baseSet2 = [
         "id": "base4-4",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -273,9 +265,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -290,9 +280,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/4.png",
             "large": "https://images.pokemontcg.io/base4/4_hires.png"
@@ -302,6 +290,7 @@ let baseSet2 = [
         "id": "base4-5",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -350,9 +339,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -367,9 +354,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/5.png",
             "large": "https://images.pokemontcg.io/base4/5_hires.png"
@@ -379,6 +364,7 @@ let baseSet2 = [
         "id": "base4-6",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -430,9 +416,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -447,9 +431,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/6.png",
             "large": "https://images.pokemontcg.io/base4/6_hires.png"
@@ -459,6 +441,7 @@ let baseSet2 = [
         "id": "base4-7",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -511,9 +494,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -528,9 +509,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/7.png",
             "large": "https://images.pokemontcg.io/base4/7_hires.png"
@@ -540,6 +519,7 @@ let baseSet2 = [
         "id": "base4-8",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -582,9 +562,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -599,9 +577,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/8.png",
             "large": "https://images.pokemontcg.io/base4/8_hires.png"
@@ -611,6 +587,7 @@ let baseSet2 = [
         "id": "base4-9",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -660,9 +637,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -677,9 +652,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/9.png",
             "large": "https://images.pokemontcg.io/base4/9_hires.png"
@@ -689,6 +662,7 @@ let baseSet2 = [
         "id": "base4-10",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -731,9 +705,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -748,9 +720,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/10.png",
             "large": "https://images.pokemontcg.io/base4/10_hires.png"
@@ -760,6 +730,7 @@ let baseSet2 = [
         "id": "base4-11",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -805,9 +776,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -822,9 +791,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/11.png",
             "large": "https://images.pokemontcg.io/base4/11_hires.png"
@@ -834,6 +801,7 @@ let baseSet2 = [
         "id": "base4-12",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -879,9 +847,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -896,9 +862,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/12.png",
             "large": "https://images.pokemontcg.io/base4/12_hires.png"
@@ -908,6 +872,7 @@ let baseSet2 = [
         "id": "base4-13",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -953,9 +918,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -970,9 +933,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/13.png",
             "large": "https://images.pokemontcg.io/base4/13_hires.png"
@@ -982,6 +943,7 @@ let baseSet2 = [
         "id": "base4-14",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1031,9 +993,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1048,9 +1008,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/14.png",
             "large": "https://images.pokemontcg.io/base4/14_hires.png"
@@ -1060,6 +1018,7 @@ let baseSet2 = [
         "id": "base4-15",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1106,9 +1065,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1123,9 +1080,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/15.png",
             "large": "https://images.pokemontcg.io/base4/15_hires.png"
@@ -1135,6 +1090,7 @@ let baseSet2 = [
         "id": "base4-16",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1181,9 +1137,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1198,9 +1152,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/16.png",
             "large": "https://images.pokemontcg.io/base4/16_hires.png"
@@ -1210,6 +1162,7 @@ let baseSet2 = [
         "id": "base4-17",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -1260,9 +1213,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1277,9 +1228,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/17.png",
             "large": "https://images.pokemontcg.io/base4/17_hires.png"
@@ -1289,6 +1238,7 @@ let baseSet2 = [
         "id": "base4-18",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1331,9 +1281,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1348,9 +1296,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/18.png",
             "large": "https://images.pokemontcg.io/base4/18_hires.png"
@@ -1360,6 +1306,7 @@ let baseSet2 = [
         "id": "base4-19",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1409,9 +1356,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1426,9 +1371,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/19.png",
             "large": "https://images.pokemontcg.io/base4/19_hires.png"
@@ -1438,6 +1381,7 @@ let baseSet2 = [
         "id": "base4-20",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -1484,9 +1428,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1501,9 +1443,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/20.png",
             "large": "https://images.pokemontcg.io/base4/20_hires.png"
@@ -1513,6 +1453,7 @@ let baseSet2 = [
         "id": "base4-21",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -1563,9 +1504,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1580,9 +1519,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/21.png",
             "large": "https://images.pokemontcg.io/base4/21_hires.png"
@@ -1592,6 +1529,7 @@ let baseSet2 = [
         "id": "base4-22",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1641,9 +1579,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1658,9 +1594,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/22.png",
             "large": "https://images.pokemontcg.io/base4/22_hires.png"
@@ -1670,6 +1604,7 @@ let baseSet2 = [
         "id": "base4-23",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1722,9 +1657,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1739,9 +1672,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/23.png",
             "large": "https://images.pokemontcg.io/base4/23_hires.png"
@@ -1751,6 +1682,7 @@ let baseSet2 = [
         "id": "base4-24",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -1795,9 +1727,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1812,9 +1742,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/24.png",
             "large": "https://images.pokemontcg.io/base4/24_hires.png"
@@ -1824,6 +1752,7 @@ let baseSet2 = [
         "id": "base4-25",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -1865,9 +1794,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1882,9 +1809,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/25.png",
             "large": "https://images.pokemontcg.io/base4/25_hires.png"
@@ -1894,6 +1819,7 @@ let baseSet2 = [
         "id": "base4-26",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -1943,9 +1869,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -1960,9 +1884,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/26.png",
             "large": "https://images.pokemontcg.io/base4/26_hires.png"
@@ -1972,6 +1894,7 @@ let baseSet2 = [
         "id": "base4-27",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -2012,9 +1935,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2029,9 +1950,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/27.png",
             "large": "https://images.pokemontcg.io/base4/27_hires.png"
@@ -2041,6 +1960,7 @@ let baseSet2 = [
         "id": "base4-28",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2094,9 +2014,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2111,9 +2029,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/28.png",
             "large": "https://images.pokemontcg.io/base4/28_hires.png"
@@ -2123,6 +2039,7 @@ let baseSet2 = [
         "id": "base4-29",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -2167,9 +2084,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2184,9 +2099,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/29.png",
             "large": "https://images.pokemontcg.io/base4/29_hires.png"
@@ -2196,6 +2109,7 @@ let baseSet2 = [
         "id": "base4-30",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -2244,9 +2158,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2261,9 +2173,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/30.png",
             "large": "https://images.pokemontcg.io/base4/30_hires.png"
@@ -2273,6 +2183,7 @@ let baseSet2 = [
         "id": "base4-31",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2318,9 +2229,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2335,9 +2244,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/31.png",
             "large": "https://images.pokemontcg.io/base4/31_hires.png"
@@ -2347,6 +2254,7 @@ let baseSet2 = [
         "id": "base4-32",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -2389,9 +2297,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2406,9 +2312,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/32.png",
             "large": "https://images.pokemontcg.io/base4/32_hires.png"
@@ -2418,6 +2322,7 @@ let baseSet2 = [
         "id": "base4-33",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2464,9 +2369,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2481,9 +2384,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/33.png",
             "large": "https://images.pokemontcg.io/base4/33_hires.png"
@@ -2493,6 +2394,7 @@ let baseSet2 = [
         "id": "base4-34",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 2"
         ],
@@ -2543,9 +2445,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2560,9 +2460,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/34.png",
             "large": "https://images.pokemontcg.io/base4/34_hires.png"
@@ -2572,6 +2470,7 @@ let baseSet2 = [
         "id": "base4-35",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2620,9 +2519,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2637,9 +2534,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/35.png",
             "large": "https://images.pokemontcg.io/base4/35_hires.png"
@@ -2649,6 +2544,7 @@ let baseSet2 = [
         "id": "base4-36",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2695,9 +2591,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2712,9 +2606,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/36.png",
             "large": "https://images.pokemontcg.io/base4/36_hires.png"
@@ -2724,6 +2616,7 @@ let baseSet2 = [
         "id": "base4-37",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2770,9 +2663,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2787,9 +2678,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/37.png",
             "large": "https://images.pokemontcg.io/base4/37_hires.png"
@@ -2799,6 +2688,7 @@ let baseSet2 = [
         "id": "base4-38",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -2833,9 +2723,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2850,9 +2738,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/38.png",
             "large": "https://images.pokemontcg.io/base4/38_hires.png"
@@ -2862,6 +2748,7 @@ let baseSet2 = [
         "id": "base4-39",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -2903,9 +2790,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -2920,9 +2805,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/39.png",
             "large": "https://images.pokemontcg.io/base4/39_hires.png"
@@ -2932,6 +2815,7 @@ let baseSet2 = [
         "id": "base4-40",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -2983,9 +2867,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3000,9 +2882,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/40.png",
             "large": "https://images.pokemontcg.io/base4/40_hires.png"
@@ -3012,6 +2892,7 @@ let baseSet2 = [
         "id": "base4-41",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3063,9 +2944,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3080,9 +2959,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/41.png",
             "large": "https://images.pokemontcg.io/base4/41_hires.png"
@@ -3092,6 +2969,7 @@ let baseSet2 = [
         "id": "base4-42",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -3127,9 +3005,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3144,9 +3020,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/42.png",
             "large": "https://images.pokemontcg.io/base4/42_hires.png"
@@ -3156,6 +3030,7 @@ let baseSet2 = [
         "id": "base4-43",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3201,9 +3076,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3218,9 +3091,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/43.png",
             "large": "https://images.pokemontcg.io/base4/43_hires.png"
@@ -3230,6 +3101,7 @@ let baseSet2 = [
         "id": "base4-44",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3278,9 +3150,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3295,9 +3165,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/44.png",
             "large": "https://images.pokemontcg.io/base4/44_hires.png"
@@ -3307,6 +3175,7 @@ let baseSet2 = [
         "id": "base4-45",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -3349,9 +3218,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3366,9 +3233,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/45.png",
             "large": "https://images.pokemontcg.io/base4/45_hires.png"
@@ -3378,6 +3243,7 @@ let baseSet2 = [
         "id": "base4-46",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3425,9 +3291,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3442,9 +3306,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/46.png",
             "large": "https://images.pokemontcg.io/base4/46_hires.png"
@@ -3454,6 +3316,7 @@ let baseSet2 = [
         "id": "base4-47",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3500,9 +3363,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3517,9 +3378,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/47.png",
             "large": "https://images.pokemontcg.io/base4/47_hires.png"
@@ -3529,6 +3388,7 @@ let baseSet2 = [
         "id": "base4-48",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -3579,9 +3439,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3596,9 +3454,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/48.png",
             "large": "https://images.pokemontcg.io/base4/48_hires.png"
@@ -3608,6 +3464,7 @@ let baseSet2 = [
         "id": "base4-49",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3657,9 +3514,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3674,9 +3529,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/49.png",
             "large": "https://images.pokemontcg.io/base4/49_hires.png"
@@ -3686,6 +3539,7 @@ let baseSet2 = [
         "id": "base4-50",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -3729,9 +3583,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3746,9 +3598,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/50.png",
             "large": "https://images.pokemontcg.io/base4/50_hires.png"
@@ -3758,6 +3608,7 @@ let baseSet2 = [
         "id": "base4-51",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -3804,9 +3655,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3821,9 +3670,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/51.png",
             "large": "https://images.pokemontcg.io/base4/51_hires.png"
@@ -3833,6 +3680,7 @@ let baseSet2 = [
         "id": "base4-52",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3883,9 +3731,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3900,9 +3746,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/52.png",
             "large": "https://images.pokemontcg.io/base4/52_hires.png"
@@ -3912,6 +3756,7 @@ let baseSet2 = [
         "id": "base4-53",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -3958,9 +3803,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -3975,9 +3818,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/53.png",
             "large": "https://images.pokemontcg.io/base4/53_hires.png"
@@ -3987,6 +3828,7 @@ let baseSet2 = [
         "id": "base4-54",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4036,9 +3878,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4053,9 +3893,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/54.png",
             "large": "https://images.pokemontcg.io/base4/54_hires.png"
@@ -4065,6 +3903,7 @@ let baseSet2 = [
         "id": "base4-55",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4109,9 +3948,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4126,9 +3963,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/55.png",
             "large": "https://images.pokemontcg.io/base4/55_hires.png"
@@ -4138,6 +3973,7 @@ let baseSet2 = [
         "id": "base4-56",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4187,9 +4023,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4204,9 +4038,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/56.png",
             "large": "https://images.pokemontcg.io/base4/56_hires.png"
@@ -4216,6 +4048,7 @@ let baseSet2 = [
         "id": "base4-57",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4264,9 +4097,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4281,9 +4112,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/57.png",
             "large": "https://images.pokemontcg.io/base4/57_hires.png"
@@ -4293,6 +4122,7 @@ let baseSet2 = [
         "id": "base4-58",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4342,9 +4172,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4359,9 +4187,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/58.png",
             "large": "https://images.pokemontcg.io/base4/58_hires.png"
@@ -4371,6 +4197,7 @@ let baseSet2 = [
         "id": "base4-59",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4426,9 +4253,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4443,9 +4268,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/59.png",
             "large": "https://images.pokemontcg.io/base4/59_hires.png"
@@ -4455,6 +4278,7 @@ let baseSet2 = [
         "id": "base4-60",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4497,9 +4321,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4514,9 +4336,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/60.png",
             "large": "https://images.pokemontcg.io/base4/60_hires.png"
@@ -4526,6 +4346,7 @@ let baseSet2 = [
         "id": "base4-61",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -4560,9 +4381,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4577,9 +4396,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/61.png",
             "large": "https://images.pokemontcg.io/base4/61_hires.png"
@@ -4589,6 +4406,7 @@ let baseSet2 = [
         "id": "base4-62",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -4638,9 +4456,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4655,9 +4471,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/62.png",
             "large": "https://images.pokemontcg.io/base4/62_hires.png"
@@ -4667,6 +4481,7 @@ let baseSet2 = [
         "id": "base4-63",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4714,9 +4529,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4731,9 +4544,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/63.png",
             "large": "https://images.pokemontcg.io/base4/63_hires.png"
@@ -4743,6 +4554,7 @@ let baseSet2 = [
         "id": "base4-64",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -4788,9 +4600,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4805,9 +4615,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/64.png",
             "large": "https://images.pokemontcg.io/base4/64_hires.png"
@@ -4817,6 +4625,7 @@ let baseSet2 = [
         "id": "base4-65",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -4850,9 +4659,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4867,9 +4674,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/65.png",
             "large": "https://images.pokemontcg.io/base4/65_hires.png"
@@ -4879,6 +4684,7 @@ let baseSet2 = [
         "id": "base4-66",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -4922,9 +4728,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -4939,9 +4743,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/66.png",
             "large": "https://images.pokemontcg.io/base4/66_hires.png"
@@ -4951,6 +4753,7 @@ let baseSet2 = [
         "id": "base4-67",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -4986,9 +4789,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5003,9 +4804,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/67.png",
             "large": "https://images.pokemontcg.io/base4/67_hires.png"
@@ -5015,6 +4814,7 @@ let baseSet2 = [
         "id": "base4-68",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5049,9 +4849,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5066,10 +4864,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/68.png",
             "large": "https://images.pokemontcg.io/base4/68_hires.png"
@@ -5079,6 +4874,7 @@ let baseSet2 = [
         "id": "base4-69",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5123,9 +4919,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5140,9 +4934,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/69.png",
             "large": "https://images.pokemontcg.io/base4/69_hires.png"
@@ -5152,6 +4944,7 @@ let baseSet2 = [
         "id": "base4-70",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5202,9 +4995,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5219,9 +5010,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/70.png",
             "large": "https://images.pokemontcg.io/base4/70_hires.png"
@@ -5231,6 +5020,7 @@ let baseSet2 = [
         "id": "base4-71",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5280,9 +5070,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5297,9 +5085,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/71.png",
             "large": "https://images.pokemontcg.io/base4/71_hires.png"
@@ -5309,6 +5095,7 @@ let baseSet2 = [
         "id": "base4-72",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5348,9 +5135,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5365,9 +5150,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/72.png",
             "large": "https://images.pokemontcg.io/base4/72_hires.png"
@@ -5377,6 +5160,7 @@ let baseSet2 = [
         "id": "base4-73",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5421,9 +5205,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5438,9 +5220,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/73.png",
             "large": "https://images.pokemontcg.io/base4/73_hires.png"
@@ -5450,6 +5230,7 @@ let baseSet2 = [
         "id": "base4-74",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5494,9 +5275,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5511,9 +5290,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/74.png",
             "large": "https://images.pokemontcg.io/base4/74_hires.png"
@@ -5523,6 +5300,7 @@ let baseSet2 = [
         "id": "base4-75",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5566,9 +5344,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5583,9 +5359,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/75.png",
             "large": "https://images.pokemontcg.io/base4/75_hires.png"
@@ -5595,6 +5369,7 @@ let baseSet2 = [
         "id": "base4-76",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5628,9 +5403,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5645,9 +5418,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/76.png",
             "large": "https://images.pokemontcg.io/base4/76_hires.png"
@@ -5657,6 +5428,7 @@ let baseSet2 = [
         "id": "base4-77",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5707,9 +5479,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5724,9 +5494,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/77.png",
             "large": "https://images.pokemontcg.io/base4/77_hires.png"
@@ -5736,6 +5504,7 @@ let baseSet2 = [
         "id": "base4-78",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5770,9 +5539,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5787,9 +5554,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/78.png",
             "large": "https://images.pokemontcg.io/base4/78_hires.png"
@@ -5799,6 +5564,7 @@ let baseSet2 = [
         "id": "base4-79",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5843,9 +5609,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5860,9 +5624,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/79.png",
             "large": "https://images.pokemontcg.io/base4/79_hires.png"
@@ -5872,6 +5634,7 @@ let baseSet2 = [
         "id": "base4-80",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -5913,9 +5676,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -5930,9 +5691,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/80.png",
             "large": "https://images.pokemontcg.io/base4/80_hires.png"
@@ -5942,6 +5701,7 @@ let baseSet2 = [
         "id": "base4-81",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -5988,9 +5748,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6005,9 +5763,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/81.png",
             "large": "https://images.pokemontcg.io/base4/81_hires.png"
@@ -6017,6 +5773,7 @@ let baseSet2 = [
         "id": "base4-82",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6061,9 +5818,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6078,9 +5833,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/82.png",
             "large": "https://images.pokemontcg.io/base4/82_hires.png"
@@ -6090,6 +5843,7 @@ let baseSet2 = [
         "id": "base4-83",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6124,9 +5878,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6141,9 +5893,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/83.png",
             "large": "https://images.pokemontcg.io/base4/83_hires.png"
@@ -6153,6 +5903,7 @@ let baseSet2 = [
         "id": "base4-84",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6197,9 +5948,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6214,9 +5963,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/84.png",
             "large": "https://images.pokemontcg.io/base4/84_hires.png"
@@ -6226,6 +5973,7 @@ let baseSet2 = [
         "id": "base4-85",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6271,9 +6019,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6288,9 +6034,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/85.png",
             "large": "https://images.pokemontcg.io/base4/85_hires.png"
@@ -6300,6 +6044,7 @@ let baseSet2 = [
         "id": "base4-86",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6341,9 +6086,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6358,9 +6101,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/86.png",
             "large": "https://images.pokemontcg.io/base4/86_hires.png"
@@ -6370,6 +6111,7 @@ let baseSet2 = [
         "id": "base4-87",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6414,9 +6156,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6431,9 +6171,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/87.png",
             "large": "https://images.pokemontcg.io/base4/87_hires.png"
@@ -6443,6 +6181,7 @@ let baseSet2 = [
         "id": "base4-88",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6477,9 +6216,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6494,9 +6231,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/88.png",
             "large": "https://images.pokemontcg.io/base4/88_hires.png"
@@ -6506,6 +6241,7 @@ let baseSet2 = [
         "id": "base4-89",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6545,9 +6281,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6562,9 +6296,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/89.png",
             "large": "https://images.pokemontcg.io/base4/89_hires.png"
@@ -6574,6 +6306,7 @@ let baseSet2 = [
         "id": "base4-90",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6625,9 +6358,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6642,9 +6373,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/90.png",
             "large": "https://images.pokemontcg.io/base4/90_hires.png"
@@ -6654,6 +6383,7 @@ let baseSet2 = [
         "id": "base4-91",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6694,9 +6424,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6711,9 +6439,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/91.png",
             "large": "https://images.pokemontcg.io/base4/91_hires.png"
@@ -6723,6 +6449,7 @@ let baseSet2 = [
         "id": "base4-92",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6773,9 +6500,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6790,9 +6515,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/92.png",
             "large": "https://images.pokemontcg.io/base4/92_hires.png"
@@ -6802,6 +6525,7 @@ let baseSet2 = [
         "id": "base4-93",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6846,9 +6570,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6863,9 +6585,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/93.png",
             "large": "https://images.pokemontcg.io/base4/93_hires.png"
@@ -6875,6 +6595,7 @@ let baseSet2 = [
         "id": "base4-94",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Stage 1"
         ],
@@ -6919,9 +6640,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6936,9 +6655,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/94.png",
             "large": "https://images.pokemontcg.io/base4/94_hires.png"
@@ -6948,6 +6665,7 @@ let baseSet2 = [
         "id": "base4-95",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -6982,9 +6700,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -6999,9 +6715,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/95.png",
             "large": "https://images.pokemontcg.io/base4/95_hires.png"
@@ -7011,6 +6725,7 @@ let baseSet2 = [
         "id": "base4-96",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -7057,9 +6772,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7074,9 +6787,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/96.png",
             "large": "https://images.pokemontcg.io/base4/96_hires.png"
@@ -7086,6 +6797,7 @@ let baseSet2 = [
         "id": "base4-97",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -7130,9 +6842,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7147,9 +6857,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/97.png",
             "large": "https://images.pokemontcg.io/base4/97_hires.png"
@@ -7159,6 +6867,7 @@ let baseSet2 = [
         "id": "base4-98",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -7193,9 +6902,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7210,9 +6917,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/98.png",
             "large": "https://images.pokemontcg.io/base4/98_hires.png"
@@ -7222,6 +6927,7 @@ let baseSet2 = [
         "id": "base4-99",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -7257,9 +6963,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7274,9 +6978,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/99.png",
             "large": "https://images.pokemontcg.io/base4/99_hires.png"
@@ -7286,6 +6988,7 @@ let baseSet2 = [
         "id": "base4-100",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -7320,9 +7023,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7337,10 +7038,7 @@ let baseSet2 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/100.png",
             "large": "https://images.pokemontcg.io/base4/100_hires.png"
@@ -7350,6 +7048,7 @@ let baseSet2 = [
         "id": "base4-101",
         "name": "Computer Search",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward."
         ],
@@ -7359,9 +7058,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7372,9 +7069,7 @@ let baseSet2 = [
         "number": "101",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/101.png",
             "large": "https://images.pokemontcg.io/base4/101_hires.png"
@@ -7384,6 +7079,7 @@ let baseSet2 = [
         "id": "base4-102",
         "name": "Imposter Professor Oak",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
         ],
@@ -7393,9 +7089,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7406,9 +7100,7 @@ let baseSet2 = [
         "number": "102",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/102.png",
             "large": "https://images.pokemontcg.io/base4/102_hires.png"
@@ -7418,6 +7110,7 @@ let baseSet2 = [
         "id": "base4-103",
         "name": "Item Finder",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand."
         ],
@@ -7427,9 +7120,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7440,9 +7131,7 @@ let baseSet2 = [
         "number": "103",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/103.png",
             "large": "https://images.pokemontcg.io/base4/103_hires.png"
@@ -7452,6 +7141,7 @@ let baseSet2 = [
         "id": "base4-104",
         "name": "Lass",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks."
         ],
@@ -7461,9 +7151,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7474,9 +7162,7 @@ let baseSet2 = [
         "number": "104",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/104.png",
             "large": "https://images.pokemontcg.io/base4/104_hires.png"
@@ -7486,6 +7172,7 @@ let baseSet2 = [
         "id": "base4-105",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway."
         ],
@@ -7495,9 +7182,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7508,9 +7193,7 @@ let baseSet2 = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/105.png",
             "large": "https://images.pokemontcg.io/base4/105_hires.png"
@@ -7520,6 +7203,7 @@ let baseSet2 = [
         "id": "base4-106",
         "name": "Pokémon Trader",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
         ],
@@ -7529,9 +7213,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7542,9 +7224,7 @@ let baseSet2 = [
         "number": "106",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/106.png",
             "large": "https://images.pokemontcg.io/base4/106_hires.png"
@@ -7554,6 +7234,7 @@ let baseSet2 = [
         "id": "base4-107",
         "name": "Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
         ],
@@ -7563,9 +7244,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7576,9 +7255,7 @@ let baseSet2 = [
         "number": "107",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/107.png",
             "large": "https://images.pokemontcg.io/base4/107_hires.png"
@@ -7588,6 +7265,7 @@ let baseSet2 = [
         "id": "base4-108",
         "name": "Super Energy Removal",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Discard 1 Energy card attached to 1 of your own Pokémon in order to choose 1 of your opponent's Pokémon and up to 2 Energy cards attached to it. Discard those Energy cards."
         ],
@@ -7597,9 +7275,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7610,9 +7286,7 @@ let baseSet2 = [
         "number": "108",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/108.png",
             "large": "https://images.pokemontcg.io/base4/108_hires.png"
@@ -7622,6 +7296,7 @@ let baseSet2 = [
         "id": "base4-109",
         "name": "Defender",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
         ],
@@ -7631,9 +7306,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7644,9 +7317,7 @@ let baseSet2 = [
         "number": "109",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/109.png",
             "large": "https://images.pokemontcg.io/base4/109_hires.png"
@@ -7656,6 +7327,7 @@ let baseSet2 = [
         "id": "base4-110",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
         ],
@@ -7665,9 +7337,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7678,11 +7348,7 @@ let baseSet2 = [
         "number": "110",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/110.png",
             "large": "https://images.pokemontcg.io/base4/110_hires.png"
@@ -7692,6 +7358,7 @@ let baseSet2 = [
         "id": "base4-111",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
         ],
@@ -7701,9 +7368,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7714,9 +7379,7 @@ let baseSet2 = [
         "number": "111",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/111.png",
             "large": "https://images.pokemontcg.io/base4/111_hires.png"
@@ -7726,6 +7389,7 @@ let baseSet2 = [
         "id": "base4-112",
         "name": "Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Shuffle 2 of the other cards from your hand into your deck in order to draw a card."
         ],
@@ -7735,9 +7399,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7748,10 +7410,7 @@ let baseSet2 = [
         "number": "112",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/112.png",
             "large": "https://images.pokemontcg.io/base4/112_hires.png"
@@ -7761,6 +7420,7 @@ let baseSet2 = [
         "id": "base4-113",
         "name": "PlusPower",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémon's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon."
         ],
@@ -7770,9 +7430,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7783,10 +7441,7 @@ let baseSet2 = [
         "number": "113",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/113.png",
             "large": "https://images.pokemontcg.io/base4/113_hires.png"
@@ -7796,6 +7451,7 @@ let baseSet2 = [
         "id": "base4-114",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
         ],
@@ -7805,9 +7461,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7818,9 +7472,7 @@ let baseSet2 = [
         "number": "114",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/114.png",
             "large": "https://images.pokemontcg.io/base4/114_hires.png"
@@ -7830,6 +7482,7 @@ let baseSet2 = [
         "id": "base4-115",
         "name": "Pokédex",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Look at up to 5 cards from the top of your deck and rearrange them as you like."
         ],
@@ -7839,9 +7492,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7852,10 +7503,7 @@ let baseSet2 = [
         "number": "115",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/115.png",
             "large": "https://images.pokemontcg.io/base4/115_hires.png"
@@ -7865,6 +7513,7 @@ let baseSet2 = [
         "id": "base4-116",
         "name": "Professor Oak",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Discard your hand, then draw 7 cards."
         ],
@@ -7874,9 +7523,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7887,9 +7534,7 @@ let baseSet2 = [
         "number": "116",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/116.png",
             "large": "https://images.pokemontcg.io/base4/116_hires.png"
@@ -7899,6 +7544,7 @@ let baseSet2 = [
         "id": "base4-117",
         "name": "Super Potion",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
         ],
@@ -7908,9 +7554,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7921,9 +7565,7 @@ let baseSet2 = [
         "number": "117",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/117.png",
             "large": "https://images.pokemontcg.io/base4/117_hires.png"
@@ -7933,6 +7575,7 @@ let baseSet2 = [
         "id": "base4-118",
         "name": "Bill",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Draw 2 cards."
         ],
@@ -7942,9 +7585,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7955,9 +7596,7 @@ let baseSet2 = [
         "number": "118",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/118.png",
             "large": "https://images.pokemontcg.io/base4/118_hires.png"
@@ -7967,6 +7606,7 @@ let baseSet2 = [
         "id": "base4-119",
         "name": "Energy Removal",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
         ],
@@ -7976,9 +7616,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -7989,9 +7627,7 @@ let baseSet2 = [
         "number": "119",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/119.png",
             "large": "https://images.pokemontcg.io/base4/119_hires.png"
@@ -8001,6 +7637,7 @@ let baseSet2 = [
         "id": "base4-120",
         "name": "Gust of Wind",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
         ],
@@ -8010,9 +7647,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8023,9 +7658,7 @@ let baseSet2 = [
         "number": "120",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/120.png",
             "large": "https://images.pokemontcg.io/base4/120_hires.png"
@@ -8035,6 +7668,7 @@ let baseSet2 = [
         "id": "base4-121",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
         ],
@@ -8044,9 +7678,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8057,11 +7689,7 @@ let baseSet2 = [
         "number": "121",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/121.png",
             "large": "https://images.pokemontcg.io/base4/121_hires.png"
@@ -8071,6 +7699,7 @@ let baseSet2 = [
         "id": "base4-122",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Remove up to 2 damage counters from 1 of your Pokémon."
         ],
@@ -8080,9 +7709,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8093,11 +7720,7 @@ let baseSet2 = [
         "number": "122",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/122.png",
             "large": "https://images.pokemontcg.io/base4/122_hires.png"
@@ -8107,6 +7730,7 @@ let baseSet2 = [
         "id": "base4-123",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "B2",
         "rules": [
             "Switch 1 of your Benched Pokémon with your Active Pokémon."
         ],
@@ -8116,9 +7740,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8129,11 +7751,7 @@ let baseSet2 = [
         "number": "123",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/123.png",
             "large": "https://images.pokemontcg.io/base4/123_hires.png"
@@ -8143,6 +7761,7 @@ let baseSet2 = [
         "id": "base4-124",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Special"
         ],
@@ -8155,9 +7774,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8168,10 +7785,7 @@ let baseSet2 = [
         "number": "124",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/124.png",
             "large": "https://images.pokemontcg.io/base4/124_hires.png"
@@ -8181,6 +7795,7 @@ let baseSet2 = [
         "id": "base4-125",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8190,9 +7805,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8202,11 +7815,7 @@ let baseSet2 = [
         },
         "number": "125",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/125.png",
             "large": "https://images.pokemontcg.io/base4/125_hires.png"
@@ -8216,6 +7825,7 @@ let baseSet2 = [
         "id": "base4-126",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8225,9 +7835,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8237,11 +7845,7 @@ let baseSet2 = [
         },
         "number": "126",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/126.png",
             "large": "https://images.pokemontcg.io/base4/126_hires.png"
@@ -8251,6 +7855,7 @@ let baseSet2 = [
         "id": "base4-127",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8260,9 +7865,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8272,11 +7875,7 @@ let baseSet2 = [
         },
         "number": "127",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/127.png",
             "large": "https://images.pokemontcg.io/base4/127_hires.png"
@@ -8286,6 +7885,7 @@ let baseSet2 = [
         "id": "base4-128",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8295,9 +7895,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8307,11 +7905,7 @@ let baseSet2 = [
         },
         "number": "128",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/128.png",
             "large": "https://images.pokemontcg.io/base4/128_hires.png"
@@ -8321,6 +7915,7 @@ let baseSet2 = [
         "id": "base4-129",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8330,9 +7925,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8342,11 +7935,7 @@ let baseSet2 = [
         },
         "number": "129",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/129.png",
             "large": "https://images.pokemontcg.io/base4/129_hires.png"
@@ -8356,6 +7945,7 @@ let baseSet2 = [
         "id": "base4-130",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "B2",
         "subtypes": [
             "Basic"
         ],
@@ -8365,9 +7955,7 @@ let baseSet2 = [
             "series": "Base",
             "printedTotal": 130,
             "total": 130,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "B2",
             "releaseDate": "2000/02/24",
             "images": {
@@ -8377,11 +7965,7 @@ let baseSet2 = [
         },
         "number": "130",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base4/130.png",
             "large": "https://images.pokemontcg.io/base4/130_hires.png"

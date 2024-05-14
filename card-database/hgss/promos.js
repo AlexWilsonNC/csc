@@ -1,8 +1,9 @@
-let promoHgSs = [
+let hsp = [
     {
         "id": "hsp-HGSS01",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -52,9 +53,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -62,25 +61,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS01",
+        "numberWithAbbrev": "HGSS01",
+        "number": "01",
         "artist": "Takashi Yamaguchi",
         "rarity": "Promo",
         "flavorText": "A legend says that its body glows in seven colors. A rainbow is said to form behind when it flies.",
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS01.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS01_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_001_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_001_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS02",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -130,9 +129,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -140,25 +137,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS02",
+        "numberWithAbbrev": "HGSS02",
+        "number": "02",
         "artist": "Takashi Yamaguchi",
         "rarity": "Promo",
         "flavorText": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS02.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS02_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_002_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_002_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS03",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -211,9 +208,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -221,25 +216,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS03",
+        "numberWithAbbrev": "HGSS03",
+        "number": "03",
         "artist": "Kanako Eo",
         "rarity": "Promo",
         "flavorText": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS03.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS03_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_003_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_003_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS04",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -279,9 +274,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -289,25 +282,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS04",
+        "numberWithAbbrev": "HGSS04",
+        "number": "04",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS04.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS04_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_004_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_004_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS05",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -355,9 +348,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -365,25 +356,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS05",
+        "numberWithAbbrev": "HGSS05",
+        "number": "05",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS05.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS05_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_005_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_005_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS06",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -431,9 +422,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -441,25 +430,25 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS06",
+        "numberWithAbbrev": "HGSS06",
+        "number": "06",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS06.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS06_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_006_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_006_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS07",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -503,9 +492,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -513,24 +500,24 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS07",
+        "numberWithAbbrev": "HGSS07",
+        "number": "07",
         "artist": "Kent Kanetsuna",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS07.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS07_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_007_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_007_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS08",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -580,9 +567,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -590,24 +575,24 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS08",
+        "numberWithAbbrev": "HGSS08",
+        "number": "08",
         "artist": "Noriko Hotta",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS08.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS08_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_008_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_008_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS09",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -650,9 +635,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -660,24 +643,24 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS09",
+        "numberWithAbbrev": "HGSS09",
+        "number": "09",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS09.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS09_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_009_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_009_R_EN.png"
         }
     },
     {
         "id": "hsp-HGSS10",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -720,9 +703,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -730,16 +711,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS10",
+        "numberWithAbbrev": "HGSS10",
+        "number": "10",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "flavorText": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS10.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS10_hires.png"
@@ -749,6 +729,7 @@ let promoHgSs = [
         "id": "hsp-HGSS11",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -790,9 +771,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -800,16 +779,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS11",
+        "numberWithAbbrev": "HGSS11",
+        "number": "11",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS11.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS11_hires.png"
@@ -819,6 +797,7 @@ let promoHgSs = [
         "id": "hsp-HGSS12",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -851,9 +830,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -861,16 +838,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS12",
+        "numberWithAbbrev": "HGSS12",
+        "number": "12",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS12.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS12_hires.png"
@@ -880,6 +856,7 @@ let promoHgSs = [
         "id": "hsp-HGSS13",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -912,9 +889,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -922,16 +897,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS13",
+        "numberWithAbbrev": "HGSS13",
+        "number": "13",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS13.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS13_hires.png"
@@ -941,6 +915,7 @@ let promoHgSs = [
         "id": "hsp-HGSS14",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -983,9 +958,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -993,16 +966,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS14",
+        "numberWithAbbrev": "HGSS14",
+        "number": "14",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS14.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS14_hires.png"
@@ -1012,6 +984,7 @@ let promoHgSs = [
         "id": "hsp-HGSS15",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1051,9 +1024,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1061,16 +1032,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS15",
+        "numberWithAbbrev": "HGSS15",
+        "number": "15",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS15.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS15_hires.png"
@@ -1080,6 +1050,7 @@ let promoHgSs = [
         "id": "hsp-HGSS16",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1126,9 +1097,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1136,16 +1105,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS16",
+        "numberWithAbbrev": "HGSS16",
+        "number": "16",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS16.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS16_hires.png"
@@ -1155,6 +1123,7 @@ let promoHgSs = [
         "id": "hsp-HGSS17",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1201,9 +1170,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1211,16 +1178,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS17",
+        "numberWithAbbrev": "HGSS17",
+        "number": "17",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS17.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS17_hires.png"
@@ -1230,6 +1196,7 @@ let promoHgSs = [
         "id": "hsp-HGSS18",
         "name": "Tropical Tidal Wave",
         "supertype": "Trainer",
+        "setAbbrev": "PR-HS",
         "rules": [
             "Flip a coin. If heads, discard all Trainer and Stadium cards your opponent has in play. If tails, discard all Trainer and Stadium cards you have in play."
         ],
@@ -1239,9 +1206,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1249,12 +1214,11 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS18",
+        "numberWithAbbrev": "HGSS18",
+        "number": "18",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/tropical-tidal-wave-heartgold-soulsilver-promos-hgss18-1.png?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/tropical-tidal-wave-heartgold-soulsilver-promos-hgss18-1.png?fit=734%2C1024&ssl=1"
@@ -1264,6 +1228,7 @@ let promoHgSs = [
         "id": "hsp-HGSS19",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1303,9 +1268,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1313,16 +1276,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS19",
+        "numberWithAbbrev": "HGSS19",
+        "number": "19",
         "artist": "Noriko Hotta",
         "rarity": "Promo",
         "flavorText": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS19.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS19_hires.png"
@@ -1332,6 +1294,7 @@ let promoHgSs = [
         "id": "hsp-HGSS20",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1365,9 +1328,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1375,16 +1336,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS20",
+        "numberWithAbbrev": "HGSS20",
+        "number": "20",
         "artist": "Yuri Umemura",
         "rarity": "Promo",
         "flavorText": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.",
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS20.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS20_hires.png"
@@ -1394,6 +1354,7 @@ let promoHgSs = [
         "id": "hsp-HGSS21",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1427,9 +1388,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1437,16 +1396,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS21",
+        "numberWithAbbrev": "HGSS21",
+        "number": "21",
         "artist": "Hideaki Hakozaki",
         "rarity": "Promo",
         "flavorText": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS21.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS21_hires.png"
@@ -1456,6 +1414,7 @@ let promoHgSs = [
         "id": "hsp-HGSS22",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1500,9 +1459,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1510,16 +1467,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS22",
+        "numberWithAbbrev": "HGSS22",
+        "number": "22",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment..",
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS22.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS22_hires.png"
@@ -1529,6 +1485,7 @@ let promoHgSs = [
         "id": "hsp-HGSS23",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1573,9 +1530,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1583,16 +1538,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS23",
+        "numberWithAbbrev": "HGSS23",
+        "number": "23",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS23.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS23_hires.png"
@@ -1602,6 +1556,7 @@ let promoHgSs = [
         "id": "hsp-HGSS24",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1643,9 +1598,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1653,16 +1606,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS24",
+        "numberWithAbbrev": "HGSS24",
+        "number": "24",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS24.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS24_hires.png"
@@ -1672,6 +1624,7 @@ let promoHgSs = [
         "id": "hsp-HGSS25",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1714,9 +1667,7 @@ let promoHgSs = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1724,16 +1675,15 @@ let promoHgSs = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS25",
+        "numberWithAbbrev": "HGSS25",
+        "number": "25",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hsp/HGSS25.png",
             "large": "https://images.pokemontcg.io/hsp/HGSS25_hires.png"

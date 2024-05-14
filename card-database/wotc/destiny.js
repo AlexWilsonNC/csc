@@ -1,8 +1,9 @@
-let destiny = [
+let neo4 = [
     {
         "id": "neo4-1",
         "name": "Dark Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -61,9 +60,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/1.png",
             "large": "https://images.pokemontcg.io/neo4/1_hires.png"
@@ -73,6 +70,7 @@ let destiny = [
         "id": "neo4-2",
         "name": "Dark Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -118,9 +116,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -135,9 +131,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/2.png",
             "large": "https://images.pokemontcg.io/neo4/2_hires.png"
@@ -147,6 +141,7 @@ let destiny = [
         "id": "neo4-3",
         "name": "Dark Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -197,9 +192,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -214,9 +207,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/3.png",
             "large": "https://images.pokemontcg.io/neo4/3_hires.png"
@@ -226,6 +217,7 @@ let destiny = [
         "id": "neo4-4",
         "name": "Dark Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -268,9 +260,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -285,9 +275,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/4.png",
             "large": "https://images.pokemontcg.io/neo4/4_hires.png"
@@ -297,6 +285,7 @@ let destiny = [
         "id": "neo4-5",
         "name": "Dark Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -338,9 +327,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -355,9 +342,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/5.png",
             "large": "https://images.pokemontcg.io/neo4/5_hires.png"
@@ -367,6 +352,7 @@ let destiny = [
         "id": "neo4-6",
         "name": "Dark Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -408,9 +394,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -425,9 +409,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/6.png",
             "large": "https://images.pokemontcg.io/neo4/6_hires.png"
@@ -437,6 +419,7 @@ let destiny = [
         "id": "neo4-7",
         "name": "Dark Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -479,9 +462,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -496,9 +477,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/7.png",
             "large": "https://images.pokemontcg.io/neo4/7_hires.png"
@@ -508,6 +487,7 @@ let destiny = [
         "id": "neo4-8",
         "name": "Dark Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -558,9 +538,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -575,9 +553,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/8.png",
             "large": "https://images.pokemontcg.io/neo4/8_hires.png"
@@ -587,6 +563,7 @@ let destiny = [
         "id": "neo4-9",
         "name": "Dark Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -637,9 +614,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -654,9 +629,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/9.png",
             "large": "https://images.pokemontcg.io/neo4/9_hires.png"
@@ -666,6 +639,7 @@ let destiny = [
         "id": "neo4-10",
         "name": "Dark Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -707,9 +681,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -724,9 +696,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/10.png",
             "large": "https://images.pokemontcg.io/neo4/10_hires.png"
@@ -736,6 +706,7 @@ let destiny = [
         "id": "neo4-11",
         "name": "Dark Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -786,9 +757,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -803,9 +772,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/11.png",
             "large": "https://images.pokemontcg.io/neo4/11_hires.png"
@@ -815,6 +782,7 @@ let destiny = [
         "id": "neo4-12",
         "name": "Light Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -856,9 +824,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -873,9 +839,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/12.png",
             "large": "https://images.pokemontcg.io/neo4/12_hires.png"
@@ -885,6 +849,7 @@ let destiny = [
         "id": "neo4-13",
         "name": "Light Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -928,9 +893,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -945,9 +908,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/13.png",
             "large": "https://images.pokemontcg.io/neo4/13_hires.png"
@@ -957,6 +918,7 @@ let destiny = [
         "id": "neo4-14",
         "name": "Light Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -998,9 +960,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1015,9 +975,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/14.png",
             "large": "https://images.pokemontcg.io/neo4/14_hires.png"
@@ -1027,6 +985,7 @@ let destiny = [
         "id": "neo4-15",
         "name": "Light Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1069,9 +1028,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1086,9 +1043,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/15.png",
             "large": "https://images.pokemontcg.io/neo4/15_hires.png"
@@ -1098,6 +1053,7 @@ let destiny = [
         "id": "neo4-16",
         "name": "Miracle Energy",
         "supertype": "Energy",
+        "setAbbrev": "N4",
         "subtypes": [
             "Special"
         ],
@@ -1110,9 +1066,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1123,9 +1077,7 @@ let destiny = [
         "number": "16",
         "artist": "Milky Isobe",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/16.png",
             "large": "https://images.pokemontcg.io/neo4/16_hires.png"
@@ -1135,6 +1087,7 @@ let destiny = [
         "id": "neo4-17",
         "name": "Dark Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1178,9 +1131,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1195,9 +1146,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/17.png",
             "large": "https://images.pokemontcg.io/neo4/17_hires.png"
@@ -1207,6 +1156,7 @@ let destiny = [
         "id": "neo4-18",
         "name": "Dark Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1247,9 +1197,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1264,9 +1212,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/18.png",
             "large": "https://images.pokemontcg.io/neo4/18_hires.png"
@@ -1276,6 +1222,7 @@ let destiny = [
         "id": "neo4-19",
         "name": "Dark Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -1318,9 +1265,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1335,9 +1280,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/19.png",
             "large": "https://images.pokemontcg.io/neo4/19_hires.png"
@@ -1347,6 +1290,7 @@ let destiny = [
         "id": "neo4-20",
         "name": "Dark Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1387,9 +1331,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1404,9 +1346,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/20.png",
             "large": "https://images.pokemontcg.io/neo4/20_hires.png"
@@ -1416,6 +1356,7 @@ let destiny = [
         "id": "neo4-21",
         "name": "Dark Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1464,9 +1405,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1481,9 +1420,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/21.png",
             "large": "https://images.pokemontcg.io/neo4/21_hires.png"
@@ -1493,6 +1430,7 @@ let destiny = [
         "id": "neo4-22",
         "name": "Light Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1540,9 +1478,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1557,9 +1493,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/22.png",
             "large": "https://images.pokemontcg.io/neo4/22_hires.png"
@@ -1569,6 +1503,7 @@ let destiny = [
         "id": "neo4-23",
         "name": "Light Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1611,9 +1546,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1628,9 +1561,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/23.png",
             "large": "https://images.pokemontcg.io/neo4/23_hires.png"
@@ -1640,6 +1571,7 @@ let destiny = [
         "id": "neo4-24",
         "name": "Light Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1688,9 +1620,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1705,9 +1635,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/24.png",
             "large": "https://images.pokemontcg.io/neo4/24_hires.png"
@@ -1717,6 +1645,7 @@ let destiny = [
         "id": "neo4-25",
         "name": "Light Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 2"
         ],
@@ -1758,9 +1687,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1775,9 +1702,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/25.png",
             "large": "https://images.pokemontcg.io/neo4/25_hires.png"
@@ -1787,6 +1712,7 @@ let destiny = [
         "id": "neo4-26",
         "name": "Light Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -1837,9 +1763,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1854,9 +1778,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/26.png",
             "large": "https://images.pokemontcg.io/neo4/26_hires.png"
@@ -1866,6 +1788,7 @@ let destiny = [
         "id": "neo4-27",
         "name": "Unown [G]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -1907,9 +1830,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1924,9 +1845,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/27.png",
             "large": "https://images.pokemontcg.io/neo4/27_hires.png"
@@ -1936,6 +1855,7 @@ let destiny = [
         "id": "neo4-28",
         "name": "Unown [H]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -1977,9 +1897,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -1994,9 +1912,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/28.png",
             "large": "https://images.pokemontcg.io/neo4/28_hires.png"
@@ -2006,6 +1922,7 @@ let destiny = [
         "id": "neo4-29",
         "name": "Unown [W]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -2047,9 +1964,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2064,9 +1979,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/29.png",
             "large": "https://images.pokemontcg.io/neo4/29_hires.png"
@@ -2076,6 +1989,7 @@ let destiny = [
         "id": "neo4-30",
         "name": "Unown [X]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -2117,9 +2031,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2134,9 +2046,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/30.png",
             "large": "https://images.pokemontcg.io/neo4/30_hires.png"
@@ -2146,6 +2056,7 @@ let destiny = [
         "id": "neo4-31",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -2198,9 +2109,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2215,9 +2124,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/31.png",
             "large": "https://images.pokemontcg.io/neo4/31_hires.png"
@@ -2227,6 +2134,7 @@ let destiny = [
         "id": "neo4-32",
         "name": "Dark Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2263,9 +2171,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2280,9 +2186,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/32.png",
             "large": "https://images.pokemontcg.io/neo4/32_hires.png"
@@ -2292,6 +2196,7 @@ let destiny = [
         "id": "neo4-33",
         "name": "Dark Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2334,9 +2239,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2351,9 +2254,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/33.png",
             "large": "https://images.pokemontcg.io/neo4/33_hires.png"
@@ -2363,6 +2264,7 @@ let destiny = [
         "id": "neo4-34",
         "name": "Dark Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2408,9 +2310,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2425,9 +2325,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/34.png",
             "large": "https://images.pokemontcg.io/neo4/34_hires.png"
@@ -2437,6 +2335,7 @@ let destiny = [
         "id": "neo4-35",
         "name": "Dark Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2479,9 +2378,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2496,9 +2393,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/35.png",
             "large": "https://images.pokemontcg.io/neo4/35_hires.png"
@@ -2508,6 +2403,7 @@ let destiny = [
         "id": "neo4-36",
         "name": "Dark Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2552,9 +2448,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2569,9 +2463,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/36.png",
             "large": "https://images.pokemontcg.io/neo4/36_hires.png"
@@ -2581,6 +2473,7 @@ let destiny = [
         "id": "neo4-37",
         "name": "Dark Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2616,9 +2509,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2633,9 +2524,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/37.png",
             "large": "https://images.pokemontcg.io/neo4/37_hires.png"
@@ -2645,6 +2534,7 @@ let destiny = [
         "id": "neo4-38",
         "name": "Dark Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2698,9 +2588,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2715,9 +2603,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/38.png",
             "large": "https://images.pokemontcg.io/neo4/38_hires.png"
@@ -2727,6 +2613,7 @@ let destiny = [
         "id": "neo4-39",
         "name": "Dark Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2772,9 +2659,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2789,9 +2674,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/39.png",
             "large": "https://images.pokemontcg.io/neo4/39_hires.png"
@@ -2801,6 +2684,7 @@ let destiny = [
         "id": "neo4-40",
         "name": "Dark Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -2851,9 +2735,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2868,9 +2750,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/40.png",
             "large": "https://images.pokemontcg.io/neo4/40_hires.png"
@@ -2880,6 +2760,7 @@ let destiny = [
         "id": "neo4-41",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -2923,9 +2804,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -2940,9 +2819,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/41.png",
             "large": "https://images.pokemontcg.io/neo4/41_hires.png"
@@ -2952,6 +2829,7 @@ let destiny = [
         "id": "neo4-42",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -2995,9 +2873,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3012,9 +2888,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/42.png",
             "large": "https://images.pokemontcg.io/neo4/42_hires.png"
@@ -3024,6 +2898,7 @@ let destiny = [
         "id": "neo4-43",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -3068,9 +2943,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3085,9 +2958,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/43.png",
             "large": "https://images.pokemontcg.io/neo4/43_hires.png"
@@ -3097,6 +2968,7 @@ let destiny = [
         "id": "neo4-44",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -3138,9 +3010,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3155,9 +3025,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/44.png",
             "large": "https://images.pokemontcg.io/neo4/44_hires.png"
@@ -3167,6 +3035,7 @@ let destiny = [
         "id": "neo4-45",
         "name": "Light Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3211,9 +3080,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3228,9 +3095,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/45.png",
             "large": "https://images.pokemontcg.io/neo4/45_hires.png"
@@ -3240,6 +3105,7 @@ let destiny = [
         "id": "neo4-46",
         "name": "Light Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3283,9 +3149,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3300,9 +3164,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/46.png",
             "large": "https://images.pokemontcg.io/neo4/46_hires.png"
@@ -3312,6 +3174,7 @@ let destiny = [
         "id": "neo4-47",
         "name": "Light Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3355,9 +3218,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3372,9 +3233,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/47.png",
             "large": "https://images.pokemontcg.io/neo4/47_hires.png"
@@ -3384,6 +3243,7 @@ let destiny = [
         "id": "neo4-48",
         "name": "Light Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3426,9 +3286,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3443,9 +3301,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/48.png",
             "large": "https://images.pokemontcg.io/neo4/48_hires.png"
@@ -3455,6 +3311,7 @@ let destiny = [
         "id": "neo4-49",
         "name": "Light Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3500,9 +3357,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3517,9 +3372,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/49.png",
             "large": "https://images.pokemontcg.io/neo4/49_hires.png"
@@ -3529,6 +3382,7 @@ let destiny = [
         "id": "neo4-50",
         "name": "Light Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3572,9 +3426,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3589,9 +3441,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/50.png",
             "large": "https://images.pokemontcg.io/neo4/50_hires.png"
@@ -3601,6 +3451,7 @@ let destiny = [
         "id": "neo4-51",
         "name": "Light Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3643,9 +3494,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3660,9 +3509,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/51.png",
             "large": "https://images.pokemontcg.io/neo4/51_hires.png"
@@ -3672,6 +3519,7 @@ let destiny = [
         "id": "neo4-52",
         "name": "Light Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3715,9 +3563,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3732,9 +3578,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/52.png",
             "large": "https://images.pokemontcg.io/neo4/52_hires.png"
@@ -3744,6 +3588,7 @@ let destiny = [
         "id": "neo4-53",
         "name": "Light Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3791,9 +3636,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3808,9 +3651,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/53.png",
             "large": "https://images.pokemontcg.io/neo4/53_hires.png"
@@ -3820,6 +3661,7 @@ let destiny = [
         "id": "neo4-54",
         "name": "Light Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -3869,9 +3711,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3886,9 +3726,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/54.png",
             "large": "https://images.pokemontcg.io/neo4/54_hires.png"
@@ -3898,6 +3736,7 @@ let destiny = [
         "id": "neo4-55",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -3950,9 +3789,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -3967,9 +3804,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/55.png",
             "large": "https://images.pokemontcg.io/neo4/55_hires.png"
@@ -3979,6 +3814,7 @@ let destiny = [
         "id": "neo4-56",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4023,9 +3859,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4040,9 +3874,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/56.png",
             "large": "https://images.pokemontcg.io/neo4/56_hires.png"
@@ -4052,6 +3884,7 @@ let destiny = [
         "id": "neo4-57",
         "name": "Unown [C]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4093,9 +3926,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4110,9 +3941,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/57.png",
             "large": "https://images.pokemontcg.io/neo4/57_hires.png"
@@ -4122,6 +3951,7 @@ let destiny = [
         "id": "neo4-58",
         "name": "Unown [P]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4163,9 +3993,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4180,9 +4008,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/58.png",
             "large": "https://images.pokemontcg.io/neo4/58_hires.png"
@@ -4192,6 +4018,7 @@ let destiny = [
         "id": "neo4-59",
         "name": "Unown [Q]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4233,9 +4060,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4250,9 +4075,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/59.png",
             "large": "https://images.pokemontcg.io/neo4/59_hires.png"
@@ -4262,6 +4085,7 @@ let destiny = [
         "id": "neo4-60",
         "name": "Unown [Z]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4303,9 +4127,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4320,9 +4142,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/60.png",
             "large": "https://images.pokemontcg.io/neo4/60_hires.png"
@@ -4332,6 +4152,7 @@ let destiny = [
         "id": "neo4-61",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4366,9 +4187,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4383,9 +4202,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/61.png",
             "large": "https://images.pokemontcg.io/neo4/61_hires.png"
@@ -4395,6 +4212,7 @@ let destiny = [
         "id": "neo4-62",
         "name": "Dark Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -4437,9 +4255,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4454,9 +4270,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/62.png",
             "large": "https://images.pokemontcg.io/neo4/62_hires.png"
@@ -4466,6 +4280,7 @@ let destiny = [
         "id": "neo4-63",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4509,9 +4324,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4526,9 +4339,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/63.png",
             "large": "https://images.pokemontcg.io/neo4/63_hires.png"
@@ -4538,6 +4349,7 @@ let destiny = [
         "id": "neo4-64",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4581,9 +4393,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4598,9 +4408,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/64.png",
             "large": "https://images.pokemontcg.io/neo4/64_hires.png"
@@ -4610,6 +4418,7 @@ let destiny = [
         "id": "neo4-65",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4643,9 +4452,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4660,9 +4467,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/65.png",
             "large": "https://images.pokemontcg.io/neo4/65_hires.png"
@@ -4672,6 +4477,7 @@ let destiny = [
         "id": "neo4-66",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4708,9 +4514,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4725,9 +4529,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/66.png",
             "large": "https://images.pokemontcg.io/neo4/66_hires.png"
@@ -4737,6 +4539,7 @@ let destiny = [
         "id": "neo4-67",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4777,9 +4580,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4794,9 +4595,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/67.png",
             "large": "https://images.pokemontcg.io/neo4/67_hires.png"
@@ -4806,6 +4605,7 @@ let destiny = [
         "id": "neo4-68",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4841,9 +4641,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4858,9 +4656,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/68.png",
             "large": "https://images.pokemontcg.io/neo4/68_hires.png"
@@ -4870,6 +4666,7 @@ let destiny = [
         "id": "neo4-69",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4912,9 +4709,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -4929,9 +4724,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/69.png",
             "large": "https://images.pokemontcg.io/neo4/69_hires.png"
@@ -4941,6 +4734,7 @@ let destiny = [
         "id": "neo4-70",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -4991,9 +4785,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5008,9 +4800,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/70.png",
             "large": "https://images.pokemontcg.io/neo4/70_hires.png"
@@ -5020,6 +4810,7 @@ let destiny = [
         "id": "neo4-71",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5060,9 +4851,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5077,9 +4866,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/71.png",
             "large": "https://images.pokemontcg.io/neo4/71_hires.png"
@@ -5089,6 +4876,7 @@ let destiny = [
         "id": "neo4-72",
         "name": "Light Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stage 1"
         ],
@@ -5133,9 +4921,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5150,9 +4936,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             192
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/72.png",
             "large": "https://images.pokemontcg.io/neo4/72_hires.png"
@@ -5162,6 +4946,7 @@ let destiny = [
         "id": "neo4-73",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5206,9 +4991,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5223,9 +5006,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/73.png",
             "large": "https://images.pokemontcg.io/neo4/73_hires.png"
@@ -5235,6 +5016,7 @@ let destiny = [
         "id": "neo4-74",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5273,9 +5055,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5290,9 +5070,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/74.png",
             "large": "https://images.pokemontcg.io/neo4/74_hires.png"
@@ -5302,6 +5080,7 @@ let destiny = [
         "id": "neo4-75",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5336,9 +5115,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5353,9 +5130,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/75.png",
             "large": "https://images.pokemontcg.io/neo4/75_hires.png"
@@ -5365,6 +5140,7 @@ let destiny = [
         "id": "neo4-76",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5405,9 +5181,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5422,9 +5196,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/76.png",
             "large": "https://images.pokemontcg.io/neo4/76_hires.png"
@@ -5434,6 +5206,7 @@ let destiny = [
         "id": "neo4-77",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5469,9 +5242,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5486,9 +5257,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/77.png",
             "large": "https://images.pokemontcg.io/neo4/77_hires.png"
@@ -5498,6 +5267,7 @@ let destiny = [
         "id": "neo4-78",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5539,9 +5309,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5556,9 +5324,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/78.png",
             "large": "https://images.pokemontcg.io/neo4/78_hires.png"
@@ -5568,6 +5334,7 @@ let destiny = [
         "id": "neo4-79",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5612,9 +5379,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5629,9 +5394,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/79.png",
             "large": "https://images.pokemontcg.io/neo4/79_hires.png"
@@ -5641,6 +5404,7 @@ let destiny = [
         "id": "neo4-80",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5674,9 +5438,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5691,9 +5453,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/80.png",
             "large": "https://images.pokemontcg.io/neo4/80_hires.png"
@@ -5703,6 +5463,7 @@ let destiny = [
         "id": "neo4-81",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5738,9 +5499,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5755,9 +5514,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/81.png",
             "large": "https://images.pokemontcg.io/neo4/81_hires.png"
@@ -5767,6 +5524,7 @@ let destiny = [
         "id": "neo4-82",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5802,9 +5560,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5819,9 +5575,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/82.png",
             "large": "https://images.pokemontcg.io/neo4/82_hires.png"
@@ -5831,6 +5585,7 @@ let destiny = [
         "id": "neo4-83",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5875,9 +5630,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5892,9 +5645,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             191
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/83.png",
             "large": "https://images.pokemontcg.io/neo4/83_hires.png"
@@ -5904,6 +5655,7 @@ let destiny = [
         "id": "neo4-84",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -5945,9 +5697,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -5962,9 +5712,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/84.png",
             "large": "https://images.pokemontcg.io/neo4/84_hires.png"
@@ -5974,6 +5722,7 @@ let destiny = [
         "id": "neo4-85",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6008,9 +5757,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6025,9 +5772,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/85.png",
             "large": "https://images.pokemontcg.io/neo4/85_hires.png"
@@ -6037,6 +5782,7 @@ let destiny = [
         "id": "neo4-86",
         "name": "Unown [L]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6078,9 +5824,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6095,9 +5839,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/86.png",
             "large": "https://images.pokemontcg.io/neo4/86_hires.png"
@@ -6107,6 +5849,7 @@ let destiny = [
         "id": "neo4-87",
         "name": "Unown [S]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6149,9 +5892,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6166,9 +5907,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/87.png",
             "large": "https://images.pokemontcg.io/neo4/87_hires.png"
@@ -6178,6 +5917,7 @@ let destiny = [
         "id": "neo4-88",
         "name": "Unown [T]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6220,9 +5960,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6237,9 +5975,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/88.png",
             "large": "https://images.pokemontcg.io/neo4/88_hires.png"
@@ -6249,6 +5985,7 @@ let destiny = [
         "id": "neo4-89",
         "name": "Unown [V]",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6290,9 +6027,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6307,9 +6042,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/89.png",
             "large": "https://images.pokemontcg.io/neo4/89_hires.png"
@@ -6319,6 +6052,7 @@ let destiny = [
         "id": "neo4-90",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6363,9 +6097,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6380,9 +6112,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/90.png",
             "large": "https://images.pokemontcg.io/neo4/90_hires.png"
@@ -6392,6 +6122,7 @@ let destiny = [
         "id": "neo4-91",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -6427,9 +6158,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6444,9 +6173,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/91.png",
             "large": "https://images.pokemontcg.io/neo4/91_hires.png"
@@ -6456,6 +6183,7 @@ let destiny = [
         "id": "neo4-92",
         "name": "Broken Ground Gym",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stadium"
         ],
@@ -6469,9 +6197,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6482,9 +6208,7 @@ let destiny = [
         "number": "92",
         "artist": "Tomokazu Komiya",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/92.png",
             "large": "https://images.pokemontcg.io/neo4/92_hires.png"
@@ -6494,6 +6218,7 @@ let destiny = [
         "id": "neo4-93",
         "name": "EXP.ALL",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6507,9 +6232,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6520,9 +6243,7 @@ let destiny = [
         "number": "93",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/93.png",
             "large": "https://images.pokemontcg.io/neo4/93_hires.png"
@@ -6532,6 +6253,7 @@ let destiny = [
         "id": "neo4-94",
         "name": "Impostor Professor Oak's Invention",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Look at your opponent's Prize cards. You may have your opponent shuffle them into his or her deck. If you do, your opponent takes that many cards from the top of his or her deck and sets them aside as his or her new Prize cards (without looking at them)."
         ],
@@ -6541,9 +6263,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6554,9 +6274,7 @@ let destiny = [
         "number": "94",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/94.png",
             "large": "https://images.pokemontcg.io/neo4/94_hires.png"
@@ -6566,6 +6284,7 @@ let destiny = [
         "id": "neo4-95",
         "name": "Radio Tower",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stadium"
         ],
@@ -6579,9 +6298,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6592,9 +6309,7 @@ let destiny = [
         "number": "95",
         "artist": "Yousuke Hirata, CR CG gangs",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/95.png",
             "large": "https://images.pokemontcg.io/neo4/95_hires.png"
@@ -6604,6 +6319,7 @@ let destiny = [
         "id": "neo4-96",
         "name": "Thought Wave Machine",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6616,9 +6332,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6629,9 +6343,7 @@ let destiny = [
         "number": "96",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/96.png",
             "large": "https://images.pokemontcg.io/neo4/96_hires.png"
@@ -6641,6 +6353,7 @@ let destiny = [
         "id": "neo4-97",
         "name": "Counterattack Claws",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6654,9 +6367,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6667,9 +6378,7 @@ let destiny = [
         "number": "97",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/97.png",
             "large": "https://images.pokemontcg.io/neo4/97_hires.png"
@@ -6679,6 +6388,7 @@ let destiny = [
         "id": "neo4-98",
         "name": "Energy Amplifier",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Choose an Energy card in your hand, show it to your opponent, and shuffle it into your deck. Then flip a coin. If heads, search your deck for up to 3 basic Energy cards. Show them to your opponent, and put them into your hand. Shuffle your deck afterward."
         ],
@@ -6688,9 +6398,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6701,9 +6409,7 @@ let destiny = [
         "number": "98",
         "artist": "\"Big Mama\" Tagawa, CR CG gangs",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/98.png",
             "large": "https://images.pokemontcg.io/neo4/98_hires.png"
@@ -6713,6 +6419,7 @@ let destiny = [
         "id": "neo4-99",
         "name": "Energy Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stadium"
         ],
@@ -6726,9 +6433,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6739,9 +6444,7 @@ let destiny = [
         "number": "99",
         "artist": "Hideki Kazama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/99.png",
             "large": "https://images.pokemontcg.io/neo4/99_hires.png"
@@ -6751,6 +6454,7 @@ let destiny = [
         "id": "neo4-100",
         "name": "Lucky Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "subtypes": [
             "Stadium"
         ],
@@ -6764,9 +6468,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6777,9 +6479,7 @@ let destiny = [
         "number": "100",
         "artist": "Imakuni?",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/100.png",
             "large": "https://images.pokemontcg.io/neo4/100_hires.png"
@@ -6789,6 +6489,7 @@ let destiny = [
         "id": "neo4-101",
         "name": "Magnifier",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Attach Magnifier to 1 of your Pokémon. At the end of your turn, discard Magnifier. If the Pokémon Magnifier is attached to attacks, don't apply Resistance for that attack."
         ],
@@ -6798,9 +6499,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6811,9 +6510,7 @@ let destiny = [
         "number": "101",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/101.png",
             "large": "https://images.pokemontcg.io/neo4/101_hires.png"
@@ -6823,6 +6520,7 @@ let destiny = [
         "id": "neo4-102",
         "name": "Pokémon Personality Test",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Put an Evolution card from your hand face down in front of you. Your opponent guesses whether it is a Pokémon card with Light in its name, a Pokémon card with Dark in its name, or neither one. Flip the card over. If your opponent guessed right, he or she draws 3 cards. If your opponent guessed wrong, you draw 3 cards. Either way, return the card to your hand."
         ],
@@ -6832,9 +6530,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6845,9 +6541,7 @@ let destiny = [
         "number": "102",
         "artist": "Tomokazu Komiya",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/102.png",
             "large": "https://images.pokemontcg.io/neo4/102_hires.png"
@@ -6857,6 +6551,7 @@ let destiny = [
         "id": "neo4-103",
         "name": "Team Rocket's Evil Deeds",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Look at your opponent's hand and choose a card there. Your opponent shuffles that card into his or her deck. Then, your opponent may draw up to 2 cards."
         ],
@@ -6866,9 +6561,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6879,9 +6572,7 @@ let destiny = [
         "number": "103",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/103.png",
             "large": "https://images.pokemontcg.io/neo4/103_hires.png"
@@ -6891,6 +6582,7 @@ let destiny = [
         "id": "neo4-104",
         "name": "Heal Powder",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "Flip a coin. If heads, your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned and remove 2 damage counters from it. If your Active Pokémon has fewer damage counters than that, remove all of them."
         ],
@@ -6900,9 +6592,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6913,9 +6603,7 @@ let destiny = [
         "number": "104",
         "artist": "Ryuta Kusumi, CR CG gangs",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/104.png",
             "large": "https://images.pokemontcg.io/neo4/104_hires.png"
@@ -6925,6 +6613,7 @@ let destiny = [
         "id": "neo4-105",
         "name": "Mail from Bill",
         "supertype": "Trainer",
+        "setAbbrev": "N4",
         "rules": [
             "You can't play this card if you have 5 or more cards in your hand (including this one). Draw cards until you have exactly 4 cards in your hand."
         ],
@@ -6934,9 +6623,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -6947,9 +6634,7 @@ let destiny = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/105.png",
             "large": "https://images.pokemontcg.io/neo4/105_hires.png"
@@ -6959,6 +6644,7 @@ let destiny = [
         "id": "neo4-106",
         "name": "Shining Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7003,9 +6689,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7020,9 +6704,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/106.png",
             "large": "https://images.pokemontcg.io/neo4/106_hires.png"
@@ -7032,6 +6714,7 @@ let destiny = [
         "id": "neo4-107",
         "name": "Shining Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7076,9 +6759,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7093,9 +6774,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/107.png",
             "large": "https://images.pokemontcg.io/neo4/107_hires.png"
@@ -7105,6 +6784,7 @@ let destiny = [
         "id": "neo4-108",
         "name": "Shining Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7153,9 +6833,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7170,9 +6848,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/108.png",
             "large": "https://images.pokemontcg.io/neo4/108_hires.png"
@@ -7182,6 +6858,7 @@ let destiny = [
         "id": "neo4-109",
         "name": "Shining Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7228,9 +6905,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7245,9 +6920,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/109.png",
             "large": "https://images.pokemontcg.io/neo4/109_hires.png"
@@ -7257,6 +6930,7 @@ let destiny = [
         "id": "neo4-110",
         "name": "Shining Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7299,9 +6973,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7316,9 +6988,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/110.png",
             "large": "https://images.pokemontcg.io/neo4/110_hires.png"
@@ -7328,6 +6998,7 @@ let destiny = [
         "id": "neo4-111",
         "name": "Shining Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7365,9 +7036,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7382,9 +7051,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/111.png",
             "large": "https://images.pokemontcg.io/neo4/111_hires.png"
@@ -7394,6 +7061,7 @@ let destiny = [
         "id": "neo4-112",
         "name": "Shining Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7437,9 +7105,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7454,9 +7120,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/112.png",
             "large": "https://images.pokemontcg.io/neo4/112_hires.png"
@@ -7466,6 +7130,7 @@ let destiny = [
         "id": "neo4-113",
         "name": "Shining Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "N4",
         "subtypes": [
             "Basic"
         ],
@@ -7514,9 +7179,7 @@ let destiny = [
             "series": "Neo",
             "printedTotal": 105,
             "total": 113,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N4",
             "releaseDate": "2002/02/28",
             "images": {
@@ -7531,9 +7194,7 @@ let destiny = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo4/113.png",
             "large": "https://images.pokemontcg.io/neo4/113_hires.png"

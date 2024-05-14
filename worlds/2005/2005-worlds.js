@@ -11,114 +11,87 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/nidoqueen.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/nidoqueen-fighting.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/nidorina-grass.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/nidoran-f-grass.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/milotic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/feebas-ascension.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/great-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/grass-energy-emerald.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       }
     ]
   },
@@ -128,142 +101,115 @@ let masters = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/electrode.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-pupitar.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/larvitar.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/electrode-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/voltorb-ram.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magcargo.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/slugma.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magmar.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -273,114 +219,87 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/nidoqueen.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'grass',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/nidoqueen-fighting.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/nidorina-grass.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/nidoran-f-grass.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/milotic.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/feebas-ascension.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/great-ball.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/grass-energy-emerald.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -390,126 +309,99 @@ let masters = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar-body.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-pupitar.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/larvitar.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magcargo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/slugma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/vs-seeker.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/warp-point.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/r-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
     ]
   },
@@ -518,13 +410,116 @@ let masters = [
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/ampharos.png',
-    list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    list: '../../assets/list-icon.png',
+    type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        cardImg: '../../assets/cards/2004-2006/dark-tyranitar-body.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-pupitar-explosive.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/larvitar.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-ampharos.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-flaaffy.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: 'https://images.pokemontcg.io/ex3/64_hires.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dx.009.jirachi.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/celios-network.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/vs-seeker.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rockets-tricky-gym.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/scramble-energy.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/heal-energy.png',
+        numImg: '../../assets/02.png'
       },
     ]
   },
@@ -534,12 +529,11 @@ let masters = [
     sprite1: '../../assets/sprites/medicham.png',
     sprite2: '../../assets/sprites/ninetales.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -549,12 +543,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -564,138 +557,111 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/ludicolo.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lombre.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lotad.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magcargo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/slugma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/strength-charm.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/crystal-shard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/exp-all.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/water-energy-emerald.png',
-        "count": 6,
+        numImg: '../../assets/06.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/psychic-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy-promo.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -705,12 +671,11 @@ let masters = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/rayquaza.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -720,12 +685,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -735,126 +699,99 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/blaziken.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fire',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/blaziken.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/combusken.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/torchic.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rayquaza-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/moltres-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi-dual.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/warp-point.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/high-pressure-system.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fire-energy-emerald.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -864,12 +801,11 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -879,12 +815,11 @@ let masters = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/ampharos.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -894,12 +829,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -909,12 +843,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -924,12 +857,11 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -939,12 +871,11 @@ let masters = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/rayquaza.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -954,110 +885,83 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/sharpedo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/sharpedo-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/carvanha.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/energy-removal-2-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/crystal-shard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/metal-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/dark-metal-energy-rocket.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1067,12 +971,11 @@ let masters = [
     sprite1: '../../assets/sprites/electrode.png',
     sprite2: '../../assets/sprites/delcatty.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1082,154 +985,127 @@ let masters = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/ampharos.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar-body.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-pupitar-explosive.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/larvitar.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-ampharos.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-flaaffy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mareep.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-tricky-gym.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/lightning-energy-emerald.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       }
     ]
   },
@@ -1239,12 +1115,11 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/grumpig.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1254,12 +1129,11 @@ let masters = [
     sprite1: '../../assets/sprites/moltres.png',
     sprite2: '../../assets/sprites/zapdos.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1269,12 +1143,11 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1284,12 +1157,11 @@ let masters = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/rayquaza.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1299,12 +1171,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1314,12 +1185,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1329,12 +1199,11 @@ let masters = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1344,12 +1213,11 @@ let masters = [
     sprite1: '../../assets/sprites/slowking.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1359,12 +1227,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1374,12 +1241,11 @@ let masters = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/rayquaza.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1389,12 +1255,11 @@ let masters = [
     sprite1: '../../assets/sprites/machamp.png',
     sprite2: '../../assets/sprites/pidgeot.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -1404,12 +1269,11 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/sharpedo.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }
@@ -1422,106 +1286,79 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/medicham-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/meditite.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/meditite-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/energy-removal-2-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/team-aqua-hideout.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magnetic-storm.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/psychic-energy-emerald.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/metal-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -1531,138 +1368,111 @@ let seniors = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/pidgeot.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-tyranitar-body.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-pupitar.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/larvitar.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeot.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pidgey.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/bills-maintenance.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/r-energy.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/metal-energy-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
     ]
   },
@@ -1672,134 +1482,107 @@ let seniors = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/ludicolo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ludicolo-happy-dance.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lombre-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lotad-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magcargo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/slugma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ninetales.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/vulpix.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/water-energy-emerald.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy-promo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -1809,110 +1592,83 @@ let seniors = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/rayquaza.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/zapdos-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/moltres-ex.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rayquaza-ex-dragon-burst.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rayquaza-star.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magmar.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/electrode-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/voltorb-recharge.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-mission.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/master-ball.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/super-scoop-up-2004.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/spcae-center.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/lightning-energy-emerald.png',
-        "count": 10,
+        numImg: '../../assets/10.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fire-energy-emerald.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       }
     ]
   },
@@ -1922,130 +1678,103 @@ let seniors = [
     sprite1: '../../assets/sprites/blastoise.png',
     sprite2: '../../assets/sprites/deoxys.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/blastoise-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/squirtle.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/skitty.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magneton.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/plusle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/deoxys-ex-normal.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/deoxys-ex-attack.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-stones-project.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/high-pressure-system.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/island-cave.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/water-energy-emerald.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/lightning-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/psychic-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -2055,12 +1784,11 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2070,12 +1798,11 @@ let seniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2085,12 +1812,11 @@ let seniors = [
       sprite1: '../../assets/sprites/tyranitar.png',
       sprite2: '../../assets/sprites/ampharos.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2100,134 +1826,107 @@ let seniors = [
       sprite1: '../../assets/sprites/blastoise.png',
       sprite2: '../../assets/sprites/deoxys.png',
       list: '../../assets/list-icon.png',
-      deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+      type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/blastoise-ex.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wartortle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/squirtle.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/skitty.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magneton.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/plusle.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/deoxys-ex-normal.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/deoxys-ex-attack.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-stones-project.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/high-pressure-system.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/island-cave.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/water-energy-emerald.png',
-        "count": 11,
+        numImg: '../../assets/11.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/lightning-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/psychic-energy-emerald.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
     },
@@ -2237,12 +1936,11 @@ let seniors = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/hyphen.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2252,12 +1950,11 @@ let seniors = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/sprites/steelix.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2267,12 +1964,11 @@ let seniors = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/hyphen.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2282,12 +1978,11 @@ let seniors = [
       sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2297,12 +1992,11 @@ let seniors = [
       sprite1: '../../assets/sprites/swampert.png',
       sprite2: '../../assets/sprites/articuno.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2312,12 +2006,11 @@ let seniors = [
       sprite1: '../../assets/sprites/tyranitar.png',
       sprite2: '../../assets/sprites/ampharos.png',
       list: '../../assets/sprites/blank.png',
-          deckid: "eee",
-    event: "eeee",
+      type: '',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
       ]
     },
@@ -2327,106 +2020,79 @@ let seniors = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/sprites/vileplume.png',
       list: '../../assets/list-icon.png',
-      deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+      type: 'grass',
       deck: [
         {
           cardImg: '../../assets/cards/2004-2006/vileplume-ex.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/bellossom.png',
-          "count": 1,
+          numImg: '../../assets/01.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/gloom.png',
-          "count": 1,
+          numImg: '../../assets/01.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/oddish.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/jirachi.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-          "count": 3,
+          numImg: '../../assets/03.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/copycat.png',
-          "count": 2,
+          numImg: '../../assets/02.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-          "count": 1,
+          numImg: '../../assets/01.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/energy-removal-2-e-reader.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-          "count": 4,
+          numImg: '../../assets/04.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/master-ball.png',
-          "count": 3,
+          numImg: '../../assets/03.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-          "count": 2,
+          numImg: '../../assets/02.png'
         },
         {
           cardImg: '../../assets/cards/2004-2006/team-aqua-hideout.png',
-          "count": 1,
+          numImg: '../../assets/01.png'
         },
         {
           cardImg: '../../assets/cards/old-energy/grass-energy-emerald.png',
-          "count": 11,
+          numImg: '../../assets/11.png'
         },
         {
           cardImg: '../../assets/cards/old-energy/metal-energy-e-reader.png',
-          "count": 3,
+          numImg: '../../assets/03.png'
         }
       ]
     },
@@ -2439,106 +2105,79 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/medicham.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/medicham-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/meditite.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/energy-removal-2-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/team-aqua-hideout.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/island-cave.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/fighting-energy-emerald.png',
-        "count": 8,
+        numImg: '../../assets/08.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/psychic-energy-emerald.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/metal-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       }
     ]
   },
@@ -2548,110 +2187,83 @@ let juniors = [
     sprite1: '../../assets/sprites/zapdos.png',
     sprite2: '../../assets/sprites/electrike.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'lightning',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/zapdos-ex.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/manectric.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/electrike.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/electrode.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/voltorb-recharge.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-stones-project.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dual-ball-old.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/super-scoop-up-2004.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/master-ball.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/vs-seeker.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/spcae-center.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/lightning-energy-emerald.png',
-        "count": 17,
+        numImg: '../../assets/17.png'
       }
     ]
   },
@@ -2661,134 +2273,107 @@ let juniors = [
     sprite1: '../../assets/sprites/ludicolo.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'water',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/ludicolo.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lombre-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lotad-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/lotad-splash-wave.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/magcargo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/slugma.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rhydon.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rhyhorn.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/jirachi.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/crystal-shard.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/strength-charm.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/water-energy-emerald.png',
-        "count": 7,
+        numImg: '../../assets/07.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/heal-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/scramble-energy-promo.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       }
     ]
   },
@@ -2798,142 +2383,115 @@ let juniors = [
     sprite1: '../../assets/sprites/dragonite.png',
     sprite2: '../../assets/sprites/electrode.png',
     list: '../../assets/list-icon.png',
-    deckid: "eee",
-    event: "eeee",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ],
-      "energy": [
-        {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
-        },
-      ]
-    },
+    type: 'dark',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006/dark-dragonite.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-dragonair.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dratini-dragon-song.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/sneasel-ex.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dark-electrode.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/voltorb-recharge.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/dunsparce.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-mission.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/copycat.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/celios-network.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/scott-old.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/warp-point.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
-        "count": 1,
+        numImg: '../../assets/01.png'
       },
       {
         cardImg: '../../assets/cards/2004-2006/rockets-hideout.png',
-        "count": 2,
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/dark-metal-energy-rocket.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/rainbow-energy-e-reader.png',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
       {
         cardImg: '../../assets/cards/old-energy/r-energy.png',
-        "count": 3,
+        numImg: '../../assets/03.png'
       }
     ]
   },
@@ -2943,12 +2501,11 @@ let juniors = [
      sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2958,12 +2515,11 @@ let juniors = [
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/ampharos.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2973,12 +2529,11 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   },
@@ -2988,12 +2543,11 @@ let juniors = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
-        deckid: "eee",
-    event: "eeee",
+    type: '',
     deck: [
       {
         cardImg: '../../assets/cards/2004-2006',
-        "count": 4,
+        numImg: '../../assets/04.png'
       },
     ]
   }

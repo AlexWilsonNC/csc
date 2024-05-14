@@ -1,8 +1,9 @@
-let hiddenLegends = [
+let ex5 = [
     {
         "id": "ex5-1",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -51,9 +52,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -67,9 +66,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/1.png",
             "large": "https://images.pokemontcg.io/ex5/1_hires.png"
@@ -79,6 +76,7 @@ let hiddenLegends = [
         "id": "ex5-2",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -118,9 +116,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -134,9 +130,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/2.png",
             "large": "https://images.pokemontcg.io/ex5/2_hires.png"
@@ -146,6 +140,7 @@ let hiddenLegends = [
         "id": "ex5-3",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -187,9 +182,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -203,9 +196,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/3.png",
             "large": "https://images.pokemontcg.io/ex5/3_hires.png"
@@ -215,6 +206,7 @@ let hiddenLegends = [
         "id": "ex5-4",
         "name": "Dark Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -260,9 +252,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -276,9 +266,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/4.png",
             "large": "https://images.pokemontcg.io/ex5/4_hires.png"
@@ -288,6 +276,7 @@ let hiddenLegends = [
         "id": "ex5-5",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -331,9 +320,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -347,9 +334,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/5.png",
             "large": "https://images.pokemontcg.io/ex5/5_hires.png"
@@ -359,6 +344,7 @@ let hiddenLegends = [
         "id": "ex5-6",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -424,9 +410,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -440,9 +424,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/6.png",
             "large": "https://images.pokemontcg.io/ex5/6_hires.png"
@@ -452,6 +434,7 @@ let hiddenLegends = [
         "id": "ex5-7",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -494,9 +477,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -510,9 +491,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/7.png",
             "large": "https://images.pokemontcg.io/ex5/7_hires.png"
@@ -522,6 +501,7 @@ let hiddenLegends = [
         "id": "ex5-8",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -567,9 +547,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -583,9 +561,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/8.png",
             "large": "https://images.pokemontcg.io/ex5/8_hires.png"
@@ -595,6 +571,7 @@ let hiddenLegends = [
         "id": "ex5-9",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -647,9 +624,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -663,9 +638,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/9.png",
             "large": "https://images.pokemontcg.io/ex5/9_hires.png"
@@ -675,6 +648,7 @@ let hiddenLegends = [
         "id": "ex5-10",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -719,9 +693,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -735,9 +707,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/10.png",
             "large": "https://images.pokemontcg.io/ex5/10_hires.png"
@@ -747,6 +717,7 @@ let hiddenLegends = [
         "id": "ex5-11",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -798,9 +769,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -814,9 +783,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/11.png",
             "large": "https://images.pokemontcg.io/ex5/11_hires.png"
@@ -826,6 +793,7 @@ let hiddenLegends = [
         "id": "ex5-12",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -878,9 +846,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -894,9 +860,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/12.png",
             "large": "https://images.pokemontcg.io/ex5/12_hires.png"
@@ -906,6 +870,7 @@ let hiddenLegends = [
         "id": "ex5-13",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -945,9 +910,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -961,9 +924,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/13.png",
             "large": "https://images.pokemontcg.io/ex5/13_hires.png"
@@ -973,6 +934,7 @@ let hiddenLegends = [
         "id": "ex5-14",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1023,9 +985,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1039,9 +999,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/14.png",
             "large": "https://images.pokemontcg.io/ex5/14_hires.png"
@@ -1051,6 +1009,7 @@ let hiddenLegends = [
         "id": "ex5-15",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1092,9 +1051,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1108,9 +1065,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/15.png",
             "large": "https://images.pokemontcg.io/ex5/15_hires.png"
@@ -1120,6 +1075,7 @@ let hiddenLegends = [
         "id": "ex5-16",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1176,9 +1132,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1192,9 +1146,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/16.png",
             "large": "https://images.pokemontcg.io/ex5/16_hires.png"
@@ -1204,6 +1156,7 @@ let hiddenLegends = [
         "id": "ex5-17",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1244,9 +1197,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1260,9 +1211,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/17.png",
             "large": "https://images.pokemontcg.io/ex5/17_hires.png"
@@ -1272,6 +1221,7 @@ let hiddenLegends = [
         "id": "ex5-18",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1313,9 +1263,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1329,9 +1277,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             368
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/18.png",
             "large": "https://images.pokemontcg.io/ex5/18_hires.png"
@@ -1341,6 +1287,7 @@ let hiddenLegends = [
         "id": "ex5-19",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1385,9 +1332,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1401,9 +1346,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             367
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/19.png",
             "large": "https://images.pokemontcg.io/ex5/19_hires.png"
@@ -1413,6 +1356,7 @@ let hiddenLegends = [
         "id": "ex5-20",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1460,9 +1404,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1476,9 +1418,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/20.png",
             "large": "https://images.pokemontcg.io/ex5/20_hires.png"
@@ -1488,6 +1428,7 @@ let hiddenLegends = [
         "id": "ex5-21",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1539,9 +1480,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1555,9 +1494,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/21.png",
             "large": "https://images.pokemontcg.io/ex5/21_hires.png"
@@ -1567,6 +1504,7 @@ let hiddenLegends = [
         "id": "ex5-22",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1618,9 +1556,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1634,9 +1570,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/22.png",
             "large": "https://images.pokemontcg.io/ex5/22_hires.png"
@@ -1646,6 +1580,7 @@ let hiddenLegends = [
         "id": "ex5-23",
         "name": "Rain Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1694,9 +1629,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1710,9 +1643,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/23.png",
             "large": "https://images.pokemontcg.io/ex5/23_hires.png"
@@ -1722,6 +1653,7 @@ let hiddenLegends = [
         "id": "ex5-24",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1760,9 +1692,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1776,9 +1706,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/24.png",
             "large": "https://images.pokemontcg.io/ex5/24_hires.png"
@@ -1788,6 +1716,7 @@ let hiddenLegends = [
         "id": "ex5-25",
         "name": "Snow-cloud Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1838,9 +1767,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1854,9 +1781,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/25.png",
             "large": "https://images.pokemontcg.io/ex5/25_hires.png"
@@ -1866,6 +1791,7 @@ let hiddenLegends = [
         "id": "ex5-26",
         "name": "Sunny Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1915,9 +1841,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -1931,9 +1855,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/26.png",
             "large": "https://images.pokemontcg.io/ex5/26_hires.png"
@@ -1943,6 +1865,7 @@ let hiddenLegends = [
         "id": "ex5-27",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -1984,9 +1907,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2000,9 +1921,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/27.png",
             "large": "https://images.pokemontcg.io/ex5/27_hires.png"
@@ -2012,6 +1931,7 @@ let hiddenLegends = [
         "id": "ex5-28",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2059,9 +1979,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2075,9 +1993,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/28.png",
             "large": "https://images.pokemontcg.io/ex5/28_hires.png"
@@ -2087,6 +2003,7 @@ let hiddenLegends = [
         "id": "ex5-29",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2135,9 +2052,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2151,9 +2066,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/29.png",
             "large": "https://images.pokemontcg.io/ex5/29_hires.png"
@@ -2163,6 +2076,7 @@ let hiddenLegends = [
         "id": "ex5-30",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2211,9 +2125,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2227,9 +2139,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/30.png",
             "large": "https://images.pokemontcg.io/ex5/30_hires.png"
@@ -2239,6 +2149,7 @@ let hiddenLegends = [
         "id": "ex5-31",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2283,9 +2194,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2299,9 +2208,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/31.png",
             "large": "https://images.pokemontcg.io/ex5/31_hires.png"
@@ -2311,6 +2218,7 @@ let hiddenLegends = [
         "id": "ex5-32",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2356,9 +2264,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2372,9 +2278,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/32.png",
             "large": "https://images.pokemontcg.io/ex5/32_hires.png"
@@ -2384,6 +2288,7 @@ let hiddenLegends = [
         "id": "ex5-33",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2439,9 +2344,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2455,9 +2358,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/33.png",
             "large": "https://images.pokemontcg.io/ex5/33_hires.png"
@@ -2467,6 +2368,7 @@ let hiddenLegends = [
         "id": "ex5-34",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2508,9 +2410,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2524,9 +2424,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/34.png",
             "large": "https://images.pokemontcg.io/ex5/34_hires.png"
@@ -2536,6 +2434,7 @@ let hiddenLegends = [
         "id": "ex5-35",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2584,9 +2483,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2600,9 +2497,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/35.png",
             "large": "https://images.pokemontcg.io/ex5/35_hires.png"
@@ -2612,6 +2507,7 @@ let hiddenLegends = [
         "id": "ex5-36",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2657,9 +2553,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2673,9 +2567,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/36.png",
             "large": "https://images.pokemontcg.io/ex5/36_hires.png"
@@ -2685,6 +2577,7 @@ let hiddenLegends = [
         "id": "ex5-37",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2726,9 +2619,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2742,9 +2633,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/37.png",
             "large": "https://images.pokemontcg.io/ex5/37_hires.png"
@@ -2754,6 +2643,7 @@ let hiddenLegends = [
         "id": "ex5-38",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2795,9 +2685,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2811,9 +2699,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/38.png",
             "large": "https://images.pokemontcg.io/ex5/38_hires.png"
@@ -2823,6 +2709,7 @@ let hiddenLegends = [
         "id": "ex5-39",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2870,9 +2757,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2886,9 +2771,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/39.png",
             "large": "https://images.pokemontcg.io/ex5/39_hires.png"
@@ -2898,6 +2781,7 @@ let hiddenLegends = [
         "id": "ex5-40",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -2938,9 +2822,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -2954,9 +2836,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/40.png",
             "large": "https://images.pokemontcg.io/ex5/40_hires.png"
@@ -2966,6 +2846,7 @@ let hiddenLegends = [
         "id": "ex5-41",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3009,9 +2890,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3025,9 +2904,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/41.png",
             "large": "https://images.pokemontcg.io/ex5/41_hires.png"
@@ -3037,6 +2914,7 @@ let hiddenLegends = [
         "id": "ex5-42",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3079,9 +2957,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3095,9 +2971,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/42.png",
             "large": "https://images.pokemontcg.io/ex5/42_hires.png"
@@ -3107,6 +2981,7 @@ let hiddenLegends = [
         "id": "ex5-43",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3154,9 +3029,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3170,9 +3043,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/43.png",
             "large": "https://images.pokemontcg.io/ex5/43_hires.png"
@@ -3182,6 +3053,7 @@ let hiddenLegends = [
         "id": "ex5-44",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3231,9 +3103,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3247,9 +3117,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/44.png",
             "large": "https://images.pokemontcg.io/ex5/44_hires.png"
@@ -3259,6 +3127,7 @@ let hiddenLegends = [
         "id": "ex5-45",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3311,9 +3180,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3327,9 +3194,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/45.png",
             "large": "https://images.pokemontcg.io/ex5/45_hires.png"
@@ -3339,6 +3204,7 @@ let hiddenLegends = [
         "id": "ex5-46",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3392,9 +3258,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3408,9 +3272,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/46.png",
             "large": "https://images.pokemontcg.io/ex5/46_hires.png"
@@ -3420,6 +3282,7 @@ let hiddenLegends = [
         "id": "ex5-47",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3466,9 +3329,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3482,9 +3343,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/47.png",
             "large": "https://images.pokemontcg.io/ex5/47_hires.png"
@@ -3494,6 +3353,7 @@ let hiddenLegends = [
         "id": "ex5-48",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -3534,9 +3394,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3550,9 +3408,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/48.png",
             "large": "https://images.pokemontcg.io/ex5/48_hires.png"
@@ -3562,6 +3418,7 @@ let hiddenLegends = [
         "id": "ex5-49",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3605,9 +3462,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3621,9 +3476,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/49.png",
             "large": "https://images.pokemontcg.io/ex5/49_hires.png"
@@ -3633,6 +3486,7 @@ let hiddenLegends = [
         "id": "ex5-50",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3676,9 +3530,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3692,9 +3544,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/50.png",
             "large": "https://images.pokemontcg.io/ex5/50_hires.png"
@@ -3704,6 +3554,7 @@ let hiddenLegends = [
         "id": "ex5-51",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3745,9 +3596,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3761,9 +3610,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/51.png",
             "large": "https://images.pokemontcg.io/ex5/51_hires.png"
@@ -3773,6 +3620,7 @@ let hiddenLegends = [
         "id": "ex5-52",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -3807,9 +3655,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3823,9 +3669,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/52.png",
             "large": "https://images.pokemontcg.io/ex5/52_hires.png"
@@ -3835,6 +3679,7 @@ let hiddenLegends = [
         "id": "ex5-53",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -3879,9 +3724,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3895,9 +3738,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/53.png",
             "large": "https://images.pokemontcg.io/ex5/53_hires.png"
@@ -3907,6 +3748,7 @@ let hiddenLegends = [
         "id": "ex5-54",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -3950,9 +3792,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -3966,9 +3806,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/54.png",
             "large": "https://images.pokemontcg.io/ex5/54_hires.png"
@@ -3978,6 +3816,7 @@ let hiddenLegends = [
         "id": "ex5-55",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4018,9 +3857,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4034,9 +3871,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/55.png",
             "large": "https://images.pokemontcg.io/ex5/55_hires.png"
@@ -4046,6 +3881,7 @@ let hiddenLegends = [
         "id": "ex5-56",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4090,9 +3926,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4106,9 +3940,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/56.png",
             "large": "https://images.pokemontcg.io/ex5/56_hires.png"
@@ -4118,6 +3950,7 @@ let hiddenLegends = [
         "id": "ex5-57",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4162,9 +3995,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4178,9 +4009,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/57.png",
             "large": "https://images.pokemontcg.io/ex5/57_hires.png"
@@ -4190,6 +4019,7 @@ let hiddenLegends = [
         "id": "ex5-58",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4233,9 +4063,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4249,9 +4077,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             366
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/58.png",
             "large": "https://images.pokemontcg.io/ex5/58_hires.png"
@@ -4261,6 +4087,7 @@ let hiddenLegends = [
         "id": "ex5-59",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4305,9 +4132,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4321,9 +4146,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/59.png",
             "large": "https://images.pokemontcg.io/ex5/59_hires.png"
@@ -4333,6 +4156,7 @@ let hiddenLegends = [
         "id": "ex5-60",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4373,9 +4197,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4389,9 +4211,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/60.png",
             "large": "https://images.pokemontcg.io/ex5/60_hires.png"
@@ -4401,6 +4221,7 @@ let hiddenLegends = [
         "id": "ex5-61",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4444,9 +4265,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4460,9 +4279,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/61.png",
             "large": "https://images.pokemontcg.io/ex5/61_hires.png"
@@ -4472,6 +4289,7 @@ let hiddenLegends = [
         "id": "ex5-62",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4515,9 +4333,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4531,9 +4347,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/62.png",
             "large": "https://images.pokemontcg.io/ex5/62_hires.png"
@@ -4543,6 +4357,7 @@ let hiddenLegends = [
         "id": "ex5-63",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4587,9 +4402,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4603,9 +4416,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/63.png",
             "large": "https://images.pokemontcg.io/ex5/63_hires.png"
@@ -4615,6 +4426,7 @@ let hiddenLegends = [
         "id": "ex5-64",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4659,9 +4471,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4675,9 +4485,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/64.png",
             "large": "https://images.pokemontcg.io/ex5/64_hires.png"
@@ -4687,6 +4495,7 @@ let hiddenLegends = [
         "id": "ex5-65",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4730,9 +4539,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4746,9 +4553,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/65.png",
             "large": "https://images.pokemontcg.io/ex5/65_hires.png"
@@ -4758,6 +4563,7 @@ let hiddenLegends = [
         "id": "ex5-66",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4802,9 +4608,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4818,9 +4622,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/66.png",
             "large": "https://images.pokemontcg.io/ex5/66_hires.png"
@@ -4830,6 +4632,7 @@ let hiddenLegends = [
         "id": "ex5-67",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4877,9 +4680,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4893,9 +4694,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/67.png",
             "large": "https://images.pokemontcg.io/ex5/67_hires.png"
@@ -4905,6 +4704,7 @@ let hiddenLegends = [
         "id": "ex5-68",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -4948,9 +4748,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -4964,9 +4762,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/68.png",
             "large": "https://images.pokemontcg.io/ex5/68_hires.png"
@@ -4976,6 +4772,7 @@ let hiddenLegends = [
         "id": "ex5-69",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5023,9 +4820,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5039,9 +4834,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/69.png",
             "large": "https://images.pokemontcg.io/ex5/69_hires.png"
@@ -5051,6 +4844,7 @@ let hiddenLegends = [
         "id": "ex5-70",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5096,9 +4890,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5112,9 +4904,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/70.png",
             "large": "https://images.pokemontcg.io/ex5/70_hires.png"
@@ -5124,6 +4914,7 @@ let hiddenLegends = [
         "id": "ex5-71",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5168,9 +4959,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5184,9 +4973,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/71.png",
             "large": "https://images.pokemontcg.io/ex5/71_hires.png"
@@ -5196,6 +4983,7 @@ let hiddenLegends = [
         "id": "ex5-72",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5236,9 +5024,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5252,9 +5038,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/72.png",
             "large": "https://images.pokemontcg.io/ex5/72_hires.png"
@@ -5264,6 +5048,7 @@ let hiddenLegends = [
         "id": "ex5-73",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5309,9 +5094,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5325,9 +5108,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/73.png",
             "large": "https://images.pokemontcg.io/ex5/73_hires.png"
@@ -5337,6 +5118,7 @@ let hiddenLegends = [
         "id": "ex5-74",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5371,9 +5153,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5387,9 +5167,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/74.png",
             "large": "https://images.pokemontcg.io/ex5/74_hires.png"
@@ -5399,6 +5177,7 @@ let hiddenLegends = [
         "id": "ex5-75",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5440,9 +5219,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5456,9 +5233,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/75.png",
             "large": "https://images.pokemontcg.io/ex5/75_hires.png"
@@ -5468,6 +5243,7 @@ let hiddenLegends = [
         "id": "ex5-76",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5502,9 +5278,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5518,9 +5292,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/76.png",
             "large": "https://images.pokemontcg.io/ex5/76_hires.png"
@@ -5530,6 +5302,7 @@ let hiddenLegends = [
         "id": "ex5-77",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5571,9 +5344,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5587,9 +5358,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/77.png",
             "large": "https://images.pokemontcg.io/ex5/77_hires.png"
@@ -5599,6 +5368,7 @@ let hiddenLegends = [
         "id": "ex5-78",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5633,9 +5403,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5649,9 +5417,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/78.png",
             "large": "https://images.pokemontcg.io/ex5/78_hires.png"
@@ -5661,6 +5427,7 @@ let hiddenLegends = [
         "id": "ex5-79",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5705,9 +5472,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5721,9 +5486,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/79.png",
             "large": "https://images.pokemontcg.io/ex5/79_hires.png"
@@ -5733,6 +5496,7 @@ let hiddenLegends = [
         "id": "ex5-80",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5777,9 +5541,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5793,9 +5555,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/80.png",
             "large": "https://images.pokemontcg.io/ex5/80_hires.png"
@@ -5805,6 +5565,7 @@ let hiddenLegends = [
         "id": "ex5-81",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5848,9 +5609,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5864,9 +5623,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/81.png",
             "large": "https://images.pokemontcg.io/ex5/81_hires.png"
@@ -5876,6 +5633,7 @@ let hiddenLegends = [
         "id": "ex5-82",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5910,9 +5668,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5926,9 +5682,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/82.png",
             "large": "https://images.pokemontcg.io/ex5/82_hires.png"
@@ -5938,6 +5692,7 @@ let hiddenLegends = [
         "id": "ex5-83",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -5981,9 +5736,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -5997,9 +5750,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/83.png",
             "large": "https://images.pokemontcg.io/ex5/83_hires.png"
@@ -6009,6 +5760,7 @@ let hiddenLegends = [
         "id": "ex5-84",
         "name": "Ancient Technical Machine [Ice]",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Technical Machine"
         ],
@@ -6032,9 +5784,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6045,9 +5795,7 @@ let hiddenLegends = [
         "number": "84",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/84.png",
             "large": "https://images.pokemontcg.io/ex5/84_hires.png"
@@ -6057,6 +5805,7 @@ let hiddenLegends = [
         "id": "ex5-85",
         "name": "Ancient Technical Machine [Rock]",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Technical Machine"
         ],
@@ -6080,9 +5829,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6093,9 +5840,7 @@ let hiddenLegends = [
         "number": "85",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/85.png",
             "large": "https://images.pokemontcg.io/ex5/85_hires.png"
@@ -6105,6 +5850,7 @@ let hiddenLegends = [
         "id": "ex5-86",
         "name": "Ancient Technical Machine [Steel]",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Technical Machine"
         ],
@@ -6129,9 +5875,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6142,9 +5886,7 @@ let hiddenLegends = [
         "number": "86",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/86.png",
             "large": "https://images.pokemontcg.io/ex5/86_hires.png"
@@ -6154,6 +5896,7 @@ let hiddenLegends = [
         "id": "ex5-87",
         "name": "Ancient Tomb",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stadium"
         ],
@@ -6167,9 +5910,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6180,9 +5921,7 @@ let hiddenLegends = [
         "number": "87",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/87.png",
             "large": "https://images.pokemontcg.io/ex5/87_hires.png"
@@ -6192,6 +5931,7 @@ let hiddenLegends = [
         "id": "ex5-88",
         "name": "Desert Ruins",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stadium"
         ],
@@ -6205,9 +5945,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6218,9 +5956,7 @@ let hiddenLegends = [
         "number": "88",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/88.png",
             "large": "https://images.pokemontcg.io/ex5/88_hires.png"
@@ -6230,6 +5966,7 @@ let hiddenLegends = [
         "id": "ex5-89",
         "name": "Island Cave",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stadium"
         ],
@@ -6243,9 +5980,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6256,9 +5991,7 @@ let hiddenLegends = [
         "number": "89",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/89.png",
             "large": "https://images.pokemontcg.io/ex5/89_hires.png"
@@ -6268,6 +6001,7 @@ let hiddenLegends = [
         "id": "ex5-90",
         "name": "Life Herb",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Item"
         ],
@@ -6280,9 +6014,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6293,9 +6025,7 @@ let hiddenLegends = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/90.png",
             "large": "https://images.pokemontcg.io/ex5/90_hires.png"
@@ -6305,6 +6035,7 @@ let hiddenLegends = [
         "id": "ex5-91",
         "name": "Magnetic Storm",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stadium"
         ],
@@ -6318,9 +6049,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6331,9 +6060,7 @@ let hiddenLegends = [
         "number": "91",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/91.png",
             "large": "https://images.pokemontcg.io/ex5/91_hires.png"
@@ -6343,6 +6070,7 @@ let hiddenLegends = [
         "id": "ex5-92",
         "name": "Steven's Advice",
         "supertype": "Trainer",
+        "setAbbrev": "HL",
         "subtypes": [
             "Supporter"
         ],
@@ -6357,9 +6085,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6370,9 +6096,7 @@ let hiddenLegends = [
         "number": "92",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/92.png",
             "large": "https://images.pokemontcg.io/ex5/92_hires.png"
@@ -6382,6 +6106,7 @@ let hiddenLegends = [
         "id": "ex5-93",
         "name": "Groudon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic",
             "EX"
@@ -6436,9 +6161,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6452,9 +6175,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/93.png",
             "large": "https://images.pokemontcg.io/ex5/93_hires.png"
@@ -6464,6 +6185,7 @@ let hiddenLegends = [
         "id": "ex5-94",
         "name": "Kyogre ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic",
             "EX"
@@ -6518,9 +6240,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6534,9 +6254,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/94.png",
             "large": "https://images.pokemontcg.io/ex5/94_hires.png"
@@ -6546,6 +6264,7 @@ let hiddenLegends = [
         "id": "ex5-95",
         "name": "Metagross ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6605,9 +6324,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6621,9 +6338,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/95.png",
             "large": "https://images.pokemontcg.io/ex5/95_hires.png"
@@ -6633,6 +6348,7 @@ let hiddenLegends = [
         "id": "ex5-96",
         "name": "Ninetales ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6681,9 +6397,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6697,9 +6411,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/96.png",
             "large": "https://images.pokemontcg.io/ex5/96_hires.png"
@@ -6709,6 +6421,7 @@ let hiddenLegends = [
         "id": "ex5-97",
         "name": "Regice ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic",
             "EX"
@@ -6753,9 +6466,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6769,9 +6480,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/97.png",
             "large": "https://images.pokemontcg.io/ex5/97_hires.png"
@@ -6781,6 +6490,7 @@ let hiddenLegends = [
         "id": "ex5-98",
         "name": "Regirock ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic",
             "EX"
@@ -6825,9 +6535,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6841,9 +6549,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/98.png",
             "large": "https://images.pokemontcg.io/ex5/98_hires.png"
@@ -6853,6 +6559,7 @@ let hiddenLegends = [
         "id": "ex5-99",
         "name": "Registeel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic",
             "EX"
@@ -6903,9 +6610,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6919,9 +6624,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/99.png",
             "large": "https://images.pokemontcg.io/ex5/99_hires.png"
@@ -6931,6 +6634,7 @@ let hiddenLegends = [
         "id": "ex5-100",
         "name": "Vileplume ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6976,9 +6680,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -6992,9 +6694,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/100.png",
             "large": "https://images.pokemontcg.io/ex5/100_hires.png"
@@ -7004,6 +6704,7 @@ let hiddenLegends = [
         "id": "ex5-101",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7052,9 +6753,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -7068,9 +6767,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex5/101.png",
             "large": "https://images.pokemontcg.io/ex5/101_hires.png"
@@ -7080,6 +6777,7 @@ let hiddenLegends = [
         "id": "ex5-102",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "HL",
         "subtypes": [
             "Basic"
         ],
@@ -7124,9 +6822,7 @@ let hiddenLegends = [
             "series": "EX",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HL",
             "releaseDate": "2004/06/01",
             "images": {
@@ -7140,9 +6836,7 @@ let hiddenLegends = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/groudon-hidden-legends-hl-102.jpg?fit=600%2C835&ssl=1",
             "large": "https://images.pokemontcg.io/ex5/102_hires.png"

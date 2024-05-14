@@ -1,8 +1,9 @@
-let magmaAqua = [
+let ex4 = [
     {
         "id": "ex4-1",
         "name": "Team Aqua's Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -50,9 +51,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -66,9 +65,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/1.png",
             "large": "https://images.pokemontcg.io/ex4/1_hires.png"
@@ -78,6 +75,7 @@ let magmaAqua = [
         "id": "ex4-2",
         "name": "Team Aqua's Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -126,9 +124,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -142,9 +138,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/2.png",
             "large": "https://images.pokemontcg.io/ex4/2_hires.png"
@@ -154,6 +148,7 @@ let magmaAqua = [
         "id": "ex4-3",
         "name": "Team Aqua's Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -208,9 +203,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -224,9 +217,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/3.png",
             "large": "https://images.pokemontcg.io/ex4/3_hires.png"
@@ -236,6 +227,7 @@ let magmaAqua = [
         "id": "ex4-4",
         "name": "Team Aqua's Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -287,9 +279,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -303,9 +293,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/4.png",
             "large": "https://images.pokemontcg.io/ex4/4_hires.png"
@@ -315,6 +303,7 @@ let magmaAqua = [
         "id": "ex4-5",
         "name": "Team Aqua's Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -362,9 +351,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -378,9 +365,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/5.png",
             "large": "https://images.pokemontcg.io/ex4/5_hires.png"
@@ -390,6 +375,7 @@ let magmaAqua = [
         "id": "ex4-6",
         "name": "Team Aqua's Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2"
         ],
@@ -442,9 +428,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -458,9 +442,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/6.png",
             "large": "https://images.pokemontcg.io/ex4/6_hires.png"
@@ -470,6 +452,7 @@ let magmaAqua = [
         "id": "ex4-7",
         "name": "Team Magma's Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2"
         ],
@@ -522,9 +505,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -538,9 +519,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/7.png",
             "large": "https://images.pokemontcg.io/ex4/7_hires.png"
@@ -550,6 +529,7 @@ let magmaAqua = [
         "id": "ex4-8",
         "name": "Team Magma's Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -595,9 +575,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -611,9 +589,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/8.png",
             "large": "https://images.pokemontcg.io/ex4/8_hires.png"
@@ -623,6 +599,7 @@ let magmaAqua = [
         "id": "ex4-9",
         "name": "Team Magma's Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -677,9 +654,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -693,9 +668,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/9.png",
             "large": "https://images.pokemontcg.io/ex4/9_hires.png"
@@ -705,6 +678,7 @@ let magmaAqua = [
         "id": "ex4-10",
         "name": "Team Magma's Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -753,9 +727,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -769,9 +741,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/10.png",
             "large": "https://images.pokemontcg.io/ex4/10_hires.png"
@@ -781,6 +751,7 @@ let magmaAqua = [
         "id": "ex4-11",
         "name": "Team Magma's Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -832,9 +803,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -848,9 +817,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/11.png",
             "large": "https://images.pokemontcg.io/ex4/11_hires.png"
@@ -860,6 +827,7 @@ let magmaAqua = [
         "id": "ex4-12",
         "name": "Team Magma's Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -905,9 +873,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -921,9 +887,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/12.png",
             "large": "https://images.pokemontcg.io/ex4/12_hires.png"
@@ -933,6 +897,7 @@ let magmaAqua = [
         "id": "ex4-13",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -977,9 +942,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -993,9 +956,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/13.png",
             "large": "https://images.pokemontcg.io/ex4/13_hires.png"
@@ -1005,6 +966,7 @@ let magmaAqua = [
         "id": "ex4-14",
         "name": "Team Aqua's Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1049,9 +1011,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1065,9 +1025,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/14.png",
             "large": "https://images.pokemontcg.io/ex4/14_hires.png"
@@ -1077,6 +1035,7 @@ let magmaAqua = [
         "id": "ex4-15",
         "name": "Team Aqua's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1127,9 +1086,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1143,9 +1100,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/15.png",
             "large": "https://images.pokemontcg.io/ex4/15_hires.png"
@@ -1155,6 +1110,7 @@ let magmaAqua = [
         "id": "ex4-16",
         "name": "Team Aqua's Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1200,9 +1156,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1216,9 +1170,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/16.png",
             "large": "https://images.pokemontcg.io/ex4/16_hires.png"
@@ -1228,6 +1180,7 @@ let magmaAqua = [
         "id": "ex4-17",
         "name": "Team Aqua's Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1270,9 +1223,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1286,9 +1237,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/17.png",
             "large": "https://images.pokemontcg.io/ex4/17_hires.png"
@@ -1298,6 +1247,7 @@ let magmaAqua = [
         "id": "ex4-18",
         "name": "Team Aqua's Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1341,9 +1291,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1357,9 +1305,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/18.png",
             "large": "https://images.pokemontcg.io/ex4/18_hires.png"
@@ -1369,6 +1315,7 @@ let magmaAqua = [
         "id": "ex4-19",
         "name": "Team Magma's Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1410,9 +1357,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1426,9 +1371,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/19.png",
             "large": "https://images.pokemontcg.io/ex4/19_hires.png"
@@ -1438,6 +1381,7 @@ let magmaAqua = [
         "id": "ex4-20",
         "name": "Team Magma's Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1484,9 +1428,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1500,9 +1442,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/20.png",
             "large": "https://images.pokemontcg.io/ex4/20_hires.png"
@@ -1512,6 +1452,7 @@ let magmaAqua = [
         "id": "ex4-21",
         "name": "Team Magma's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1561,9 +1502,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1577,9 +1516,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/21.png",
             "large": "https://images.pokemontcg.io/ex4/21_hires.png"
@@ -1589,6 +1526,7 @@ let magmaAqua = [
         "id": "ex4-22",
         "name": "Team Magma's Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1636,9 +1574,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1652,9 +1588,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/22.png",
             "large": "https://images.pokemontcg.io/ex4/22_hires.png"
@@ -1664,6 +1598,7 @@ let magmaAqua = [
         "id": "ex4-23",
         "name": "Team Magma's Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1706,9 +1641,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1722,9 +1655,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/23.png",
             "large": "https://images.pokemontcg.io/ex4/23_hires.png"
@@ -1734,6 +1665,7 @@ let magmaAqua = [
         "id": "ex4-24",
         "name": "Team Aqua's Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1782,9 +1714,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1798,9 +1728,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/24.png",
             "large": "https://images.pokemontcg.io/ex4/24_hires.png"
@@ -1810,6 +1738,7 @@ let magmaAqua = [
         "id": "ex4-25",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1852,9 +1781,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1868,9 +1795,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/25.png",
             "large": "https://images.pokemontcg.io/ex4/25_hires.png"
@@ -1880,6 +1805,7 @@ let magmaAqua = [
         "id": "ex4-26",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1924,9 +1850,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -1940,9 +1864,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/26.png",
             "large": "https://images.pokemontcg.io/ex4/26_hires.png"
@@ -1952,6 +1874,7 @@ let magmaAqua = [
         "id": "ex4-27",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2002,9 +1925,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2018,9 +1939,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/27.png",
             "large": "https://images.pokemontcg.io/ex4/27_hires.png"
@@ -2030,6 +1949,7 @@ let magmaAqua = [
         "id": "ex4-28",
         "name": "Team Aqua's Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2077,9 +1997,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2093,9 +2011,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/28.png",
             "large": "https://images.pokemontcg.io/ex4/28_hires.png"
@@ -2105,6 +2021,7 @@ let magmaAqua = [
         "id": "ex4-29",
         "name": "Team Aqua's Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2155,9 +2072,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2171,9 +2086,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/29.png",
             "large": "https://images.pokemontcg.io/ex4/29_hires.png"
@@ -2183,6 +2096,7 @@ let magmaAqua = [
         "id": "ex4-30",
         "name": "Team Aqua's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2231,9 +2145,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2247,9 +2159,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/30.png",
             "large": "https://images.pokemontcg.io/ex4/30_hires.png"
@@ -2259,6 +2169,7 @@ let magmaAqua = [
         "id": "ex4-31",
         "name": "Team Aqua's Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2306,9 +2217,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2322,9 +2231,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/31.png",
             "large": "https://images.pokemontcg.io/ex4/31_hires.png"
@@ -2334,6 +2241,7 @@ let magmaAqua = [
         "id": "ex4-32",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2378,9 +2286,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2394,9 +2300,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/32.png",
             "large": "https://images.pokemontcg.io/ex4/32_hires.png"
@@ -2406,6 +2310,7 @@ let magmaAqua = [
         "id": "ex4-33",
         "name": "Team Magma's Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2450,9 +2355,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2466,9 +2369,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/33.png",
             "large": "https://images.pokemontcg.io/ex4/33_hires.png"
@@ -2478,6 +2379,7 @@ let magmaAqua = [
         "id": "ex4-34",
         "name": "Team Magma's Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2522,9 +2424,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2538,9 +2438,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/34.png",
             "large": "https://images.pokemontcg.io/ex4/34_hires.png"
@@ -2550,6 +2448,7 @@ let magmaAqua = [
         "id": "ex4-35",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2594,9 +2493,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2610,9 +2507,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/35.png",
             "large": "https://images.pokemontcg.io/ex4/35_hires.png"
@@ -2622,6 +2517,7 @@ let magmaAqua = [
         "id": "ex4-36",
         "name": "Team Magma's Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2668,9 +2564,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2684,9 +2578,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/36.png",
             "large": "https://images.pokemontcg.io/ex4/36_hires.png"
@@ -2696,6 +2588,7 @@ let magmaAqua = [
         "id": "ex4-37",
         "name": "Team Magma's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2742,9 +2635,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2758,9 +2649,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/37.png",
             "large": "https://images.pokemontcg.io/ex4/37_hires.png"
@@ -2770,6 +2659,7 @@ let magmaAqua = [
         "id": "ex4-38",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2815,9 +2705,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2831,9 +2719,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/38.png",
             "large": "https://images.pokemontcg.io/ex4/38_hires.png"
@@ -2843,6 +2729,7 @@ let magmaAqua = [
         "id": "ex4-39",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2886,9 +2773,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2902,9 +2787,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/39.png",
             "large": "https://images.pokemontcg.io/ex4/39_hires.png"
@@ -2914,6 +2797,7 @@ let magmaAqua = [
         "id": "ex4-40",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2948,9 +2832,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -2964,9 +2846,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/40.png",
             "large": "https://images.pokemontcg.io/ex4/40_hires.png"
@@ -2976,6 +2856,7 @@ let magmaAqua = [
         "id": "ex4-41",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3020,9 +2901,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3036,9 +2915,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/41.png",
             "large": "https://images.pokemontcg.io/ex4/41_hires.png"
@@ -3048,6 +2925,7 @@ let magmaAqua = [
         "id": "ex4-42",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3092,9 +2970,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3108,9 +2984,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/42.png",
             "large": "https://images.pokemontcg.io/ex4/42_hires.png"
@@ -3120,6 +2994,7 @@ let magmaAqua = [
         "id": "ex4-43",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3164,9 +3039,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3180,9 +3053,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/43.png",
             "large": "https://images.pokemontcg.io/ex4/43_hires.png"
@@ -3192,6 +3063,7 @@ let magmaAqua = [
         "id": "ex4-44",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3235,9 +3107,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3251,9 +3121,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/44.png",
             "large": "https://images.pokemontcg.io/ex4/44_hires.png"
@@ -3263,6 +3131,7 @@ let magmaAqua = [
         "id": "ex4-45",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3308,9 +3177,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3324,9 +3191,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/45.png",
             "large": "https://images.pokemontcg.io/ex4/45_hires.png"
@@ -3336,6 +3201,7 @@ let magmaAqua = [
         "id": "ex4-46",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3377,9 +3243,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3393,9 +3257,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/46.png",
             "large": "https://images.pokemontcg.io/ex4/46_hires.png"
@@ -3405,6 +3267,7 @@ let magmaAqua = [
         "id": "ex4-47",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3449,9 +3312,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3465,9 +3326,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/47.png",
             "large": "https://images.pokemontcg.io/ex4/47_hires.png"
@@ -3477,6 +3336,7 @@ let magmaAqua = [
         "id": "ex4-48",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3521,9 +3381,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3537,9 +3395,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/48.png",
             "large": "https://images.pokemontcg.io/ex4/48_hires.png"
@@ -3549,6 +3405,7 @@ let magmaAqua = [
         "id": "ex4-49",
         "name": "Team Aqua's Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3599,9 +3456,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3615,9 +3470,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/49.png",
             "large": "https://images.pokemontcg.io/ex4/49_hires.png"
@@ -3627,6 +3480,7 @@ let magmaAqua = [
         "id": "ex4-50",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3661,9 +3515,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3677,9 +3529,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/50.png",
             "large": "https://images.pokemontcg.io/ex4/50_hires.png"
@@ -3689,6 +3539,7 @@ let magmaAqua = [
         "id": "ex4-51",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3733,9 +3584,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3749,9 +3598,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/51.png",
             "large": "https://images.pokemontcg.io/ex4/51_hires.png"
@@ -3761,6 +3608,7 @@ let magmaAqua = [
         "id": "ex4-52",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3811,9 +3659,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3827,9 +3673,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/52.png",
             "large": "https://images.pokemontcg.io/ex4/52_hires.png"
@@ -3839,6 +3683,7 @@ let magmaAqua = [
         "id": "ex4-53",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3889,9 +3734,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3905,9 +3748,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/53.png",
             "large": "https://images.pokemontcg.io/ex4/53_hires.png"
@@ -3917,6 +3758,7 @@ let magmaAqua = [
         "id": "ex4-54",
         "name": "Team Aqua's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3967,9 +3809,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -3983,9 +3823,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/54.png",
             "large": "https://images.pokemontcg.io/ex4/54_hires.png"
@@ -3995,6 +3833,7 @@ let magmaAqua = [
         "id": "ex4-55",
         "name": "Team Aqua's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4045,9 +3884,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4061,9 +3898,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/55.png",
             "large": "https://images.pokemontcg.io/ex4/55_hires.png"
@@ -4073,6 +3908,7 @@ let magmaAqua = [
         "id": "ex4-56",
         "name": "Team Aqua's Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4107,9 +3943,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4123,9 +3957,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/56.png",
             "large": "https://images.pokemontcg.io/ex4/56_hires.png"
@@ -4135,6 +3967,7 @@ let magmaAqua = [
         "id": "ex4-57",
         "name": "Team Aqua's Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4179,9 +4012,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4195,9 +4026,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/57.png",
             "large": "https://images.pokemontcg.io/ex4/57_hires.png"
@@ -4207,6 +4036,7 @@ let magmaAqua = [
         "id": "ex4-58",
         "name": "Team Magma's Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4251,9 +4081,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4267,9 +4095,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/58.png",
             "large": "https://images.pokemontcg.io/ex4/58_hires.png"
@@ -4279,6 +4105,7 @@ let magmaAqua = [
         "id": "ex4-59",
         "name": "Team Magma's Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4313,9 +4140,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4329,9 +4154,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/59.png",
             "large": "https://images.pokemontcg.io/ex4/59_hires.png"
@@ -4341,6 +4164,7 @@ let magmaAqua = [
         "id": "ex4-60",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4385,9 +4209,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4401,9 +4223,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/60.png",
             "large": "https://images.pokemontcg.io/ex4/60_hires.png"
@@ -4413,6 +4233,7 @@ let magmaAqua = [
         "id": "ex4-61",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4457,9 +4278,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4473,9 +4292,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/61.png",
             "large": "https://images.pokemontcg.io/ex4/61_hires.png"
@@ -4485,6 +4302,7 @@ let magmaAqua = [
         "id": "ex4-62",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4529,9 +4347,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4545,9 +4361,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/62.png",
             "large": "https://images.pokemontcg.io/ex4/62_hires.png"
@@ -4557,6 +4371,7 @@ let magmaAqua = [
         "id": "ex4-63",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4601,9 +4416,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4617,9 +4430,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/63.png",
             "large": "https://images.pokemontcg.io/ex4/63_hires.png"
@@ -4629,6 +4440,7 @@ let magmaAqua = [
         "id": "ex4-64",
         "name": "Team Magma's Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4673,9 +4485,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4689,9 +4499,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/64.png",
             "large": "https://images.pokemontcg.io/ex4/64_hires.png"
@@ -4701,6 +4509,7 @@ let magmaAqua = [
         "id": "ex4-65",
         "name": "Team Magma's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4741,9 +4550,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4757,9 +4564,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/65.png",
             "large": "https://images.pokemontcg.io/ex4/65_hires.png"
@@ -4769,6 +4574,7 @@ let magmaAqua = [
         "id": "ex4-66",
         "name": "Team Magma's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4819,9 +4625,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4835,9 +4639,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/66.png",
             "large": "https://images.pokemontcg.io/ex4/66_hires.png"
@@ -4847,6 +4649,7 @@ let magmaAqua = [
         "id": "ex4-67",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4891,9 +4694,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4907,9 +4708,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/67.png",
             "large": "https://images.pokemontcg.io/ex4/67_hires.png"
@@ -4919,6 +4718,7 @@ let magmaAqua = [
         "id": "ex4-68",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4963,9 +4763,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -4979,9 +4777,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/68.png",
             "large": "https://images.pokemontcg.io/ex4/68_hires.png"
@@ -4991,6 +4787,7 @@ let magmaAqua = [
         "id": "ex4-69",
         "name": "Team Aqua Schemer",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5004,9 +4801,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5017,9 +4812,7 @@ let magmaAqua = [
         "number": "69",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/69.png",
             "large": "https://images.pokemontcg.io/ex4/69_hires.png"
@@ -5029,6 +4822,7 @@ let magmaAqua = [
         "id": "ex4-70",
         "name": "Team Magma Schemer",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5042,9 +4836,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5055,9 +4847,7 @@ let magmaAqua = [
         "number": "70",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/70.png",
             "large": "https://images.pokemontcg.io/ex4/70_hires.png"
@@ -5067,6 +4857,7 @@ let magmaAqua = [
         "id": "ex4-71",
         "name": "Archie",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5080,9 +4871,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5093,9 +4882,7 @@ let magmaAqua = [
         "number": "71",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/71.png",
             "large": "https://images.pokemontcg.io/ex4/71_hires.png"
@@ -5105,6 +4892,7 @@ let magmaAqua = [
         "id": "ex4-72",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5117,9 +4905,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5130,9 +4916,7 @@ let magmaAqua = [
         "number": "72",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/72.png",
             "large": "https://images.pokemontcg.io/ex4/72_hires.png"
@@ -5142,6 +4926,7 @@ let magmaAqua = [
         "id": "ex4-73",
         "name": "Maxie",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5155,9 +4940,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5168,9 +4951,7 @@ let magmaAqua = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/73.png",
             "large": "https://images.pokemontcg.io/ex4/73_hires.png"
@@ -5180,6 +4961,7 @@ let magmaAqua = [
         "id": "ex4-74",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5193,9 +4975,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5206,9 +4986,7 @@ let magmaAqua = [
         "number": "74",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/74.png",
             "large": "https://images.pokemontcg.io/ex4/74_hires.png"
@@ -5218,6 +4996,7 @@ let magmaAqua = [
         "id": "ex4-75",
         "name": "Team Aqua Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5230,9 +5009,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5243,9 +5020,7 @@ let magmaAqua = [
         "number": "75",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/75.png",
             "large": "https://images.pokemontcg.io/ex4/75_hires.png"
@@ -5255,6 +5030,7 @@ let magmaAqua = [
         "id": "ex4-76",
         "name": "Team Aqua Belt",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5268,9 +5044,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5281,9 +5055,7 @@ let magmaAqua = [
         "number": "76",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/76.png",
             "large": "https://images.pokemontcg.io/ex4/76_hires.png"
@@ -5293,6 +5065,7 @@ let magmaAqua = [
         "id": "ex4-77",
         "name": "Team Aqua Conspirator",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5306,9 +5079,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5319,9 +5090,7 @@ let magmaAqua = [
         "number": "77",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/77.png",
             "large": "https://images.pokemontcg.io/ex4/77_hires.png"
@@ -5331,6 +5100,7 @@ let magmaAqua = [
         "id": "ex4-78",
         "name": "Team Aqua Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stadium"
         ],
@@ -5344,9 +5114,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5357,9 +5125,7 @@ let magmaAqua = [
         "number": "78",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/78.png",
             "large": "https://images.pokemontcg.io/ex4/78_hires.png"
@@ -5369,6 +5135,7 @@ let magmaAqua = [
         "id": "ex4-79",
         "name": "Team Aqua Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -5392,9 +5159,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5405,9 +5170,7 @@ let magmaAqua = [
         "number": "79",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/79.png",
             "large": "https://images.pokemontcg.io/ex4/79_hires.png"
@@ -5417,6 +5180,7 @@ let magmaAqua = [
         "id": "ex4-80",
         "name": "Team Magma Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5429,9 +5193,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5442,9 +5204,7 @@ let magmaAqua = [
         "number": "80",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/80.png",
             "large": "https://images.pokemontcg.io/ex4/80_hires.png"
@@ -5454,6 +5214,7 @@ let magmaAqua = [
         "id": "ex4-81",
         "name": "Team Magma Belt",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5467,9 +5228,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5480,9 +5239,7 @@ let magmaAqua = [
         "number": "81",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/81.png",
             "large": "https://images.pokemontcg.io/ex4/81_hires.png"
@@ -5492,6 +5249,7 @@ let magmaAqua = [
         "id": "ex4-82",
         "name": "Team Magma Conspirator",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5505,9 +5263,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5518,9 +5274,7 @@ let magmaAqua = [
         "number": "82",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/82.png",
             "large": "https://images.pokemontcg.io/ex4/82_hires.png"
@@ -5530,6 +5284,7 @@ let magmaAqua = [
         "id": "ex4-83",
         "name": "Team Magma Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stadium"
         ],
@@ -5543,9 +5298,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5556,9 +5309,7 @@ let magmaAqua = [
         "number": "83",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/83.png",
             "large": "https://images.pokemontcg.io/ex4/83_hires.png"
@@ -5568,6 +5319,7 @@ let magmaAqua = [
         "id": "ex4-84",
         "name": "Team Magma Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -5591,9 +5343,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5604,9 +5354,7 @@ let magmaAqua = [
         "number": "84",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/84.png",
             "large": "https://images.pokemontcg.io/ex4/84_hires.png"
@@ -5616,6 +5364,7 @@ let magmaAqua = [
         "id": "ex4-85",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5628,9 +5377,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5641,9 +5388,7 @@ let magmaAqua = [
         "number": "85",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/85.png",
             "large": "https://images.pokemontcg.io/ex4/85_hires.png"
@@ -5653,6 +5398,7 @@ let magmaAqua = [
         "id": "ex4-86",
         "name": "Aqua Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5665,9 +5411,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5678,9 +5422,7 @@ let magmaAqua = [
         "number": "86",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/86.png",
             "large": "https://images.pokemontcg.io/ex4/86_hires.png"
@@ -5690,6 +5432,7 @@ let magmaAqua = [
         "id": "ex4-87",
         "name": "Magma Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5702,9 +5445,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5715,9 +5456,7 @@ let magmaAqua = [
         "number": "87",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/87.png",
             "large": "https://images.pokemontcg.io/ex4/87_hires.png"
@@ -5727,6 +5466,7 @@ let magmaAqua = [
         "id": "ex4-88",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5739,9 +5479,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5752,9 +5490,7 @@ let magmaAqua = [
         "number": "88",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/88.png",
             "large": "https://images.pokemontcg.io/ex4/88_hires.png"
@@ -5764,6 +5500,7 @@ let magmaAqua = [
         "id": "ex4-89",
         "name": "Blaziken ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5817,9 +5554,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5833,9 +5568,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/89.png",
             "large": "https://images.pokemontcg.io/ex4/89_hires.png"
@@ -5845,6 +5578,7 @@ let magmaAqua = [
         "id": "ex4-90",
         "name": "Cradily ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5905,9 +5639,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5921,9 +5653,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/90.png",
             "large": "https://images.pokemontcg.io/ex4/90_hires.png"
@@ -5933,6 +5663,7 @@ let magmaAqua = [
         "id": "ex4-91",
         "name": "Entei ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -5979,9 +5710,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -5995,9 +5724,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/91.png",
             "large": "https://images.pokemontcg.io/ex4/91_hires.png"
@@ -6007,6 +5734,7 @@ let magmaAqua = [
         "id": "ex4-92",
         "name": "Raikou ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -6053,9 +5781,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6069,9 +5795,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/92.png",
             "large": "https://images.pokemontcg.io/ex4/92_hires.png"
@@ -6081,6 +5805,7 @@ let magmaAqua = [
         "id": "ex4-93",
         "name": "Sceptile ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6151,9 +5876,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6167,9 +5890,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/93.png",
             "large": "https://images.pokemontcg.io/ex4/93_hires.png"
@@ -6179,6 +5900,7 @@ let magmaAqua = [
         "id": "ex4-94",
         "name": "Suicune ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -6225,9 +5947,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6241,9 +5961,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/94.png",
             "large": "https://images.pokemontcg.io/ex4/94_hires.png"
@@ -6253,6 +5971,7 @@ let magmaAqua = [
         "id": "ex4-95",
         "name": "Swampert ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6300,9 +6019,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6316,9 +6033,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/95.png",
             "large": "https://images.pokemontcg.io/ex4/95_hires.png"
@@ -6328,6 +6043,7 @@ let magmaAqua = [
         "id": "ex4-96",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -6371,9 +6087,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6387,9 +6101,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/96.png",
             "large": "https://images.pokemontcg.io/ex4/96_hires.png"
@@ -6399,6 +6111,7 @@ let magmaAqua = [
         "id": "ex4-97",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -6440,9 +6153,7 @@ let magmaAqua = [
             "series": "EX",
             "printedTotal": 95,
             "total": 97,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MA",
             "releaseDate": "2004/03/01",
             "images": {
@@ -6456,9 +6167,7 @@ let magmaAqua = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex4/97.png",
             "large": "https://images.pokemontcg.io/ex4/97_hires.png"

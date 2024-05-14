@@ -11,16 +11,21 @@ const twittertweet = document.querySelectorAll('.twitter-tweet');
 const onemorelink = document.querySelectorAll('.one-more-link');
 const sidesection = document.querySelectorAll('.side-section');
 const blue = document.querySelectorAll('.blue');
+const wrwapped = document.querySelectorAll('.wrapped-feature');
+const wrwapped2 = document.querySelectorAll('.wrapped-feature-second-row');
 const makemewhite = document.querySelectorAll('.make-me-white');
 const navrightr = document.getElementById('nav-rightr');
 const upcomingevents = document.querySelector('.upcoming-events');
-const dropitdown1 = document.querySelector('.drop-it-down1');
+ 
 const dropitdown2 = document.querySelector('.drop-it-down2');
 const titlehr = document.querySelectorAll('.title-hr');
 const bio = document.querySelector('.author-bio');
 const h4 = document.querySelector('h4');
 const articletable = document.querySelector('.article-table');
 const rightitbox = document.querySelectorAll('.right-it-box');
+const featuredboxnameanddate = document.querySelectorAll('.featured-box-name-and-date');
+const newcolor = document.querySelectorAll('.new-color');
+const featuredlink = document.querySelectorAll('.featured-link');
 
 const tbp3 = document.querySelector('.tbp3');
 const articletitle = document.querySelectorAll('.article-title');
@@ -41,7 +46,17 @@ const enableDarkMode = () => {
     }
     if (rightitbox) {
       rightitbox.forEach((rightitbox) => {
-        rightitbox.classList.remove('darkon');
+        rightitbox.classList.add('darkon');
+      })    
+    }
+    if (wrwapped) {
+      wrwapped.forEach((wrwapped) => {
+        wrwapped.classList.add('darkon');
+      })    
+    }
+    if (wrwapped2) {
+      wrwapped2.forEach((wrwapped2) => {
+        wrwapped2.classList.add('darkon');
       })    
     }
     if (h4) {
@@ -96,8 +111,23 @@ const enableDarkMode = () => {
         twittertweet.setAttribute('data-theme', 'dark');
       })
     }
+    if (featuredboxnameanddate) {
+      featuredboxnameanddate.forEach((featuredboxnameanddate) => {
+        featuredboxnameanddate.classList.add('darkon');
+      })
+    }
+    if (newcolor) {
+      newcolor.forEach((newcolor) => {
+        newcolor.classList.add('darkon');
+      })
+    }
+    if (featuredlink) {
+      featuredlink.forEach((featuredlink) => {
+        featuredlink.classList.add('darkon');
+      })
+    }
     navrightr.classList.add('darkon');
-    dropitdown1.classList.add('darkon');
+    // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
 
     localStorage.setItem('darkMode', 'enabled');
@@ -128,6 +158,16 @@ const enableDarkMode = () => {
     if (articletitle) {
       articletitle.forEach((articletitle) => {
         articletitle.classList.remove('darkon');
+      })    
+    }
+    if (wrwapped) {
+      wrwapped.forEach((wrwapped) => {
+        wrwapped.classList.remove('darkon');
+      })    
+    }
+    if (wrwapped2) {
+      wrwapped2.forEach((wrwapped2) => {
+        wrwapped2.classList.remove('darkon');
       })    
     }
     if (rightitbox) {
@@ -168,13 +208,28 @@ const enableDarkMode = () => {
         onemorelink.classList.remove('darkon');
       })
     }
+    if (featuredboxnameanddate) {
+      featuredboxnameanddate.forEach((featuredboxnameanddate) => {
+        featuredboxnameanddate.classList.remove('darkon');
+      })
+    }
+    if (newcolor) {
+      newcolor.forEach((newcolor) => {
+        newcolor.classList.remove('darkon');
+      })
+    }
     if (twittertweet) {
       twittertweet.forEach((twittertweet) => {
         twittertweet.setAttribute('data-theme', 'light');
       })
     }
+    if (featuredlink) {
+      featuredlink.forEach((featuredlink) => {
+        featuredlink.classList.remove('darkon');
+      })
+    }
     navrightr.classList.remove('darkon');
-    dropitdown1.classList.remove('darkon');
+    // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
 
     localStorage.setItem('darkMode', null);

@@ -3,6 +3,7 @@ let smp = [
         "id": "smp-01",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -48,17 +46,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM01",
+        "numberWithAbbrev": "SM01",
+        "number": "01",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM01.png",
             "large": "https://images.pokemontcg.io/smp/SM01_hires.png"
@@ -68,6 +64,7 @@ let smp = [
         "id": "smp-02",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -103,10 +100,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -114,17 +108,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM02",
+        "numberWithAbbrev": "SM02",
+        "number": "02",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM02.png",
             "large": "https://images.pokemontcg.io/smp/SM02_hires.png"
@@ -134,6 +126,7 @@ let smp = [
         "id": "smp-03",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -168,10 +161,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -179,17 +169,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM03",
+        "numberWithAbbrev": "SM03",
+        "number": "03",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
         "nationalPokedexNumbers": [
             728
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM03.png",
             "large": "https://images.pokemontcg.io/smp/SM03_hires.png"
@@ -199,6 +187,7 @@ let smp = [
         "id": "smp-04",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -250,10 +239,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -261,17 +247,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM04",
+        "numberWithAbbrev": "SM04",
+        "number": "04",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM04.png",
             "large": "https://images.pokemontcg.io/smp/SM04_hires.png"
@@ -281,6 +265,7 @@ let smp = [
         "id": "smp-05",
         "name": "Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -344,10 +329,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -355,16 +337,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM05",
+        "numberWithAbbrev": "SM05",
+        "number": "05",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM05.png",
             "large": "https://images.pokemontcg.io/smp/SM05_hires.png"
@@ -374,6 +354,7 @@ let smp = [
         "id": "smp-06",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -418,10 +399,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -429,17 +407,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM06",
+        "numberWithAbbrev": "SM06",
+        "number": "06",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
         "nationalPokedexNumbers": [
             744
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM06.png",
             "large": "https://images.pokemontcg.io/smp/SM06_hires.png"
@@ -449,6 +425,7 @@ let smp = [
         "id": "smp-07",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -490,10 +467,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -501,17 +475,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM07",
+        "numberWithAbbrev": "SM07",
+        "number": "07",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It can peck at a rate of 16 times a second to drill holes in trees. It uses holes for food storage and for nesting.",
         "nationalPokedexNumbers": [
             731
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM07.png",
             "large": "https://images.pokemontcg.io/smp/SM07_hires.png"
@@ -521,6 +493,7 @@ let smp = [
         "id": "smp-08",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -565,10 +538,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -576,17 +546,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM08",
+        "numberWithAbbrev": "SM08",
+        "number": "08",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM08.png",
             "large": "https://images.pokemontcg.io/smp/SM08_hires.png"
@@ -596,6 +564,7 @@ let smp = [
         "id": "smp-09",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -642,10 +611,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -653,17 +619,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM09",
+        "numberWithAbbrev": "SM09",
+        "number": "09",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM09.png",
             "large": "https://images.pokemontcg.io/smp/SM09_hires.png"
@@ -673,6 +637,7 @@ let smp = [
         "id": "smp-10",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -713,10 +678,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -724,17 +686,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM10",
+        "numberWithAbbrev": "SM10",
+        "number": "10",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
         "nationalPokedexNumbers": [
             756
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM10.png",
             "large": "https://images.pokemontcg.io/smp/SM10_hires.png"
@@ -744,6 +704,7 @@ let smp = [
         "id": "smp-11",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -786,10 +747,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -797,17 +755,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM11",
+        "numberWithAbbrev": "SM11",
+        "number": "11",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
         "nationalPokedexNumbers": [
             779
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM11.png",
             "large": "https://images.pokemontcg.io/smp/SM11_hires.png"
@@ -817,6 +773,7 @@ let smp = [
         "id": "smp-12",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -858,10 +815,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -869,17 +823,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM12",
+        "numberWithAbbrev": "SM12",
+        "number": "12",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
         "nationalPokedexNumbers": [
             766
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM12.png",
             "large": "https://images.pokemontcg.io/smp/SM12_hires.png"
@@ -889,6 +841,7 @@ let smp = [
         "id": "smp-13",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -929,10 +882,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -940,17 +890,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM13",
+        "numberWithAbbrev": "SM13",
+        "number": "13",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
         "nationalPokedexNumbers": [
             765
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM13.png",
             "large": "https://images.pokemontcg.io/smp/SM13_hires.png"
@@ -960,6 +908,7 @@ let smp = [
         "id": "smp-14",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1019,10 +968,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1030,16 +976,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM14",
+        "numberWithAbbrev": "SM14",
+        "number": "14",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM14.png",
             "large": "https://images.pokemontcg.io/smp/SM14_hires.png"
@@ -1049,6 +993,7 @@ let smp = [
         "id": "smp-15",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1094,10 +1039,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1105,17 +1047,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM15",
+        "numberWithAbbrev": "SM15",
+        "number": "15",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM15.png",
             "large": "https://images.pokemontcg.io/smp/SM15_hires.png"
@@ -1125,6 +1065,7 @@ let smp = [
         "id": "smp-16",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1185,10 +1126,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1196,16 +1134,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM16",
+        "numberWithAbbrev": "SM16",
+        "number": "16",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM16.png",
             "large": "https://images.pokemontcg.io/smp/SM16_hires.png"
@@ -1215,6 +1151,7 @@ let smp = [
         "id": "smp-17",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1278,10 +1215,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1289,16 +1223,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM17",
+        "numberWithAbbrev": "SM17",
+        "number": "17",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM17.png",
             "large": "https://images.pokemontcg.io/smp/SM17_hires.png"
@@ -1308,6 +1240,7 @@ let smp = [
         "id": "smp-18",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1349,10 +1282,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1360,17 +1290,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM18",
+        "numberWithAbbrev": "SM18",
+        "number": "18",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM18.png",
             "large": "https://images.pokemontcg.io/smp/SM18_hires.png"
@@ -1380,6 +1308,7 @@ let smp = [
         "id": "smp-19",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1426,10 +1355,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1437,17 +1363,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM19",
+        "numberWithAbbrev": "SM19",
+        "number": "19",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM19.png",
             "large": "https://images.pokemontcg.io/smp/SM19_hires.png"
@@ -1457,6 +1381,7 @@ let smp = [
         "id": "smp-20",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1503,10 +1428,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1514,17 +1436,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM20",
+        "numberWithAbbrev": "SM20",
+        "number": "20",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
         "nationalPokedexNumbers": [
             750
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM20.png",
             "large": "https://images.pokemontcg.io/smp/SM20_hires.png"
@@ -1534,6 +1454,7 @@ let smp = [
         "id": "smp-21",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1576,10 +1497,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1587,17 +1505,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM21",
+        "numberWithAbbrev": "SM21",
+        "number": "21",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
         "nationalPokedexNumbers": [
             780
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM21.png",
             "large": "https://images.pokemontcg.io/smp/SM21_hires.png"
@@ -1607,6 +1523,7 @@ let smp = [
         "id": "smp-22",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1651,10 +1568,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1662,17 +1576,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM22",
+        "numberWithAbbrev": "SM22",
+        "number": "22",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM22.png",
             "large": "https://images.pokemontcg.io/smp/SM22_hires.png"
@@ -1682,6 +1594,7 @@ let smp = [
         "id": "smp-23",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1726,10 +1639,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1737,17 +1647,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM23",
+        "numberWithAbbrev": "SM23",
+        "number": "23",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM23.png",
             "large": "https://images.pokemontcg.io/smp/SM23_hires.png"
@@ -1757,6 +1665,7 @@ let smp = [
         "id": "smp-24",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1801,10 +1710,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1812,17 +1718,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM24",
+        "numberWithAbbrev": "SM24",
+        "number": "24",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
         "nationalPokedexNumbers": [
             728
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM24.png",
             "large": "https://images.pokemontcg.io/smp/SM24_hires.png"
@@ -1832,6 +1736,7 @@ let smp = [
         "id": "smp-25",
         "name": "Lurantis",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1873,10 +1778,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1884,17 +1786,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM25",
+        "numberWithAbbrev": "SM25",
+        "number": "25",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
         "nationalPokedexNumbers": [
             754
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM25.png",
             "large": "https://images.pokemontcg.io/smp/SM25_hires.png"
@@ -1904,6 +1804,7 @@ let smp = [
         "id": "smp-26",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1945,10 +1846,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1956,17 +1854,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM26",
+        "numberWithAbbrev": "SM26",
+        "number": "26",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM26.png",
             "large": "https://images.pokemontcg.io/smp/SM26_hires.png"
@@ -1976,6 +1872,7 @@ let smp = [
         "id": "smp-27",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2019,10 +1916,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2030,17 +1924,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM27",
+        "numberWithAbbrev": "SM27",
+        "number": "27",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
         "nationalPokedexNumbers": [
             776
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM27.png",
             "large": "https://images.pokemontcg.io/smp/SM27_hires.png"
@@ -2050,6 +1942,7 @@ let smp = [
         "id": "smp-28",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2098,10 +1991,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2109,17 +1999,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM28",
+        "numberWithAbbrev": "SM28",
+        "number": "28",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM28.png",
             "large": "https://images.pokemontcg.io/smp/SM28_hires.png"
@@ -2129,6 +2017,7 @@ let smp = [
         "id": "smp-29",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2164,10 +2053,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2175,17 +2061,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM29",
+        "numberWithAbbrev": "SM29",
+        "number": "29",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM29.png",
             "large": "https://images.pokemontcg.io/smp/SM29_hires.png"
@@ -2195,6 +2079,7 @@ let smp = [
         "id": "smp-30",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2243,10 +2128,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2254,17 +2136,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM30",
+        "numberWithAbbrev": "SM30",
+        "number": "30",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM30.png",
             "large": "https://images.pokemontcg.io/smp/SM30_hires.png"
@@ -2274,6 +2154,7 @@ let smp = [
         "id": "smp-30a",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2322,10 +2203,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2333,17 +2211,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM30a",
+        "numberWithAbbrev": "SM30a",
+        "number": "30a",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM30a.png",
             "large": "https://images.pokemontcg.io/smp/SM30a_hires.png"
@@ -2353,6 +2229,7 @@ let smp = [
         "id": "smp-31",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2401,10 +2278,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2412,17 +2286,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM31",
+        "numberWithAbbrev": "SM31",
+        "number": "31",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM31.png",
             "large": "https://images.pokemontcg.io/smp/SM31_hires.png"
@@ -2432,6 +2304,7 @@ let smp = [
         "id": "smp-32",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -2483,10 +2356,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2494,16 +2364,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM32",
+        "numberWithAbbrev": "SM32",
+        "number": "32",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             787
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM32.png",
             "large": "https://images.pokemontcg.io/smp/SM32_hires.png"
@@ -2513,6 +2381,7 @@ let smp = [
         "id": "smp-33",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -2562,10 +2431,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2573,16 +2439,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM33",
+        "numberWithAbbrev": "SM33",
+        "number": "33",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM33.png",
             "large": "https://images.pokemontcg.io/smp/SM33_hires.png"
@@ -2592,6 +2456,7 @@ let smp = [
         "id": "smp-34",
         "name": "Bewear-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2654,10 +2519,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2665,16 +2527,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM34",
+        "numberWithAbbrev": "SM34",
+        "number": "34",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM34.png",
             "large": "https://images.pokemontcg.io/smp/SM34_hires.png"
@@ -2684,6 +2544,7 @@ let smp = [
         "id": "smp-35",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2742,10 +2603,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2753,16 +2611,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM35",
+        "numberWithAbbrev": "SM35",
+        "number": "35",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM35.png",
             "large": "https://images.pokemontcg.io/smp/SM35_hires.png"
@@ -2772,6 +2628,7 @@ let smp = [
         "id": "smp-36",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2835,10 +2692,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2846,16 +2700,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM36",
+        "numberWithAbbrev": "SM36",
+        "number": "36",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM36.png",
             "large": "https://images.pokemontcg.io/smp/SM36_hires.png"
@@ -2865,6 +2717,7 @@ let smp = [
         "id": "smp-37",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2919,10 +2772,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2930,16 +2780,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM37",
+        "numberWithAbbrev": "SM37",
+        "number": "37",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM37.png",
             "large": "https://images.pokemontcg.io/smp/SM37_hires.png"
@@ -2949,6 +2797,7 @@ let smp = [
         "id": "smp-38",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -3007,10 +2856,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3018,16 +2864,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM38",
+        "numberWithAbbrev": "SM38",
+        "number": "38",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM38.png",
             "large": "https://images.pokemontcg.io/smp/SM38_hires.png"
@@ -3037,6 +2881,7 @@ let smp = [
         "id": "smp-39",
         "name": "Primarina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -3096,10 +2941,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3107,16 +2949,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM39",
+        "numberWithAbbrev": "SM39",
+        "number": "39",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             730
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM39.png",
             "large": "https://images.pokemontcg.io/smp/SM39_hires.png"
@@ -3126,6 +2966,7 @@ let smp = [
         "id": "smp-40",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3170,10 +3011,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3181,17 +3019,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM40",
+        "numberWithAbbrev": "SM40",
+        "number": "40",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
         "nationalPokedexNumbers": [
             782
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM40.png",
             "large": "https://images.pokemontcg.io/smp/SM40_hires.png"
@@ -3201,6 +3037,7 @@ let smp = [
         "id": "smp-41",
         "name": "Komala",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3241,10 +3078,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3252,17 +3086,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM41",
+        "numberWithAbbrev": "SM41",
+        "number": "41",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
         "nationalPokedexNumbers": [
             775
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM41.png",
             "large": "https://images.pokemontcg.io/smp/SM41_hires.png"
@@ -3272,6 +3104,7 @@ let smp = [
         "id": "smp-42",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3306,10 +3139,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3317,17 +3147,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM42",
+        "numberWithAbbrev": "SM42",
+        "number": "42",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM42.png",
             "large": "https://images.pokemontcg.io/smp/SM42_hires.png"
@@ -3337,6 +3165,7 @@ let smp = [
         "id": "smp-43",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3385,10 +3214,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3396,17 +3222,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM43",
+        "numberWithAbbrev": "SM43",
+        "number": "43",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM43.png",
             "large": "https://images.pokemontcg.io/smp/SM43_hires.png"
@@ -3416,6 +3240,7 @@ let smp = [
         "id": "smp-44",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3464,10 +3289,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3475,17 +3297,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM44",
+        "numberWithAbbrev": "SM44",
+        "number": "44",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM44.png",
             "large": "https://images.pokemontcg.io/smp/SM44_hires.png"
@@ -3495,6 +3315,7 @@ let smp = [
         "id": "smp-45",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3536,10 +3357,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3547,17 +3365,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM45",
+        "numberWithAbbrev": "SM45",
+        "number": "45",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
         "nationalPokedexNumbers": [
             786
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM45.png",
             "large": "https://images.pokemontcg.io/smp/SM45_hires.png"
@@ -3567,6 +3383,7 @@ let smp = [
         "id": "smp-46",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3607,10 +3424,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3618,17 +3432,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM46",
+        "numberWithAbbrev": "SM46",
+        "number": "46",
         "artist": "Eri Yamaki",
         "rarity": "Promo",
         "flavorText": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM46.png",
             "large": "https://images.pokemontcg.io/smp/SM46_hires.png"
@@ -3638,6 +3450,7 @@ let smp = [
         "id": "smp-47",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3681,10 +3494,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3692,17 +3502,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM47",
+        "numberWithAbbrev": "SM47",
+        "number": "47",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
         "nationalPokedexNumbers": [
             740
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM47.png",
             "large": "https://images.pokemontcg.io/smp/SM47_hires.png"
@@ -3712,6 +3520,7 @@ let smp = [
         "id": "smp-48",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3757,10 +3566,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3768,17 +3574,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM48",
+        "numberWithAbbrev": "SM48",
+        "number": "48",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM48.png",
             "large": "https://images.pokemontcg.io/smp/SM48_hires.png"
@@ -3788,6 +3592,7 @@ let smp = [
         "id": "smp-49",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3832,10 +3637,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3843,17 +3645,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM49",
+        "numberWithAbbrev": "SM49",
+        "number": "49",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM49.png",
             "large": "https://images.pokemontcg.io/smp/SM49_hires.png"
@@ -3863,6 +3663,7 @@ let smp = [
         "id": "smp-50",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -3912,10 +3713,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3923,16 +3721,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM50",
+        "numberWithAbbrev": "SM50",
+        "number": "50",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM50.png",
             "large": "https://images.pokemontcg.io/smp/SM50_hires.png"
@@ -3942,6 +3738,7 @@ let smp = [
         "id": "smp-51",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3989,10 +3786,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4000,17 +3794,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM51",
+        "numberWithAbbrev": "SM51",
+        "number": "51",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM51.png",
             "large": "https://images.pokemontcg.io/smp/SM51_hires.png"
@@ -4020,6 +3812,7 @@ let smp = [
         "id": "smp-52",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4061,10 +3854,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4072,17 +3862,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM52",
+        "numberWithAbbrev": "SM52",
+        "number": "52",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM52.png",
             "large": "https://images.pokemontcg.io/smp/SM52_hires.png"
@@ -4092,6 +3880,7 @@ let smp = [
         "id": "smp-53",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -4138,10 +3927,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4149,17 +3935,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM53",
+        "numberWithAbbrev": "SM53",
+        "number": "53",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
         "nationalPokedexNumbers": [
             781
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM53.png",
             "large": "https://images.pokemontcg.io/smp/SM53_hires.png"
@@ -4169,6 +3953,7 @@ let smp = [
         "id": "smp-54",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4210,10 +3995,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4221,17 +4003,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM54",
+        "numberWithAbbrev": "SM54",
+        "number": "54",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM54.png",
             "large": "https://images.pokemontcg.io/smp/SM54_hires.png"
@@ -4241,6 +4021,7 @@ let smp = [
         "id": "smp-55",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -4284,10 +4065,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4295,17 +4073,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM55",
+        "numberWithAbbrev": "SM55",
+        "number": "55",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It fires arrow quills from its wings with such precision they can pierce a pebble at distances over a hundred yards.",
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM55.png",
             "large": "https://images.pokemontcg.io/smp/SM55_hires.png"
@@ -4315,6 +4091,7 @@ let smp = [
         "id": "smp-56",
         "name": "Tsareena-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4373,10 +4150,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4384,16 +4158,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM56",
+        "numberWithAbbrev": "SM56",
+        "number": "56",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM56.png",
             "large": "https://images.pokemontcg.io/smp/SM56_hires.png"
@@ -4403,6 +4175,7 @@ let smp = [
         "id": "smp-57",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4469,10 +4242,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4480,16 +4250,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM57",
+        "numberWithAbbrev": "SM57",
+        "number": "57",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM57.png",
             "large": "https://images.pokemontcg.io/smp/SM57_hires.png"
@@ -4499,6 +4267,7 @@ let smp = [
         "id": "smp-58",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4554,10 +4323,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4565,16 +4331,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM58",
+        "numberWithAbbrev": "SM58",
+        "number": "58",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM58.png",
             "large": "https://images.pokemontcg.io/smp/SM58_hires.png"
@@ -4584,6 +4348,7 @@ let smp = [
         "id": "smp-59",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4637,10 +4402,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4648,16 +4410,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM59",
+        "numberWithAbbrev": "SM59",
+        "number": "59",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             802
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM59.png",
             "large": "https://images.pokemontcg.io/smp/SM59_hires.png"
@@ -4667,6 +4427,7 @@ let smp = [
         "id": "smp-60",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4729,10 +4490,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4740,16 +4498,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM60",
+        "numberWithAbbrev": "SM60",
+        "number": "60",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM60.png",
             "large": "https://images.pokemontcg.io/smp/SM60_hires.png"
@@ -4759,6 +4515,7 @@ let smp = [
         "id": "smp-61",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -4802,10 +4559,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4813,17 +4567,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM61",
+        "numberWithAbbrev": "SM61",
+        "number": "61",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
         "nationalPokedexNumbers": [
             787
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM61.png",
             "large": "https://images.pokemontcg.io/smp/SM61_hires.png"
@@ -4833,6 +4585,7 @@ let smp = [
         "id": "smp-62",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4891,10 +4644,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4902,16 +4652,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM62",
+        "numberWithAbbrev": "SM62",
+        "number": "62",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM62.png",
             "large": "https://images.pokemontcg.io/smp/SM62_hires.png"
@@ -4921,6 +4669,7 @@ let smp = [
         "id": "smp-63",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4978,10 +4727,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4989,16 +4735,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM63",
+        "numberWithAbbrev": "SM63",
+        "number": "63",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             758
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM63.png",
             "large": "https://images.pokemontcg.io/smp/SM63_hires.png"
@@ -5008,6 +4752,7 @@ let smp = [
         "id": "smp-64",
         "name": "Silvally",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5051,10 +4796,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5062,17 +4804,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM64",
+        "numberWithAbbrev": "SM64",
+        "number": "64",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Although its name was Type: Null at first, the boy who evolved it into this form gave it the name by which it is now known.",
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM64.png",
             "large": "https://images.pokemontcg.io/smp/SM64_hires.png"
@@ -5082,6 +4822,7 @@ let smp = [
         "id": "smp-65",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5131,10 +4872,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5142,17 +4880,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM65",
+        "numberWithAbbrev": "SM65",
+        "number": "65",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM65.png",
             "large": "https://images.pokemontcg.io/smp/SM65_hires.png"
@@ -5162,6 +4898,7 @@ let smp = [
         "id": "smp-66",
         "name": "Pheromosa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5218,10 +4955,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5229,16 +4963,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM66",
+        "numberWithAbbrev": "SM66",
+        "number": "66",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             795
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM66.png",
             "large": "https://images.pokemontcg.io/smp/SM66_hires.png"
@@ -5248,6 +4980,7 @@ let smp = [
         "id": "smp-67",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5316,10 +5049,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5327,16 +5057,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM67",
+        "numberWithAbbrev": "SM67",
+        "number": "67",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             797
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM67.png",
             "large": "https://images.pokemontcg.io/smp/SM67_hires.png"
@@ -5346,6 +5074,7 @@ let smp = [
         "id": "smp-68",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5406,10 +5135,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5417,16 +5143,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM68",
+        "numberWithAbbrev": "SM68",
+        "number": "68",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             796
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM68.png",
             "large": "https://images.pokemontcg.io/smp/SM68_hires.png"
@@ -5436,6 +5160,7 @@ let smp = [
         "id": "smp-69",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5494,10 +5219,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5505,16 +5227,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM69",
+        "numberWithAbbrev": "SM69",
+        "number": "69",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM69.png",
             "large": "https://images.pokemontcg.io/smp/SM69_hires.png"
@@ -5524,6 +5244,7 @@ let smp = [
         "id": "smp-70",
         "name": "Shining Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5571,10 +5292,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5582,17 +5300,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM70",
+        "numberWithAbbrev": "SM70",
+        "number": "70",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM70.png",
             "large": "https://images.pokemontcg.io/smp/SM70_hires.png"
@@ -5602,6 +5318,7 @@ let smp = [
         "id": "smp-71",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -5662,10 +5379,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5673,16 +5387,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM71",
+        "numberWithAbbrev": "SM71",
+        "number": "71",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             784
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM71.png",
             "large": "https://images.pokemontcg.io/smp/SM71_hires.png"
@@ -5692,6 +5404,7 @@ let smp = [
         "id": "smp-72",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5739,10 +5452,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5750,17 +5460,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM72",
+        "numberWithAbbrev": "SM72",
+        "number": "72",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM72.png",
             "large": "https://images.pokemontcg.io/smp/SM72_hires.png"
@@ -5770,6 +5478,7 @@ let smp = [
         "id": "smp-73",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5811,10 +5520,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5822,17 +5528,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM73",
+        "numberWithAbbrev": "SM73",
+        "number": "73",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
         "nationalPokedexNumbers": [
             758
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM73.png",
             "large": "https://images.pokemontcg.io/smp/SM73_hires.png"
@@ -5842,6 +5546,7 @@ let smp = [
         "id": "smp-74",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5882,10 +5587,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5893,17 +5595,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM74",
+        "numberWithAbbrev": "SM74",
+        "number": "74",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM74.png",
             "large": "https://images.pokemontcg.io/smp/SM74_hires.png"
@@ -5913,6 +5613,7 @@ let smp = [
         "id": "smp-75",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5961,10 +5662,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5972,17 +5670,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM75",
+        "numberWithAbbrev": "SM75",
+        "number": "75",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM75.png",
             "large": "https://images.pokemontcg.io/smp/SM75_hires.png"
@@ -5992,6 +5688,7 @@ let smp = [
         "id": "smp-76",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6043,10 +5740,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6054,17 +5748,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM76",
+        "numberWithAbbrev": "SM76",
+        "number": "76",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM76.png",
             "large": "https://images.pokemontcg.io/smp/SM76_hires.png"
@@ -6074,6 +5766,7 @@ let smp = [
         "id": "smp-77",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6114,10 +5807,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6125,17 +5815,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM77",
+        "numberWithAbbrev": "SM77",
+        "number": "77",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM77.png",
             "large": "https://images.pokemontcg.io/smp/SM77_hires.png"
@@ -6145,6 +5833,7 @@ let smp = [
         "id": "smp-78",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -6158,10 +5847,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6169,13 +5855,11 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM78",
+        "numberWithAbbrev": "SM78",
+        "number": "78",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM78.png",
             "large": "https://images.pokemontcg.io/smp/SM78_hires.png"
@@ -6185,6 +5869,7 @@ let smp = [
         "id": "smp-79",
         "name": "Shining Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6224,10 +5909,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6235,17 +5917,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM79",
+        "numberWithAbbrev": "SM79",
+        "number": "79",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM79.png",
             "large": "https://images.pokemontcg.io/smp/SM79_hires.png"
@@ -6255,6 +5935,7 @@ let smp = [
         "id": "smp-80",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -6321,10 +6002,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6332,16 +6010,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM80",
+        "numberWithAbbrev": "SM80",
+        "number": "80",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM80.png",
             "large": "https://images.pokemontcg.io/smp/SM80_hires.png"
@@ -6351,6 +6027,7 @@ let smp = [
         "id": "smp-81",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6402,10 +6079,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6413,17 +6087,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM81",
+        "numberWithAbbrev": "SM81",
+        "number": "81",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM81.png",
             "large": "https://images.pokemontcg.io/smp/SM81_hires.png"
@@ -6433,6 +6105,7 @@ let smp = [
         "id": "smp-82",
         "name": "Shining Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6484,10 +6157,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6495,17 +6165,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM82",
+        "numberWithAbbrev": "SM82",
+        "number": "82",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM82.png",
             "large": "https://images.pokemontcg.io/smp/SM82_hires.png"
@@ -6515,6 +6183,7 @@ let smp = [
         "id": "smp-83",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6565,10 +6234,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6576,17 +6242,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM83",
+        "numberWithAbbrev": "SM83",
+        "number": "83",
         "artist": "kodama",
         "rarity": "Promo",
         "flavorText": "It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.",
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM83.png",
             "large": "https://images.pokemontcg.io/smp/SM83_hires.png"
@@ -6596,6 +6260,7 @@ let smp = [
         "id": "smp-84",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6656,10 +6321,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6667,16 +6329,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM84",
+        "numberWithAbbrev": "SM84",
+        "number": "84",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM84.png",
             "large": "https://images.pokemontcg.io/smp/SM84_hires.png"
@@ -6686,6 +6346,7 @@ let smp = [
         "id": "smp-85",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6731,10 +6392,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6742,7 +6400,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM85",
+        "numberWithAbbrev": "SM85",
+        "number": "85",
         "artist": "Emi Ando",
         "rarity": "Promo",
         "flavorText": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
@@ -6762,6 +6421,7 @@ let smp = [
         "id": "smp-86",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6812,10 +6472,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6823,17 +6480,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM86",
+        "numberWithAbbrev": "SM86",
+        "number": "86",
         "artist": "kodama",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM86.png",
             "large": "https://images.pokemontcg.io/smp/SM86_hires.png"
@@ -6843,6 +6498,7 @@ let smp = [
         "id": "smp-87",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6881,10 +6537,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6892,17 +6545,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM87",
+        "numberWithAbbrev": "SM87",
+        "number": "87",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM87.png",
             "large": "https://images.pokemontcg.io/smp/SM87_hires.png"
@@ -6912,6 +6563,7 @@ let smp = [
         "id": "smp-88",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6955,10 +6607,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6966,17 +6615,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM88",
+        "numberWithAbbrev": "SM88",
+        "number": "88",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM88.png",
             "large": "https://images.pokemontcg.io/smp/SM88_hires.png"
@@ -6986,6 +6633,7 @@ let smp = [
         "id": "smp-89",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7036,10 +6684,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7047,17 +6692,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM89",
+        "numberWithAbbrev": "SM89",
+        "number": "89",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM89.png",
             "large": "https://images.pokemontcg.io/smp/SM89_hires.png"
@@ -7067,6 +6710,7 @@ let smp = [
         "id": "smp-90",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7132,10 +6776,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7143,16 +6784,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM90",
+        "numberWithAbbrev": "SM90",
+        "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM90.png",
             "large": "https://images.pokemontcg.io/smp/SM90_hires.png"
@@ -7162,6 +6801,7 @@ let smp = [
         "id": "smp-91",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7218,10 +6858,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7229,16 +6866,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM91",
+        "numberWithAbbrev": "SM91",
+        "number": "91",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             773
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM91.png",
             "large": "https://images.pokemontcg.io/smp/SM91_hires.png"
@@ -7248,6 +6883,7 @@ let smp = [
         "id": "smp-92",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7291,10 +6927,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7302,17 +6935,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM92",
+        "numberWithAbbrev": "SM92",
+        "number": "92",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
         "nationalPokedexNumbers": [
             788
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM92.png",
             "large": "https://images.pokemontcg.io/smp/SM92_hires.png"
@@ -7322,6 +6953,7 @@ let smp = [
         "id": "smp-93",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7369,10 +7001,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7380,17 +7009,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM93",
+        "numberWithAbbrev": "SM93",
+        "number": "93",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
         "nationalPokedexNumbers": [
             802
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM93.png",
             "large": "https://images.pokemontcg.io/smp/SM93_hires.png"
@@ -7400,6 +7027,7 @@ let smp = [
         "id": "smp-94",
         "name": "Wash Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7440,10 +7068,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7451,17 +7076,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM94",
+        "numberWithAbbrev": "SM94",
+        "number": "94",
         "artist": "Shigenori Negishi",
         "rarity": "Promo",
         "flavorText": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM94.png",
             "large": "https://images.pokemontcg.io/smp/SM94_hires.png"
@@ -7471,6 +7094,7 @@ let smp = [
         "id": "smp-95",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7511,10 +7135,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7522,17 +7143,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM95",
+        "numberWithAbbrev": "SM95",
+        "number": "95",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "They can detect the species of a living being—and its emotions—from over half a mile away. They control auras and hunt their prey in packs.",
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM95.png",
             "large": "https://images.pokemontcg.io/smp/SM95_hires.png"
@@ -7542,6 +7161,7 @@ let smp = [
         "id": "smp-96",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7591,10 +7211,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7602,17 +7219,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM96",
+        "numberWithAbbrev": "SM96",
+        "number": "96",
         "artist": "tetsuya koizumi",
         "rarity": "Promo",
         "flavorText": "Boiling blood, like plasma, circulates through its body. It makes its dwelling place in volcanic caves.",
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM96.png",
             "large": "https://images.pokemontcg.io/smp/SM96_hires.png"
@@ -7622,6 +7237,7 @@ let smp = [
         "id": "smp-97",
         "name": "Gumshoos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7666,10 +7282,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7677,17 +7290,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM97",
+        "numberWithAbbrev": "SM97",
+        "number": "97",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
         "nationalPokedexNumbers": [
             735
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM97.png",
             "large": "https://images.pokemontcg.io/smp/SM97_hires.png"
@@ -7697,6 +7308,7 @@ let smp = [
         "id": "smp-98",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7747,10 +7359,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7758,17 +7367,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM98",
+        "numberWithAbbrev": "SM98",
+        "number": "98",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM98.png",
             "large": "https://images.pokemontcg.io/smp/SM98_hires.png"
@@ -7778,6 +7385,7 @@ let smp = [
         "id": "smp-99",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7813,10 +7421,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7824,17 +7429,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM99",
+        "numberWithAbbrev": "SM99",
+        "number": "99",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by horror and died of the shock.",
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM99.png",
             "large": "https://images.pokemontcg.io/smp/SM99_hires.png"
@@ -7844,6 +7447,7 @@ let smp = [
         "id": "smp-100",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7901,10 +7505,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7912,16 +7513,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM100",
+        "numberWithAbbrev": "SM100",
+        "number": "100",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM100.png",
             "large": "https://images.pokemontcg.io/smp/SM100_hires.png"
@@ -7931,6 +7530,7 @@ let smp = [
         "id": "smp-101",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -7993,10 +7593,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8004,16 +7601,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM101",
+        "numberWithAbbrev": "SM101",
+        "number": "101",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM101.png",
             "large": "https://images.pokemontcg.io/smp/SM101_hires.png"
@@ -8023,6 +7618,7 @@ let smp = [
         "id": "smp-102",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -8090,10 +7686,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8101,16 +7694,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM102",
+        "numberWithAbbrev": "SM102",
+        "number": "102",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM102.png",
             "large": "https://images.pokemontcg.io/smp/SM102_hires.png"
@@ -8120,6 +7711,7 @@ let smp = [
         "id": "smp-103",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8186,10 +7778,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8197,16 +7786,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM103",
+        "numberWithAbbrev": "SM103",
+        "number": "103",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM103.png",
             "large": "https://images.pokemontcg.io/smp/SM103_hires.png"
@@ -8216,6 +7803,7 @@ let smp = [
         "id": "smp-103a",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8282,10 +7870,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8293,16 +7878,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM103a",
+        "numberWithAbbrev": "SM103a",
+        "number": "103a",
         "artist": "PLANETA Igarashi",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM103a.png",
             "large": "https://images.pokemontcg.io/smp/SM103a_hires.png"
@@ -8312,6 +7895,7 @@ let smp = [
         "id": "smp-104",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8372,10 +7956,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8383,16 +7964,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM104",
+        "numberWithAbbrev": "SM104",
+        "number": "104",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM104.png",
             "large": "https://images.pokemontcg.io/smp/SM104_hires.png"
@@ -8402,6 +7981,7 @@ let smp = [
         "id": "smp-104a",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8462,10 +8042,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8473,16 +8050,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM104a",
+        "numberWithAbbrev": "SM104a",
+        "number": "104a",
         "artist": "PLANETA Igarashi",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM104a.png",
             "large": "https://images.pokemontcg.io/smp/SM104a_hires.png"
@@ -8492,6 +8067,7 @@ let smp = [
         "id": "smp-105",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8536,10 +8112,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8547,17 +8120,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM105",
+        "numberWithAbbrev": "SM105",
+        "number": "105",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM105.png",
             "large": "https://images.pokemontcg.io/smp/SM105_hires.png"
@@ -8567,6 +8138,7 @@ let smp = [
         "id": "smp-106",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -8616,10 +8188,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8627,17 +8196,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM106",
+        "numberWithAbbrev": "SM106",
+        "number": "106",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM106.png",
             "large": "https://images.pokemontcg.io/smp/SM106_hires.png"
@@ -8647,6 +8214,7 @@ let smp = [
         "id": "smp-107",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -8696,10 +8264,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8707,17 +8272,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM107",
+        "numberWithAbbrev": "SM107",
+        "number": "107",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This is its form with it is devouring the light of Solgaleo. It pounces on its foes and then slashes them with the claws on its four limbs and back.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM107.png",
             "large": "https://images.pokemontcg.io/smp/SM107_hires.png"
@@ -8727,6 +8290,7 @@ let smp = [
         "id": "smp-108",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8778,10 +8342,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8789,17 +8350,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM108",
+        "numberWithAbbrev": "SM108",
+        "number": "108",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM108.png",
             "large": "https://images.pokemontcg.io/smp/SM108_hires.png"
@@ -8809,6 +8368,7 @@ let smp = [
         "id": "smp-109",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8860,10 +8420,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8871,17 +8428,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM109",
+        "numberWithAbbrev": "SM109",
+        "number": "109",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM109.png",
             "large": "https://images.pokemontcg.io/smp/SM109_hires.png"
@@ -8891,6 +8446,7 @@ let smp = [
         "id": "smp-110",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8942,10 +8498,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8953,17 +8506,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM110",
+        "numberWithAbbrev": "SM110",
+        "number": "110",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM110.png",
             "large": "https://images.pokemontcg.io/smp/SM110_hires.png"
@@ -8973,6 +8524,7 @@ let smp = [
         "id": "smp-111",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9024,10 +8576,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9035,17 +8584,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM111",
+        "numberWithAbbrev": "SM111",
+        "number": "111",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM111.png",
             "large": "https://images.pokemontcg.io/smp/SM111_hires.png"
@@ -9055,6 +8602,7 @@ let smp = [
         "id": "smp-112",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9106,10 +8654,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9117,17 +8662,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM112",
+        "numberWithAbbrev": "SM112",
+        "number": "112",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM112.png",
             "large": "https://images.pokemontcg.io/smp/SM112_hires.png"
@@ -9137,6 +8680,7 @@ let smp = [
         "id": "smp-113",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9188,10 +8732,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9199,17 +8740,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM113",
+        "numberWithAbbrev": "SM113",
+        "number": "113",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM113.png",
             "large": "https://images.pokemontcg.io/smp/SM113_hires.png"
@@ -9219,6 +8758,7 @@ let smp = [
         "id": "smp-114",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9270,10 +8810,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9281,17 +8818,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM114",
+        "numberWithAbbrev": "SM114",
+        "number": "114",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM114.png",
             "large": "https://images.pokemontcg.io/smp/SM114_hires.png"
@@ -9301,6 +8836,7 @@ let smp = [
         "id": "smp-115",
         "name": "Pheromosa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9343,10 +8879,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9354,17 +8887,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM115",
+        "numberWithAbbrev": "SM115",
+        "number": "115",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
         "nationalPokedexNumbers": [
             795
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM115.png",
             "large": "https://images.pokemontcg.io/smp/SM115_hires.png"
@@ -9374,6 +8905,7 @@ let smp = [
         "id": "smp-116",
         "name": "Xurkitree",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9423,10 +8955,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9434,17 +8963,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM116",
+        "numberWithAbbrev": "SM116",
+        "number": "116",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
         "nationalPokedexNumbers": [
             796
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM116.png",
             "large": "https://images.pokemontcg.io/smp/SM116_hires.png"
@@ -9454,6 +8981,7 @@ let smp = [
         "id": "smp-117",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9495,10 +9023,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9506,17 +9031,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM117",
+        "numberWithAbbrev": "SM117",
+        "number": "117",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
         "nationalPokedexNumbers": [
             687
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM117.png",
             "large": "https://images.pokemontcg.io/smp/SM117_hires.png"
@@ -9526,6 +9049,7 @@ let smp = [
         "id": "smp-118",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9570,10 +9094,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9581,17 +9102,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM118",
+        "numberWithAbbrev": "SM118",
+        "number": "118",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM118.png",
             "large": "https://images.pokemontcg.io/smp/SM118_hires.png"
@@ -9601,6 +9120,7 @@ let smp = [
         "id": "smp-119",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9636,10 +9156,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9647,17 +9164,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM119",
+        "numberWithAbbrev": "SM119",
+        "number": "119",
         "artist": "OOYAMA",
         "rarity": "Promo",
         "flavorText": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM119.png",
             "large": "https://images.pokemontcg.io/smp/SM119_hires.png"
@@ -9667,6 +9182,7 @@ let smp = [
         "id": "smp-120",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9702,10 +9218,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9713,17 +9226,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM120",
+        "numberWithAbbrev": "SM120",
+        "number": "120",
         "artist": "Hideki Ishikawa",
         "rarity": "Promo",
         "flavorText": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
         "nationalPokedexNumbers": [
             744
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM120.png",
             "large": "https://images.pokemontcg.io/smp/SM120_hires.png"
@@ -9733,6 +9244,7 @@ let smp = [
         "id": "smp-121",
         "name": "Raikou-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9799,10 +9311,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9810,16 +9319,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM121",
+        "numberWithAbbrev": "SM121",
+        "number": "121",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM121.png",
             "large": "https://images.pokemontcg.io/smp/SM121_hires.png"
@@ -9829,6 +9336,7 @@ let smp = [
         "id": "smp-122",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9887,10 +9395,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9898,16 +9403,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM122",
+        "numberWithAbbrev": "SM122",
+        "number": "122",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM122.png",
             "large": "https://images.pokemontcg.io/smp/SM122_hires.png"
@@ -9917,6 +9420,7 @@ let smp = [
         "id": "smp-123",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9966,10 +9470,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9977,17 +9478,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM123",
+        "numberWithAbbrev": "SM123",
+        "number": "123",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM123.png",
             "large": "https://images.pokemontcg.io/smp/SM123_hires.png"
@@ -9997,6 +9496,7 @@ let smp = [
         "id": "smp-124",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -10046,10 +9546,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10057,17 +9554,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM124",
+        "numberWithAbbrev": "SM124",
+        "number": "124",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This is its form with it is devouring the light of Solgaleo. It pounces on its foes and then slashes them with the claws on its four limbs and back.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM124.png",
             "large": "https://images.pokemontcg.io/smp/SM124_hires.png"
@@ -10077,6 +9572,7 @@ let smp = [
         "id": "smp-125",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -10136,10 +9632,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10147,16 +9640,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM125",
+        "numberWithAbbrev": "SM125",
+        "number": "125",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM125.png",
             "large": "https://images.pokemontcg.io/smp/SM125_hires.png"
@@ -10166,6 +9657,7 @@ let smp = [
         "id": "smp-126",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -10212,10 +9704,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10223,16 +9712,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM126",
+        "numberWithAbbrev": "SM126",
+        "number": "126",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM126.png",
             "large": "https://images.pokemontcg.io/smp/SM126_hires.png"
@@ -10242,6 +9729,7 @@ let smp = [
         "id": "smp-127",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10291,10 +9779,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10302,17 +9787,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM127",
+        "numberWithAbbrev": "SM127",
+        "number": "127",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This Pokémon's steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM127.png",
             "large": "https://images.pokemontcg.io/smp/SM127_hires.png"
@@ -10322,6 +9805,7 @@ let smp = [
         "id": "smp-128",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10372,10 +9856,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10383,17 +9864,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM128",
+        "numberWithAbbrev": "SM128",
+        "number": "128",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM128.png",
             "large": "https://images.pokemontcg.io/smp/SM128_hires.png"
@@ -10403,6 +9882,7 @@ let smp = [
         "id": "smp-129",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10446,10 +9926,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10457,17 +9934,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM129",
+        "numberWithAbbrev": "SM129",
+        "number": "129",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM129.png",
             "large": "https://images.pokemontcg.io/smp/SM129_hires.png"
@@ -10477,6 +9952,7 @@ let smp = [
         "id": "smp-130",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10521,10 +9997,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10532,17 +10005,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM130",
+        "numberWithAbbrev": "SM130",
+        "number": "130",
         "artist": "Ryota Murayama",
         "rarity": "Promo",
         "flavorText": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM130.png",
             "large": "https://images.pokemontcg.io/smp/SM130_hires.png"
@@ -10552,6 +10023,7 @@ let smp = [
         "id": "smp-131",
         "name": "Celesteela",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -10594,10 +10066,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10605,17 +10074,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM131",
+        "numberWithAbbrev": "SM131",
+        "number": "131",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
         "nationalPokedexNumbers": [
             797
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM131.png",
             "large": "https://images.pokemontcg.io/smp/SM131_hires.png"
@@ -10625,6 +10092,7 @@ let smp = [
         "id": "smp-132",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10665,10 +10133,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10676,17 +10141,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM132",
+        "numberWithAbbrev": "SM132",
+        "number": "132",
         "artist": "0313",
         "rarity": "Promo",
         "flavorText": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM132.png",
             "large": "https://images.pokemontcg.io/smp/SM132_hires.png"
@@ -10696,6 +10159,7 @@ let smp = [
         "id": "smp-133",
         "name": "Thundurus-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10759,10 +10223,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10770,16 +10231,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM133",
+        "numberWithAbbrev": "SM133",
+        "number": "133",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM133.png",
             "large": "https://images.pokemontcg.io/smp/SM133_hires.png"
@@ -10789,6 +10248,7 @@ let smp = [
         "id": "smp-134",
         "name": "Tornadus-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10853,10 +10313,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10864,16 +10321,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM134",
+        "numberWithAbbrev": "SM134",
+        "number": "134",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM134.png",
             "large": "https://images.pokemontcg.io/smp/SM134_hires.png"
@@ -10883,6 +10338,7 @@ let smp = [
         "id": "smp-135",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10926,10 +10382,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10937,17 +10390,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM135",
+        "numberWithAbbrev": "SM135",
+        "number": "135",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM135.png",
             "large": "https://images.pokemontcg.io/smp/SM135_hires.png"
@@ -10957,6 +10408,7 @@ let smp = [
         "id": "smp-136",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11000,10 +10452,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11011,17 +10460,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM136",
+        "numberWithAbbrev": "SM136",
+        "number": "136",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM136.png",
             "large": "https://images.pokemontcg.io/smp/SM136_hires.png"
@@ -11031,6 +10478,7 @@ let smp = [
         "id": "smp-137",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -11090,10 +10538,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11101,16 +10546,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM137",
+        "numberWithAbbrev": "SM137",
+        "number": "137",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM137.png",
             "large": "https://images.pokemontcg.io/smp/SM137_hires.png"
@@ -11120,6 +10563,7 @@ let smp = [
         "id": "smp-138",
         "name": "Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -11185,10 +10629,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11196,16 +10637,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM138",
+        "numberWithAbbrev": "SM138",
+        "number": "138",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM138.png",
             "large": "https://images.pokemontcg.io/smp/SM138_hires.png"
@@ -11215,6 +10654,7 @@ let smp = [
         "id": "smp-139",
         "name": "Salamence-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11272,10 +10712,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11283,16 +10720,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM139",
+        "numberWithAbbrev": "SM139",
+        "number": "139",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM139.png",
             "large": "https://images.pokemontcg.io/smp/SM139_hires.png"
@@ -11302,6 +10737,7 @@ let smp = [
         "id": "smp-140",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -11344,10 +10780,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11355,17 +10788,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM140",
+        "numberWithAbbrev": "SM140",
+        "number": "140",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over.",
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM140.png",
             "large": "https://images.pokemontcg.io/smp/SM140_hires.png"
@@ -11375,6 +10806,7 @@ let smp = [
         "id": "smp-141",
         "name": "White Kyurem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -11433,10 +10865,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11444,16 +10873,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM141",
+        "numberWithAbbrev": "SM141",
+        "number": "141",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM141.png",
             "large": "https://images.pokemontcg.io/smp/SM141_hires.png"
@@ -11463,6 +10890,7 @@ let smp = [
         "id": "smp-142",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11506,10 +10934,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11517,17 +10942,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM142",
+        "numberWithAbbrev": "SM142",
+        "number": "142",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM142.png",
             "large": "https://images.pokemontcg.io/smp/SM142_hires.png"
@@ -11537,6 +10960,7 @@ let smp = [
         "id": "smp-143",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11588,10 +11012,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11599,17 +11020,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM143",
+        "numberWithAbbrev": "SM143",
+        "number": "143",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.",
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM143.png",
             "large": "https://images.pokemontcg.io/smp/SM143_hires.png"
@@ -11619,6 +11038,7 @@ let smp = [
         "id": "smp-144",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11668,10 +11088,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11679,17 +11096,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM144",
+        "numberWithAbbrev": "SM144",
+        "number": "144",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM144.png",
             "large": "https://images.pokemontcg.io/smp/SM144_hires.png"
@@ -11699,6 +11114,7 @@ let smp = [
         "id": "smp-145",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11748,10 +11164,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11759,17 +11172,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM145",
+        "numberWithAbbrev": "SM145",
+        "number": "145",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM145.png",
             "large": "https://images.pokemontcg.io/smp/SM145_hires.png"
@@ -11779,6 +11190,7 @@ let smp = [
         "id": "smp-146",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -11833,10 +11245,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11844,16 +11253,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM146",
+        "numberWithAbbrev": "SM146",
+        "number": "146",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM146.png",
             "large": "https://images.pokemontcg.io/smp/SM146_hires.png"
@@ -11863,6 +11270,7 @@ let smp = [
         "id": "smp-147",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -11919,10 +11327,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11930,16 +11335,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM147",
+        "numberWithAbbrev": "SM147",
+        "number": "147",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM147.png",
             "large": "https://images.pokemontcg.io/smp/SM147_hires.png"
@@ -11949,6 +11352,7 @@ let smp = [
         "id": "smp-148",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -11962,10 +11366,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11973,13 +11374,11 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM148",
+        "numberWithAbbrev": "SM148",
+        "number": "148",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM148.png",
             "large": "https://images.pokemontcg.io/smp/SM148_hires.png"
@@ -11989,6 +11388,7 @@ let smp = [
         "id": "smp-149",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12029,10 +11429,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12040,17 +11437,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM149",
+        "numberWithAbbrev": "SM149",
+        "number": "149",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM149.png",
             "large": "https://images.pokemontcg.io/smp/SM149_hires.png"
@@ -12060,6 +11455,7 @@ let smp = [
         "id": "smp-150",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12098,10 +11494,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12109,17 +11502,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM150",
+        "numberWithAbbrev": "SM150",
+        "number": "150",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity.",
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM150.png",
             "large": "https://images.pokemontcg.io/smp/SM150_hires.png"
@@ -12129,6 +11520,7 @@ let smp = [
         "id": "smp-151",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12175,10 +11567,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12186,17 +11575,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM151",
+        "numberWithAbbrev": "SM151",
+        "number": "151",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM151.png",
             "large": "https://images.pokemontcg.io/smp/SM151_hires.png"
@@ -12206,6 +11593,7 @@ let smp = [
         "id": "smp-152",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12252,10 +11640,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12263,17 +11648,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM152",
+        "numberWithAbbrev": "SM152",
+        "number": "152",
         "artist": "HYOGONOSUKE",
         "rarity": "Promo",
         "flavorText": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
         "nationalPokedexNumbers": [
             786
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM152.png",
             "large": "https://images.pokemontcg.io/smp/SM152_hires.png"
@@ -12283,6 +11666,7 @@ let smp = [
         "id": "smp-153",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12318,10 +11702,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12329,17 +11710,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM153",
+        "numberWithAbbrev": "SM153",
+        "number": "153",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM153.png",
             "large": "https://images.pokemontcg.io/smp/SM153_hires.png"
@@ -12349,6 +11728,7 @@ let smp = [
         "id": "smp-154",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12393,10 +11773,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12404,17 +11781,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM154",
+        "numberWithAbbrev": "SM154",
+        "number": "154",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
         "nationalPokedexNumbers": [
             757
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM154.png",
             "large": "https://images.pokemontcg.io/smp/SM154_hires.png"
@@ -12424,6 +11799,7 @@ let smp = [
         "id": "smp-155",
         "name": "Kingdra-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -12478,10 +11854,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12489,16 +11862,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM155",
+        "numberWithAbbrev": "SM155",
+        "number": "155",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM155.png",
             "large": "https://images.pokemontcg.io/smp/SM155_hires.png"
@@ -12508,6 +11879,7 @@ let smp = [
         "id": "smp-156",
         "name": "Dragonite-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -12567,10 +11939,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12578,16 +11947,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM156",
+        "numberWithAbbrev": "SM156",
+        "number": "156",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM156.png",
             "large": "https://images.pokemontcg.io/smp/SM156_hires.png"
@@ -12597,6 +11964,7 @@ let smp = [
         "id": "smp-157",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12644,10 +12012,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12655,17 +12020,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM157",
+        "numberWithAbbrev": "SM157",
+        "number": "157",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feel stressed now and then if it's unable to fully discharge the electricity.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM157.png",
             "large": "https://images.pokemontcg.io/smp/SM157_hires.png"
@@ -12675,6 +12038,7 @@ let smp = [
         "id": "smp-158",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -12715,10 +12079,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12726,17 +12087,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM158",
+        "numberWithAbbrev": "SM158",
+        "number": "158",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM158.png",
             "large": "https://images.pokemontcg.io/smp/SM158_hires.png"
@@ -12746,6 +12105,7 @@ let smp = [
         "id": "smp-159",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12783,10 +12143,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12794,17 +12151,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM159",
+        "numberWithAbbrev": "SM159",
+        "number": "159",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM159.png",
             "large": "https://images.pokemontcg.io/smp/SM159_hires.png"
@@ -12814,6 +12169,7 @@ let smp = [
         "id": "smp-160",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -12855,10 +12211,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12866,17 +12219,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM160",
+        "numberWithAbbrev": "SM160",
+        "number": "160",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM160.png",
             "large": "https://images.pokemontcg.io/smp/SM160_hires.png"
@@ -12886,6 +12237,7 @@ let smp = [
         "id": "smp-161",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12931,10 +12283,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -12942,17 +12291,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM161",
+        "numberWithAbbrev": "SM161",
+        "number": "161",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM161.png",
             "large": "https://images.pokemontcg.io/smp/SM161_hires.png"
@@ -12962,6 +12309,7 @@ let smp = [
         "id": "smp-162",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13012,10 +12360,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13023,17 +12368,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM162",
+        "numberWithAbbrev": "SM162",
+        "number": "162",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM162.png",
             "large": "https://images.pokemontcg.io/smp/SM162_hires.png"
@@ -13043,6 +12386,7 @@ let smp = [
         "id": "smp-163",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13078,10 +12422,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13089,17 +12430,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM163",
+        "numberWithAbbrev": "SM163",
+        "number": "163",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM163.png",
             "large": "https://images.pokemontcg.io/smp/SM163_hires.png"
@@ -13109,6 +12448,7 @@ let smp = [
         "id": "smp-164",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13149,10 +12489,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13160,17 +12497,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM164",
+        "numberWithAbbrev": "SM164",
+        "number": "164",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM164.png",
             "large": "https://images.pokemontcg.io/smp/SM164_hires.png"
@@ -13180,6 +12515,7 @@ let smp = [
         "id": "smp-165",
         "name": "Ultra Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -13215,10 +12551,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13226,17 +12559,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM165",
+        "numberWithAbbrev": "SM165",
+        "number": "165",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM165.png",
             "large": "https://images.pokemontcg.io/smp/SM165_hires.png"
@@ -13246,6 +12577,7 @@ let smp = [
         "id": "smp-166",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13298,10 +12630,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13309,17 +12638,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM166",
+        "numberWithAbbrev": "SM166",
+        "number": "166",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             129,
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM166.png",
             "large": "https://images.pokemontcg.io/smp/SM166_hires.png"
@@ -13329,6 +12656,7 @@ let smp = [
         "id": "smp-167",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13391,10 +12719,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13402,17 +12727,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM167",
+        "numberWithAbbrev": "SM167",
+        "number": "167",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             3,
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM167.png",
             "large": "https://images.pokemontcg.io/smp/SM167_hires.png"
@@ -13422,6 +12745,7 @@ let smp = [
         "id": "smp-168",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13480,10 +12804,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13491,17 +12812,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM168",
+        "numberWithAbbrev": "SM168",
+        "number": "168",
         "artist": "kawayoo",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             25,
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM168.png",
             "large": "https://images.pokemontcg.io/smp/SM168_hires.png"
@@ -13511,6 +12830,7 @@ let smp = [
         "id": "smp-169",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13581,10 +12901,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13592,17 +12909,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM169",
+        "numberWithAbbrev": "SM169",
+        "number": "169",
         "artist": "Tomokazu Komiya",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133,
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM169.png",
             "large": "https://images.pokemontcg.io/smp/SM169_hires.png"
@@ -13612,6 +12927,7 @@ let smp = [
         "id": "smp-170",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13663,10 +12979,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13674,16 +12987,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM170",
+        "numberWithAbbrev": "SM170",
+        "number": "170",
         "rarity": "Promo",
         "flavorText": "He loves to show off his vast knowledge. This expressive Pikachu is like a middle-aged man.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM170.png",
             "large": "https://images.pokemontcg.io/smp/SM170_hires.png"
@@ -13693,6 +13004,7 @@ let smp = [
         "id": "smp-171",
         "name": "Flareon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13749,10 +13061,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13760,16 +13069,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM171",
+        "numberWithAbbrev": "SM171",
+        "number": "171",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM171.png",
             "large": "https://images.pokemontcg.io/smp/SM171_hires.png"
@@ -13779,6 +13086,7 @@ let smp = [
         "id": "smp-172",
         "name": "Vaporeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13833,10 +13141,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13844,16 +13149,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM172",
+        "numberWithAbbrev": "SM172",
+        "number": "172",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM172.png",
             "large": "https://images.pokemontcg.io/smp/SM172_hires.png"
@@ -13863,6 +13166,7 @@ let smp = [
         "id": "smp-173",
         "name": "Jolteon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13924,10 +13228,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -13935,16 +13236,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM173",
+        "numberWithAbbrev": "SM173",
+        "number": "173",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM173.png",
             "large": "https://images.pokemontcg.io/smp/SM173_hires.png"
@@ -13954,6 +13253,7 @@ let smp = [
         "id": "smp-174",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -14017,10 +13317,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14028,16 +13325,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM174",
+        "numberWithAbbrev": "SM174",
+        "number": "174",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM174.png",
             "large": "https://images.pokemontcg.io/smp/SM174_hires.png"
@@ -14047,6 +13342,7 @@ let smp = [
         "id": "smp-175",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -14110,10 +13406,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14121,16 +13414,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM175",
+        "numberWithAbbrev": "SM175",
+        "number": "175",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM175.png",
             "large": "https://images.pokemontcg.io/smp/SM175_hires.png"
@@ -14140,6 +13431,7 @@ let smp = [
         "id": "smp-176",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -14203,10 +13495,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14214,16 +13503,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM176",
+        "numberWithAbbrev": "SM176",
+        "number": "176",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM176.png",
             "large": "https://images.pokemontcg.io/smp/SM176_hires.png"
@@ -14233,6 +13520,7 @@ let smp = [
         "id": "smp-177",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14283,10 +13571,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14294,17 +13579,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM177",
+        "numberWithAbbrev": "SM177",
+        "number": "177",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
         "nationalPokedexNumbers": [
             808
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM177.png",
             "large": "https://images.pokemontcg.io/smp/SM177_hires.png"
@@ -14314,6 +13597,7 @@ let smp = [
         "id": "smp-178",
         "name": "Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14375,10 +13659,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14386,16 +13667,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM178",
+        "numberWithAbbrev": "SM178",
+        "number": "178",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM178.png",
             "large": "https://images.pokemontcg.io/smp/SM178_hires.png"
@@ -14405,6 +13684,7 @@ let smp = [
         "id": "smp-179",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14446,10 +13726,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14457,17 +13734,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM179",
+        "numberWithAbbrev": "SM179",
+        "number": "179",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM179.png",
             "large": "https://images.pokemontcg.io/smp/SM179_hires.png"
@@ -14477,6 +13752,7 @@ let smp = [
         "id": "smp-180",
         "name": "Stakataka",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -14518,10 +13794,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14529,17 +13802,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM180",
+        "numberWithAbbrev": "SM180",
+        "number": "180",
         "artist": "Hiroki Asanuma",
         "rarity": "Promo",
         "flavorText": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
         "nationalPokedexNumbers": [
             805
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM180.png",
             "large": "https://images.pokemontcg.io/smp/SM180_hires.png"
@@ -14549,6 +13820,7 @@ let smp = [
         "id": "smp-181",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -14597,10 +13869,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14608,17 +13877,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM181",
+        "numberWithAbbrev": "SM181",
+        "number": "181",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
         "nationalPokedexNumbers": [
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM181.png",
             "large": "https://images.pokemontcg.io/smp/SM181_hires.png"
@@ -14628,6 +13895,7 @@ let smp = [
         "id": "smp-182",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -14668,10 +13936,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14679,17 +13944,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM182",
+        "numberWithAbbrev": "SM182",
+        "number": "182",
         "artist": "tetsuya koizumi",
         "rarity": "Promo",
         "flavorText": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it's mostly made of the same material.",
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM182.png",
             "large": "https://images.pokemontcg.io/smp/SM182_hires.png"
@@ -14699,6 +13962,7 @@ let smp = [
         "id": "smp-183",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14740,10 +14004,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14751,17 +14012,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM183",
+        "numberWithAbbrev": "SM183",
+        "number": "183",
         "artist": "Aya Kusube",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM183.png",
             "large": "https://images.pokemontcg.io/smp/SM183_hires.png"
@@ -14771,6 +14030,7 @@ let smp = [
         "id": "smp-184",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14822,10 +14082,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14833,17 +14090,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM184",
+        "numberWithAbbrev": "SM184",
+        "number": "184",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM184.png",
             "large": "https://images.pokemontcg.io/smp/SM184_hires.png"
@@ -14853,6 +14108,7 @@ let smp = [
         "id": "smp-185",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -14896,10 +14152,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14907,17 +14160,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM185",
+        "numberWithAbbrev": "SM185",
+        "number": "185",
         "artist": "Hideki Ishikawa",
         "rarity": "Promo",
         "flavorText": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM185.png",
             "large": "https://images.pokemontcg.io/smp/SM185_hires.png"
@@ -14927,6 +14178,7 @@ let smp = [
         "id": "smp-186",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -14970,10 +14222,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -14981,17 +14230,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM186",
+        "numberWithAbbrev": "SM186",
+        "number": "186",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "If it inhales deeply, that's a sign it's about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit!",
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM186.png",
             "large": "https://images.pokemontcg.io/smp/SM186_hires.png"
@@ -15001,6 +14248,7 @@ let smp = [
         "id": "smp-187",
         "name": "Alolan Marowak-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15053,10 +14301,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15064,16 +14309,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM187",
+        "numberWithAbbrev": "SM187",
+        "number": "187",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM187.png",
             "large": "https://images.pokemontcg.io/smp/SM187_hires.png"
@@ -15083,6 +14326,7 @@ let smp = [
         "id": "smp-188",
         "name": "Kangaskhan-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -15140,10 +14384,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15151,16 +14392,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM188",
+        "numberWithAbbrev": "SM188",
+        "number": "188",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM188.png",
             "large": "https://images.pokemontcg.io/smp/SM188_hires.png"
@@ -15170,6 +14409,7 @@ let smp = [
         "id": "smp-189",
         "name": "Blastoise-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15223,10 +14463,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15234,16 +14471,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM189",
+        "numberWithAbbrev": "SM189",
+        "number": "189",
         "artist": "sadaji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM189.png",
             "large": "https://images.pokemontcg.io/smp/SM189_hires.png"
@@ -15253,6 +14488,7 @@ let smp = [
         "id": "smp-190",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15303,10 +14539,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15314,17 +14547,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM190",
+        "numberWithAbbrev": "SM190",
+        "number": "190",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "He was the partner of Tim's father, Harry, who has gone missing. This Pikachu loves the dark coffee at the Hi-Hat Cafe.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM190.png",
             "large": "https://images.pokemontcg.io/smp/SM190_hires.png"
@@ -15334,6 +14565,7 @@ let smp = [
         "id": "smp-191",
         "name": "Mewtwo & Mew-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15379,10 +14611,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15390,17 +14619,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM191",
+        "numberWithAbbrev": "SM191",
+        "number": "191",
         "artist": "sui",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             150,
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM191.png",
             "large": "https://images.pokemontcg.io/smp/SM191_hires.png"
@@ -15410,6 +14637,7 @@ let smp = [
         "id": "smp-192",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15474,10 +14702,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15485,17 +14710,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM192",
+        "numberWithAbbrev": "SM192",
+        "number": "192",
         "artist": "nagimiso",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             448,
             809
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM192.png",
             "large": "https://images.pokemontcg.io/smp/SM192_hires.png"
@@ -15505,6 +14728,7 @@ let smp = [
         "id": "smp-193",
         "name": "Garchomp & Giratina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15563,10 +14787,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15574,17 +14795,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM193",
+        "numberWithAbbrev": "SM193",
+        "number": "193",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             445,
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM193.png",
             "large": "https://images.pokemontcg.io/smp/SM193_hires.png"
@@ -15594,6 +14813,7 @@ let smp = [
         "id": "smp-194",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15634,10 +14854,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15645,17 +14862,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM194",
+        "numberWithAbbrev": "SM194",
+        "number": "194",
         "artist": "MPC Film",
         "rarity": "Promo",
         "flavorText": "Skilled in deduction, he's a self-proclaimed \"great detective.\" His detective hat is his trademark.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM194.png",
             "large": "https://images.pokemontcg.io/smp/SM194_hires.png"
@@ -15665,6 +14880,7 @@ let smp = [
         "id": "smp-195",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15727,10 +14943,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15738,16 +14951,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM195",
+        "numberWithAbbrev": "SM195",
+        "number": "195",
         "artist": "Framestore",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM195.png",
             "large": "https://images.pokemontcg.io/smp/SM195_hires.png"
@@ -15757,6 +14968,7 @@ let smp = [
         "id": "smp-196",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -15817,10 +15029,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15828,16 +15037,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM196",
+        "numberWithAbbrev": "SM196",
+        "number": "196",
         "artist": "MPC Film",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM196.png",
             "large": "https://images.pokemontcg.io/smp/SM196_hires.png"
@@ -15847,6 +15054,7 @@ let smp = [
         "id": "smp-197",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15900,10 +15108,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15911,16 +15116,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM197",
+        "numberWithAbbrev": "SM197",
+        "number": "197",
         "artist": "MPC Film",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM197.png",
             "large": "https://images.pokemontcg.io/smp/SM197_hires.png"
@@ -15930,6 +15133,7 @@ let smp = [
         "id": "smp-198",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15975,10 +15179,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -15986,17 +15187,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM198",
+        "numberWithAbbrev": "SM198",
+        "number": "198",
         "artist": "MPC Film",
         "rarity": "Promo",
         "flavorText": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM198.png",
             "large": "https://images.pokemontcg.io/smp/SM198_hires.png"
@@ -16006,6 +15205,7 @@ let smp = [
         "id": "smp-199",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16041,10 +15241,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16052,17 +15249,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM199",
+        "numberWithAbbrev": "SM199",
+        "number": "199",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM199.png",
             "large": "https://images.pokemontcg.io/smp/SM199_hires.png"
@@ -16072,6 +15267,7 @@ let smp = [
         "id": "smp-200",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16122,10 +15318,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16133,17 +15326,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM200",
+        "numberWithAbbrev": "SM200",
+        "number": "200",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM200.png",
             "large": "https://images.pokemontcg.io/smp/SM200_hires.png"
@@ -16153,6 +15344,7 @@ let smp = [
         "id": "smp-201",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16213,10 +15405,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16224,17 +15413,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM201",
+        "numberWithAbbrev": "SM201",
+        "number": "201",
         "artist": "Ryota Murayama",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6,
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM201.png",
             "large": "https://images.pokemontcg.io/smp/SM201_hires.png"
@@ -16244,6 +15431,7 @@ let smp = [
         "id": "smp-202",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -16284,10 +15472,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16295,17 +15480,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM202",
+        "numberWithAbbrev": "SM202",
+        "number": "202",
         "artist": "MAHOU",
         "rarity": "Promo",
         "flavorText": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM202.png",
             "large": "https://images.pokemontcg.io/smp/SM202_hires.png"
@@ -16315,6 +15498,7 @@ let smp = [
         "id": "smp-203",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16357,10 +15541,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16368,17 +15549,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM203",
+        "numberWithAbbrev": "SM203",
+        "number": "203",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
         "nationalPokedexNumbers": [
             788
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM203.png",
             "large": "https://images.pokemontcg.io/smp/SM203_hires.png"
@@ -16388,6 +15567,7 @@ let smp = [
         "id": "smp-204",
         "name": "Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16431,10 +15611,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16442,17 +15619,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM204",
+        "numberWithAbbrev": "SM204",
+        "number": "204",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM204.png",
             "large": "https://images.pokemontcg.io/smp/SM204_hires.png"
@@ -16462,6 +15637,7 @@ let smp = [
         "id": "smp-205",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16507,10 +15683,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16518,17 +15691,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM205",
+        "numberWithAbbrev": "SM205",
+        "number": "205",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM205.png",
             "large": "https://images.pokemontcg.io/smp/SM205_hires.png"
@@ -16538,6 +15709,7 @@ let smp = [
         "id": "smp-206",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16580,10 +15752,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16591,17 +15760,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM206",
+        "numberWithAbbrev": "SM206",
+        "number": "206",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM206.png",
             "large": "https://images.pokemontcg.io/smp/SM206_hires.png"
@@ -16611,6 +15778,7 @@ let smp = [
         "id": "smp-207",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16652,10 +15820,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16663,17 +15828,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM207",
+        "numberWithAbbrev": "SM207",
+        "number": "207",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM207.png",
             "large": "https://images.pokemontcg.io/smp/SM207_hires.png"
@@ -16683,6 +15846,7 @@ let smp = [
         "id": "smp-208",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -16731,10 +15895,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16742,17 +15903,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM208",
+        "numberWithAbbrev": "SM208",
+        "number": "208",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM208.png",
             "large": "https://images.pokemontcg.io/smp/SM208_hires.png"
@@ -16762,6 +15921,7 @@ let smp = [
         "id": "smp-209",
         "name": "Stakataka",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -16803,10 +15963,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16814,17 +15971,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM209",
+        "numberWithAbbrev": "SM209",
+        "number": "209",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
         "nationalPokedexNumbers": [
             805
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM209.png",
             "large": "https://images.pokemontcg.io/smp/SM209_hires.png"
@@ -16834,6 +15989,7 @@ let smp = [
         "id": "smp-210",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16888,10 +16044,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16899,7 +16052,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM210",
+        "numberWithAbbrev": "SM210",
+        "number": "210",
         "artist": "HYOGONOSUKE",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -16907,10 +16061,7 @@ let smp = [
             145,
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM210.png",
             "large": "https://images.pokemontcg.io/smp/SM210_hires.png"
@@ -16920,6 +16071,7 @@ let smp = [
         "id": "smp-211",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -16971,10 +16123,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -16982,16 +16131,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM211",
+        "numberWithAbbrev": "SM211",
+        "number": "211",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM211.png",
             "large": "https://images.pokemontcg.io/smp/SM211_hires.png"
@@ -17001,6 +16148,7 @@ let smp = [
         "id": "smp-212",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -17052,10 +16200,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17063,16 +16208,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM212",
+        "numberWithAbbrev": "SM212",
+        "number": "212",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM212.png",
             "large": "https://images.pokemontcg.io/smp/SM212_hires.png"
@@ -17082,6 +16225,7 @@ let smp = [
         "id": "smp-213",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -17137,10 +16281,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17148,16 +16289,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM213",
+        "numberWithAbbrev": "SM213",
+        "number": "213",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM213.png",
             "large": "https://images.pokemontcg.io/smp/SM213_hires.png"
@@ -17167,6 +16306,7 @@ let smp = [
         "id": "smp-214",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17207,10 +16347,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17218,17 +16355,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM214",
+        "numberWithAbbrev": "SM214",
+        "number": "214",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM214.png",
             "large": "https://images.pokemontcg.io/smp/SM214_hires.png"
@@ -17238,6 +16373,7 @@ let smp = [
         "id": "smp-215",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17276,10 +16412,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17287,17 +16420,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM215",
+        "numberWithAbbrev": "SM215",
+        "number": "215",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM215.png",
             "large": "https://images.pokemontcg.io/smp/SM215_hires.png"
@@ -17307,6 +16438,7 @@ let smp = [
         "id": "smp-216",
         "name": "Porygon-Z-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -17361,10 +16493,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17372,16 +16501,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM216",
+        "numberWithAbbrev": "SM216",
+        "number": "216",
         "artist": "PLANETA Tsuji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM216.png",
             "large": "https://images.pokemontcg.io/smp/SM216_hires.png"
@@ -17391,6 +16518,7 @@ let smp = [
         "id": "smp-217",
         "name": "Trevenant & Dusknoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17445,10 +16573,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17456,17 +16581,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM217",
+        "numberWithAbbrev": "SM217",
+        "number": "217",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             477,
             709
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM217.png",
             "large": "https://images.pokemontcg.io/smp/SM217_hires.png"
@@ -17476,6 +16599,7 @@ let smp = [
         "id": "smp-218",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -17516,10 +16640,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17527,17 +16648,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM218",
+        "numberWithAbbrev": "SM218",
+        "number": "218",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM218.png",
             "large": "https://images.pokemontcg.io/smp/SM218_hires.png"
@@ -17547,6 +16666,7 @@ let smp = [
         "id": "smp-219",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17590,10 +16710,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17601,17 +16718,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM219",
+        "numberWithAbbrev": "SM219",
+        "number": "219",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM219.png",
             "large": "https://images.pokemontcg.io/smp/SM219_hires.png"
@@ -17621,6 +16736,7 @@ let smp = [
         "id": "smp-220",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17659,10 +16775,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17670,17 +16783,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM220",
+        "numberWithAbbrev": "SM220",
+        "number": "220",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "flavorText": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
         "nationalPokedexNumbers": [
             489
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM220.png",
             "large": "https://images.pokemontcg.io/smp/SM220_hires.png"
@@ -17690,6 +16801,7 @@ let smp = [
         "id": "smp-221",
         "name": "Blacephalon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -17729,10 +16841,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17740,17 +16849,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM221",
+        "numberWithAbbrev": "SM221",
+        "number": "221",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
         "nationalPokedexNumbers": [
             806
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM221.png",
             "large": "https://images.pokemontcg.io/smp/SM221_hires.png"
@@ -17760,6 +16867,7 @@ let smp = [
         "id": "smp-222",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -17808,10 +16916,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17819,17 +16924,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM222",
+        "numberWithAbbrev": "SM222",
+        "number": "222",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
         "flavorText": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM222.png",
             "large": "https://images.pokemontcg.io/smp/SM222_hires.png"
@@ -17839,6 +16942,7 @@ let smp = [
         "id": "smp-223",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17884,10 +16988,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17895,17 +16996,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM223",
+        "numberWithAbbrev": "SM223",
+        "number": "223",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM223.png",
             "large": "https://images.pokemontcg.io/smp/SM223_hires.png"
@@ -17915,6 +17014,7 @@ let smp = [
         "id": "smp-224",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17957,10 +17057,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -17968,17 +17065,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM224",
+        "numberWithAbbrev": "SM224",
+        "number": "224",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM224.png",
             "large": "https://images.pokemontcg.io/smp/SM224_hires.png"
@@ -17988,6 +17083,7 @@ let smp = [
         "id": "smp-225",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18028,10 +17124,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18039,17 +17132,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM225",
+        "numberWithAbbrev": "SM225",
+        "number": "225",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM225.png",
             "large": "https://images.pokemontcg.io/smp/SM225_hires.png"
@@ -18059,6 +17150,7 @@ let smp = [
         "id": "smp-226",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -18099,10 +17191,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18110,17 +17199,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM226",
+        "numberWithAbbrev": "SM226",
+        "number": "226",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This Pokémon was created by Mewtwo to prove that copies can be even more powerful than their originals.",
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM226.png",
             "large": "https://images.pokemontcg.io/smp/SM226_hires.png"
@@ -18130,6 +17217,7 @@ let smp = [
         "id": "smp-227",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18181,10 +17269,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18192,17 +17277,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM227",
+        "numberWithAbbrev": "SM227",
+        "number": "227",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM227.png",
             "large": "https://images.pokemontcg.io/smp/SM227_hires.png"
@@ -18212,6 +17295,7 @@ let smp = [
         "id": "smp-228",
         "name": "Armored Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18245,10 +17329,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18256,17 +17337,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM228",
+        "numberWithAbbrev": "SM228",
+        "number": "228",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "Mewtwo was on a rampage searching for meaning to its existence in this world when Giovanni suppressed and controlled its power.",
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM228.png",
             "large": "https://images.pokemontcg.io/smp/SM228_hires.png"
@@ -18276,6 +17355,7 @@ let smp = [
         "id": "smp-229",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18336,10 +17416,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18347,17 +17424,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM229",
+        "numberWithAbbrev": "SM229",
+        "number": "229",
         "artist": "Yuka Morii",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             3,
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM229.png",
             "large": "https://images.pokemontcg.io/smp/SM229_hires.png"
@@ -18367,6 +17442,7 @@ let smp = [
         "id": "smp-230",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18418,10 +17494,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18429,17 +17502,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM230",
+        "numberWithAbbrev": "SM230",
+        "number": "230",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6,
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM230.png",
             "large": "https://images.pokemontcg.io/smp/SM230_hires.png"
@@ -18449,6 +17520,7 @@ let smp = [
         "id": "smp-231",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -18462,10 +17534,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18473,13 +17542,11 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM231",
+        "numberWithAbbrev": "SM231",
+        "number": "231",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM231.png",
             "large": "https://images.pokemontcg.io/smp/SM231_hires.png"
@@ -18489,6 +17556,7 @@ let smp = [
         "id": "smp-232",
         "name": "Pikachu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -18555,10 +17623,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18566,16 +17631,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM232",
+        "numberWithAbbrev": "SM232",
+        "number": "232",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM232.png",
             "large": "https://images.pokemontcg.io/smp/SM232_hires.png"
@@ -18585,6 +17648,7 @@ let smp = [
         "id": "smp-233",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -18648,10 +17712,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18659,16 +17720,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM233",
+        "numberWithAbbrev": "SM233",
+        "number": "233",
         "artist": "Q-rais",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM233.png",
             "large": "https://images.pokemontcg.io/smp/SM233_hires.png"
@@ -18678,6 +17737,7 @@ let smp = [
         "id": "smp-234",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18728,10 +17788,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18739,17 +17796,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM234",
+        "numberWithAbbrev": "SM234",
+        "number": "234",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM234.png",
             "large": "https://images.pokemontcg.io/smp/SM234_hires.png"
@@ -18759,6 +17814,7 @@ let smp = [
         "id": "smp-235",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18801,10 +17857,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18812,17 +17865,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM235",
+        "numberWithAbbrev": "SM235",
+        "number": "235",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "The question of why only Eevee has such unstable genes has still not been solved.",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM235.png",
             "large": "https://images.pokemontcg.io/smp/SM235_hires.png"
@@ -18832,6 +17883,7 @@ let smp = [
         "id": "smp-236",
         "name": "Alolan Sandslash-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -18888,10 +17940,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18899,16 +17948,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM236",
+        "numberWithAbbrev": "SM236",
+        "number": "236",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM236.png",
             "large": "https://images.pokemontcg.io/smp/SM236_hires.png"
@@ -18918,6 +17965,7 @@ let smp = [
         "id": "smp-237",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -18961,10 +18009,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -18972,17 +18017,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM237",
+        "numberWithAbbrev": "SM237",
+        "number": "237",
         "artist": "chibi",
         "rarity": "Promo",
         "flavorText": "Although it doesn't like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.",
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM237.png",
             "large": "https://images.pokemontcg.io/smp/SM237_hires.png"
@@ -18992,6 +18035,7 @@ let smp = [
         "id": "smp-238",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -19035,10 +18079,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19046,17 +18087,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM238",
+        "numberWithAbbrev": "SM238",
+        "number": "238",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below –75 degrees Fahrenheit.",
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM238.png",
             "large": "https://images.pokemontcg.io/smp/SM238_hires.png"
@@ -19066,6 +18105,7 @@ let smp = [
         "id": "smp-239",
         "name": "Carracosta-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -19121,10 +18161,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19132,16 +18169,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM239",
+        "numberWithAbbrev": "SM239",
+        "number": "239",
         "artist": "PLANETA Tsuji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             565
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM239.png",
             "large": "https://images.pokemontcg.io/smp/SM239_hires.png"
@@ -19151,6 +18186,7 @@ let smp = [
         "id": "smp-240",
         "name": "Espeon & Deoxys-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -19200,10 +18236,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19211,17 +18244,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM240",
+        "numberWithAbbrev": "SM240",
+        "number": "240",
         "artist": "Hasuno",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             196,
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM240.png",
             "large": "https://images.pokemontcg.io/smp/SM240_hires.png"
@@ -19231,6 +18262,7 @@ let smp = [
         "id": "smp-241",
         "name": "Umbreon & Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -19284,10 +18316,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19295,17 +18324,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM241",
+        "numberWithAbbrev": "SM241",
+        "number": "241",
         "artist": "so-taro",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             197,
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM241.png",
             "large": "https://images.pokemontcg.io/smp/SM241_hires.png"
@@ -19315,6 +18342,7 @@ let smp = [
         "id": "smp-242",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -19378,10 +18406,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19389,16 +18414,14 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM242",
+        "numberWithAbbrev": "SM242",
+        "number": "242",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM242.png",
             "large": "https://images.pokemontcg.io/smp/SM242_hires.png"
@@ -19408,6 +18431,7 @@ let smp = [
         "id": "smp-243",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -19454,10 +18478,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19465,17 +18486,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM243",
+        "numberWithAbbrev": "SM243",
+        "number": "243",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM243.png",
             "large": "https://images.pokemontcg.io/smp/SM243_hires.png"
@@ -19485,6 +18504,7 @@ let smp = [
         "id": "smp-244",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -19529,10 +18549,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19540,17 +18557,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM244",
+        "numberWithAbbrev": "SM244",
+        "number": "244",
         "artist": "Shibuzoh.",
         "rarity": "Promo",
         "flavorText": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM244.png",
             "large": "https://images.pokemontcg.io/smp/SM244_hires.png"
@@ -19560,6 +18575,7 @@ let smp = [
         "id": "smp-246",
         "name": "Sabrina & Brycen",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -19575,10 +18591,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19586,13 +18599,11 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM246",
+        "numberWithAbbrev": "SM246",
+        "number": "246",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM246.png",
             "large": "https://images.pokemontcg.io/smp/SM246_hires.png"
@@ -19602,6 +18613,7 @@ let smp = [
         "id": "smp-247",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -19662,10 +18674,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19673,17 +18682,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM247",
+        "numberWithAbbrev": "SM247",
+        "number": "247",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
             6,
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM247.png",
             "large": "https://images.pokemontcg.io/smp/SM247_hires.png"
@@ -19693,6 +18700,7 @@ let smp = [
         "id": "smp-245",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -19741,10 +18749,7 @@ let smp = [
             "series": "Sun & Moon",
             "printedTotal": 248,
             "total": 250,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -19752,17 +18757,15 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM245",
+        "numberWithAbbrev": "SM245",
+        "number": "245",
         "artist": "NC Empire",
         "rarity": "Promo",
         "flavorText": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/smp/SM245.png",
             "large": "https://images.pokemontcg.io/smp/SM245_hires.png"

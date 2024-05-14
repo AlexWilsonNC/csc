@@ -1,8 +1,9 @@
-let stormfront = [
+let dp7 = [
     {
         "id": "dp7-1",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -60,9 +61,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -76,9 +75,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/1.png",
             "large": "https://images.pokemontcg.io/dp7/1_hires.png"
@@ -88,6 +85,7 @@ let stormfront = [
         "id": "dp7-2",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -139,9 +137,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -155,9 +151,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/2.png",
             "large": "https://images.pokemontcg.io/dp7/2_hires.png"
@@ -167,6 +161,7 @@ let stormfront = [
         "id": "dp7-3",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -218,9 +213,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -234,9 +227,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/3.png",
             "large": "https://images.pokemontcg.io/dp7/3_hires.png"
@@ -246,6 +237,7 @@ let stormfront = [
         "id": "dp7-4",
         "name": "Lumineon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -291,9 +283,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -307,9 +297,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             457
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/4.png",
             "large": "https://images.pokemontcg.io/dp7/4_hires.png"
@@ -319,6 +307,7 @@ let stormfront = [
         "id": "dp7-5",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -376,9 +365,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -392,9 +379,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/5.png",
             "large": "https://images.pokemontcg.io/dp7/5_hires.png"
@@ -404,6 +389,7 @@ let stormfront = [
         "id": "dp7-6",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -451,9 +437,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -468,9 +452,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/6.png",
             "large": "https://images.pokemontcg.io/dp7/6_hires.png"
@@ -480,6 +462,7 @@ let stormfront = [
         "id": "dp7-7",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -526,9 +509,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -542,9 +523,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/7.png",
             "large": "https://images.pokemontcg.io/dp7/7_hires.png"
@@ -554,6 +533,7 @@ let stormfront = [
         "id": "dp7-8",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -611,9 +591,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -627,9 +605,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/8.png",
             "large": "https://images.pokemontcg.io/dp7/8_hires.png"
@@ -639,6 +615,7 @@ let stormfront = [
         "id": "dp7-9",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -690,9 +667,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -706,9 +681,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/9.png",
             "large": "https://images.pokemontcg.io/dp7/9_hires.png"
@@ -718,6 +691,7 @@ let stormfront = [
         "id": "dp7-10",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -776,9 +750,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -792,9 +764,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/10.png",
             "large": "https://images.pokemontcg.io/dp7/10_hires.png"
@@ -804,6 +774,7 @@ let stormfront = [
         "id": "dp7-11",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -862,9 +833,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -878,9 +847,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/11.png",
             "large": "https://images.pokemontcg.io/dp7/11_hires.png"
@@ -890,6 +857,7 @@ let stormfront = [
         "id": "dp7-12",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -941,9 +909,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -957,9 +923,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             460
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/12.png",
             "large": "https://images.pokemontcg.io/dp7/12_hires.png"
@@ -969,6 +933,7 @@ let stormfront = [
         "id": "dp7-13",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1026,9 +991,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1042,9 +1005,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/13.png",
             "large": "https://images.pokemontcg.io/dp7/13_hires.png"
@@ -1054,6 +1015,7 @@ let stormfront = [
         "id": "dp7-14",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1108,9 +1070,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1124,9 +1084,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/14.png",
             "large": "https://images.pokemontcg.io/dp7/14_hires.png"
@@ -1136,6 +1094,7 @@ let stormfront = [
         "id": "dp7-15",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1187,9 +1146,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1203,9 +1160,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/15.png",
             "large": "https://images.pokemontcg.io/dp7/15_hires.png"
@@ -1215,6 +1170,7 @@ let stormfront = [
         "id": "dp7-16",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1267,9 +1223,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1283,9 +1237,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/16.png",
             "large": "https://images.pokemontcg.io/dp7/16_hires.png"
@@ -1295,6 +1247,7 @@ let stormfront = [
         "id": "dp7-17",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1342,9 +1295,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1359,9 +1310,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/17.png",
             "large": "https://images.pokemontcg.io/dp7/17_hires.png"
@@ -1371,6 +1320,7 @@ let stormfront = [
         "id": "dp7-18",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1425,9 +1375,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1441,9 +1389,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/18.png",
             "large": "https://images.pokemontcg.io/dp7/18_hires.png"
@@ -1453,6 +1399,7 @@ let stormfront = [
         "id": "dp7-19",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1512,9 +1459,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1528,9 +1473,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/19.png",
             "large": "https://images.pokemontcg.io/dp7/19_hires.png"
@@ -1540,6 +1483,7 @@ let stormfront = [
         "id": "dp7-20",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1594,9 +1538,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1610,9 +1552,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/20.png",
             "large": "https://images.pokemontcg.io/dp7/20_hires.png"
@@ -1622,6 +1562,7 @@ let stormfront = [
         "id": "dp7-21",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1674,9 +1615,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1690,9 +1629,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/21.png",
             "large": "https://images.pokemontcg.io/dp7/21_hires.png"
@@ -1702,6 +1639,7 @@ let stormfront = [
         "id": "dp7-22",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1751,9 +1689,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1767,9 +1703,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/22.png",
             "large": "https://images.pokemontcg.io/dp7/22_hires.png"
@@ -1779,6 +1713,7 @@ let stormfront = [
         "id": "dp7-23",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1830,9 +1765,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1846,9 +1779,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/23.png",
             "large": "https://images.pokemontcg.io/dp7/23_hires.png"
@@ -1858,6 +1789,7 @@ let stormfront = [
         "id": "dp7-24",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1916,9 +1848,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -1932,9 +1862,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/24.png",
             "large": "https://images.pokemontcg.io/dp7/24_hires.png"
@@ -1944,6 +1872,7 @@ let stormfront = [
         "id": "dp7-25",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1994,9 +1923,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2010,9 +1937,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/25.png",
             "large": "https://images.pokemontcg.io/dp7/25_hires.png"
@@ -2022,6 +1947,7 @@ let stormfront = [
         "id": "dp7-26",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2079,9 +2005,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2095,9 +2019,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/26.png",
             "large": "https://images.pokemontcg.io/dp7/26_hires.png"
@@ -2107,6 +2029,7 @@ let stormfront = [
         "id": "dp7-27",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -2162,9 +2085,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2178,9 +2099,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/27.png",
             "large": "https://images.pokemontcg.io/dp7/27_hires.png"
@@ -2190,6 +2109,7 @@ let stormfront = [
         "id": "dp7-28",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2240,9 +2160,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2257,9 +2175,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/28.png",
             "large": "https://images.pokemontcg.io/dp7/28_hires.png"
@@ -2269,6 +2185,7 @@ let stormfront = [
         "id": "dp7-29",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2327,9 +2244,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2343,9 +2258,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/29.png",
             "large": "https://images.pokemontcg.io/dp7/29_hires.png"
@@ -2355,6 +2268,7 @@ let stormfront = [
         "id": "dp7-30",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -2414,9 +2328,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2430,9 +2342,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/30.png",
             "large": "https://images.pokemontcg.io/dp7/30_hires.png"
@@ -2442,6 +2352,7 @@ let stormfront = [
         "id": "dp7-31",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2497,9 +2408,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2513,9 +2422,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/31.png",
             "large": "https://images.pokemontcg.io/dp7/31_hires.png"
@@ -2525,6 +2432,7 @@ let stormfront = [
         "id": "dp7-32",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2575,9 +2483,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2591,9 +2497,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/32.png",
             "large": "https://images.pokemontcg.io/dp7/32_hires.png"
@@ -2603,6 +2507,7 @@ let stormfront = [
         "id": "dp7-33",
         "name": "Budew",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -2642,9 +2547,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2658,9 +2561,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             406
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/33.png",
             "large": "https://images.pokemontcg.io/dp7/33_hires.png"
@@ -2670,6 +2571,7 @@ let stormfront = [
         "id": "dp7-34",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2722,9 +2624,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2739,9 +2639,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/34.png",
             "large": "https://images.pokemontcg.io/dp7/34_hires.png"
@@ -2751,6 +2649,7 @@ let stormfront = [
         "id": "dp7-35",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2804,9 +2703,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2821,9 +2718,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/35.png",
             "large": "https://images.pokemontcg.io/dp7/35_hires.png"
@@ -2833,6 +2728,7 @@ let stormfront = [
         "id": "dp7-36",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2888,9 +2784,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2904,9 +2798,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/36.png",
             "large": "https://images.pokemontcg.io/dp7/36_hires.png"
@@ -2916,6 +2808,7 @@ let stormfront = [
         "id": "dp7-37",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2963,9 +2856,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -2980,9 +2871,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/37.png",
             "large": "https://images.pokemontcg.io/dp7/37_hires.png"
@@ -2992,6 +2881,7 @@ let stormfront = [
         "id": "dp7-38",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3041,9 +2931,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3058,9 +2946,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/38.png",
             "large": "https://images.pokemontcg.io/dp7/38_hires.png"
@@ -3070,6 +2956,7 @@ let stormfront = [
         "id": "dp7-39",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3122,9 +3009,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3139,9 +3024,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/39.png",
             "large": "https://images.pokemontcg.io/dp7/39_hires.png"
@@ -3151,6 +3034,7 @@ let stormfront = [
         "id": "dp7-40",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3199,9 +3083,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3216,9 +3098,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/40.png",
             "large": "https://images.pokemontcg.io/dp7/40_hires.png"
@@ -3228,6 +3108,7 @@ let stormfront = [
         "id": "dp7-41",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3273,9 +3154,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3290,9 +3169,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/41.png",
             "large": "https://images.pokemontcg.io/dp7/41_hires.png"
@@ -3302,6 +3179,7 @@ let stormfront = [
         "id": "dp7-42",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3355,9 +3233,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3372,9 +3248,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/42.png",
             "large": "https://images.pokemontcg.io/dp7/42_hires.png"
@@ -3384,6 +3258,7 @@ let stormfront = [
         "id": "dp7-43",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3437,9 +3312,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3454,9 +3327,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/43.png",
             "large": "https://images.pokemontcg.io/dp7/43_hires.png"
@@ -3466,6 +3337,7 @@ let stormfront = [
         "id": "dp7-44",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3516,9 +3388,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3532,9 +3402,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/44.png",
             "large": "https://images.pokemontcg.io/dp7/44_hires.png"
@@ -3544,6 +3412,7 @@ let stormfront = [
         "id": "dp7-45",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3589,9 +3458,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3606,9 +3473,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/45.png",
             "large": "https://images.pokemontcg.io/dp7/45_hires.png"
@@ -3618,6 +3483,7 @@ let stormfront = [
         "id": "dp7-46",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3673,9 +3539,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3690,9 +3554,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/46.png",
             "large": "https://images.pokemontcg.io/dp7/46_hires.png"
@@ -3702,6 +3564,7 @@ let stormfront = [
         "id": "dp7-47",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3751,9 +3614,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3768,9 +3629,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/47.png",
             "large": "https://images.pokemontcg.io/dp7/47_hires.png"
@@ -3780,6 +3639,7 @@ let stormfront = [
         "id": "dp7-48",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3825,9 +3685,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3841,9 +3699,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/48.png",
             "large": "https://images.pokemontcg.io/dp7/48_hires.png"
@@ -3853,6 +3709,7 @@ let stormfront = [
         "id": "dp7-49",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3902,9 +3759,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -3919,9 +3774,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/49.png",
             "large": "https://images.pokemontcg.io/dp7/49_hires.png"
@@ -3931,6 +3784,7 @@ let stormfront = [
         "id": "dp7-50",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3984,9 +3838,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4001,9 +3853,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/50.png",
             "large": "https://images.pokemontcg.io/dp7/50_hires.png"
@@ -4013,6 +3863,7 @@ let stormfront = [
         "id": "dp7-51",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4061,9 +3912,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4078,9 +3927,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/51.png",
             "large": "https://images.pokemontcg.io/dp7/51_hires.png"
@@ -4090,6 +3937,7 @@ let stormfront = [
         "id": "dp7-52",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4142,9 +3990,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4159,9 +4005,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/52.png",
             "large": "https://images.pokemontcg.io/dp7/52_hires.png"
@@ -4171,6 +4015,7 @@ let stormfront = [
         "id": "dp7-53",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4221,9 +4066,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4238,9 +4081,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/53.png",
             "large": "https://images.pokemontcg.io/dp7/53_hires.png"
@@ -4250,6 +4091,7 @@ let stormfront = [
         "id": "dp7-54",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4293,9 +4135,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4310,9 +4150,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/54.png",
             "large": "https://images.pokemontcg.io/dp7/54_hires.png"
@@ -4322,6 +4160,7 @@ let stormfront = [
         "id": "dp7-55",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4372,9 +4211,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4389,9 +4226,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/55.png",
             "large": "https://images.pokemontcg.io/dp7/55_hires.png"
@@ -4401,6 +4236,7 @@ let stormfront = [
         "id": "dp7-56",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4448,9 +4284,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4465,9 +4299,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/56.png",
             "large": "https://images.pokemontcg.io/dp7/56_hires.png"
@@ -4477,6 +4309,7 @@ let stormfront = [
         "id": "dp7-57",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4520,9 +4353,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4536,9 +4367,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/57.png",
             "large": "https://images.pokemontcg.io/dp7/57_hires.png"
@@ -4548,6 +4377,7 @@ let stormfront = [
         "id": "dp7-58",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4597,9 +4427,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4614,9 +4442,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/58.png",
             "large": "https://images.pokemontcg.io/dp7/58_hires.png"
@@ -4626,6 +4452,7 @@ let stormfront = [
         "id": "dp7-59",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4676,9 +4503,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4693,9 +4518,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/59.png",
             "large": "https://images.pokemontcg.io/dp7/59_hires.png"
@@ -4705,6 +4528,7 @@ let stormfront = [
         "id": "dp7-60",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4755,9 +4579,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4772,9 +4594,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/60.png",
             "large": "https://images.pokemontcg.io/dp7/60_hires.png"
@@ -4784,6 +4604,7 @@ let stormfront = [
         "id": "dp7-61",
         "name": "Finneon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4825,9 +4646,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4842,9 +4661,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             456
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/61.png",
             "large": "https://images.pokemontcg.io/dp7/61_hires.png"
@@ -4854,6 +4671,7 @@ let stormfront = [
         "id": "dp7-62",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4901,9 +4719,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4918,9 +4734,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/62.png",
             "large": "https://images.pokemontcg.io/dp7/62_hires.png"
@@ -4930,6 +4744,7 @@ let stormfront = [
         "id": "dp7-63",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4980,9 +4795,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -4997,9 +4810,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/63.png",
             "large": "https://images.pokemontcg.io/dp7/63_hires.png"
@@ -5009,6 +4820,7 @@ let stormfront = [
         "id": "dp7-64",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5053,9 +4865,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5070,9 +4880,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/64.png",
             "large": "https://images.pokemontcg.io/dp7/64_hires.png"
@@ -5082,6 +4890,7 @@ let stormfront = [
         "id": "dp7-65",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5123,9 +4932,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5140,9 +4947,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/65.png",
             "large": "https://images.pokemontcg.io/dp7/65_hires.png"
@@ -5152,6 +4957,7 @@ let stormfront = [
         "id": "dp7-66",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5196,9 +5002,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5212,9 +5016,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/66.png",
             "large": "https://images.pokemontcg.io/dp7/66_hires.png"
@@ -5224,6 +5026,7 @@ let stormfront = [
         "id": "dp7-67",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5272,9 +5075,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5289,9 +5090,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/67.png",
             "large": "https://images.pokemontcg.io/dp7/67_hires.png"
@@ -5301,6 +5100,7 @@ let stormfront = [
         "id": "dp7-68",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5348,9 +5148,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5365,9 +5163,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/68.png",
             "large": "https://images.pokemontcg.io/dp7/68_hires.png"
@@ -5377,6 +5173,7 @@ let stormfront = [
         "id": "dp7-69",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5422,9 +5219,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5439,9 +5234,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/69.png",
             "large": "https://images.pokemontcg.io/dp7/69_hires.png"
@@ -5451,6 +5244,7 @@ let stormfront = [
         "id": "dp7-70",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5503,9 +5297,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5520,9 +5312,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/70.png",
             "large": "https://images.pokemontcg.io/dp7/70_hires.png"
@@ -5532,6 +5322,7 @@ let stormfront = [
         "id": "dp7-71",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5576,9 +5367,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5593,9 +5382,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/71.png",
             "large": "https://images.pokemontcg.io/dp7/71_hires.png"
@@ -5605,6 +5392,7 @@ let stormfront = [
         "id": "dp7-72",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5649,9 +5437,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5666,9 +5452,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/72.png",
             "large": "https://images.pokemontcg.io/dp7/72_hires.png"
@@ -5678,6 +5462,7 @@ let stormfront = [
         "id": "dp7-73",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5722,9 +5507,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5739,9 +5522,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             451
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/73.png",
             "large": "https://images.pokemontcg.io/dp7/73_hires.png"
@@ -5751,6 +5532,7 @@ let stormfront = [
         "id": "dp7-74",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5794,9 +5576,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5811,9 +5591,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             459
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/74.png",
             "large": "https://images.pokemontcg.io/dp7/74_hires.png"
@@ -5823,6 +5601,7 @@ let stormfront = [
         "id": "dp7-75",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5872,9 +5651,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5889,9 +5666,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/75.png",
             "large": "https://images.pokemontcg.io/dp7/75_hires.png"
@@ -5901,6 +5676,7 @@ let stormfront = [
         "id": "dp7-76",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5951,9 +5727,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -5968,9 +5742,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             434
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/76.png",
             "large": "https://images.pokemontcg.io/dp7/76_hires.png"
@@ -5980,6 +5752,7 @@ let stormfront = [
         "id": "dp7-77",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6029,9 +5802,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6046,9 +5817,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/77.png",
             "large": "https://images.pokemontcg.io/dp7/77_hires.png"
@@ -6058,6 +5827,7 @@ let stormfront = [
         "id": "dp7-78",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6108,9 +5878,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6125,9 +5893,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/78.png",
             "large": "https://images.pokemontcg.io/dp7/78_hires.png"
@@ -6137,6 +5903,7 @@ let stormfront = [
         "id": "dp7-79",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6186,9 +5953,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6203,9 +5968,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/79.png",
             "large": "https://images.pokemontcg.io/dp7/79_hires.png"
@@ -6215,6 +5978,7 @@ let stormfront = [
         "id": "dp7-80",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6262,9 +6026,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6279,9 +6041,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/80.png",
             "large": "https://images.pokemontcg.io/dp7/80_hires.png"
@@ -6291,6 +6051,7 @@ let stormfront = [
         "id": "dp7-81",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6340,9 +6101,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6357,9 +6116,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/81.png",
             "large": "https://images.pokemontcg.io/dp7/81_hires.png"
@@ -6369,6 +6126,7 @@ let stormfront = [
         "id": "dp7-82",
         "name": "Conductive Quarry",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stadium"
         ],
@@ -6382,9 +6140,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6395,9 +6151,7 @@ let stormfront = [
         "number": "82",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/82.png",
             "large": "https://images.pokemontcg.io/dp7/82_hires.png"
@@ -6407,6 +6161,7 @@ let stormfront = [
         "id": "dp7-83",
         "name": "Energy Link",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6420,9 +6175,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6433,9 +6186,7 @@ let stormfront = [
         "number": "83",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/83.png",
             "large": "https://images.pokemontcg.io/dp7/83_hires.png"
@@ -6445,6 +6196,7 @@ let stormfront = [
         "id": "dp7-84",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6457,9 +6209,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6470,11 +6220,7 @@ let stormfront = [
         "number": "84",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/84.png",
             "large": "https://images.pokemontcg.io/dp7/84_hires.png"
@@ -6484,6 +6230,7 @@ let stormfront = [
         "id": "dp7-85",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6496,9 +6243,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6509,11 +6254,7 @@ let stormfront = [
         "number": "85",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/85.png",
             "large": "https://images.pokemontcg.io/dp7/85_hires.png"
@@ -6523,6 +6264,7 @@ let stormfront = [
         "id": "dp7-86",
         "name": "Luxury Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6535,9 +6277,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6548,9 +6288,7 @@ let stormfront = [
         "number": "86",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/86.png",
             "large": "https://images.pokemontcg.io/dp7/86_hires.png"
@@ -6560,6 +6298,7 @@ let stormfront = [
         "id": "dp7-87",
         "name": "Marley's Request",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Supporter"
         ],
@@ -6573,9 +6312,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6586,9 +6323,7 @@ let stormfront = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/87.png",
             "large": "https://images.pokemontcg.io/dp7/87_hires.png"
@@ -6598,6 +6333,7 @@ let stormfront = [
         "id": "dp7-88",
         "name": "Poké Blower +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6610,9 +6346,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6623,9 +6357,7 @@ let stormfront = [
         "number": "88",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/88.png",
             "large": "https://images.pokemontcg.io/dp7/88_hires.png"
@@ -6635,6 +6367,7 @@ let stormfront = [
         "id": "dp7-89",
         "name": "Poké Drawer +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6647,9 +6380,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6660,9 +6391,7 @@ let stormfront = [
         "number": "89",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/89.png",
             "large": "https://images.pokemontcg.io/dp7/89_hires.png"
@@ -6672,6 +6401,7 @@ let stormfront = [
         "id": "dp7-90",
         "name": "Poké Healer +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6684,9 +6414,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6697,9 +6425,7 @@ let stormfront = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/90.png",
             "large": "https://images.pokemontcg.io/dp7/90_hires.png"
@@ -6709,6 +6435,7 @@ let stormfront = [
         "id": "dp7-91",
         "name": "Premier Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6721,9 +6448,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6734,9 +6459,7 @@ let stormfront = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/91.png",
             "large": "https://images.pokemontcg.io/dp7/91_hires.png"
@@ -6746,6 +6469,7 @@ let stormfront = [
         "id": "dp7-92",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6758,9 +6482,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6771,11 +6493,7 @@ let stormfront = [
         "number": "92",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/92.png",
             "large": "https://images.pokemontcg.io/dp7/92_hires.png"
@@ -6785,6 +6503,7 @@ let stormfront = [
         "id": "dp7-93",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6797,9 +6516,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6810,11 +6527,7 @@ let stormfront = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/93.png",
             "large": "https://images.pokemontcg.io/dp7/93_hires.png"
@@ -6824,6 +6537,7 @@ let stormfront = [
         "id": "dp7-94",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "SF",
         "subtypes": [
             "Special"
         ],
@@ -6836,9 +6550,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6849,9 +6561,7 @@ let stormfront = [
         "number": "94",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/94.png",
             "large": "https://images.pokemontcg.io/dp7/94_hires.png"
@@ -6861,6 +6571,7 @@ let stormfront = [
         "id": "dp7-95",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "SF",
         "subtypes": [
             "Special"
         ],
@@ -6873,9 +6584,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6886,10 +6595,7 @@ let stormfront = [
         "number": "95",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/95.png",
             "large": "https://images.pokemontcg.io/dp7/95_hires.png"
@@ -6899,6 +6605,7 @@ let stormfront = [
         "id": "dp7-96",
         "name": "Dusknoir LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6936,9 +6643,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -6952,9 +6657,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/96.png",
             "large": "https://images.pokemontcg.io/dp7/96_hires.png"
@@ -6964,6 +6667,7 @@ let stormfront = [
         "id": "dp7-97",
         "name": "Heatran LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -7000,9 +6704,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7016,9 +6718,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/97.png",
             "large": "https://images.pokemontcg.io/dp7/97_hires.png"
@@ -7028,6 +6728,7 @@ let stormfront = [
         "id": "dp7-98",
         "name": "Machamp LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -7072,9 +6773,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7088,9 +6787,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/98.png",
             "large": "https://images.pokemontcg.io/dp7/98_hires.png"
@@ -7100,6 +6797,7 @@ let stormfront = [
         "id": "dp7-99",
         "name": "Raichu LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -7149,9 +6847,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7165,9 +6861,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/99.png",
             "large": "https://images.pokemontcg.io/dp7/99_hires.png"
@@ -7177,6 +6871,7 @@ let stormfront = [
         "id": "dp7-100",
         "name": "Regigigas LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -7222,9 +6917,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7238,9 +6931,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/100.png",
             "large": "https://images.pokemontcg.io/dp7/100_hires.png"
@@ -7250,6 +6941,7 @@ let stormfront = [
         "id": "dp7-101",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7294,9 +6986,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7311,9 +7001,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/101.png",
             "large": "https://images.pokemontcg.io/dp7/101_hires.png"
@@ -7323,6 +7011,7 @@ let stormfront = [
         "id": "dp7-102",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7371,9 +7060,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7388,9 +7075,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/102.png",
             "large": "https://images.pokemontcg.io/dp7/102_hires.png"
@@ -7400,6 +7085,7 @@ let stormfront = [
         "id": "dp7-103",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -7448,9 +7134,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7465,9 +7149,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/103.png",
             "large": "https://images.pokemontcg.io/dp7/103_hires.png"
@@ -7477,6 +7159,7 @@ let stormfront = [
         "id": "dp7-SH1",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7533,9 +7216,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7549,9 +7230,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/SH1.png",
             "large": "https://images.pokemontcg.io/dp7/SH1_hires.png"
@@ -7561,6 +7240,7 @@ let stormfront = [
         "id": "dp7-SH2",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7618,9 +7298,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7634,9 +7312,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/SH2.png",
             "large": "https://images.pokemontcg.io/dp7/SH2_hires.png"
@@ -7646,6 +7322,7 @@ let stormfront = [
         "id": "dp7-SH3",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7705,9 +7382,7 @@ let stormfront = [
             "series": "Diamond & Pearl",
             "printedTotal": 100,
             "total": 106,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SF",
             "releaseDate": "2008/11/01",
             "images": {
@@ -7721,9 +7396,7 @@ let stormfront = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp7/SH3.png",
             "large": "https://images.pokemontcg.io/dp7/SH3_hires.png"

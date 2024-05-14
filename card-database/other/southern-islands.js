@@ -1,8 +1,9 @@
-let southernIslands = [
+let si1 = [
     {
         "id": "si1-1",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -33,9 +34,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -48,9 +47,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/1.png",
             "large": "https://images.pokemontcg.io/si1/1_hires.png"
@@ -60,6 +57,7 @@ let southernIslands = [
         "id": "si1-2",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -110,9 +108,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -125,9 +121,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/2.png",
             "large": "https://images.pokemontcg.io/si1/2_hires.png"
@@ -137,6 +131,7 @@ let southernIslands = [
         "id": "si1-3",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -184,9 +179,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -199,9 +192,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/3.png",
             "large": "https://images.pokemontcg.io/si1/3_hires.png"
@@ -211,6 +202,7 @@ let southernIslands = [
         "id": "si1-4",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -245,9 +237,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -260,9 +250,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/4.png",
             "large": "https://images.pokemontcg.io/si1/4_hires.png"
@@ -272,6 +260,7 @@ let southernIslands = [
         "id": "si1-5",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -317,9 +306,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -332,9 +319,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/5.png",
             "large": "https://images.pokemontcg.io/si1/5_hires.png"
@@ -344,6 +329,7 @@ let southernIslands = [
         "id": "si1-6",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -382,9 +368,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -397,9 +381,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/6.png",
             "large": "https://images.pokemontcg.io/si1/6_hires.png"
@@ -409,6 +391,7 @@ let southernIslands = [
         "id": "si1-7",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -459,9 +442,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -474,9 +455,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/7.png",
             "large": "https://images.pokemontcg.io/si1/7_hires.png"
@@ -486,6 +465,7 @@ let southernIslands = [
         "id": "si1-8",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -535,9 +515,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -550,9 +528,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/8.png",
             "large": "https://images.pokemontcg.io/si1/8_hires.png"
@@ -562,6 +538,7 @@ let southernIslands = [
         "id": "si1-9",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -613,9 +590,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -628,9 +603,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/9.png",
             "large": "https://images.pokemontcg.io/si1/9_hires.png"
@@ -640,6 +613,7 @@ let southernIslands = [
         "id": "si1-10",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -682,9 +656,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -697,9 +669,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/10.png",
             "large": "https://images.pokemontcg.io/si1/10_hires.png"
@@ -709,6 +679,7 @@ let southernIslands = [
         "id": "si1-11",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -753,9 +724,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -768,9 +737,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/11.png",
             "large": "https://images.pokemontcg.io/si1/11_hires.png"
@@ -780,6 +747,7 @@ let southernIslands = [
         "id": "si1-12",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -821,9 +789,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -836,9 +802,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/12.png",
             "large": "https://images.pokemontcg.io/si1/12_hires.png"
@@ -848,6 +812,7 @@ let southernIslands = [
         "id": "si1-13",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -880,9 +845,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -895,9 +858,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/13.png",
             "large": "https://images.pokemontcg.io/si1/13_hires.png"
@@ -907,6 +868,7 @@ let southernIslands = [
         "id": "si1-14",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -949,9 +911,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -964,9 +924,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/14.png",
             "large": "https://images.pokemontcg.io/si1/14_hires.png"
@@ -976,6 +934,7 @@ let southernIslands = [
         "id": "si1-15",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1012,9 +971,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -1027,9 +984,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/15.png",
             "large": "https://images.pokemontcg.io/si1/15_hires.png"
@@ -1039,6 +994,7 @@ let southernIslands = [
         "id": "si1-16",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -1089,9 +1045,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -1104,9 +1058,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/16.png",
             "large": "https://images.pokemontcg.io/si1/16_hires.png"
@@ -1116,6 +1068,7 @@ let southernIslands = [
         "id": "si1-17",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1159,9 +1112,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -1174,9 +1125,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/17.png",
             "large": "https://images.pokemontcg.io/si1/17_hires.png"
@@ -1186,6 +1135,7 @@ let southernIslands = [
         "id": "si1-18",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1228,9 +1178,7 @@ let southernIslands = [
             "series": "Other",
             "printedTotal": 18,
             "total": 18,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2001/07/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
@@ -1243,9 +1191,7 @@ let southernIslands = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/si1/18.png",
             "large": "https://images.pokemontcg.io/si1/18_hires.png"

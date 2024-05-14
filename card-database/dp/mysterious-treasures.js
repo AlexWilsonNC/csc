@@ -1,8 +1,9 @@
-let mysteriousTreasures = [
+let dp2 = [
     {
         "id": "dp2-1",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -54,9 +55,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -71,9 +70,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/1.png",
             "large": "https://images.pokemontcg.io/dp2/1_hires.png"
@@ -83,6 +80,7 @@ let mysteriousTreasures = [
         "id": "dp2-2",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -124,9 +122,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -141,9 +137,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/2.png",
             "large": "https://images.pokemontcg.io/dp2/2_hires.png"
@@ -153,6 +147,7 @@ let mysteriousTreasures = [
         "id": "dp2-3",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -196,9 +191,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -213,9 +206,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/3.png",
             "large": "https://images.pokemontcg.io/dp2/3_hires.png"
@@ -225,6 +216,7 @@ let mysteriousTreasures = [
         "id": "dp2-4",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -263,9 +255,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -280,9 +270,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/4.png",
             "large": "https://images.pokemontcg.io/dp2/4_hires.png"
@@ -292,6 +280,7 @@ let mysteriousTreasures = [
         "id": "dp2-5",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -331,9 +320,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -348,9 +335,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/5.png",
             "large": "https://images.pokemontcg.io/dp2/5_hires.png"
@@ -360,6 +345,7 @@ let mysteriousTreasures = [
         "id": "dp2-6",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -407,9 +393,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -424,9 +408,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/6.png",
             "large": "https://images.pokemontcg.io/dp2/6_hires.png"
@@ -436,6 +418,7 @@ let mysteriousTreasures = [
         "id": "dp2-7",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -475,9 +458,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -492,9 +473,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/7.png",
             "large": "https://images.pokemontcg.io/dp2/7_hires.png"
@@ -504,6 +483,7 @@ let mysteriousTreasures = [
         "id": "dp2-8",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -548,9 +528,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -565,9 +543,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/8.png",
             "large": "https://images.pokemontcg.io/dp2/8_hires.png"
@@ -577,6 +553,7 @@ let mysteriousTreasures = [
         "id": "dp2-9",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -617,9 +594,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -634,9 +609,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/9.png",
             "large": "https://images.pokemontcg.io/dp2/9_hires.png"
@@ -646,6 +619,7 @@ let mysteriousTreasures = [
         "id": "dp2-10",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -693,9 +667,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -710,9 +682,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             430
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/10.png",
             "large": "https://images.pokemontcg.io/dp2/10_hires.png"
@@ -722,6 +692,7 @@ let mysteriousTreasures = [
         "id": "dp2-11",
         "name": "Lumineon",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -762,9 +733,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -779,9 +748,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             457
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/11.png",
             "large": "https://images.pokemontcg.io/dp2/11_hires.png"
@@ -791,6 +758,7 @@ let mysteriousTreasures = [
         "id": "dp2-12",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -835,9 +803,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -852,9 +818,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/12.png",
             "large": "https://images.pokemontcg.io/dp2/12_hires.png"
@@ -864,6 +828,7 @@ let mysteriousTreasures = [
         "id": "dp2-13",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -913,9 +878,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -930,9 +893,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/13.png",
             "large": "https://images.pokemontcg.io/dp2/13_hires.png"
@@ -942,6 +903,7 @@ let mysteriousTreasures = [
         "id": "dp2-14",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -981,9 +943,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -998,9 +958,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/14.png",
             "large": "https://images.pokemontcg.io/dp2/14_hires.png"
@@ -1010,6 +968,7 @@ let mysteriousTreasures = [
         "id": "dp2-15",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1056,9 +1015,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1073,9 +1030,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/15.png",
             "large": "https://images.pokemontcg.io/dp2/15_hires.png"
@@ -1085,6 +1040,7 @@ let mysteriousTreasures = [
         "id": "dp2-16",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1126,9 +1082,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1143,9 +1097,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/16.png",
             "large": "https://images.pokemontcg.io/dp2/16_hires.png"
@@ -1155,6 +1107,7 @@ let mysteriousTreasures = [
         "id": "dp2-17",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1206,9 +1159,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1223,9 +1174,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/17.png",
             "large": "https://images.pokemontcg.io/dp2/17_hires.png"
@@ -1235,6 +1184,7 @@ let mysteriousTreasures = [
         "id": "dp2-18",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -1273,9 +1223,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1290,9 +1238,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/18.png",
             "large": "https://images.pokemontcg.io/dp2/18_hires.png"
@@ -1302,6 +1248,7 @@ let mysteriousTreasures = [
         "id": "dp2-19",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1343,9 +1290,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1360,9 +1305,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             460
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/19.png",
             "large": "https://images.pokemontcg.io/dp2/19_hires.png"
@@ -1372,6 +1315,7 @@ let mysteriousTreasures = [
         "id": "dp2-20",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1412,9 +1356,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1429,9 +1371,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/20.png",
             "large": "https://images.pokemontcg.io/dp2/20_hires.png"
@@ -1441,6 +1381,7 @@ let mysteriousTreasures = [
         "id": "dp2-21",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1488,9 +1429,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1505,9 +1444,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             411
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/21.png",
             "large": "https://images.pokemontcg.io/dp2/21_hires.png"
@@ -1517,6 +1454,7 @@ let mysteriousTreasures = [
         "id": "dp2-22",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -1557,9 +1495,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1574,9 +1510,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/22.png",
             "large": "https://images.pokemontcg.io/dp2/22_hires.png"
@@ -1586,6 +1520,7 @@ let mysteriousTreasures = [
         "id": "dp2-23",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1631,9 +1566,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1648,9 +1581,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/23.png",
             "large": "https://images.pokemontcg.io/dp2/23_hires.png"
@@ -1660,6 +1591,7 @@ let mysteriousTreasures = [
         "id": "dp2-24",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1701,9 +1633,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1718,9 +1648,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/24.png",
             "large": "https://images.pokemontcg.io/dp2/24_hires.png"
@@ -1730,6 +1658,7 @@ let mysteriousTreasures = [
         "id": "dp2-25",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1771,9 +1700,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1788,9 +1715,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             362
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/25.png",
             "large": "https://images.pokemontcg.io/dp2/25_hires.png"
@@ -1800,6 +1725,7 @@ let mysteriousTreasures = [
         "id": "dp2-26",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1848,9 +1774,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1865,9 +1789,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/26.png",
             "large": "https://images.pokemontcg.io/dp2/26_hires.png"
@@ -1877,6 +1799,7 @@ let mysteriousTreasures = [
         "id": "dp2-27",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1920,9 +1843,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -1937,9 +1858,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/27.png",
             "large": "https://images.pokemontcg.io/dp2/27_hires.png"
@@ -1949,6 +1868,7 @@ let mysteriousTreasures = [
         "id": "dp2-28",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1997,9 +1917,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2014,9 +1932,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/28.png",
             "large": "https://images.pokemontcg.io/dp2/28_hires.png"
@@ -2026,6 +1942,7 @@ let mysteriousTreasures = [
         "id": "dp2-29",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -2071,9 +1988,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2088,9 +2003,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/29.png",
             "large": "https://images.pokemontcg.io/dp2/29_hires.png"
@@ -2100,6 +2013,7 @@ let mysteriousTreasures = [
         "id": "dp2-30",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -2139,9 +2053,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2156,9 +2068,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/30.png",
             "large": "https://images.pokemontcg.io/dp2/30_hires.png"
@@ -2168,6 +2078,7 @@ let mysteriousTreasures = [
         "id": "dp2-31",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2215,9 +2126,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2232,9 +2141,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/31.png",
             "large": "https://images.pokemontcg.io/dp2/31_hires.png"
@@ -2244,6 +2151,7 @@ let mysteriousTreasures = [
         "id": "dp2-32",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2284,9 +2192,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2301,9 +2207,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/32.png",
             "large": "https://images.pokemontcg.io/dp2/32_hires.png"
@@ -2313,6 +2217,7 @@ let mysteriousTreasures = [
         "id": "dp2-33",
         "name": "Rampardos",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2357,9 +2262,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2374,9 +2277,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             409
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/33.png",
             "large": "https://images.pokemontcg.io/dp2/33_hires.png"
@@ -2386,6 +2287,7 @@ let mysteriousTreasures = [
         "id": "dp2-34",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2428,9 +2330,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2445,9 +2345,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/34.png",
             "large": "https://images.pokemontcg.io/dp2/34_hires.png"
@@ -2457,6 +2355,7 @@ let mysteriousTreasures = [
         "id": "dp2-35",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -2498,9 +2397,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2515,9 +2412,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/35.png",
             "large": "https://images.pokemontcg.io/dp2/35_hires.png"
@@ -2527,6 +2422,7 @@ let mysteriousTreasures = [
         "id": "dp2-36",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2567,9 +2463,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2584,9 +2478,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/36.png",
             "large": "https://images.pokemontcg.io/dp2/36_hires.png"
@@ -2596,6 +2488,7 @@ let mysteriousTreasures = [
         "id": "dp2-37",
         "name": "Unown I",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -2634,9 +2527,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2651,9 +2542,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/37.png",
             "large": "https://images.pokemontcg.io/dp2/37_hires.png"
@@ -2663,6 +2552,7 @@ let mysteriousTreasures = [
         "id": "dp2-38",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2708,9 +2598,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2725,9 +2613,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/38.png",
             "large": "https://images.pokemontcg.io/dp2/38_hires.png"
@@ -2737,6 +2623,7 @@ let mysteriousTreasures = [
         "id": "dp2-39",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2778,9 +2665,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2795,9 +2680,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/39.png",
             "large": "https://images.pokemontcg.io/dp2/39_hires.png"
@@ -2807,6 +2690,7 @@ let mysteriousTreasures = [
         "id": "dp2-40",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2859,9 +2743,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2876,9 +2758,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             340
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/40.png",
             "large": "https://images.pokemontcg.io/dp2/40_hires.png"
@@ -2888,6 +2768,7 @@ let mysteriousTreasures = [
         "id": "dp2-41",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2939,9 +2820,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -2956,9 +2835,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/41.png",
             "large": "https://images.pokemontcg.io/dp2/41_hires.png"
@@ -2968,6 +2845,7 @@ let mysteriousTreasures = [
         "id": "dp2-42",
         "name": "Chingling",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -3007,9 +2885,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3024,9 +2900,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             433
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/42.png",
             "large": "https://images.pokemontcg.io/dp2/42_hires.png"
@@ -3036,6 +2910,7 @@ let mysteriousTreasures = [
         "id": "dp2-43",
         "name": "Cranidos",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3081,9 +2956,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3098,9 +2971,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             408
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/43.png",
             "large": "https://images.pokemontcg.io/dp2/43_hires.png"
@@ -3110,6 +2981,7 @@ let mysteriousTreasures = [
         "id": "dp2-44",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3153,9 +3025,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3170,9 +3040,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/44.png",
             "large": "https://images.pokemontcg.io/dp2/44_hires.png"
@@ -3182,6 +3050,7 @@ let mysteriousTreasures = [
         "id": "dp2-45",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3223,9 +3092,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3240,9 +3107,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/45.png",
             "large": "https://images.pokemontcg.io/dp2/45_hires.png"
@@ -3252,6 +3117,7 @@ let mysteriousTreasures = [
         "id": "dp2-46",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3300,9 +3166,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3317,9 +3181,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/46.png",
             "large": "https://images.pokemontcg.io/dp2/46_hires.png"
@@ -3329,6 +3191,7 @@ let mysteriousTreasures = [
         "id": "dp2-47",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -3365,9 +3228,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3382,9 +3243,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/47.png",
             "large": "https://images.pokemontcg.io/dp2/47_hires.png"
@@ -3394,6 +3253,7 @@ let mysteriousTreasures = [
         "id": "dp2-48",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3439,9 +3299,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3456,9 +3314,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/48.png",
             "large": "https://images.pokemontcg.io/dp2/48_hires.png"
@@ -3468,6 +3324,7 @@ let mysteriousTreasures = [
         "id": "dp2-49",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -3509,9 +3366,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3526,9 +3381,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/49.png",
             "large": "https://images.pokemontcg.io/dp2/49_hires.png"
@@ -3538,6 +3391,7 @@ let mysteriousTreasures = [
         "id": "dp2-50",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3578,9 +3432,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3595,9 +3447,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/50.png",
             "large": "https://images.pokemontcg.io/dp2/50_hires.png"
@@ -3607,6 +3457,7 @@ let mysteriousTreasures = [
         "id": "dp2-51",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3660,9 +3511,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3677,9 +3526,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/51.png",
             "large": "https://images.pokemontcg.io/dp2/51_hires.png"
@@ -3689,6 +3536,7 @@ let mysteriousTreasures = [
         "id": "dp2-52",
         "name": "Happiny",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -3728,9 +3576,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3745,9 +3591,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             440
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/52.png",
             "large": "https://images.pokemontcg.io/dp2/52_hires.png"
@@ -3757,6 +3601,7 @@ let mysteriousTreasures = [
         "id": "dp2-53",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3809,9 +3654,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3826,9 +3669,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/53.png",
             "large": "https://images.pokemontcg.io/dp2/53_hires.png"
@@ -3838,6 +3679,7 @@ let mysteriousTreasures = [
         "id": "dp2-54",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -3883,9 +3725,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3900,9 +3740,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/54.png",
             "large": "https://images.pokemontcg.io/dp2/54_hires.png"
@@ -3912,6 +3750,7 @@ let mysteriousTreasures = [
         "id": "dp2-55",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3960,9 +3799,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -3977,9 +3814,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/55.png",
             "large": "https://images.pokemontcg.io/dp2/55_hires.png"
@@ -3989,6 +3824,7 @@ let mysteriousTreasures = [
         "id": "dp2-56",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4034,9 +3870,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4051,9 +3885,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/56.png",
             "large": "https://images.pokemontcg.io/dp2/56_hires.png"
@@ -4063,6 +3895,7 @@ let mysteriousTreasures = [
         "id": "dp2-57",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4106,9 +3939,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4123,9 +3954,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/57.png",
             "large": "https://images.pokemontcg.io/dp2/57_hires.png"
@@ -4135,6 +3964,7 @@ let mysteriousTreasures = [
         "id": "dp2-58",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4178,9 +4008,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4195,9 +4023,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/58.png",
             "large": "https://images.pokemontcg.io/dp2/58_hires.png"
@@ -4207,6 +4033,7 @@ let mysteriousTreasures = [
         "id": "dp2-59",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4259,9 +4086,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4276,9 +4101,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/59.png",
             "large": "https://images.pokemontcg.io/dp2/59_hires.png"
@@ -4288,6 +4111,7 @@ let mysteriousTreasures = [
         "id": "dp2-60",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4324,9 +4148,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4341,9 +4163,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/60.png",
             "large": "https://images.pokemontcg.io/dp2/60_hires.png"
@@ -4353,6 +4173,7 @@ let mysteriousTreasures = [
         "id": "dp2-61",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4402,9 +4223,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4419,9 +4238,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/61.png",
             "large": "https://images.pokemontcg.io/dp2/61_hires.png"
@@ -4431,6 +4248,7 @@ let mysteriousTreasures = [
         "id": "dp2-62",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4467,9 +4285,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4484,9 +4300,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/62.png",
             "large": "https://images.pokemontcg.io/dp2/62_hires.png"
@@ -4496,6 +4310,7 @@ let mysteriousTreasures = [
         "id": "dp2-63",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4549,9 +4364,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4566,9 +4379,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             410
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/63.png",
             "large": "https://images.pokemontcg.io/dp2/63_hires.png"
@@ -4578,6 +4389,7 @@ let mysteriousTreasures = [
         "id": "dp2-64",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -4625,9 +4437,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4642,9 +4452,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/64.png",
             "large": "https://images.pokemontcg.io/dp2/64_hires.png"
@@ -4654,6 +4462,7 @@ let mysteriousTreasures = [
         "id": "dp2-65",
         "name": "Unown E",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -4693,9 +4502,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4710,9 +4517,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/65.png",
             "large": "https://images.pokemontcg.io/dp2/65_hires.png"
@@ -4722,6 +4527,7 @@ let mysteriousTreasures = [
         "id": "dp2-66",
         "name": "Unown M",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -4760,9 +4566,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4777,9 +4581,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/66.png",
             "large": "https://images.pokemontcg.io/dp2/66_hires.png"
@@ -4789,6 +4591,7 @@ let mysteriousTreasures = [
         "id": "dp2-67",
         "name": "Unown T",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -4827,9 +4630,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4844,9 +4645,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/67.png",
             "large": "https://images.pokemontcg.io/dp2/67_hires.png"
@@ -4856,6 +4655,7 @@ let mysteriousTreasures = [
         "id": "dp2-68",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4902,9 +4702,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4919,9 +4717,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/68.png",
             "large": "https://images.pokemontcg.io/dp2/68_hires.png"
@@ -4931,6 +4727,7 @@ let mysteriousTreasures = [
         "id": "dp2-69",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -4975,9 +4772,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -4992,9 +4787,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/69.png",
             "large": "https://images.pokemontcg.io/dp2/69_hires.png"
@@ -5004,6 +4797,7 @@ let mysteriousTreasures = [
         "id": "dp2-70",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5048,9 +4842,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5065,9 +4857,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/70.png",
             "large": "https://images.pokemontcg.io/dp2/70_hires.png"
@@ -5077,6 +4867,7 @@ let mysteriousTreasures = [
         "id": "dp2-71",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5118,9 +4909,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5135,9 +4924,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/71.png",
             "large": "https://images.pokemontcg.io/dp2/71_hires.png"
@@ -5147,6 +4934,7 @@ let mysteriousTreasures = [
         "id": "dp2-72",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5187,9 +4975,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5204,9 +4990,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             339
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/72.png",
             "large": "https://images.pokemontcg.io/dp2/72_hires.png"
@@ -5216,6 +5000,7 @@ let mysteriousTreasures = [
         "id": "dp2-73",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5254,9 +5039,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5270,9 +5053,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/73.png",
             "large": "https://images.pokemontcg.io/dp2/73_hires.png"
@@ -5282,6 +5063,7 @@ let mysteriousTreasures = [
         "id": "dp2-74",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5323,9 +5105,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5340,9 +5120,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/74.png",
             "large": "https://images.pokemontcg.io/dp2/74_hires.png"
@@ -5352,6 +5130,7 @@ let mysteriousTreasures = [
         "id": "dp2-75",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5390,9 +5169,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5406,9 +5183,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/75.png",
             "large": "https://images.pokemontcg.io/dp2/75_hires.png"
@@ -5418,6 +5193,7 @@ let mysteriousTreasures = [
         "id": "dp2-76",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5465,9 +5241,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5482,9 +5256,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/76.png",
             "large": "https://images.pokemontcg.io/dp2/76_hires.png"
@@ -5494,6 +5266,7 @@ let mysteriousTreasures = [
         "id": "dp2-77",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5541,9 +5314,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5558,9 +5329,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/77.png",
             "large": "https://images.pokemontcg.io/dp2/77_hires.png"
@@ -5570,6 +5339,7 @@ let mysteriousTreasures = [
         "id": "dp2-78",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5614,9 +5384,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5631,9 +5399,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/78.png",
             "large": "https://images.pokemontcg.io/dp2/78_hires.png"
@@ -5643,6 +5409,7 @@ let mysteriousTreasures = [
         "id": "dp2-79",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5685,9 +5452,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5702,9 +5467,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/79.png",
             "large": "https://images.pokemontcg.io/dp2/79_hires.png"
@@ -5714,6 +5477,7 @@ let mysteriousTreasures = [
         "id": "dp2-80",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5764,9 +5528,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5781,9 +5543,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/80.png",
             "large": "https://images.pokemontcg.io/dp2/80_hires.png"
@@ -5793,6 +5553,7 @@ let mysteriousTreasures = [
         "id": "dp2-81",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5833,9 +5594,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5850,9 +5609,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/81.png",
             "large": "https://images.pokemontcg.io/dp2/81_hires.png"
@@ -5862,6 +5619,7 @@ let mysteriousTreasures = [
         "id": "dp2-82",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5896,9 +5654,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5913,9 +5669,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/82.png",
             "large": "https://images.pokemontcg.io/dp2/82_hires.png"
@@ -5925,6 +5679,7 @@ let mysteriousTreasures = [
         "id": "dp2-83",
         "name": "Finneon",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -5969,9 +5724,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -5986,9 +5739,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             456
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/83.png",
             "large": "https://images.pokemontcg.io/dp2/83_hires.png"
@@ -5998,6 +5749,7 @@ let mysteriousTreasures = [
         "id": "dp2-84",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6038,9 +5790,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6055,9 +5805,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/84.png",
             "large": "https://images.pokemontcg.io/dp2/84_hires.png"
@@ -6067,6 +5815,7 @@ let mysteriousTreasures = [
         "id": "dp2-85",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6101,9 +5850,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6118,9 +5865,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/85.png",
             "large": "https://images.pokemontcg.io/dp2/85_hires.png"
@@ -6130,6 +5875,7 @@ let mysteriousTreasures = [
         "id": "dp2-86",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6173,9 +5919,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6190,9 +5934,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/86.png",
             "large": "https://images.pokemontcg.io/dp2/86_hires.png"
@@ -6202,6 +5944,7 @@ let mysteriousTreasures = [
         "id": "dp2-87",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6252,9 +5995,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6269,9 +6010,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/87.png",
             "large": "https://images.pokemontcg.io/dp2/87_hires.png"
@@ -6281,6 +6020,7 @@ let mysteriousTreasures = [
         "id": "dp2-88",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6320,9 +6060,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6337,9 +6075,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/88.png",
             "large": "https://images.pokemontcg.io/dp2/88_hires.png"
@@ -6349,6 +6085,7 @@ let mysteriousTreasures = [
         "id": "dp2-89",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6393,9 +6130,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6410,9 +6145,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/89.png",
             "large": "https://images.pokemontcg.io/dp2/89_hires.png"
@@ -6422,6 +6155,7 @@ let mysteriousTreasures = [
         "id": "dp2-90",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6470,9 +6204,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6487,9 +6219,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/90.png",
             "large": "https://images.pokemontcg.io/dp2/90_hires.png"
@@ -6499,6 +6229,7 @@ let mysteriousTreasures = [
         "id": "dp2-91",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6543,9 +6274,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6560,9 +6289,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/91.png",
             "large": "https://images.pokemontcg.io/dp2/91_hires.png"
@@ -6572,6 +6299,7 @@ let mysteriousTreasures = [
         "id": "dp2-92",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6616,9 +6344,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6633,9 +6359,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/92.png",
             "large": "https://images.pokemontcg.io/dp2/92_hires.png"
@@ -6645,6 +6369,7 @@ let mysteriousTreasures = [
         "id": "dp2-93",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6690,9 +6415,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6707,9 +6430,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/93.png",
             "large": "https://images.pokemontcg.io/dp2/93_hires.png"
@@ -6719,6 +6440,7 @@ let mysteriousTreasures = [
         "id": "dp2-94",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6767,9 +6489,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6784,9 +6504,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/94.png",
             "large": "https://images.pokemontcg.io/dp2/94_hires.png"
@@ -6796,6 +6514,7 @@ let mysteriousTreasures = [
         "id": "dp2-95",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6840,9 +6559,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6857,9 +6574,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/95.png",
             "large": "https://images.pokemontcg.io/dp2/95_hires.png"
@@ -6869,6 +6584,7 @@ let mysteriousTreasures = [
         "id": "dp2-96",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6919,9 +6635,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -6936,9 +6650,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/96.png",
             "large": "https://images.pokemontcg.io/dp2/96_hires.png"
@@ -6948,6 +6660,7 @@ let mysteriousTreasures = [
         "id": "dp2-97",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -6983,9 +6696,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7000,9 +6711,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/97.png",
             "large": "https://images.pokemontcg.io/dp2/97_hires.png"
@@ -7012,6 +6721,7 @@ let mysteriousTreasures = [
         "id": "dp2-98",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7055,9 +6765,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7071,9 +6779,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/98.png",
             "large": "https://images.pokemontcg.io/dp2/98_hires.png"
@@ -7083,6 +6789,7 @@ let mysteriousTreasures = [
         "id": "dp2-99",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7117,9 +6824,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7134,9 +6839,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/99.png",
             "large": "https://images.pokemontcg.io/dp2/99_hires.png"
@@ -7146,6 +6849,7 @@ let mysteriousTreasures = [
         "id": "dp2-100",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7190,9 +6894,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7207,9 +6909,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/100.png",
             "large": "https://images.pokemontcg.io/dp2/100_hires.png"
@@ -7219,6 +6919,7 @@ let mysteriousTreasures = [
         "id": "dp2-101",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7261,9 +6962,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7278,9 +6977,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             459
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/101.png",
             "large": "https://images.pokemontcg.io/dp2/101_hires.png"
@@ -7290,6 +6987,7 @@ let mysteriousTreasures = [
         "id": "dp2-102",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7333,9 +7031,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7350,9 +7046,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/102.png",
             "large": "https://images.pokemontcg.io/dp2/102_hires.png"
@@ -7362,6 +7056,7 @@ let mysteriousTreasures = [
         "id": "dp2-103",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7406,9 +7101,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7423,9 +7116,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/103.png",
             "large": "https://images.pokemontcg.io/dp2/103_hires.png"
@@ -7435,6 +7126,7 @@ let mysteriousTreasures = [
         "id": "dp2-104",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7469,9 +7161,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7486,9 +7176,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/104.png",
             "large": "https://images.pokemontcg.io/dp2/104_hires.png"
@@ -7498,6 +7186,7 @@ let mysteriousTreasures = [
         "id": "dp2-105",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7542,9 +7231,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7559,9 +7246,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/105.png",
             "large": "https://images.pokemontcg.io/dp2/105_hires.png"
@@ -7571,6 +7256,7 @@ let mysteriousTreasures = [
         "id": "dp2-106",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7612,9 +7298,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7629,9 +7313,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/106.png",
             "large": "https://images.pokemontcg.io/dp2/106_hires.png"
@@ -7641,6 +7323,7 @@ let mysteriousTreasures = [
         "id": "dp2-107",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7676,9 +7359,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7693,9 +7374,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/107.png",
             "large": "https://images.pokemontcg.io/dp2/107_hires.png"
@@ -7705,6 +7384,7 @@ let mysteriousTreasures = [
         "id": "dp2-108",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Basic"
         ],
@@ -7755,9 +7435,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7772,9 +7450,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/108.png",
             "large": "https://images.pokemontcg.io/dp2/108_hires.png"
@@ -7784,6 +7460,7 @@ let mysteriousTreasures = [
         "id": "dp2-109",
         "name": "Bebe's Search",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Supporter"
         ],
@@ -7797,9 +7474,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7810,9 +7485,7 @@ let mysteriousTreasures = [
         "number": "109",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/109.png",
             "large": "https://images.pokemontcg.io/dp2/109_hires.png"
@@ -7822,6 +7495,7 @@ let mysteriousTreasures = [
         "id": "dp2-110",
         "name": "Dusk Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -7834,9 +7508,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7847,9 +7519,7 @@ let mysteriousTreasures = [
         "number": "110",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/110.png",
             "large": "https://images.pokemontcg.io/dp2/110_hires.png"
@@ -7859,6 +7529,7 @@ let mysteriousTreasures = [
         "id": "dp2-111",
         "name": "Fossil Excavator",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Supporter"
         ],
@@ -7872,9 +7543,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7885,9 +7554,7 @@ let mysteriousTreasures = [
         "number": "111",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/111.png",
             "large": "https://images.pokemontcg.io/dp2/111_hires.png"
@@ -7897,6 +7564,7 @@ let mysteriousTreasures = [
         "id": "dp2-112",
         "name": "Lake Boundary",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Stadium"
         ],
@@ -7910,9 +7578,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7923,9 +7589,7 @@ let mysteriousTreasures = [
         "number": "112",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/112.png",
             "large": "https://images.pokemontcg.io/dp2/112_hires.png"
@@ -7935,6 +7599,7 @@ let mysteriousTreasures = [
         "id": "dp2-113",
         "name": "Night Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -7947,9 +7612,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7960,9 +7623,7 @@ let mysteriousTreasures = [
         "number": "113",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/113.png",
             "large": "https://images.pokemontcg.io/dp2/113_hires.png"
@@ -7972,6 +7633,7 @@ let mysteriousTreasures = [
         "id": "dp2-114",
         "name": "Quick Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -7984,9 +7646,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -7997,11 +7657,7 @@ let mysteriousTreasures = [
         "number": "114",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/114.png",
             "large": "https://images.pokemontcg.io/dp2/114_hires.png"
@@ -8011,6 +7667,7 @@ let mysteriousTreasures = [
         "id": "dp2-115",
         "name": "Team Galactic's Wager",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Supporter"
         ],
@@ -8024,9 +7681,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8037,9 +7692,7 @@ let mysteriousTreasures = [
         "number": "115",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/115.png",
             "large": "https://images.pokemontcg.io/dp2/115_hires.png"
@@ -8049,6 +7702,7 @@ let mysteriousTreasures = [
         "id": "dp2-116",
         "name": "Armor Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -8069,9 +7723,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8082,9 +7734,7 @@ let mysteriousTreasures = [
         "number": "116",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/116.png",
             "large": "https://images.pokemontcg.io/dp2/116_hires.png"
@@ -8094,6 +7744,7 @@ let mysteriousTreasures = [
         "id": "dp2-117",
         "name": "Skull Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -8114,9 +7765,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8127,9 +7776,7 @@ let mysteriousTreasures = [
         "number": "117",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/117.png",
             "large": "https://images.pokemontcg.io/dp2/117_hires.png"
@@ -8139,6 +7786,7 @@ let mysteriousTreasures = [
         "id": "dp2-118",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "MT",
         "subtypes": [
             "Special"
         ],
@@ -8151,9 +7799,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8164,9 +7810,7 @@ let mysteriousTreasures = [
         "number": "118",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/118.png",
             "large": "https://images.pokemontcg.io/dp2/118_hires.png"
@@ -8176,6 +7820,7 @@ let mysteriousTreasures = [
         "id": "dp2-119",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "MT",
         "subtypes": [
             "Special"
         ],
@@ -8188,9 +7833,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8201,9 +7844,7 @@ let mysteriousTreasures = [
         "number": "119",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/119.png",
             "large": "https://images.pokemontcg.io/dp2/119_hires.png"
@@ -8213,6 +7854,7 @@ let mysteriousTreasures = [
         "id": "dp2-120",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "MT",
         "subtypes": [
             "Special"
         ],
@@ -8225,9 +7867,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8238,9 +7878,7 @@ let mysteriousTreasures = [
         "number": "120",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/120.png",
             "large": "https://images.pokemontcg.io/dp2/120_hires.png"
@@ -8250,6 +7888,7 @@ let mysteriousTreasures = [
         "id": "dp2-121",
         "name": "Electivire LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Level-Up"
         ],
@@ -8299,9 +7938,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8315,9 +7952,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/121.png",
             "large": "https://images.pokemontcg.io/dp2/121_hires.png"
@@ -8327,6 +7962,7 @@ let mysteriousTreasures = [
         "id": "dp2-122",
         "name": "Lucario LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Level-Up"
         ],
@@ -8371,9 +8007,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8387,9 +8021,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/122.png",
             "large": "https://images.pokemontcg.io/dp2/122_hires.png"
@@ -8399,6 +8031,7 @@ let mysteriousTreasures = [
         "id": "dp2-123",
         "name": "Magmortar LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "MT",
         "subtypes": [
             "Level-Up"
         ],
@@ -8444,9 +8077,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8460,9 +8091,7 @@ let mysteriousTreasures = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/123.png",
             "large": "https://images.pokemontcg.io/dp2/123_hires.png"
@@ -8472,6 +8101,7 @@ let mysteriousTreasures = [
         "id": "dp2-124",
         "name": "Time-Space Distortion",
         "supertype": "Trainer",
+        "setAbbrev": "MT",
         "subtypes": [
             "Item"
         ],
@@ -8484,9 +8114,7 @@ let mysteriousTreasures = [
             "series": "Diamond & Pearl",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "MT",
             "releaseDate": "2007/08/01",
             "images": {
@@ -8497,9 +8125,7 @@ let mysteriousTreasures = [
         "number": "124",
         "artist": "Shizurow",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp2/124.png",
             "large": "https://images.pokemontcg.io/dp2/124_hires.png"

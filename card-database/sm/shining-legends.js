@@ -3,6 +3,7 @@ let sm35 = [
         "id": "sm35-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -38,10 +39,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -56,10 +54,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/1.png",
             "large": "https://images.pokemontcg.io/sm35/1_hires.png"
@@ -69,6 +64,7 @@ let sm35 = [
         "id": "sm35-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -117,10 +113,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -135,10 +128,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/2.png",
             "large": "https://images.pokemontcg.io/sm35/2_hires.png"
@@ -148,6 +138,7 @@ let sm35 = [
         "id": "sm35-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -190,10 +181,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -208,10 +196,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/3.png",
             "large": "https://images.pokemontcg.io/sm35/3_hires.png"
@@ -221,6 +206,7 @@ let sm35 = [
         "id": "sm35-4",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -256,10 +242,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -274,10 +257,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/4.png",
             "large": "https://images.pokemontcg.io/sm35/4_hires.png"
@@ -287,6 +267,7 @@ let sm35 = [
         "id": "sm35-5",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -330,10 +311,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -348,10 +326,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/5.png",
             "large": "https://images.pokemontcg.io/sm35/5_hires.png"
@@ -361,6 +336,7 @@ let sm35 = [
         "id": "sm35-6",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -402,10 +378,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -420,10 +393,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/6.png",
             "large": "https://images.pokemontcg.io/sm35/6_hires.png"
@@ -433,6 +403,7 @@ let sm35 = [
         "id": "sm35-7",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -474,10 +445,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -492,10 +460,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/7.png",
             "large": "https://images.pokemontcg.io/sm35/7_hires.png"
@@ -505,6 +470,7 @@ let sm35 = [
         "id": "sm35-8",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -547,10 +513,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -565,10 +528,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/8.png",
             "large": "https://images.pokemontcg.io/sm35/8_hires.png"
@@ -578,6 +538,7 @@ let sm35 = [
         "id": "sm35-9",
         "name": "Shining Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -618,10 +579,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -636,10 +594,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/9.png",
             "large": "https://images.pokemontcg.io/sm35/9_hires.png"
@@ -649,6 +604,7 @@ let sm35 = [
         "id": "sm35-10",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -707,10 +663,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -724,10 +677,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/10.png",
             "large": "https://images.pokemontcg.io/sm35/10_hires.png"
@@ -737,6 +687,7 @@ let sm35 = [
         "id": "sm35-10a",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -795,10 +746,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -812,10 +760,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/10a.png",
             "large": "https://images.pokemontcg.io/sm35/10a_hires.png"
@@ -825,6 +770,7 @@ let sm35 = [
         "id": "sm35-11",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -868,10 +814,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -886,10 +829,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/11.png",
             "large": "https://images.pokemontcg.io/sm35/11_hires.png"
@@ -899,6 +839,7 @@ let sm35 = [
         "id": "sm35-12",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -934,10 +875,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -952,10 +890,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/12.png",
             "large": "https://images.pokemontcg.io/sm35/12_hires.png"
@@ -965,6 +900,7 @@ let sm35 = [
         "id": "sm35-13",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1005,10 +941,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1023,10 +956,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/13.png",
             "large": "https://images.pokemontcg.io/sm35/13_hires.png"
@@ -1036,6 +966,7 @@ let sm35 = [
         "id": "sm35-14",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1079,10 +1010,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1097,10 +1025,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/14.png",
             "large": "https://images.pokemontcg.io/sm35/14_hires.png"
@@ -1110,6 +1035,7 @@ let sm35 = [
         "id": "sm35-15",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1144,10 +1070,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1162,10 +1085,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/15.png",
             "large": "https://images.pokemontcg.io/sm35/15_hires.png"
@@ -1175,6 +1095,7 @@ let sm35 = [
         "id": "sm35-16",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1220,10 +1141,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1238,10 +1156,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             726
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/16.png",
             "large": "https://images.pokemontcg.io/sm35/16_hires.png"
@@ -1251,6 +1166,7 @@ let sm35 = [
         "id": "sm35-17",
         "name": "Incineroar",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1295,10 +1211,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1313,10 +1226,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/17.png",
             "large": "https://images.pokemontcg.io/sm35/17_hires.png"
@@ -1326,6 +1236,7 @@ let sm35 = [
         "id": "sm35-18",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1370,10 +1281,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1388,10 +1296,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/18.png",
             "large": "https://images.pokemontcg.io/sm35/18_hires.png"
@@ -1401,6 +1306,7 @@ let sm35 = [
         "id": "sm35-19",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1445,10 +1351,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1463,10 +1366,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/19.png",
             "large": "https://images.pokemontcg.io/sm35/19_hires.png"
@@ -1476,6 +1376,7 @@ let sm35 = [
         "id": "sm35-20",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1522,10 +1423,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1540,10 +1438,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/20.png",
             "large": "https://images.pokemontcg.io/sm35/20_hires.png"
@@ -1553,6 +1448,7 @@ let sm35 = [
         "id": "sm35-21",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1594,10 +1490,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1612,10 +1505,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/21.png",
             "large": "https://images.pokemontcg.io/sm35/21_hires.png"
@@ -1625,6 +1515,7 @@ let sm35 = [
         "id": "sm35-22",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1670,10 +1561,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1688,10 +1576,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/22.png",
             "large": "https://images.pokemontcg.io/sm35/22_hires.png"
@@ -1701,6 +1586,7 @@ let sm35 = [
         "id": "sm35-23",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1744,10 +1630,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1762,10 +1645,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/23.png",
             "large": "https://images.pokemontcg.io/sm35/23_hires.png"
@@ -1775,6 +1655,7 @@ let sm35 = [
         "id": "sm35-24",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1818,10 +1699,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1836,10 +1714,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/24.png",
             "large": "https://images.pokemontcg.io/sm35/24_hires.png"
@@ -1849,6 +1724,7 @@ let sm35 = [
         "id": "sm35-25",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1888,10 +1764,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1906,10 +1779,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             490
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/25.png",
             "large": "https://images.pokemontcg.io/sm35/25_hires.png"
@@ -1919,6 +1789,7 @@ let sm35 = [
         "id": "sm35-26",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1960,10 +1831,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -1978,10 +1846,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/26.png",
             "large": "https://images.pokemontcg.io/sm35/26_hires.png"
@@ -1991,6 +1856,7 @@ let sm35 = [
         "id": "sm35-27",
         "name": "Shining Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2036,10 +1902,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2054,10 +1917,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/27.png",
             "large": "https://images.pokemontcg.io/sm35/27_hires.png"
@@ -2067,6 +1927,7 @@ let sm35 = [
         "id": "sm35-28",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2107,10 +1968,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2125,10 +1983,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/28.png",
             "large": "https://images.pokemontcg.io/sm35/28_hires.png"
@@ -2138,6 +1993,7 @@ let sm35 = [
         "id": "sm35-29",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2203,10 +2059,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2220,10 +2073,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/29.png",
             "large": "https://images.pokemontcg.io/sm35/29_hires.png"
@@ -2233,6 +2083,7 @@ let sm35 = [
         "id": "sm35-30",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2273,10 +2124,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2291,10 +2139,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/30.png",
             "large": "https://images.pokemontcg.io/sm35/30_hires.png"
@@ -2304,6 +2149,7 @@ let sm35 = [
         "id": "sm35-31",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2341,10 +2187,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2359,10 +2202,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/31.png",
             "large": "https://images.pokemontcg.io/sm35/31_hires.png"
@@ -2372,6 +2212,7 @@ let sm35 = [
         "id": "sm35-32",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2420,10 +2261,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2438,10 +2276,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/32.png",
             "large": "https://images.pokemontcg.io/sm35/32_hires.png"
@@ -2451,6 +2286,7 @@ let sm35 = [
         "id": "sm35-33",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2488,10 +2324,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2506,10 +2339,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/33.png",
             "large": "https://images.pokemontcg.io/sm35/33_hires.png"
@@ -2519,6 +2349,7 @@ let sm35 = [
         "id": "sm35-34",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2565,10 +2396,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2583,10 +2411,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/34.png",
             "large": "https://images.pokemontcg.io/sm35/34_hires.png"
@@ -2596,6 +2421,7 @@ let sm35 = [
         "id": "sm35-35",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2645,10 +2471,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2663,10 +2486,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/35.png",
             "large": "https://images.pokemontcg.io/sm35/35_hires.png"
@@ -2676,6 +2496,7 @@ let sm35 = [
         "id": "sm35-36",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2710,10 +2531,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2728,10 +2546,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/36.png",
             "large": "https://images.pokemontcg.io/sm35/36_hires.png"
@@ -2741,6 +2556,7 @@ let sm35 = [
         "id": "sm35-37",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2782,10 +2598,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2800,10 +2613,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/37.png",
             "large": "https://images.pokemontcg.io/sm35/37_hires.png"
@@ -2813,6 +2623,7 @@ let sm35 = [
         "id": "sm35-38",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2854,10 +2665,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2872,10 +2680,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/38.png",
             "large": "https://images.pokemontcg.io/sm35/38_hires.png"
@@ -2885,6 +2690,7 @@ let sm35 = [
         "id": "sm35-39",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -2941,10 +2747,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -2958,10 +2761,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/39.png",
             "large": "https://images.pokemontcg.io/sm35/39_hires.png"
@@ -2971,6 +2771,7 @@ let sm35 = [
         "id": "sm35-40",
         "name": "Shining Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3010,10 +2811,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3028,10 +2826,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/40.png",
             "large": "https://images.pokemontcg.io/sm35/40_hires.png"
@@ -3041,6 +2836,7 @@ let sm35 = [
         "id": "sm35-41",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3084,10 +2880,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3102,10 +2895,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/41.png",
             "large": "https://images.pokemontcg.io/sm35/41_hires.png"
@@ -3115,6 +2905,7 @@ let sm35 = [
         "id": "sm35-42",
         "name": "Shining Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3146,10 +2937,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3164,10 +2952,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/42.png",
             "large": "https://images.pokemontcg.io/sm35/42_hires.png"
@@ -3177,6 +2962,7 @@ let sm35 = [
         "id": "sm35-43",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3219,10 +3005,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3237,10 +3020,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/43.png",
             "large": "https://images.pokemontcg.io/sm35/43_hires.png"
@@ -3250,6 +3030,7 @@ let sm35 = [
         "id": "sm35-44",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3302,10 +3083,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3320,10 +3098,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/44.png",
             "large": "https://images.pokemontcg.io/sm35/44_hires.png"
@@ -3333,6 +3108,7 @@ let sm35 = [
         "id": "sm35-45",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3378,10 +3154,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3409,6 +3182,7 @@ let sm35 = [
         "id": "sm35-46",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3452,10 +3226,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3470,10 +3241,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/46.png",
             "large": "https://images.pokemontcg.io/sm35/46_hires.png"
@@ -3483,6 +3251,7 @@ let sm35 = [
         "id": "sm35-47",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3516,10 +3285,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3534,10 +3300,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/47.png",
             "large": "https://images.pokemontcg.io/sm35/47_hires.png"
@@ -3547,6 +3310,7 @@ let sm35 = [
         "id": "sm35-48",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3597,10 +3361,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3615,10 +3376,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/48.png",
             "large": "https://images.pokemontcg.io/sm35/48_hires.png"
@@ -3628,6 +3386,7 @@ let sm35 = [
         "id": "sm35-49",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3676,10 +3435,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3694,10 +3450,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/49.png",
             "large": "https://images.pokemontcg.io/sm35/49_hires.png"
@@ -3707,6 +3460,7 @@ let sm35 = [
         "id": "sm35-50",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3757,10 +3511,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3775,10 +3526,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/50.png",
             "large": "https://images.pokemontcg.io/sm35/50_hires.png"
@@ -3788,6 +3536,7 @@ let sm35 = [
         "id": "sm35-51",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3838,10 +3587,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3856,10 +3602,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/51.png",
             "large": "https://images.pokemontcg.io/sm35/51_hires.png"
@@ -3869,6 +3612,7 @@ let sm35 = [
         "id": "sm35-52",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3919,10 +3663,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -3937,10 +3678,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/52.png",
             "large": "https://images.pokemontcg.io/sm35/52_hires.png"
@@ -3950,6 +3688,7 @@ let sm35 = [
         "id": "sm35-53",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4010,10 +3749,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4027,10 +3763,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/53.png",
             "large": "https://images.pokemontcg.io/sm35/53_hires.png"
@@ -4040,6 +3773,7 @@ let sm35 = [
         "id": "sm35-54",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -4089,10 +3823,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4107,10 +3838,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/54.png",
             "large": "https://images.pokemontcg.io/sm35/54_hires.png"
@@ -4120,6 +3848,7 @@ let sm35 = [
         "id": "sm35-55",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -4166,10 +3895,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4184,10 +3910,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/55.png",
             "large": "https://images.pokemontcg.io/sm35/55_hires.png"
@@ -4197,6 +3920,7 @@ let sm35 = [
         "id": "sm35-56",
         "name": "Shining Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -4240,10 +3964,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4258,10 +3979,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/56.png",
             "large": "https://images.pokemontcg.io/sm35/56_hires.png"
@@ -4271,6 +3989,7 @@ let sm35 = [
         "id": "sm35-57",
         "name": "Shining Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -4312,10 +4031,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4330,10 +4046,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/57.png",
             "large": "https://images.pokemontcg.io/sm35/57_hires.png"
@@ -4343,6 +4056,7 @@ let sm35 = [
         "id": "sm35-58",
         "name": "Damage Mover",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4356,10 +4070,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4370,10 +4081,7 @@ let sm35 = [
         "number": "58",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/58.png",
             "large": "https://images.pokemontcg.io/sm35/58_hires.png"
@@ -4383,6 +4091,7 @@ let sm35 = [
         "id": "sm35-59",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4396,10 +4105,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4410,11 +4116,7 @@ let sm35 = [
         "number": "59",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/59.png",
             "large": "https://images.pokemontcg.io/sm35/59_hires.png"
@@ -4424,6 +4126,7 @@ let sm35 = [
         "id": "sm35-60",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4437,10 +4140,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4451,11 +4151,7 @@ let sm35 = [
         "number": "60",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/60.png",
             "large": "https://images.pokemontcg.io/sm35/60_hires.png"
@@ -4465,6 +4161,7 @@ let sm35 = [
         "id": "sm35-61",
         "name": "Hau",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4478,10 +4175,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4492,10 +4186,7 @@ let sm35 = [
         "number": "61",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/61.png",
             "large": "https://images.pokemontcg.io/sm35/61_hires.png"
@@ -4505,6 +4196,7 @@ let sm35 = [
         "id": "sm35-62",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4518,10 +4210,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4532,10 +4221,7 @@ let sm35 = [
         "number": "62",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/62.png",
             "large": "https://images.pokemontcg.io/sm35/62_hires.png"
@@ -4545,6 +4231,7 @@ let sm35 = [
         "id": "sm35-63",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4558,10 +4245,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4572,10 +4256,7 @@ let sm35 = [
         "number": "63",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/63.png",
             "large": "https://images.pokemontcg.io/sm35/63_hires.png"
@@ -4585,6 +4266,7 @@ let sm35 = [
         "id": "sm35-64",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4598,10 +4280,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4612,11 +4291,7 @@ let sm35 = [
         "number": "64",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/64.png",
             "large": "https://images.pokemontcg.io/sm35/64_hires.png"
@@ -4626,6 +4301,7 @@ let sm35 = [
         "id": "sm35-65",
         "name": "Sophocles",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4639,10 +4315,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4653,10 +4326,7 @@ let sm35 = [
         "number": "65",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/65.png",
             "large": "https://images.pokemontcg.io/sm35/65_hires.png"
@@ -4666,6 +4336,7 @@ let sm35 = [
         "id": "sm35-66",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4679,10 +4350,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4693,10 +4361,7 @@ let sm35 = [
         "number": "66",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/66.png",
             "large": "https://images.pokemontcg.io/sm35/66_hires.png"
@@ -4706,6 +4371,7 @@ let sm35 = [
         "id": "sm35-67",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4719,10 +4385,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4733,11 +4396,7 @@ let sm35 = [
         "number": "67",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/67.png",
             "large": "https://images.pokemontcg.io/sm35/67_hires.png"
@@ -4747,6 +4406,7 @@ let sm35 = [
         "id": "sm35-68",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4760,10 +4420,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4774,10 +4431,7 @@ let sm35 = [
         "number": "68",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/68.png",
             "large": "https://images.pokemontcg.io/sm35/68_hires.png"
@@ -4787,6 +4441,7 @@ let sm35 = [
         "id": "sm35-68a",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4800,10 +4455,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4814,10 +4466,7 @@ let sm35 = [
         "number": "68a",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/68a.png",
             "large": "https://images.pokemontcg.io/sm35/68a_hires.png"
@@ -4827,6 +4476,7 @@ let sm35 = [
         "id": "sm35-69",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Special"
         ],
@@ -4839,10 +4489,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4852,10 +4499,7 @@ let sm35 = [
         },
         "number": "69",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/69.png",
             "large": "https://images.pokemontcg.io/sm35/69_hires.png"
@@ -4865,6 +4509,7 @@ let sm35 = [
         "id": "sm35-70",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Special"
         ],
@@ -4878,10 +4523,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4891,10 +4533,7 @@ let sm35 = [
         },
         "number": "70",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/70.png",
             "large": "https://images.pokemontcg.io/sm35/70_hires.png"
@@ -4904,6 +4543,7 @@ let sm35 = [
         "id": "sm35-71",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -4962,10 +4602,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -4979,10 +4616,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/71.png",
             "large": "https://images.pokemontcg.io/sm35/71_hires.png"
@@ -4992,6 +4626,7 @@ let sm35 = [
         "id": "sm35-72",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -5048,10 +4683,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5065,10 +4697,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/72.png",
             "large": "https://images.pokemontcg.io/sm35/72_hires.png"
@@ -5078,6 +4707,7 @@ let sm35 = [
         "id": "sm35-73",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -5091,10 +4721,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5105,10 +4732,7 @@ let sm35 = [
         "number": "73",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/73.png",
             "large": "https://images.pokemontcg.io/sm35/73_hires.png"
@@ -5118,6 +4742,7 @@ let sm35 = [
         "id": "sm35-74",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -5176,10 +4801,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5193,10 +4815,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/74.png",
             "large": "https://images.pokemontcg.io/sm35/74_hires.png"
@@ -5206,6 +4825,7 @@ let sm35 = [
         "id": "sm35-75",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5271,10 +4891,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5288,10 +4905,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/75.png",
             "large": "https://images.pokemontcg.io/sm35/75_hires.png"
@@ -5301,6 +4915,7 @@ let sm35 = [
         "id": "sm35-76",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -5357,10 +4972,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5374,10 +4986,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/76.png",
             "large": "https://images.pokemontcg.io/sm35/76_hires.png"
@@ -5387,6 +4996,7 @@ let sm35 = [
         "id": "sm35-77",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5447,10 +5057,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5464,10 +5071,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/77.png",
             "large": "https://images.pokemontcg.io/sm35/77_hires.png"
@@ -5477,6 +5081,7 @@ let sm35 = [
         "id": "sm35-77a",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5537,10 +5142,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5554,10 +5156,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/77a.png",
             "large": "https://images.pokemontcg.io/sm35/77a_hires.png"
@@ -5567,6 +5166,7 @@ let sm35 = [
         "id": "sm35-78",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -5623,10 +5223,7 @@ let sm35 = [
             "series": "Sun & Moon",
             "printedTotal": 73,
             "total": 81,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SLG",
             "releaseDate": "2017/10/06",
             "images": {
@@ -5640,10 +5237,7 @@ let sm35 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm35/78.png",
             "large": "https://images.pokemontcg.io/sm35/78_hires.png"

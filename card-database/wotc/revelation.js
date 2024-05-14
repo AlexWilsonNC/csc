@@ -1,8 +1,9 @@
-let revelation = [
+let neo3 = [
     {
         "id": "neo3-1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -47,9 +48,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -64,9 +63,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/1.png",
             "large": "https://images.pokemontcg.io/neo3/1_hires.png"
@@ -76,6 +73,7 @@ let revelation = [
         "id": "neo3-2",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -124,9 +122,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -141,9 +137,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/2.png",
             "large": "https://images.pokemontcg.io/neo3/2_hires.png"
@@ -153,6 +147,7 @@ let revelation = [
         "id": "neo3-3",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -191,9 +186,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -208,9 +201,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/3.png",
             "large": "https://images.pokemontcg.io/neo3/3_hires.png"
@@ -220,6 +211,7 @@ let revelation = [
         "id": "neo3-4",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -268,9 +260,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -285,9 +275,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/4.png",
             "large": "https://images.pokemontcg.io/neo3/4_hires.png"
@@ -297,6 +285,7 @@ let revelation = [
         "id": "neo3-5",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -335,9 +324,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -352,9 +339,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/5.png",
             "large": "https://images.pokemontcg.io/neo3/5_hires.png"
@@ -364,6 +349,7 @@ let revelation = [
         "id": "neo3-6",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -404,9 +390,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -421,9 +405,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/6.png",
             "large": "https://images.pokemontcg.io/neo3/6_hires.png"
@@ -433,6 +415,7 @@ let revelation = [
         "id": "neo3-7",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -494,9 +477,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -511,9 +492,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/7.png",
             "large": "https://images.pokemontcg.io/neo3/7_hires.png"
@@ -523,6 +502,7 @@ let revelation = [
         "id": "neo3-8",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -566,9 +546,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -583,9 +561,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/8.png",
             "large": "https://images.pokemontcg.io/neo3/8_hires.png"
@@ -595,6 +571,7 @@ let revelation = [
         "id": "neo3-9",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -641,9 +618,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -658,9 +633,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/9.png",
             "large": "https://images.pokemontcg.io/neo3/9_hires.png"
@@ -670,6 +643,7 @@ let revelation = [
         "id": "neo3-10",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -720,9 +694,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -737,9 +709,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/10.png",
             "large": "https://images.pokemontcg.io/neo3/10_hires.png"
@@ -749,6 +719,7 @@ let revelation = [
         "id": "neo3-11",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -794,9 +765,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -811,9 +780,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/11.png",
             "large": "https://images.pokemontcg.io/neo3/11_hires.png"
@@ -823,6 +790,7 @@ let revelation = [
         "id": "neo3-12",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -873,9 +841,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -890,9 +856,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/12.png",
             "large": "https://images.pokemontcg.io/neo3/12_hires.png"
@@ -902,6 +866,7 @@ let revelation = [
         "id": "neo3-13",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -942,9 +907,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -959,9 +922,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/13.png",
             "large": "https://images.pokemontcg.io/neo3/13_hires.png"
@@ -971,6 +932,7 @@ let revelation = [
         "id": "neo3-14",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1011,9 +973,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1028,9 +988,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/14.png",
             "large": "https://images.pokemontcg.io/neo3/14_hires.png"
@@ -1040,6 +998,7 @@ let revelation = [
         "id": "neo3-15",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1087,9 +1046,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1104,9 +1061,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/15.png",
             "large": "https://images.pokemontcg.io/neo3/15_hires.png"
@@ -1116,6 +1071,7 @@ let revelation = [
         "id": "neo3-16",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1148,9 +1104,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1165,9 +1119,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/16.png",
             "large": "https://images.pokemontcg.io/neo3/16_hires.png"
@@ -1177,6 +1129,7 @@ let revelation = [
         "id": "neo3-17",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1216,9 +1169,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1233,9 +1184,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/17.png",
             "large": "https://images.pokemontcg.io/neo3/17_hires.png"
@@ -1245,6 +1194,7 @@ let revelation = [
         "id": "neo3-18",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1285,9 +1235,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1302,9 +1250,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/18.png",
             "large": "https://images.pokemontcg.io/neo3/18_hires.png"
@@ -1314,6 +1260,7 @@ let revelation = [
         "id": "neo3-19",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -1352,9 +1299,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1369,9 +1314,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/19.png",
             "large": "https://images.pokemontcg.io/neo3/19_hires.png"
@@ -1381,6 +1324,7 @@ let revelation = [
         "id": "neo3-20",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1421,9 +1365,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1438,9 +1380,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/20.png",
             "large": "https://images.pokemontcg.io/neo3/20_hires.png"
@@ -1450,6 +1390,7 @@ let revelation = [
         "id": "neo3-21",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1494,9 +1435,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1511,9 +1450,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/21.png",
             "large": "https://images.pokemontcg.io/neo3/21_hires.png"
@@ -1523,6 +1460,7 @@ let revelation = [
         "id": "neo3-22",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1562,9 +1500,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1579,9 +1515,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/22.png",
             "large": "https://images.pokemontcg.io/neo3/22_hires.png"
@@ -1591,6 +1525,7 @@ let revelation = [
         "id": "neo3-23",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1639,9 +1574,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1656,9 +1589,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/23.png",
             "large": "https://images.pokemontcg.io/neo3/23_hires.png"
@@ -1668,6 +1599,7 @@ let revelation = [
         "id": "neo3-24",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1711,9 +1643,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1728,9 +1658,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/24.png",
             "large": "https://images.pokemontcg.io/neo3/24_hires.png"
@@ -1740,6 +1668,7 @@ let revelation = [
         "id": "neo3-25",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1783,9 +1712,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1800,9 +1727,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/25.png",
             "large": "https://images.pokemontcg.io/neo3/25_hires.png"
@@ -1812,6 +1737,7 @@ let revelation = [
         "id": "neo3-26",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1851,9 +1777,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1868,9 +1792,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/26.png",
             "large": "https://images.pokemontcg.io/neo3/26_hires.png"
@@ -1880,6 +1802,7 @@ let revelation = [
         "id": "neo3-27",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1919,9 +1842,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1936,9 +1857,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/27.png",
             "large": "https://images.pokemontcg.io/neo3/27_hires.png"
@@ -1948,6 +1867,7 @@ let revelation = [
         "id": "neo3-28",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1994,9 +1914,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2011,9 +1929,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/28.png",
             "large": "https://images.pokemontcg.io/neo3/28_hires.png"
@@ -2023,6 +1939,7 @@ let revelation = [
         "id": "neo3-29",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2073,9 +1990,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2090,9 +2005,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/29.png",
             "large": "https://images.pokemontcg.io/neo3/29_hires.png"
@@ -2102,6 +2015,7 @@ let revelation = [
         "id": "neo3-30",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2149,9 +2063,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2166,9 +2078,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/30.png",
             "large": "https://images.pokemontcg.io/neo3/30_hires.png"
@@ -2178,6 +2088,7 @@ let revelation = [
         "id": "neo3-31",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2220,9 +2131,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2237,9 +2146,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/31.png",
             "large": "https://images.pokemontcg.io/neo3/31_hires.png"
@@ -2249,6 +2156,7 @@ let revelation = [
         "id": "neo3-32",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2290,9 +2198,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2307,9 +2213,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/32.png",
             "large": "https://images.pokemontcg.io/neo3/32_hires.png"
@@ -2319,6 +2223,7 @@ let revelation = [
         "id": "neo3-33",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2360,9 +2265,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2377,9 +2280,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/33.png",
             "large": "https://images.pokemontcg.io/neo3/33_hires.png"
@@ -2389,6 +2290,7 @@ let revelation = [
         "id": "neo3-34",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2432,9 +2334,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2449,9 +2349,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/34.png",
             "large": "https://images.pokemontcg.io/neo3/34_hires.png"
@@ -2461,6 +2359,7 @@ let revelation = [
         "id": "neo3-35",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2501,9 +2400,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2518,9 +2415,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/35.png",
             "large": "https://images.pokemontcg.io/neo3/35_hires.png"
@@ -2530,6 +2425,7 @@ let revelation = [
         "id": "neo3-36",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2584,9 +2480,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2601,9 +2495,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/36.png",
             "large": "https://images.pokemontcg.io/neo3/36_hires.png"
@@ -2613,6 +2505,7 @@ let revelation = [
         "id": "neo3-37",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2655,9 +2548,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2672,9 +2563,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/37.png",
             "large": "https://images.pokemontcg.io/neo3/37_hires.png"
@@ -2684,6 +2573,7 @@ let revelation = [
         "id": "neo3-38",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2732,9 +2622,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2749,9 +2637,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/38.png",
             "large": "https://images.pokemontcg.io/neo3/38_hires.png"
@@ -2761,6 +2647,7 @@ let revelation = [
         "id": "neo3-39",
         "name": "Unown [B]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2802,9 +2689,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2819,9 +2704,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/39.png",
             "large": "https://images.pokemontcg.io/neo3/39_hires.png"
@@ -2831,6 +2714,7 @@ let revelation = [
         "id": "neo3-40",
         "name": "Unown [Y]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2872,9 +2756,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2889,9 +2771,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/40.png",
             "large": "https://images.pokemontcg.io/neo3/40_hires.png"
@@ -2901,6 +2781,7 @@ let revelation = [
         "id": "neo3-41",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2950,9 +2831,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2967,9 +2846,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/41.png",
             "large": "https://images.pokemontcg.io/neo3/41_hires.png"
@@ -2979,6 +2856,7 @@ let revelation = [
         "id": "neo3-42",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3022,9 +2900,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3039,9 +2915,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/42.png",
             "large": "https://images.pokemontcg.io/neo3/42_hires.png"
@@ -3051,6 +2925,7 @@ let revelation = [
         "id": "neo3-43",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3102,9 +2977,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3119,9 +2992,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/43.png",
             "large": "https://images.pokemontcg.io/neo3/43_hires.png"
@@ -3131,6 +3002,7 @@ let revelation = [
         "id": "neo3-44",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3165,9 +3037,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3182,9 +3052,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/44.png",
             "large": "https://images.pokemontcg.io/neo3/44_hires.png"
@@ -3194,6 +3062,7 @@ let revelation = [
         "id": "neo3-45",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3227,9 +3096,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3244,9 +3111,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/45.png",
             "large": "https://images.pokemontcg.io/neo3/45_hires.png"
@@ -3256,6 +3121,7 @@ let revelation = [
         "id": "neo3-46",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3299,9 +3165,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3316,9 +3180,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/46.png",
             "large": "https://images.pokemontcg.io/neo3/46_hires.png"
@@ -3328,6 +3190,7 @@ let revelation = [
         "id": "neo3-47",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3372,9 +3235,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3389,9 +3250,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/47.png",
             "large": "https://images.pokemontcg.io/neo3/47_hires.png"
@@ -3401,6 +3260,7 @@ let revelation = [
         "id": "neo3-48",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -3452,9 +3312,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3469,9 +3327,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/48.png",
             "large": "https://images.pokemontcg.io/neo3/48_hires.png"
@@ -3481,6 +3337,7 @@ let revelation = [
         "id": "neo3-49",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3522,9 +3379,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3539,9 +3394,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/49.png",
             "large": "https://images.pokemontcg.io/neo3/49_hires.png"
@@ -3551,6 +3404,7 @@ let revelation = [
         "id": "neo3-50",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3584,9 +3438,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3601,9 +3453,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/50.png",
             "large": "https://images.pokemontcg.io/neo3/50_hires.png"
@@ -3613,6 +3463,7 @@ let revelation = [
         "id": "neo3-51",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3652,9 +3503,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3669,9 +3518,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/51.png",
             "large": "https://images.pokemontcg.io/neo3/51_hires.png"
@@ -3681,6 +3528,7 @@ let revelation = [
         "id": "neo3-52",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -3730,9 +3578,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3747,9 +3593,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/52.png",
             "large": "https://images.pokemontcg.io/neo3/52_hires.png"
@@ -3759,6 +3603,7 @@ let revelation = [
         "id": "neo3-53",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3803,9 +3648,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3820,9 +3663,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/53.png",
             "large": "https://images.pokemontcg.io/neo3/53_hires.png"
@@ -3832,6 +3673,7 @@ let revelation = [
         "id": "neo3-54",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Baby"
         ],
@@ -3863,9 +3705,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3880,9 +3720,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/54.png",
             "large": "https://images.pokemontcg.io/neo3/54_hires.png"
@@ -3892,6 +3730,7 @@ let revelation = [
         "id": "neo3-55",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3942,9 +3781,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3959,9 +3796,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/55.png",
             "large": "https://images.pokemontcg.io/neo3/55_hires.png"
@@ -3971,6 +3806,7 @@ let revelation = [
         "id": "neo3-56",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4014,9 +3850,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4031,9 +3865,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/56.png",
             "large": "https://images.pokemontcg.io/neo3/56_hires.png"
@@ -4043,6 +3875,7 @@ let revelation = [
         "id": "neo3-57",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4093,9 +3926,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4110,9 +3941,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/57.png",
             "large": "https://images.pokemontcg.io/neo3/57_hires.png"
@@ -4122,6 +3951,7 @@ let revelation = [
         "id": "neo3-58",
         "name": "Unown [K]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4163,9 +3993,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4180,9 +4008,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/58.png",
             "large": "https://images.pokemontcg.io/neo3/58_hires.png"
@@ -4192,6 +4018,7 @@ let revelation = [
         "id": "neo3-59",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4240,9 +4067,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4257,9 +4082,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/59.png",
             "large": "https://images.pokemontcg.io/neo3/59_hires.png"
@@ -4269,6 +4092,7 @@ let revelation = [
         "id": "neo3-60",
         "name": "Balloon Berry",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4282,9 +4106,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4295,9 +4117,7 @@ let revelation = [
         "number": "60",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/60.png",
             "large": "https://images.pokemontcg.io/neo3/60_hires.png"
@@ -4307,6 +4127,7 @@ let revelation = [
         "id": "neo3-61",
         "name": "Healing Field",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stadium"
         ],
@@ -4320,9 +4141,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4333,9 +4152,7 @@ let revelation = [
         "number": "61",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/61.png",
             "large": "https://images.pokemontcg.io/neo3/61_hires.png"
@@ -4345,6 +4162,7 @@ let revelation = [
         "id": "neo3-62",
         "name": "Pokémon Breeder Fields",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "rules": [
             "Flip a coin for 1 or 2 of your non-Baby Pokémon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pokémon. Then put that card into your hand. Shuffle your deck afterward."
         ],
@@ -4354,9 +4172,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4367,9 +4183,7 @@ let revelation = [
         "number": "62",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/62.png",
             "large": "https://images.pokemontcg.io/neo3/62_hires.png"
@@ -4379,6 +4193,7 @@ let revelation = [
         "id": "neo3-63",
         "name": "Rocket's Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stadium"
         ],
@@ -4392,9 +4207,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4405,9 +4218,7 @@ let revelation = [
         "number": "63",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/63.png",
             "large": "https://images.pokemontcg.io/neo3/63_hires.png"
@@ -4417,6 +4228,7 @@ let revelation = [
         "id": "neo3-64",
         "name": "Old Rod",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "rules": [
             "Flip 2 coins. If both are heads, put a Baby Pokémon, Basic Pokémon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand."
         ],
@@ -4426,9 +4238,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4439,9 +4249,7 @@ let revelation = [
         "number": "64",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/64.png",
             "large": "https://images.pokemontcg.io/neo3/64_hires.png"
@@ -4451,6 +4259,7 @@ let revelation = [
         "id": "neo3-65",
         "name": "Shining Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4505,9 +4314,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4522,9 +4329,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/65.png",
             "large": "https://images.pokemontcg.io/neo3/65_hires.png"
@@ -4534,6 +4339,7 @@ let revelation = [
         "id": "neo3-66",
         "name": "Shining Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4580,9 +4386,7 @@ let revelation = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4597,9 +4401,7 @@ let revelation = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/66.png",
             "large": "https://images.pokemontcg.io/neo3/66_hires.png"

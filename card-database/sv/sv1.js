@@ -3,6 +3,7 @@ let sv1 = [
         "id": "sv1-1",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -35,11 +36,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -52,11 +49,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/1.png",
@@ -67,6 +59,7 @@ let sv1 = [
         "id": "sv1-2",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -110,11 +103,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -127,11 +116,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/2.png",
@@ -142,6 +126,7 @@ let sv1 = [
         "id": "sv1-3",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -173,11 +158,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -190,11 +171,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             285
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/3.png",
@@ -205,6 +181,7 @@ let sv1 = [
         "id": "sv1-4",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -237,11 +214,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -254,11 +227,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             286
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/4.png",
@@ -269,6 +237,7 @@ let sv1 = [
         "id": "sv1-5",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -308,11 +277,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -325,11 +290,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/5.png",
@@ -340,6 +300,7 @@ let sv1 = [
         "id": "sv1-6",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -381,11 +342,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -398,11 +355,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/6.png",
@@ -413,6 +365,7 @@ let sv1 = [
         "id": "sv1-7",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -454,11 +407,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -471,11 +420,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             357
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/7.png",
@@ -486,6 +430,7 @@ let sv1 = [
         "id": "sv1-8",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -525,11 +470,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -542,11 +483,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             664
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/8.png",
@@ -557,6 +493,7 @@ let sv1 = [
         "id": "sv1-9",
         "name": "Spewpa",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -597,11 +534,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -614,11 +547,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             665
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/9.png",
@@ -629,6 +557,7 @@ let sv1 = [
         "id": "sv1-10",
         "name": "Vivillon",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -671,11 +600,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -688,11 +613,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             666
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/10.png",
@@ -703,6 +623,7 @@ let sv1 = [
         "id": "sv1-11",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -744,11 +665,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -761,11 +678,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/11.png",
@@ -776,6 +688,7 @@ let sv1 = [
         "id": "sv1-12",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -820,11 +733,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -837,11 +746,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/12.png",
@@ -852,6 +756,7 @@ let sv1 = [
         "id": "sv1-13",
         "name": "Sprigatito",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -893,11 +798,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -910,11 +811,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             906
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/13.png",
@@ -925,6 +821,7 @@ let sv1 = [
         "id": "sv1-14",
         "name": "Floragato",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -967,11 +864,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -984,11 +877,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             907
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/14.png",
@@ -999,6 +887,7 @@ let sv1 = [
         "id": "sv1-15",
         "name": "Meowscarada",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1041,11 +930,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1058,11 +943,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             908
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/15.png",
@@ -1073,6 +953,7 @@ let sv1 = [
         "id": "sv1-16",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1113,11 +994,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1130,11 +1007,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             917
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/16.png",
@@ -1145,6 +1017,7 @@ let sv1 = [
         "id": "sv1-17",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1177,11 +1050,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1194,11 +1063,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             917
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/17.png",
@@ -1209,6 +1073,7 @@ let sv1 = [
         "id": "sv1-18",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1240,11 +1105,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1257,11 +1118,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             917
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/18.png",
@@ -1272,6 +1128,7 @@ let sv1 = [
         "id": "sv1-19",
         "name": "Spidops ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -1313,11 +1170,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1330,11 +1183,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             918
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/19.png",
@@ -1345,6 +1193,7 @@ let sv1 = [
         "id": "sv1-20",
         "name": "Smoliv",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1377,11 +1226,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1394,11 +1239,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             928
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/20.png",
@@ -1409,6 +1249,7 @@ let sv1 = [
         "id": "sv1-21",
         "name": "Smoliv",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1450,11 +1291,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1467,11 +1304,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             928
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/21.png",
@@ -1482,6 +1314,7 @@ let sv1 = [
         "id": "sv1-22",
         "name": "Dolliv",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1524,11 +1357,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1541,11 +1370,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             929
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/22.png",
@@ -1556,6 +1380,7 @@ let sv1 = [
         "id": "sv1-23",
         "name": "Arboliva",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1597,11 +1422,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1614,11 +1435,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             930
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/23.png",
@@ -1629,6 +1445,7 @@ let sv1 = [
         "id": "sv1-24",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1660,11 +1477,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1677,11 +1490,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             948
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/24.png",
@@ -1692,6 +1500,7 @@ let sv1 = [
         "id": "sv1-25",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1733,11 +1542,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1750,11 +1555,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             948
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/25.png",
@@ -1765,6 +1565,7 @@ let sv1 = [
         "id": "sv1-26",
         "name": "Toedscruel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1808,11 +1609,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1825,11 +1622,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             949
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/26.png",
@@ -1840,6 +1632,7 @@ let sv1 = [
         "id": "sv1-27",
         "name": "Capsakid",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1871,11 +1664,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1888,11 +1677,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             951
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/27.png",
@@ -1903,6 +1687,7 @@ let sv1 = [
         "id": "sv1-28",
         "name": "Capsakid",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -1945,11 +1730,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -1962,11 +1743,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             951
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/28.png",
@@ -1977,6 +1753,7 @@ let sv1 = [
         "id": "sv1-29",
         "name": "Scovillain",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2020,11 +1797,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2037,11 +1810,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             952
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/29.png",
@@ -2052,6 +1820,7 @@ let sv1 = [
         "id": "sv1-30",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2083,11 +1852,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2100,11 +1865,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/30.png",
@@ -2115,6 +1875,7 @@ let sv1 = [
         "id": "sv1-31",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2157,11 +1918,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2174,11 +1931,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/31.png",
@@ -2189,6 +1941,7 @@ let sv1 = [
         "id": "sv1-32",
         "name": "Arcanine ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Tera ex"
         ],
@@ -2233,11 +1986,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2250,11 +1999,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/32.png",
@@ -2265,6 +2009,7 @@ let sv1 = [
         "id": "sv1-33",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2306,11 +2051,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2323,11 +2064,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/33.png",
@@ -2338,6 +2074,7 @@ let sv1 = [
         "id": "sv1-34",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2381,11 +2118,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2398,11 +2131,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/34.png",
@@ -2413,6 +2141,7 @@ let sv1 = [
         "id": "sv1-35",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2456,11 +2185,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2473,11 +2198,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/35.png",
@@ -2488,6 +2208,7 @@ let sv1 = [
         "id": "sv1-36",
         "name": "Fuecoco",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2530,11 +2251,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2547,11 +2264,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             909
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/36.png",
@@ -2562,6 +2274,7 @@ let sv1 = [
         "id": "sv1-37",
         "name": "Crocalor",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2606,11 +2319,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2623,11 +2332,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             910
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/37.png",
@@ -2638,6 +2342,7 @@ let sv1 = [
         "id": "sv1-38",
         "name": "Skeledirge",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2681,11 +2386,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2698,11 +2399,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             911
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/38.png",
@@ -2713,6 +2409,7 @@ let sv1 = [
         "id": "sv1-39",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2744,11 +2441,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2761,11 +2454,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             935
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/39.png",
@@ -2776,6 +2464,7 @@ let sv1 = [
         "id": "sv1-40",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2809,11 +2498,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2826,11 +2511,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             935
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/40.png",
@@ -2841,6 +2521,7 @@ let sv1 = [
         "id": "sv1-41",
         "name": "Armarouge",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2882,11 +2563,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2899,11 +2576,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             936
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/41.png",
@@ -2914,6 +2586,7 @@ let sv1 = [
         "id": "sv1-42",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -2955,11 +2628,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -2972,11 +2641,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/42.png",
@@ -2987,6 +2651,7 @@ let sv1 = [
         "id": "sv1-43",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3027,11 +2692,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3044,11 +2705,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/43.png",
@@ -3059,6 +2715,7 @@ let sv1 = [
         "id": "sv1-44",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3090,11 +2747,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3107,11 +2760,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/44.png",
@@ -3122,6 +2770,7 @@ let sv1 = [
         "id": "sv1-45",
         "name": "Gyarados ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Tera ex"
         ],
@@ -3169,11 +2818,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3186,11 +2831,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/45.png",
@@ -3201,6 +2841,7 @@ let sv1 = [
         "id": "sv1-46",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3242,11 +2883,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3259,11 +2896,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/46.png",
@@ -3274,6 +2906,7 @@ let sv1 = [
         "id": "sv1-47",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3307,11 +2940,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3324,11 +2953,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/47.png",
@@ -3339,6 +2963,7 @@ let sv1 = [
         "id": "sv1-48",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3382,11 +3007,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3399,11 +3020,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             594
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/48.png",
@@ -3414,6 +3030,7 @@ let sv1 = [
         "id": "sv1-49",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3445,11 +3062,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3462,11 +3075,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/49.png",
@@ -3477,6 +3085,7 @@ let sv1 = [
         "id": "sv1-50",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3521,11 +3130,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3538,11 +3143,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             693
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/50.png",
@@ -3553,6 +3153,7 @@ let sv1 = [
         "id": "sv1-51",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3594,11 +3195,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3611,11 +3208,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             779
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/51.png",
@@ -3626,6 +3218,7 @@ let sv1 = [
         "id": "sv1-52",
         "name": "Quaxly",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3667,11 +3260,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3684,11 +3273,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             912
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/52.png",
@@ -3699,6 +3283,7 @@ let sv1 = [
         "id": "sv1-53",
         "name": "Quaxwell",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3742,11 +3327,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3759,11 +3340,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             913
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/53.png",
@@ -3774,6 +3350,7 @@ let sv1 = [
         "id": "sv1-54",
         "name": "Quaquaval",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3815,11 +3392,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3832,11 +3405,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             914
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/54.png",
@@ -3847,6 +3415,7 @@ let sv1 = [
         "id": "sv1-55",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3878,11 +3447,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3895,11 +3460,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             960
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/55.png",
@@ -3910,6 +3470,7 @@ let sv1 = [
         "id": "sv1-56",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -3951,11 +3512,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -3968,11 +3525,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             960
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/56.png",
@@ -3983,6 +3535,7 @@ let sv1 = [
         "id": "sv1-57",
         "name": "Wugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4026,11 +3579,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4043,11 +3592,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             961
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/57.png",
@@ -4058,6 +3602,7 @@ let sv1 = [
         "id": "sv1-58",
         "name": "Cetoddle",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4090,11 +3635,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4107,11 +3648,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             974
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/58.png",
@@ -4122,6 +3658,7 @@ let sv1 = [
         "id": "sv1-59",
         "name": "Cetoddle",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4164,11 +3701,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4181,11 +3714,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             974
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/59.png",
@@ -4196,6 +3724,7 @@ let sv1 = [
         "id": "sv1-60",
         "name": "Cetitan",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4240,11 +3769,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4257,11 +3782,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             975
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/60.png",
@@ -4272,6 +3792,7 @@ let sv1 = [
         "id": "sv1-61",
         "name": "Dondozo",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4316,11 +3837,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4333,11 +3850,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             977
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/61.png",
@@ -4348,6 +3860,7 @@ let sv1 = [
         "id": "sv1-62",
         "name": "Tatsugiri",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4388,11 +3901,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4405,11 +3914,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             978
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/62.png",
@@ -4420,6 +3924,7 @@ let sv1 = [
         "id": "sv1-63",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4460,11 +3965,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4477,11 +3978,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/63.png",
@@ -4492,6 +3988,7 @@ let sv1 = [
         "id": "sv1-64",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4534,11 +4031,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4551,11 +4044,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/64.png",
@@ -4566,6 +4054,7 @@ let sv1 = [
         "id": "sv1-65",
         "name": "Magnezone ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -4609,11 +4098,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4626,11 +4111,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/65.png",
@@ -4641,6 +4121,7 @@ let sv1 = [
         "id": "sv1-66",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4683,11 +4164,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4700,11 +4177,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/66.png",
@@ -4715,6 +4187,7 @@ let sv1 = [
         "id": "sv1-67",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4758,11 +4231,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4775,11 +4244,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/67.png",
@@ -4790,6 +4254,7 @@ let sv1 = [
         "id": "sv1-68",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4829,11 +4294,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4846,11 +4307,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/68.png",
@@ -4861,6 +4317,7 @@ let sv1 = [
         "id": "sv1-69",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4892,11 +4349,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4909,11 +4362,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/69.png",
@@ -4924,6 +4372,7 @@ let sv1 = [
         "id": "sv1-70",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -4964,11 +4413,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -4981,11 +4426,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/70.png",
@@ -4996,6 +4436,7 @@ let sv1 = [
         "id": "sv1-71",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5028,11 +4469,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5045,11 +4482,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             848
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/71.png",
@@ -5060,6 +4492,7 @@ let sv1 = [
         "id": "sv1-72",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5104,11 +4537,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5121,11 +4550,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/72.png",
@@ -5136,6 +4560,7 @@ let sv1 = [
         "id": "sv1-73",
         "name": "Pawmi",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5167,11 +4592,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5184,11 +4605,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             921
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/73.png",
@@ -5199,6 +4615,7 @@ let sv1 = [
         "id": "sv1-74",
         "name": "Pawmi",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5240,11 +4657,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5257,11 +4670,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             921
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/74.png",
@@ -5272,6 +4680,7 @@ let sv1 = [
         "id": "sv1-75",
         "name": "Pawmo",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5315,11 +4724,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5332,11 +4737,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             922
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/75.png",
@@ -5347,6 +4747,7 @@ let sv1 = [
         "id": "sv1-76",
         "name": "Pawmot",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5387,11 +4788,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5404,11 +4801,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             922
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/76.png",
@@ -5419,6 +4811,7 @@ let sv1 = [
         "id": "sv1-77",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5466,11 +4859,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5483,11 +4872,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             940
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/77.png",
@@ -5498,6 +4882,7 @@ let sv1 = [
         "id": "sv1-78",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5535,11 +4920,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5552,11 +4933,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             940
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/78.png",
@@ -5567,6 +4943,7 @@ let sv1 = [
         "id": "sv1-79",
         "name": "Kilowattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5617,11 +4994,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5634,11 +5007,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             941
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/79.png",
@@ -5649,6 +5017,7 @@ let sv1 = [
         "id": "sv1-80",
         "name": "Miraidon",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5692,11 +5061,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5709,11 +5074,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/80.png",
@@ -5724,6 +5084,7 @@ let sv1 = [
         "id": "sv1-81",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -5765,11 +5126,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5782,11 +5139,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/81.png",
@@ -5797,6 +5149,7 @@ let sv1 = [
         "id": "sv1-82",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5845,11 +5198,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5862,11 +5211,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/82.png",
@@ -5877,6 +5221,7 @@ let sv1 = [
         "id": "sv1-83",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5926,11 +5271,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -5943,11 +5284,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/83.png",
@@ -5958,6 +5294,7 @@ let sv1 = [
         "id": "sv1-84",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -5996,11 +5333,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6013,11 +5346,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/84.png",
@@ -6028,6 +5356,7 @@ let sv1 = [
         "id": "sv1-85",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6078,11 +5407,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6095,11 +5420,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/85.png",
@@ -6110,6 +5430,7 @@ let sv1 = [
         "id": "sv1-86",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -6158,11 +5479,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6175,11 +5492,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/86.png",
@@ -6190,6 +5502,7 @@ let sv1 = [
         "id": "sv1-87",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6227,11 +5540,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6244,11 +5553,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/87.png",
@@ -6259,6 +5563,7 @@ let sv1 = [
         "id": "sv1-88",
         "name": "Banette ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -6308,11 +5613,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6325,11 +5626,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/88.png",
@@ -6340,6 +5636,7 @@ let sv1 = [
         "id": "sv1-89",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6388,11 +5685,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6405,11 +5698,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/89.png",
@@ -6420,6 +5708,7 @@ let sv1 = [
         "id": "sv1-90",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6470,11 +5759,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6487,11 +5772,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/90.png",
@@ -6502,6 +5782,7 @@ let sv1 = [
         "id": "sv1-91",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6533,11 +5814,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6550,11 +5827,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/91.png",
@@ -6565,6 +5837,7 @@ let sv1 = [
         "id": "sv1-92",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6598,11 +5871,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6615,11 +5884,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/92.png",
@@ -6630,6 +5894,7 @@ let sv1 = [
         "id": "sv1-93",
         "name": "Florges",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -6671,11 +5936,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6688,11 +5949,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             671
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/93.png",
@@ -6703,6 +5959,7 @@ let sv1 = [
         "id": "sv1-94",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6734,11 +5991,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6751,11 +6004,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/94.png",
@@ -6766,6 +6014,7 @@ let sv1 = [
         "id": "sv1-95",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6798,11 +6047,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6815,11 +6060,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/95.png",
@@ -6830,6 +6070,7 @@ let sv1 = [
         "id": "sv1-96",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6868,11 +6109,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6885,11 +6122,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             707
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/96.png",
@@ -6900,6 +6132,7 @@ let sv1 = [
         "id": "sv1-97",
         "name": "Fidough",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -6932,11 +6165,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -6949,11 +6178,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             926
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/97.png",
@@ -6964,6 +6188,7 @@ let sv1 = [
         "id": "sv1-98",
         "name": "Fidough",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7006,11 +6231,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7023,11 +6244,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             926
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/98.png",
@@ -7038,6 +6254,7 @@ let sv1 = [
         "id": "sv1-99",
         "name": "Dachsbun",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7079,11 +6296,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7096,11 +6309,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             927
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/99.png",
@@ -7111,6 +6319,7 @@ let sv1 = [
         "id": "sv1-100",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7147,11 +6356,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7164,11 +6369,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             955
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/100.png",
@@ -7179,6 +6379,7 @@ let sv1 = [
         "id": "sv1-101",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7216,11 +6417,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7233,11 +6430,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             955
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/101.png",
@@ -7248,6 +6440,7 @@ let sv1 = [
         "id": "sv1-102",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7285,11 +6478,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7302,11 +6491,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             955
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/102.png",
@@ -7317,6 +6501,7 @@ let sv1 = [
         "id": "sv1-103",
         "name": "Espathra",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7365,11 +6550,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7382,11 +6563,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             956
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/103.png",
@@ -7397,6 +6573,7 @@ let sv1 = [
         "id": "sv1-104",
         "name": "Greavard",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7434,11 +6611,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7451,11 +6624,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             971
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/104.png",
@@ -7466,6 +6634,7 @@ let sv1 = [
         "id": "sv1-105",
         "name": "Greavard",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7515,11 +6684,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7532,11 +6697,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             971
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/105.png",
@@ -7547,6 +6707,7 @@ let sv1 = [
         "id": "sv1-106",
         "name": "Houndstone",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7586,11 +6747,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7603,11 +6760,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             972
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/106.png",
@@ -7618,6 +6770,7 @@ let sv1 = [
         "id": "sv1-107",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7649,11 +6802,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7666,11 +6815,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/107.png",
@@ -7681,6 +6825,7 @@ let sv1 = [
         "id": "sv1-108",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7713,11 +6858,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7730,11 +6871,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/108.png",
@@ -7745,6 +6881,7 @@ let sv1 = [
         "id": "sv1-109",
         "name": "Annihilape",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -7787,11 +6924,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7804,11 +6937,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             979
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/109.png",
@@ -7819,6 +6947,7 @@ let sv1 = [
         "id": "sv1-110",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7850,11 +6979,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7867,11 +6992,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/110.png",
@@ -7882,6 +7002,7 @@ let sv1 = [
         "id": "sv1-111",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7923,11 +7044,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -7940,11 +7057,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/111.png",
@@ -7955,6 +7067,7 @@ let sv1 = [
         "id": "sv1-112",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -7996,11 +7109,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8013,11 +7122,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/112.png",
@@ -8028,6 +7132,7 @@ let sv1 = [
         "id": "sv1-113",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8069,11 +7174,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8086,11 +7187,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/113.png",
@@ -8101,6 +7197,7 @@ let sv1 = [
         "id": "sv1-114",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -8144,11 +7241,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8161,11 +7254,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/114.png",
@@ -8176,6 +7264,7 @@ let sv1 = [
         "id": "sv1-115",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8217,11 +7306,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8234,11 +7319,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/115.png",
@@ -8249,6 +7329,7 @@ let sv1 = [
         "id": "sv1-116",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -8291,11 +7372,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8308,11 +7385,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/116.png",
@@ -8323,6 +7395,7 @@ let sv1 = [
         "id": "sv1-117",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -8365,11 +7438,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8382,11 +7451,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/117.png",
@@ -8397,6 +7461,7 @@ let sv1 = [
         "id": "sv1-118",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8437,11 +7502,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8454,11 +7515,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/118.png",
@@ -8469,6 +7525,7 @@ let sv1 = [
         "id": "sv1-119",
         "name": "Silicobra",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8501,11 +7558,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8518,11 +7571,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             843
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/119.png",
@@ -8533,6 +7581,7 @@ let sv1 = [
         "id": "sv1-120",
         "name": "Sandaconda",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -8579,11 +7628,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8596,11 +7641,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             844
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/120.png",
@@ -8611,6 +7651,7 @@ let sv1 = [
         "id": "sv1-121",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8651,11 +7692,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8668,11 +7705,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             874
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/121.png",
@@ -8683,6 +7715,7 @@ let sv1 = [
         "id": "sv1-122",
         "name": "Klawf",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8726,11 +7759,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8743,11 +7772,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             950
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/122.png",
@@ -8758,6 +7782,7 @@ let sv1 = [
         "id": "sv1-123",
         "name": "Great Tusk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -8801,11 +7826,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8818,11 +7839,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             984
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/123.png",
@@ -8833,6 +7849,7 @@ let sv1 = [
         "id": "sv1-124",
         "name": "Koraidon",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -8878,11 +7895,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8895,11 +7908,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/124.png",
@@ -8910,6 +7918,7 @@ let sv1 = [
         "id": "sv1-125",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -8951,11 +7960,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -8968,11 +7973,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/125.png",
@@ -8983,6 +7983,7 @@ let sv1 = [
         "id": "sv1-126",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9016,11 +8017,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9033,11 +8030,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/126.png",
@@ -9048,6 +8040,7 @@ let sv1 = [
         "id": "sv1-127",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -9090,11 +8083,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9107,11 +8096,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/127.png",
@@ -9122,6 +8106,7 @@ let sv1 = [
         "id": "sv1-128",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9164,11 +8149,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9181,11 +8162,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/128.png",
@@ -9196,6 +8172,7 @@ let sv1 = [
         "id": "sv1-129",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9237,11 +8214,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9254,11 +8227,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/129.png",
@@ -9269,6 +8237,7 @@ let sv1 = [
         "id": "sv1-130",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9311,11 +8280,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9328,11 +8293,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/130.png",
@@ -9343,6 +8303,7 @@ let sv1 = [
         "id": "sv1-131",
         "name": "Toxicroak ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -9387,11 +8348,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9404,11 +8361,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/131.png",
@@ -9419,6 +8371,7 @@ let sv1 = [
         "id": "sv1-132",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9460,11 +8413,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9477,11 +8426,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/132.png",
@@ -9492,6 +8436,7 @@ let sv1 = [
         "id": "sv1-133",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -9534,11 +8479,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9551,11 +8492,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/133.png",
@@ -9566,6 +8502,7 @@ let sv1 = [
         "id": "sv1-134",
         "name": "Kingambit",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -9607,11 +8544,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9624,11 +8557,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             983
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/134.png",
@@ -9639,6 +8567,7 @@ let sv1 = [
         "id": "sv1-135",
         "name": "Maschiff",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9680,11 +8609,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9697,11 +8622,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             942
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/135.png",
@@ -9712,6 +8632,7 @@ let sv1 = [
         "id": "sv1-136",
         "name": "Maschiff",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9744,11 +8665,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9761,11 +8678,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             942
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/136.png",
@@ -9776,6 +8688,7 @@ let sv1 = [
         "id": "sv1-137",
         "name": "Mabosstiff",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -9817,11 +8730,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9834,11 +8743,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             943
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/137.png",
@@ -9849,6 +8753,7 @@ let sv1 = [
         "id": "sv1-138",
         "name": "Bombirdier",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -9896,11 +8801,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9913,11 +8814,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             962
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/138.png",
@@ -9928,6 +8824,7 @@ let sv1 = [
         "id": "sv1-139",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -9977,11 +8874,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -9994,11 +8887,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/139.png",
@@ -10009,6 +8897,7 @@ let sv1 = [
         "id": "sv1-140",
         "name": "Varoom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10046,11 +8935,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10063,11 +8948,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             965
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/140.png",
@@ -10078,6 +8958,7 @@ let sv1 = [
         "id": "sv1-141",
         "name": "Varoom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10117,11 +8998,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10134,11 +9011,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             965
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/141.png",
@@ -10149,6 +9021,7 @@ let sv1 = [
         "id": "sv1-142",
         "name": "Revavroom",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -10197,11 +9070,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10214,11 +9083,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             966
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/142.png",
@@ -10229,6 +9093,7 @@ let sv1 = [
         "id": "sv1-143",
         "name": "Iron Treads ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -10281,11 +9146,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10298,11 +9159,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             990
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/143.png",
@@ -10313,6 +9169,7 @@ let sv1 = [
         "id": "sv1-144",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10356,11 +9213,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10373,11 +9226,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/144.png",
@@ -10388,6 +9236,7 @@ let sv1 = [
         "id": "sv1-145",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -10429,11 +9278,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10446,11 +9291,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/145.png",
@@ -10461,6 +9301,7 @@ let sv1 = [
         "id": "sv1-146",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10492,11 +9333,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10509,11 +9346,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/146.png",
@@ -10524,6 +9356,7 @@ let sv1 = [
         "id": "sv1-147",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10567,11 +9400,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10584,11 +9413,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/147.png",
@@ -10599,6 +9423,7 @@ let sv1 = [
         "id": "sv1-148",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10636,11 +9461,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10653,11 +9474,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/148.png",
@@ -10668,6 +9484,7 @@ let sv1 = [
         "id": "sv1-149",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -10718,11 +9535,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10735,11 +9548,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/149.png",
@@ -10750,6 +9558,7 @@ let sv1 = [
         "id": "sv1-150",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -10800,11 +9609,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10817,11 +9622,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/150.png",
@@ -10832,6 +9632,7 @@ let sv1 = [
         "id": "sv1-151",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -10871,11 +9672,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10888,11 +9685,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             819
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/151.png",
@@ -10903,6 +9695,7 @@ let sv1 = [
         "id": "sv1-152",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -10947,11 +9740,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -10964,11 +9753,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             820
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/152.png",
@@ -10979,6 +9763,7 @@ let sv1 = [
         "id": "sv1-153",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11020,11 +9805,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11037,11 +9818,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             876
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/153.png",
@@ -11052,6 +9828,7 @@ let sv1 = [
         "id": "sv1-154",
         "name": "Lechonk",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11093,11 +9870,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11110,11 +9883,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             915
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/154.png",
@@ -11125,6 +9893,7 @@ let sv1 = [
         "id": "sv1-155",
         "name": "Lechonk",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11167,11 +9936,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11184,11 +9949,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             915
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/155.png",
@@ -11199,6 +9959,7 @@ let sv1 = [
         "id": "sv1-156",
         "name": "Lechonk",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11232,11 +9993,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11249,11 +10006,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             915
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/156.png",
@@ -11264,6 +10016,7 @@ let sv1 = [
         "id": "sv1-157",
         "name": "Oinkologne",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -11308,11 +10061,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11325,11 +10074,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             916
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/157.png",
@@ -11340,6 +10084,7 @@ let sv1 = [
         "id": "sv1-158",
         "name": "Oinkologne ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -11384,11 +10129,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11401,11 +10142,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             916
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/158.png",
@@ -11416,6 +10152,7 @@ let sv1 = [
         "id": "sv1-159",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11447,11 +10184,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11464,11 +10197,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             924
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/159.png",
@@ -11479,6 +10207,7 @@ let sv1 = [
         "id": "sv1-160",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11511,11 +10240,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11528,11 +10253,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             924
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/160.png",
@@ -11543,6 +10263,7 @@ let sv1 = [
         "id": "sv1-161",
         "name": "Maushold",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -11585,11 +10306,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11602,11 +10319,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             925
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/161.png",
@@ -11617,6 +10329,7 @@ let sv1 = [
         "id": "sv1-162",
         "name": "Squawkabilly",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11664,11 +10377,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11681,11 +10390,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             931
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/162.png",
@@ -11696,6 +10400,7 @@ let sv1 = [
         "id": "sv1-163",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11728,11 +10433,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11745,11 +10446,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             967
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/163.png",
@@ -11760,6 +10456,7 @@ let sv1 = [
         "id": "sv1-164",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11801,11 +10498,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11818,11 +10511,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             967
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/164.png",
@@ -11833,6 +10521,7 @@ let sv1 = [
         "id": "sv1-165",
         "name": "Flamigo",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -11881,11 +10570,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11898,11 +10583,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             973
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/165.png",
@@ -11913,6 +10593,7 @@ let sv1 = [
         "id": "sv1-166",
         "name": "Arven",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -11922,11 +10603,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11936,11 +10613,7 @@ let sv1 = [
         "number": "166",
         "artist": "GIDORA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/166.png",
@@ -11951,6 +10624,7 @@ let sv1 = [
         "id": "sv1-167",
         "name": "Beach Court",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stadium"
         ],
@@ -11960,11 +10634,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -11974,11 +10644,7 @@ let sv1 = [
         "number": "167",
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/167.png",
@@ -11989,6 +10655,7 @@ let sv1 = [
         "id": "sv1-168",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -11998,11 +10665,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12012,11 +10675,7 @@ let sv1 = [
         "number": "168",
         "artist": "Ayaka Yoshida",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/168.png",
@@ -12027,6 +10686,7 @@ let sv1 = [
         "id": "sv1-169",
         "name": "Defiance Band",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12036,11 +10696,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12050,11 +10706,7 @@ let sv1 = [
         "number": "169",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/169.png",
@@ -12065,6 +10717,7 @@ let sv1 = [
         "id": "sv1-170",
         "name": "Electric Generator",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12074,11 +10727,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12088,11 +10737,7 @@ let sv1 = [
         "number": "170",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/170.png",
@@ -12103,6 +10748,7 @@ let sv1 = [
         "id": "sv1-171",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12112,11 +10758,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12126,11 +10768,7 @@ let sv1 = [
         "number": "171",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/171.png",
@@ -12141,6 +10779,7 @@ let sv1 = [
         "id": "sv1-172",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12150,11 +10789,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12164,11 +10799,7 @@ let sv1 = [
         "number": "172",
         "artist": "Toyste Beach",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/172.png",
@@ -12179,6 +10810,7 @@ let sv1 = [
         "id": "sv1-173",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12188,11 +10820,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12202,11 +10830,7 @@ let sv1 = [
         "number": "173",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/173.png",
@@ -12217,6 +10841,7 @@ let sv1 = [
         "id": "sv1-174",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12226,11 +10851,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12240,11 +10861,7 @@ let sv1 = [
         "number": "174",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/174.png",
@@ -12255,6 +10872,7 @@ let sv1 = [
         "id": "sv1-175",
         "name": "Jacq",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12264,11 +10882,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12278,11 +10892,7 @@ let sv1 = [
         "number": "175",
         "artist": "GIDORA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/175.png",
@@ -12293,6 +10903,7 @@ let sv1 = [
         "id": "sv1-176",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12302,11 +10913,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12316,11 +10923,7 @@ let sv1 = [
         "number": "176",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/176.png",
@@ -12331,6 +10934,7 @@ let sv1 = [
         "id": "sv1-177",
         "name": "Katy",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12340,11 +10944,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12354,11 +10954,7 @@ let sv1 = [
         "number": "177",
         "artist": "Akira Komayama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/177.png",
@@ -12369,6 +10965,7 @@ let sv1 = [
         "id": "sv1-178",
         "name": "Mesagoza",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stadium"
         ],
@@ -12378,11 +10975,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12392,11 +10985,7 @@ let sv1 = [
         "number": "178",
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/178.png",
@@ -12407,6 +10996,7 @@ let sv1 = [
         "id": "sv1-179",
         "name": "Miriam",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12416,11 +11006,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12430,11 +11016,7 @@ let sv1 = [
         "number": "179",
         "artist": "Sanosuke Sakuma",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/179.png",
@@ -12445,6 +11027,7 @@ let sv1 = [
         "id": "sv1-180",
         "name": "Nemona",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12454,11 +11037,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12468,11 +11047,7 @@ let sv1 = [
         "number": "180",
         "artist": "Sanosuke Sakuma",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/180.png",
@@ -12483,6 +11058,7 @@ let sv1 = [
         "id": "sv1-181",
         "name": "Nest Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12492,11 +11068,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12506,11 +11078,7 @@ let sv1 = [
         "number": "181",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/181.png",
@@ -12521,6 +11089,7 @@ let sv1 = [
         "id": "sv1-182",
         "name": "Pal Pad",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12530,11 +11099,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12544,11 +11109,7 @@ let sv1 = [
         "number": "182",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/182.png",
@@ -12559,6 +11120,7 @@ let sv1 = [
         "id": "sv1-183",
         "name": "Penny",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12568,11 +11130,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12582,11 +11140,7 @@ let sv1 = [
         "number": "183",
         "artist": "yuu",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/183.png",
@@ -12597,6 +11151,7 @@ let sv1 = [
         "id": "sv1-184",
         "name": "Picnic Basket",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12606,11 +11161,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12620,11 +11171,7 @@ let sv1 = [
         "number": "184",
         "artist": "OKACHEKE",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/184.png",
@@ -12635,6 +11182,7 @@ let sv1 = [
         "id": "sv1-185",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12644,11 +11192,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12658,11 +11202,7 @@ let sv1 = [
         "number": "185",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/185.png",
@@ -12673,6 +11213,7 @@ let sv1 = [
         "id": "sv1-186",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12682,11 +11223,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12696,11 +11233,7 @@ let sv1 = [
         "number": "186",
         "artist": "Toyste Beach",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/186.png",
@@ -12711,6 +11244,7 @@ let sv1 = [
         "id": "sv1-187",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12720,11 +11254,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12734,11 +11264,7 @@ let sv1 = [
         "number": "187",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/187.png",
@@ -12749,6 +11275,7 @@ let sv1 = [
         "id": "sv1-188",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12758,11 +11285,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12772,11 +11295,7 @@ let sv1 = [
         "number": "188",
         "artist": "Ayaka Yoshida",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/188.png",
@@ -12787,6 +11306,7 @@ let sv1 = [
         "id": "sv1-189",
         "name": "Professor’s Research (Professor Sada)",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12796,11 +11316,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12810,11 +11326,7 @@ let sv1 = [
         "number": "189",
         "artist": "kirisAki",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/189.png",
@@ -12825,6 +11337,7 @@ let sv1 = [
         "id": "sv1-190",
         "name": "Professor’s Research (Professor Turo)",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -12834,11 +11347,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12848,11 +11357,7 @@ let sv1 = [
         "number": "190",
         "artist": "kirisAki",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/190.png",
@@ -12863,6 +11368,7 @@ let sv1 = [
         "id": "sv1-191",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12872,11 +11378,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12886,11 +11388,7 @@ let sv1 = [
         "number": "191",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/191.png",
@@ -12901,6 +11399,7 @@ let sv1 = [
         "id": "sv1-192",
         "name": "Rock Chestplate",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12910,11 +11409,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12924,11 +11419,7 @@ let sv1 = [
         "number": "192",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/192.png",
@@ -12939,6 +11430,7 @@ let sv1 = [
         "id": "sv1-193",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12948,11 +11440,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -12962,11 +11450,7 @@ let sv1 = [
         "number": "193",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/193.png",
@@ -12977,6 +11461,7 @@ let sv1 = [
         "id": "sv1-194",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -12986,11 +11471,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13000,11 +11481,7 @@ let sv1 = [
         "number": "194",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/194.png",
@@ -13015,6 +11492,7 @@ let sv1 = [
         "id": "sv1-195",
         "name": "Team Star Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -13024,11 +11502,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13038,11 +11512,7 @@ let sv1 = [
         "number": "195",
         "artist": "nagimiso",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/195.png",
@@ -13053,6 +11523,7 @@ let sv1 = [
         "id": "sv1-196",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -13062,11 +11533,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13076,11 +11543,7 @@ let sv1 = [
         "number": "196",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/196.png",
@@ -13091,6 +11554,7 @@ let sv1 = [
         "id": "sv1-197",
         "name": "Vitality Band",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13100,11 +11564,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13114,11 +11574,7 @@ let sv1 = [
         "number": "197",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/197.png",
@@ -13129,6 +11585,7 @@ let sv1 = [
         "id": "sv1-198",
         "name": "Youngster",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -13138,11 +11595,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13152,11 +11605,7 @@ let sv1 = [
         "number": "198",
         "artist": "Hitoshi Ariga",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/198.png",
@@ -13167,6 +11616,7 @@ let sv1 = [
         "id": "sv1-199",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13199,11 +11649,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13216,11 +11662,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             917
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/199.png",
@@ -13231,6 +11672,7 @@ let sv1 = [
         "id": "sv1-200",
         "name": "Dolliv",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -13273,11 +11715,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13290,11 +11728,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             929
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/200.png",
@@ -13305,6 +11738,7 @@ let sv1 = [
         "id": "sv1-201",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13336,11 +11770,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13353,11 +11783,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             948
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/201.png",
@@ -13368,6 +11793,7 @@ let sv1 = [
         "id": "sv1-202",
         "name": "Scovillain",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -13411,11 +11837,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13428,11 +11850,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             952
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/202.png",
@@ -13443,6 +11860,7 @@ let sv1 = [
         "id": "sv1-203",
         "name": "Armarouge",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -13484,11 +11902,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13501,11 +11915,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             936
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/203.png",
@@ -13516,6 +11925,7 @@ let sv1 = [
         "id": "sv1-204",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13557,11 +11967,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13574,11 +11980,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/204.png",
@@ -13589,6 +11990,7 @@ let sv1 = [
         "id": "sv1-205",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13620,11 +12022,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13637,11 +12035,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/205.png",
@@ -13652,6 +12045,7 @@ let sv1 = [
         "id": "sv1-206",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13683,11 +12077,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13700,11 +12090,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             960
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/206.png",
@@ -13715,6 +12100,7 @@ let sv1 = [
         "id": "sv1-207",
         "name": "Dondozo",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13759,11 +12145,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13776,11 +12158,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             977
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/207.png",
@@ -13791,6 +12168,7 @@ let sv1 = [
         "id": "sv1-208",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13830,11 +12208,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13847,11 +12221,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/208.png",
@@ -13862,6 +12231,7 @@ let sv1 = [
         "id": "sv1-209",
         "name": "Pawmot",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -13902,11 +12272,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13919,11 +12285,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             922
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/209.png",
@@ -13934,6 +12295,7 @@ let sv1 = [
         "id": "sv1-210",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -13982,11 +12344,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -13999,11 +12357,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/210.png",
@@ -14014,6 +12367,7 @@ let sv1 = [
         "id": "sv1-211",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14052,11 +12406,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14069,11 +12419,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/211.png",
@@ -14084,6 +12429,7 @@ let sv1 = [
         "id": "sv1-212",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -14134,11 +12480,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14151,11 +12493,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/212.png",
@@ -14166,6 +12503,7 @@ let sv1 = [
         "id": "sv1-213",
         "name": "Fidough",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14208,11 +12546,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14225,11 +12559,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             926
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/213.png",
@@ -14240,6 +12569,7 @@ let sv1 = [
         "id": "sv1-214",
         "name": "Greavard",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14277,11 +12607,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14294,11 +12620,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             971
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/214.png",
@@ -14309,6 +12630,7 @@ let sv1 = [
         "id": "sv1-215",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14350,11 +12672,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14367,11 +12685,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/215.png",
@@ -14382,6 +12695,7 @@ let sv1 = [
         "id": "sv1-216",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14423,11 +12737,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14440,11 +12750,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/216.png",
@@ -14455,6 +12760,7 @@ let sv1 = [
         "id": "sv1-217",
         "name": "Klawf",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14498,11 +12804,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14515,11 +12817,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             950
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/217.png",
@@ -14530,6 +12827,7 @@ let sv1 = [
         "id": "sv1-218",
         "name": "Mabosstiff",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -14571,11 +12869,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14588,11 +12882,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             943
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/218.png",
@@ -14603,6 +12892,7 @@ let sv1 = [
         "id": "sv1-219",
         "name": "Bombirdier",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14650,11 +12940,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14667,11 +12953,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             962
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/219.png",
@@ -14682,6 +12963,7 @@ let sv1 = [
         "id": "sv1-220",
         "name": "Kingambit",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -14723,11 +13005,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14740,11 +13018,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             983
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/220.png",
@@ -14755,6 +13028,7 @@ let sv1 = [
         "id": "sv1-221",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14792,11 +13066,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14809,11 +13079,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/221.png",
@@ -14824,6 +13089,7 @@ let sv1 = [
         "id": "sv1-222",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -14863,11 +13129,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14880,11 +13142,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             819
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/222.png",
@@ -14895,6 +13152,7 @@ let sv1 = [
         "id": "sv1-223",
         "name": "Spidops ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -14936,11 +13194,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -14953,11 +13207,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             918
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/223.png",
@@ -14968,6 +13217,7 @@ let sv1 = [
         "id": "sv1-224",
         "name": "Arcanine ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Tera ex"
         ],
@@ -15012,11 +13262,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15029,11 +13275,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/224.png",
@@ -15044,6 +13285,7 @@ let sv1 = [
         "id": "sv1-225",
         "name": "Gyarados ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Tera ex"
         ],
@@ -15091,11 +13333,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15108,11 +13346,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/225.png",
@@ -15123,6 +13356,7 @@ let sv1 = [
         "id": "sv1-226",
         "name": "Magnezone ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15166,11 +13400,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15183,11 +13413,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/226.png",
@@ -15198,6 +13423,7 @@ let sv1 = [
         "id": "sv1-227",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15239,11 +13465,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15256,11 +13478,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/227.png",
@@ -15271,6 +13488,7 @@ let sv1 = [
         "id": "sv1-228",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15319,11 +13537,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15336,11 +13550,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/228.png",
@@ -15351,6 +13560,7 @@ let sv1 = [
         "id": "sv1-229",
         "name": "Banette ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15400,11 +13610,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15417,11 +13623,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/229.png",
@@ -15432,6 +13633,7 @@ let sv1 = [
         "id": "sv1-230",
         "name": "Great Tusk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15475,11 +13677,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15492,11 +13690,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             984
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/230.png",
@@ -15507,6 +13700,7 @@ let sv1 = [
         "id": "sv1-231",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15548,11 +13742,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15565,11 +13755,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/231.png",
@@ -15580,6 +13765,7 @@ let sv1 = [
         "id": "sv1-232",
         "name": "Toxicroak ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15624,11 +13810,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15641,11 +13823,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/232.png",
@@ -15656,6 +13833,7 @@ let sv1 = [
         "id": "sv1-233",
         "name": "Iron Treads ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15708,11 +13886,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15725,11 +13899,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             990
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/233.png",
@@ -15740,6 +13909,7 @@ let sv1 = [
         "id": "sv1-234",
         "name": "Oinkologne ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -15784,11 +13954,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15801,11 +13967,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             916
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/234.png",
@@ -15816,6 +13977,7 @@ let sv1 = [
         "id": "sv1-235",
         "name": "Arven",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -15825,11 +13987,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15839,11 +13997,7 @@ let sv1 = [
         "number": "235",
         "artist": "GIDORA",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/235.png",
@@ -15854,6 +14008,7 @@ let sv1 = [
         "id": "sv1-236",
         "name": "Jacq",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -15863,11 +14018,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15877,11 +14028,7 @@ let sv1 = [
         "number": "236",
         "artist": "GIDORA",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/236.png",
@@ -15892,6 +14039,7 @@ let sv1 = [
         "id": "sv1-237",
         "name": "Katy",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -15901,11 +14049,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15915,11 +14059,7 @@ let sv1 = [
         "number": "237",
         "artist": "Akira Komayama",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/237.png",
@@ -15930,6 +14070,7 @@ let sv1 = [
         "id": "sv1-238",
         "name": "Miriam",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -15939,11 +14080,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15953,11 +14090,7 @@ let sv1 = [
         "number": "238",
         "artist": "Sanosuke Sakuma",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/238.png",
@@ -15968,6 +14101,7 @@ let sv1 = [
         "id": "sv1-239",
         "name": "Penny",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -15977,11 +14111,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -15991,11 +14121,7 @@ let sv1 = [
         "number": "239",
         "artist": "yuu",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/239.png",
@@ -16006,6 +14132,7 @@ let sv1 = [
         "id": "sv1-240",
         "name": "Professor’s Research (Professor Sada)",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16015,11 +14142,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16029,11 +14152,7 @@ let sv1 = [
         "number": "240",
         "artist": "kirisAki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/240.png",
@@ -16044,6 +14163,7 @@ let sv1 = [
         "id": "sv1-241",
         "name": "Professor’s Research (Professor Turo)",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16053,11 +14173,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16067,11 +14183,7 @@ let sv1 = [
         "number": "241",
         "artist": "kirisAki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/241.png",
@@ -16082,6 +14194,7 @@ let sv1 = [
         "id": "sv1-242",
         "name": "Team Star Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16091,11 +14204,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16105,11 +14214,7 @@ let sv1 = [
         "number": "242",
         "artist": "nagimiso",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/242.png",
@@ -16120,6 +14225,7 @@ let sv1 = [
         "id": "sv1-243",
         "name": "Spidops ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16161,11 +14267,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16178,11 +14280,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             918
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/243.png",
@@ -16193,6 +14290,7 @@ let sv1 = [
         "id": "sv1-244",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16234,11 +14332,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16251,11 +14345,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/244.png",
@@ -16266,6 +14355,7 @@ let sv1 = [
         "id": "sv1-245",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16314,11 +14404,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16331,11 +14417,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/245.png",
@@ -16346,6 +14427,7 @@ let sv1 = [
         "id": "sv1-246",
         "name": "Great Tusk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16389,11 +14471,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16406,11 +14484,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             984
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/246.png",
@@ -16421,6 +14494,7 @@ let sv1 = [
         "id": "sv1-247",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16462,11 +14536,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16479,11 +14549,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/247.png",
@@ -16494,6 +14559,7 @@ let sv1 = [
         "id": "sv1-248",
         "name": "Iron Treads ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16546,11 +14612,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16563,11 +14625,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             990
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/248.png",
@@ -16578,6 +14635,7 @@ let sv1 = [
         "id": "sv1-249",
         "name": "Arven",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16587,11 +14645,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16601,11 +14655,7 @@ let sv1 = [
         "number": "249",
         "artist": "kantaro",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/249.png",
@@ -16616,6 +14666,7 @@ let sv1 = [
         "id": "sv1-250",
         "name": "Jacq",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16625,11 +14676,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 252,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16639,11 +14686,7 @@ let sv1 = [
         "number": "250",
         "artist": "Oswaldo KATO",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/250.png",
@@ -16654,6 +14697,7 @@ let sv1 = [
         "id": "sv1-251",
         "name": "Miriam",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16667,11 +14711,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16681,11 +14721,7 @@ let sv1 = [
         "number": "251",
         "artist": "Akira Komayama",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/251.png",
@@ -16696,6 +14732,7 @@ let sv1 = [
         "id": "sv1-252",
         "name": "Penny",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Supporter"
         ],
@@ -16709,11 +14746,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16723,11 +14756,7 @@ let sv1 = [
         "number": "252",
         "artist": "OKACHEKE",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/252.png",
@@ -16738,6 +14767,7 @@ let sv1 = [
         "id": "sv1-253",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16779,11 +14809,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16795,11 +14821,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/253.png",
@@ -16810,6 +14831,7 @@ let sv1 = [
         "id": "sv1-254",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic",
             "ex"
@@ -16851,11 +14873,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16867,11 +14885,6 @@ let sv1 = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/254.png",
@@ -16882,6 +14895,7 @@ let sv1 = [
         "id": "sv1-255",
         "name": "Nest Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -16895,11 +14909,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16908,11 +14918,7 @@ let sv1 = [
         },
         "number": "255",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/255.png",
@@ -16923,6 +14929,7 @@ let sv1 = [
         "id": "sv1-256",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Item"
         ],
@@ -16936,11 +14943,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16949,11 +14952,7 @@ let sv1 = [
         },
         "number": "256",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/256.png",
@@ -16964,6 +14963,7 @@ let sv1 = [
         "id": "sv1-257",
         "name": "Basic Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -16973,11 +14973,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -16986,11 +14982,7 @@ let sv1 = [
         },
         "number": "257",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/257.png",
@@ -17001,6 +14993,7 @@ let sv1 = [
         "id": "sv1-258",
         "name": "Basic Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVI",
         "subtypes": [
             "Basic"
         ],
@@ -17010,11 +15003,7 @@ let sv1 = [
             "series": "Scarlet & Violet",
             "printedTotal": 198,
             "total": 258,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/03/31",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
@@ -17023,15 +15012,11 @@ let sv1 = [
         },
         "number": "258",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/sv1/258.png",
             "large": "https://images.pokemontcg.io/sv1/258_hires.png"
         }
-    }
+    },
 ]

@@ -1,8 +1,9 @@
-let crystalGuardians = [
+let ex14 = [
     {
         "id": "ex14-1",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -49,9 +50,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -65,9 +64,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/1.png",
             "large": "https://images.pokemontcg.io/ex14/1_hires.png"
@@ -77,6 +74,7 @@ let crystalGuardians = [
         "id": "ex14-2",
         "name": "Blastoise δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -132,9 +130,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -148,9 +144,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/2.png",
             "large": "https://images.pokemontcg.io/ex14/2_hires.png"
@@ -160,6 +154,7 @@ let crystalGuardians = [
         "id": "ex14-3",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -211,9 +206,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -227,9 +220,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/3.png",
             "large": "https://images.pokemontcg.io/ex14/3_hires.png"
@@ -239,6 +230,7 @@ let crystalGuardians = [
         "id": "ex14-4",
         "name": "Charizard δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -285,9 +277,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -301,9 +291,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/4.png",
             "large": "https://images.pokemontcg.io/ex14/4_hires.png"
@@ -313,6 +301,7 @@ let crystalGuardians = [
         "id": "ex14-5",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -364,9 +353,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -380,9 +367,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/5.png",
             "large": "https://images.pokemontcg.io/ex14/5_hires.png"
@@ -392,6 +377,7 @@ let crystalGuardians = [
         "id": "ex14-6",
         "name": "Ludicolo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -443,9 +429,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -459,9 +443,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/6.png",
             "large": "https://images.pokemontcg.io/ex14/6_hires.png"
@@ -471,6 +453,7 @@ let crystalGuardians = [
         "id": "ex14-7",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -511,9 +494,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -527,9 +508,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/7.png",
             "large": "https://images.pokemontcg.io/ex14/7_hires.png"
@@ -539,6 +518,7 @@ let crystalGuardians = [
         "id": "ex14-8",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -589,9 +569,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -605,9 +583,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/8.png",
             "large": "https://images.pokemontcg.io/ex14/8_hires.png"
@@ -617,6 +593,7 @@ let crystalGuardians = [
         "id": "ex14-9",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -664,9 +641,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -680,9 +655,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/9.png",
             "large": "https://images.pokemontcg.io/ex14/9_hires.png"
@@ -692,6 +665,7 @@ let crystalGuardians = [
         "id": "ex14-10",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -730,9 +704,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -746,9 +718,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/10.png",
             "large": "https://images.pokemontcg.io/ex14/10_hires.png"
@@ -758,6 +728,7 @@ let crystalGuardians = [
         "id": "ex14-11",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -802,9 +773,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -818,9 +787,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/11.png",
             "large": "https://images.pokemontcg.io/ex14/11_hires.png"
@@ -830,6 +797,7 @@ let crystalGuardians = [
         "id": "ex14-12",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -878,9 +846,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -894,9 +860,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/12.png",
             "large": "https://images.pokemontcg.io/ex14/12_hires.png"
@@ -906,6 +870,7 @@ let crystalGuardians = [
         "id": "ex14-13",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -955,9 +920,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -971,9 +934,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/13.png",
             "large": "https://images.pokemontcg.io/ex14/13_hires.png"
@@ -983,6 +944,7 @@ let crystalGuardians = [
         "id": "ex14-14",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1024,9 +986,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1040,9 +1000,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/14.png",
             "large": "https://images.pokemontcg.io/ex14/14_hires.png"
@@ -1052,6 +1010,7 @@ let crystalGuardians = [
         "id": "ex14-15",
         "name": "Cacturne δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1102,9 +1061,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1118,9 +1075,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/15.png",
             "large": "https://images.pokemontcg.io/ex14/15_hires.png"
@@ -1130,6 +1085,7 @@ let crystalGuardians = [
         "id": "ex14-16",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1175,9 +1131,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1191,9 +1145,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/16.png",
             "large": "https://images.pokemontcg.io/ex14/16_hires.png"
@@ -1203,6 +1155,7 @@ let crystalGuardians = [
         "id": "ex14-17",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1263,9 +1216,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1279,9 +1230,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/17.png",
             "large": "https://images.pokemontcg.io/ex14/17_hires.png"
@@ -1291,6 +1240,7 @@ let crystalGuardians = [
         "id": "ex14-18",
         "name": "Fearow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1337,9 +1287,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1353,9 +1301,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/18.png",
             "large": "https://images.pokemontcg.io/ex14/18_hires.png"
@@ -1365,6 +1311,7 @@ let crystalGuardians = [
         "id": "ex14-19",
         "name": "Grovyle δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1418,9 +1365,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1434,9 +1379,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/19.png",
             "large": "https://images.pokemontcg.io/ex14/19_hires.png"
@@ -1446,6 +1389,7 @@ let crystalGuardians = [
         "id": "ex14-20",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1487,9 +1431,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1503,9 +1445,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/20.png",
             "large": "https://images.pokemontcg.io/ex14/20_hires.png"
@@ -1515,6 +1455,7 @@ let crystalGuardians = [
         "id": "ex14-21",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -1545,9 +1486,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1561,9 +1500,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/21.png",
             "large": "https://images.pokemontcg.io/ex14/21_hires.png"
@@ -1573,6 +1510,7 @@ let crystalGuardians = [
         "id": "ex14-22",
         "name": "Kingler δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1621,9 +1559,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1637,9 +1573,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/22.png",
             "large": "https://images.pokemontcg.io/ex14/22_hires.png"
@@ -1649,6 +1583,7 @@ let crystalGuardians = [
         "id": "ex14-23",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1696,9 +1631,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1712,9 +1645,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/23.png",
             "large": "https://images.pokemontcg.io/ex14/23_hires.png"
@@ -1724,6 +1655,7 @@ let crystalGuardians = [
         "id": "ex14-24",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1770,9 +1702,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1786,9 +1716,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/24.png",
             "large": "https://images.pokemontcg.io/ex14/24_hires.png"
@@ -1798,6 +1726,7 @@ let crystalGuardians = [
         "id": "ex14-25",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1849,9 +1778,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1865,9 +1792,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/25.png",
             "large": "https://images.pokemontcg.io/ex14/25_hires.png"
@@ -1877,6 +1802,7 @@ let crystalGuardians = [
         "id": "ex14-26",
         "name": "Pelipper δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1934,9 +1860,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1950,9 +1874,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/26.png",
             "large": "https://images.pokemontcg.io/ex14/26_hires.png"
@@ -1962,6 +1884,7 @@ let crystalGuardians = [
         "id": "ex14-27",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -2003,9 +1926,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2019,9 +1940,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/27.png",
             "large": "https://images.pokemontcg.io/ex14/27_hires.png"
@@ -2031,6 +1950,7 @@ let crystalGuardians = [
         "id": "ex14-28",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -2082,9 +2002,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2098,9 +2016,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/28.png",
             "large": "https://images.pokemontcg.io/ex14/28_hires.png"
@@ -2110,6 +2026,7 @@ let crystalGuardians = [
         "id": "ex14-29",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2157,9 +2074,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2173,9 +2088,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/29.png",
             "large": "https://images.pokemontcg.io/ex14/29_hires.png"
@@ -2185,6 +2098,7 @@ let crystalGuardians = [
         "id": "ex14-30",
         "name": "Charmeleon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2232,9 +2146,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2248,9 +2160,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/30.png",
             "large": "https://images.pokemontcg.io/ex14/30_hires.png"
@@ -2260,6 +2170,7 @@ let crystalGuardians = [
         "id": "ex14-31",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2307,9 +2218,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2323,9 +2232,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/31.png",
             "large": "https://images.pokemontcg.io/ex14/31_hires.png"
@@ -2335,6 +2242,7 @@ let crystalGuardians = [
         "id": "ex14-32",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2387,9 +2295,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2403,9 +2309,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/32.png",
             "large": "https://images.pokemontcg.io/ex14/32_hires.png"
@@ -2415,6 +2319,7 @@ let crystalGuardians = [
         "id": "ex14-33",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -2460,9 +2365,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2476,9 +2379,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/33.png",
             "large": "https://images.pokemontcg.io/ex14/33_hires.png"
@@ -2488,6 +2389,7 @@ let crystalGuardians = [
         "id": "ex14-34",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2535,9 +2437,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2551,9 +2451,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/34.png",
             "large": "https://images.pokemontcg.io/ex14/34_hires.png"
@@ -2563,6 +2461,7 @@ let crystalGuardians = [
         "id": "ex14-35",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2610,9 +2509,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2626,9 +2523,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/35.png",
             "large": "https://images.pokemontcg.io/ex14/35_hires.png"
@@ -2638,6 +2533,7 @@ let crystalGuardians = [
         "id": "ex14-36",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2690,9 +2586,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2706,9 +2600,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/36.png",
             "large": "https://images.pokemontcg.io/ex14/36_hires.png"
@@ -2718,6 +2610,7 @@ let crystalGuardians = [
         "id": "ex14-37",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2765,9 +2658,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2781,9 +2672,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/37.png",
             "large": "https://images.pokemontcg.io/ex14/37_hires.png"
@@ -2793,6 +2682,7 @@ let crystalGuardians = [
         "id": "ex14-38",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2840,9 +2730,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2856,9 +2744,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/38.png",
             "large": "https://images.pokemontcg.io/ex14/38_hires.png"
@@ -2868,6 +2754,7 @@ let crystalGuardians = [
         "id": "ex14-39",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2920,9 +2807,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2936,9 +2821,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/39.png",
             "large": "https://images.pokemontcg.io/ex14/39_hires.png"
@@ -2948,6 +2831,7 @@ let crystalGuardians = [
         "id": "ex14-40",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -2998,9 +2882,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3014,9 +2896,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/40.png",
             "large": "https://images.pokemontcg.io/ex14/40_hires.png"
@@ -3026,6 +2906,7 @@ let crystalGuardians = [
         "id": "ex14-41",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3070,9 +2951,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3086,9 +2965,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/41.png",
             "large": "https://images.pokemontcg.io/ex14/41_hires.png"
@@ -3098,6 +2975,7 @@ let crystalGuardians = [
         "id": "ex14-42",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3145,9 +3023,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3161,9 +3037,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/42.png",
             "large": "https://images.pokemontcg.io/ex14/42_hires.png"
@@ -3173,6 +3047,7 @@ let crystalGuardians = [
         "id": "ex14-43",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3219,9 +3094,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3235,9 +3108,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/43.png",
             "large": "https://images.pokemontcg.io/ex14/43_hires.png"
@@ -3247,6 +3118,7 @@ let crystalGuardians = [
         "id": "ex14-44",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3287,9 +3159,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3303,9 +3173,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/44.png",
             "large": "https://images.pokemontcg.io/ex14/44_hires.png"
@@ -3315,6 +3183,7 @@ let crystalGuardians = [
         "id": "ex14-45",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3358,9 +3227,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3374,9 +3241,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/45.png",
             "large": "https://images.pokemontcg.io/ex14/45_hires.png"
@@ -3386,6 +3251,7 @@ let crystalGuardians = [
         "id": "ex14-46",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3430,9 +3296,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3446,9 +3310,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/46.png",
             "large": "https://images.pokemontcg.io/ex14/46_hires.png"
@@ -3458,6 +3320,7 @@ let crystalGuardians = [
         "id": "ex14-47",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3502,9 +3365,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3518,9 +3379,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/47.png",
             "large": "https://images.pokemontcg.io/ex14/47_hires.png"
@@ -3530,6 +3389,7 @@ let crystalGuardians = [
         "id": "ex14-48",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3574,9 +3434,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3590,9 +3448,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/48.png",
             "large": "https://images.pokemontcg.io/ex14/48_hires.png"
@@ -3602,6 +3458,7 @@ let crystalGuardians = [
         "id": "ex14-49",
         "name": "Charmander δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3646,9 +3503,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3662,9 +3517,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/49.png",
             "large": "https://images.pokemontcg.io/ex14/49_hires.png"
@@ -3674,6 +3527,7 @@ let crystalGuardians = [
         "id": "ex14-50",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3718,9 +3572,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3734,9 +3586,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/50.png",
             "large": "https://images.pokemontcg.io/ex14/50_hires.png"
@@ -3746,6 +3596,7 @@ let crystalGuardians = [
         "id": "ex14-51",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3795,9 +3646,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3811,9 +3660,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/51.png",
             "large": "https://images.pokemontcg.io/ex14/51_hires.png"
@@ -3823,6 +3670,7 @@ let crystalGuardians = [
         "id": "ex14-52",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3872,9 +3720,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3888,9 +3734,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/52.png",
             "large": "https://images.pokemontcg.io/ex14/52_hires.png"
@@ -3900,6 +3744,7 @@ let crystalGuardians = [
         "id": "ex14-53",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3934,9 +3779,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3950,9 +3793,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/53.png",
             "large": "https://images.pokemontcg.io/ex14/53_hires.png"
@@ -3962,6 +3803,7 @@ let crystalGuardians = [
         "id": "ex14-54",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3996,9 +3838,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4012,9 +3852,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/54.png",
             "large": "https://images.pokemontcg.io/ex14/54_hires.png"
@@ -4024,6 +3862,7 @@ let crystalGuardians = [
         "id": "ex14-55",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4066,9 +3905,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4082,9 +3919,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/55.png",
             "large": "https://images.pokemontcg.io/ex14/55_hires.png"
@@ -4094,6 +3929,7 @@ let crystalGuardians = [
         "id": "ex14-56",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4138,9 +3974,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4154,9 +3988,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/56.png",
             "large": "https://images.pokemontcg.io/ex14/56_hires.png"
@@ -4166,6 +3998,7 @@ let crystalGuardians = [
         "id": "ex14-57",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4207,9 +4040,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4223,9 +4054,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/57.png",
             "large": "https://images.pokemontcg.io/ex14/57_hires.png"
@@ -4235,6 +4064,7 @@ let crystalGuardians = [
         "id": "ex14-58",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4279,9 +4109,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4295,9 +4123,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/58.png",
             "large": "https://images.pokemontcg.io/ex14/58_hires.png"
@@ -4307,6 +4133,7 @@ let crystalGuardians = [
         "id": "ex14-59",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4342,9 +4169,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4358,9 +4183,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/59.png",
             "large": "https://images.pokemontcg.io/ex14/59_hires.png"
@@ -4370,6 +4193,7 @@ let crystalGuardians = [
         "id": "ex14-60",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4404,9 +4228,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4420,9 +4242,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/60.png",
             "large": "https://images.pokemontcg.io/ex14/60_hires.png"
@@ -4432,6 +4252,7 @@ let crystalGuardians = [
         "id": "ex14-61",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4472,9 +4293,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4488,9 +4307,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/61.png",
             "large": "https://images.pokemontcg.io/ex14/61_hires.png"
@@ -4500,6 +4317,7 @@ let crystalGuardians = [
         "id": "ex14-62",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4544,9 +4362,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4560,9 +4376,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/62.png",
             "large": "https://images.pokemontcg.io/ex14/62_hires.png"
@@ -4572,6 +4386,7 @@ let crystalGuardians = [
         "id": "ex14-63",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4617,9 +4432,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4633,9 +4446,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/63.png",
             "large": "https://images.pokemontcg.io/ex14/63_hires.png"
@@ -4645,6 +4456,7 @@ let crystalGuardians = [
         "id": "ex14-64",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4686,9 +4498,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4702,9 +4512,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/64.png",
             "large": "https://images.pokemontcg.io/ex14/64_hires.png"
@@ -4714,6 +4522,7 @@ let crystalGuardians = [
         "id": "ex14-65",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4748,9 +4557,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4764,9 +4571,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/65.png",
             "large": "https://images.pokemontcg.io/ex14/65_hires.png"
@@ -4776,6 +4581,7 @@ let crystalGuardians = [
         "id": "ex14-66",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4810,9 +4616,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4826,9 +4630,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/66.png",
             "large": "https://images.pokemontcg.io/ex14/66_hires.png"
@@ -4838,6 +4640,7 @@ let crystalGuardians = [
         "id": "ex14-67",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4888,9 +4691,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4904,9 +4705,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/67.png",
             "large": "https://images.pokemontcg.io/ex14/67_hires.png"
@@ -4916,6 +4715,7 @@ let crystalGuardians = [
         "id": "ex14-68",
         "name": "Treecko δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4965,9 +4765,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4981,9 +4779,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/68.png",
             "large": "https://images.pokemontcg.io/ex14/68_hires.png"
@@ -4993,6 +4789,7 @@ let crystalGuardians = [
         "id": "ex14-69",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -5038,9 +4835,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5054,9 +4849,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/69.png",
             "large": "https://images.pokemontcg.io/ex14/69_hires.png"
@@ -5066,6 +4859,7 @@ let crystalGuardians = [
         "id": "ex14-70",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -5106,9 +4900,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5122,9 +4914,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/70.png",
             "large": "https://images.pokemontcg.io/ex14/70_hires.png"
@@ -5134,6 +4924,7 @@ let crystalGuardians = [
         "id": "ex14-71",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -5147,9 +4938,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5160,10 +4949,7 @@ let crystalGuardians = [
         "number": "71",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/71.png",
             "large": "https://images.pokemontcg.io/ex14/71_hires.png"
@@ -5173,6 +4959,7 @@ let crystalGuardians = [
         "id": "ex14-72",
         "name": "Castaway",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -5186,9 +4973,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5199,9 +4984,7 @@ let crystalGuardians = [
         "number": "72",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/72.png",
             "large": "https://images.pokemontcg.io/ex14/72_hires.png"
@@ -5211,6 +4994,7 @@ let crystalGuardians = [
         "id": "ex14-73",
         "name": "Celio's Network",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -5224,9 +5008,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5237,9 +5019,7 @@ let crystalGuardians = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/73.png",
             "large": "https://images.pokemontcg.io/ex14/73_hires.png"
@@ -5249,6 +5029,7 @@ let crystalGuardians = [
         "id": "ex14-74",
         "name": "Cessation Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5262,9 +5043,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5275,9 +5054,7 @@ let crystalGuardians = [
         "number": "74",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/74.png",
             "large": "https://images.pokemontcg.io/ex14/74_hires.png"
@@ -5287,6 +5064,7 @@ let crystalGuardians = [
         "id": "ex14-75",
         "name": "Crystal Beach",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stadium"
         ],
@@ -5300,9 +5078,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5313,9 +5089,7 @@ let crystalGuardians = [
         "number": "75",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/75.png",
             "large": "https://images.pokemontcg.io/ex14/75_hires.png"
@@ -5325,6 +5099,7 @@ let crystalGuardians = [
         "id": "ex14-76",
         "name": "Crystal Shard",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5338,9 +5113,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5351,9 +5124,7 @@ let crystalGuardians = [
         "number": "76",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/76.png",
             "large": "https://images.pokemontcg.io/ex14/76_hires.png"
@@ -5363,6 +5134,7 @@ let crystalGuardians = [
         "id": "ex14-77",
         "name": "Double Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5375,9 +5147,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5388,9 +5158,7 @@ let crystalGuardians = [
         "number": "77",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/77.png",
             "large": "https://images.pokemontcg.io/ex14/77_hires.png"
@@ -5400,6 +5168,7 @@ let crystalGuardians = [
         "id": "ex14-78",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5412,9 +5181,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5425,9 +5192,7 @@ let crystalGuardians = [
         "number": "78",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/78.png",
             "large": "https://images.pokemontcg.io/ex14/78_hires.png"
@@ -5437,6 +5202,7 @@ let crystalGuardians = [
         "id": "ex14-79",
         "name": "Holon Circle",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stadium"
         ],
@@ -5450,9 +5216,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5463,9 +5227,7 @@ let crystalGuardians = [
         "number": "79",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/79.png",
             "large": "https://images.pokemontcg.io/ex14/79_hires.png"
@@ -5475,6 +5237,7 @@ let crystalGuardians = [
         "id": "ex14-80",
         "name": "Memory Berry",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5488,9 +5251,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5501,9 +5262,7 @@ let crystalGuardians = [
         "number": "80",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/80.png",
             "large": "https://images.pokemontcg.io/ex14/80_hires.png"
@@ -5513,6 +5272,7 @@ let crystalGuardians = [
         "id": "ex14-81",
         "name": "Mysterious Shard",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5526,9 +5286,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5539,9 +5297,7 @@ let crystalGuardians = [
         "number": "81",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/81.png",
             "large": "https://images.pokemontcg.io/ex14/81_hires.png"
@@ -5551,6 +5307,7 @@ let crystalGuardians = [
         "id": "ex14-82",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5563,9 +5320,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5576,11 +5331,7 @@ let crystalGuardians = [
         "number": "82",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/82.png",
             "large": "https://images.pokemontcg.io/ex14/82_hires.png"
@@ -5590,6 +5341,7 @@ let crystalGuardians = [
         "id": "ex14-83",
         "name": "PokéNav",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5602,9 +5354,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5615,9 +5365,7 @@ let crystalGuardians = [
         "number": "83",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/83.png",
             "large": "https://images.pokemontcg.io/ex14/83_hires.png"
@@ -5627,6 +5375,7 @@ let crystalGuardians = [
         "id": "ex14-84",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5639,9 +5388,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5652,9 +5399,7 @@ let crystalGuardians = [
         "number": "84",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/84.png",
             "large": "https://images.pokemontcg.io/ex14/84_hires.png"
@@ -5664,6 +5409,7 @@ let crystalGuardians = [
         "id": "ex14-85",
         "name": "Windstorm",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5676,9 +5422,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5689,9 +5433,7 @@ let crystalGuardians = [
         "number": "85",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/85.png",
             "large": "https://images.pokemontcg.io/ex14/85_hires.png"
@@ -5701,6 +5443,7 @@ let crystalGuardians = [
         "id": "ex14-86",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5713,9 +5456,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5726,11 +5467,7 @@ let crystalGuardians = [
         "number": "86",
         "artist": "Kai Ishikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/86.png",
             "large": "https://images.pokemontcg.io/ex14/86_hires.png"
@@ -5740,6 +5477,7 @@ let crystalGuardians = [
         "id": "ex14-87",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5752,9 +5490,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5765,11 +5501,7 @@ let crystalGuardians = [
         "number": "87",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/87.png",
             "large": "https://images.pokemontcg.io/ex14/87_hires.png"
@@ -5779,6 +5511,7 @@ let crystalGuardians = [
         "id": "ex14-88",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "CG",
         "subtypes": [
             "Special"
         ],
@@ -5791,9 +5524,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5804,9 +5535,7 @@ let crystalGuardians = [
         "number": "88",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/88.png",
             "large": "https://images.pokemontcg.io/ex14/88_hires.png"
@@ -5816,6 +5545,7 @@ let crystalGuardians = [
         "id": "ex14-89",
         "name": "Aggron ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5879,9 +5609,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5895,9 +5623,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/89.png",
             "large": "https://images.pokemontcg.io/ex14/89_hires.png"
@@ -5907,6 +5633,7 @@ let crystalGuardians = [
         "id": "ex14-90",
         "name": "Blaziken ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5956,9 +5683,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5972,9 +5697,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/90.png",
             "large": "https://images.pokemontcg.io/ex14/90_hires.png"
@@ -5984,6 +5707,7 @@ let crystalGuardians = [
         "id": "ex14-91",
         "name": "Delcatty ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6037,9 +5761,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6053,9 +5775,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/91.png",
             "large": "https://images.pokemontcg.io/ex14/91_hires.png"
@@ -6065,6 +5785,7 @@ let crystalGuardians = [
         "id": "ex14-92",
         "name": "Exploud ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6120,9 +5841,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6136,9 +5855,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/92.png",
             "large": "https://images.pokemontcg.io/ex14/92_hires.png"
@@ -6148,6 +5865,7 @@ let crystalGuardians = [
         "id": "ex14-93",
         "name": "Groudon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -6192,9 +5910,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6208,9 +5924,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/93.png",
             "large": "https://images.pokemontcg.io/ex14/93_hires.png"
@@ -6220,6 +5934,7 @@ let crystalGuardians = [
         "id": "ex14-94",
         "name": "Jirachi ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -6268,9 +5983,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6284,9 +5997,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/94.png",
             "large": "https://images.pokemontcg.io/ex14/94_hires.png"
@@ -6296,6 +6007,7 @@ let crystalGuardians = [
         "id": "ex14-95",
         "name": "Kyogre ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -6340,9 +6052,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6356,9 +6066,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/95.png",
             "large": "https://images.pokemontcg.io/ex14/95_hires.png"
@@ -6368,6 +6076,7 @@ let crystalGuardians = [
         "id": "ex14-96",
         "name": "Sceptile ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6418,9 +6127,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6434,9 +6141,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/96.png",
             "large": "https://images.pokemontcg.io/ex14/96_hires.png"
@@ -6446,6 +6151,7 @@ let crystalGuardians = [
         "id": "ex14-97",
         "name": "Shiftry ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6506,9 +6212,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6522,9 +6226,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/97.png",
             "large": "https://images.pokemontcg.io/ex14/97_hires.png"
@@ -6534,6 +6236,7 @@ let crystalGuardians = [
         "id": "ex14-98",
         "name": "Swampert ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6579,9 +6282,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6595,9 +6296,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/98.png",
             "large": "https://images.pokemontcg.io/ex14/98_hires.png"
@@ -6607,6 +6306,7 @@ let crystalGuardians = [
         "id": "ex14-99",
         "name": "Alakazam ★",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "Star"
@@ -6653,9 +6353,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6669,9 +6367,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/99.png",
             "large": "https://images.pokemontcg.io/ex14/99_hires.png"
@@ -6681,6 +6377,7 @@ let crystalGuardians = [
         "id": "ex14-100",
         "name": "Celebi ★",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "Star"
@@ -6723,9 +6420,7 @@ let crystalGuardians = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6739,9 +6434,7 @@ let crystalGuardians = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/100.png",
             "large": "https://images.pokemontcg.io/ex14/100_hires.png"

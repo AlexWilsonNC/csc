@@ -14,15 +14,85 @@
     margin: 25px 0px;
 }
 .all-tr:nth-of-type(2n) {
-    background-color: rgb(239, 239, 239);
+    background-color: rgb(240, 240, 240);
 }
 .upcoming-events-table.darkon tr:nth-of-type(2n) {
-    background-color: #414141;
+    background-color: rgba(161, 161, 161, 0.15);
 }
 .new-red-bg {
     border-top: 1px solid grey;
 }
 .new-red-bg:nth-of-type(2n) {
+    background-color: transparent !important;
+}
+.filters-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    /* color: black !important; */
+}
+.fa-earth-asia {
+    padding-left: 5px;
+    margin-right: 5px;
+}
+.indiv-filter,
+.indiv-filter2 {
+    margin-right: 25px;
+}
+.indiv-filter2 {
+    margin-top: -7px;
+}
+.decklist-td {
+    white-space: nowrap;
+    overflow: hidden;
+}
+.decklist-td img {
+    width: 55px;height:auto;
+}
+.decklist-td img:nth-of-type(2) {
+    margin-left: -25px;
+}
+@media screen and (max-width: 1200px){
+    .decklist-td img {
+        width: 45px;
+    }
+}
+@media screen and (max-width: 400px){
+    .decklist-td img {
+        width: 35px;
+    }
+    .decklist-td img:nth-of-type(2) {
+        margin-left: -15px;
+    }
+}
+.reversebutn {
+    width: 200px;
+    height: 29px;
+    text-align: start;
+    font-size: 14px;
+    margin-top: 4px;
+    border-radius: 4px;
+    padding:0 7px;
+    border: none;
+    border:1px solid grey;
+    color: black !important;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.reversebutn i {
+    font-size: 20px;
+}
+.reversebutn:hover {
+    cursor: pointer;
+    background-color: #9a9a9a;
+    border: 1px solid black;
+    color: white !important;
+}
+.bottom-table-tr {
+    visibility: hidden;
     background-color: transparent !important;
 }
 
@@ -38,18 +108,29 @@
 .upcoming-events select {
     margin-bottom: 5px;
 }
-#mySelect {
-    width: auto;
+#mySelect,
+#mySelect2 {
+    width: 200px;
     height: 30px;
     font-size: 14px;
     margin-top: 4px;
     border-radius: 4px;
     padding-left: 5px;
+    color: black !important;
 }
-#mySelect:hover {
+#mySelect:hover,
+#mySelect2:hover {
     cursor: pointer;
 }
-
+.latest-ppr {
+    font-size: 14px;
+    margin-top: 15px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.latest-ppr.darkon {
+    color:white;
+}
 .upcoming-events-table tr {
     padding: 0px 50px
 }
@@ -65,7 +146,8 @@
 }
 .upcoming-events-table td {
     font-size: 15px;
-    max-height: 60px;
+    height: 60px !important;
+    max-height: 60px !important;
     height: 58px;
 }
 .upcoming-events-table.darkon td {
@@ -77,9 +159,8 @@
 .upcoming-events-table td:nth-of-type(1) {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    padding: 0px 15px;
 }
-.upcoming-events-table td:nth-of-type(5) {
+.upcoming-events-table td:last-of-type {
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -106,13 +187,84 @@ table i {
 }
 td div a:hover,
 table i:hover,
-.upcoming-events-table.darkon i,
+.upcoming-events-table.darkon i:hover,
 .upcoming-events-table.darkon div a:hover {
     color: rgb(224, 160, 22);
 }
-/* .upcoming-events-table.darkon td div a:hover, */
-.upcoming-events-table.darkon i:hover {
-    color: white;
+.upcoming-events-table.darkon i {
+    color: #e1e1e1;
+}
+
+.completed-n-upcoming {
+    background: #191919;
+    border-top: 2px solid grey;
+    padding: 12px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -10px;
+    width: 100%;
+}
+.bts-in {
+    display: flex;
+    flex-direction: row;
+    align-items: center; justify-content: center;
+}
+.bts-in a {
+    color:white !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+.player-namee {
+    display: flex;
+    flex-direction: row;
+    align-items: center; justify-content: center;
+    margin-left: 15px;
+}
+.player-namee p {
+    font-size: 22px;
+    font-weight: 600;
+    color:white !important;
+    margin-right: 15px;
+}
+@media screen and (max-width: 600px) {
+    .player-namee {
+        margin-left: 25px;
+    }
+}
+.event-searchbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+.event-searchbar i {
+    color:white;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.event-searchbar input {
+    padding: 3px;
+    font-size: 16px;
+}
+.active-evt-btn {
+    background-color: #353535;
+}
+.completed-btn {
+    margin-right: 15px;
+    margin-left: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.upcoming-btn {
+    padding: 10px;
+    border-radius: 10px;
+}
+.completed-btn:hover,
+.upcoming-btn:hover {
+    background-color: #353535;
 }
 
 .upcoming-events-table tr th:nth-of-type(1),
@@ -123,6 +275,9 @@ table i:hover,
 .upcoming-events-table tr td:nth-of-type(5) {
     text-align: center;
 }
+.results-icon {
+    margin-left: -5px;
+}
 
 @media screen and (max-width: 1200px) {
     .upcoming-events-table th {
@@ -132,12 +287,28 @@ table i:hover,
     .upcoming-events-table td {
         font-size: 13px;
     }
+    .results-icon {
+        font-size: 20px !important;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .reversebutn {
+        width: auto;
+        white-space: nowrap;
+        overflow: hidden;
+    }
 }
 @media screen and (max-width: 1000px) {
+    .upcoming-events {
+        width: 80%;
+    }
     .upcoming-events-table td {
         font-size: 11px;
-        max-height: 50px;
-        height: 50px;
+        height: 50px !important;
+        max-height: 50px !important;
+    }
+    .results-icon {
+        font-size: 18px !important;
     }
     .hide-word {
         display: none;
@@ -150,18 +321,12 @@ table i:hover,
         margin-right: 6px;
         width: 15px;
     }
-    .upcoming-events-table tr th:nth-of-type(4),
-    .upcoming-events-table tr td:nth-of-type(4) {
-        text-align: start;
-}
+    .fa-earth-asia {
+        padding-left: 1px;
+        margin-right: 5px;
+    }
 }
 @media screen and (max-width: 900px) {
-    .upcoming-events {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
     .upcoming-events-table {
         margin: 10px 0px 25px;
     }
@@ -178,14 +343,52 @@ table i:hover,
         min-width: 80%;
     }
 }
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 800px) {
     .upcoming-events {
-        width: 95%;
-        min-width: 95%;
+        width: 96%;
     }
+    #mySelect,
+    #mySelect2 {
+        width: 150px;
+        height: 25px;
+        font-size: 12px;
+    }
+    .sort-events {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .reversebutn {
+        width: 150px;
+        height: 24px;
+        font-size: 12px;
+    }
+    .indiv-filter2 {
+        margin-top: -5px;
+    }
+    .completed-n-upcoming {
+        margin-top: -10px;
+        margin-left: -16px;
+        width: 115%;
+    }
+}
+@media screen and (max-width: 620px) {
     .upcoming-events-table tr {
         max-height: 50px;
-        padding: 0px 50px
+        padding: 0px 50px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .reversebutn {
+        width: auto;
+        height: 24px;
+        font-size: 12px;
+    }
+    .indiv-filter,
+    .indiv-filter2 {
+        margin-right: 10px;
+    }
+    .reversebutn i {
+        font-size: 16px;
     }
 }
 @media screen and (max-width: 530px) {
@@ -198,14 +401,48 @@ table i:hover,
         overflow: hidden;
     }
 }
+@media screen and (max-width: 500px) {
+    #mySelect,
+    #mySelect2 {
+        width: 100px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .sort-events {
+        font-size: 11px;
+    }
+    .reversebutn {
+        width: 110px;
+        height: 20px;
+        font-size: 10px;
+        padding:0 4px;
+    }
+    .indiv-filter2 {
+        margin-top: -5px;
+    }
+    .completed-n-upcoming a {
+        font-size: 12px;
+    }
+    .completed-btn {
+        margin-right: 15px;
+        border-radius: 7px;
+        margin-left: 15px;
+    }
+    .upcoming-btn {
+        border-radius: 7px;
+    }
+}
 @media screen and (max-width: 470px) {
     .upcoming-events-table th {
         font-size: 9px;
     }
     .upcoming-events-table td {
         font-size: 8px;
-        max-height: 35px;
-        height: 35px;
+        max-height: 35px !important;
+        height: 35px !important;
+    }
+    .results-icon {
+        font-size: 14px !important;
     }
     table div img,
     table div i {
@@ -214,6 +451,10 @@ table i:hover,
     }
     .event-type-logo2 {
         width: 25px;
+    }
+    .fa-earth-asia {
+        padding-left: 1px;
+        margin-right: 4px;
     }
 }
 @media screen and (max-width: 400px) {
@@ -226,5 +467,8 @@ table i:hover,
     .upcoming-events-table tr th:nth-of-type(1),
     .upcoming-events-table tr th:nth-of-type(2) {
         text-align: center;
+    }
+    .upcoming-events {
+        margin-left: -5px;
     }
 }

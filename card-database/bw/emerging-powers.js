@@ -1,8 +1,9 @@
-let emergingPowers = [
+let bw2 = [
     {
         "id": "bw2-1",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -53,10 +54,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -71,10 +69,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/1.png",
             "large": "https://images.pokemontcg.io/bw2/1_hires.png"
@@ -84,6 +79,7 @@ let emergingPowers = [
         "id": "bw2-2",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -134,10 +130,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -152,10 +145,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/2.png",
             "large": "https://images.pokemontcg.io/bw2/2_hires.png"
@@ -165,6 +155,7 @@ let emergingPowers = [
         "id": "bw2-3",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -208,10 +199,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -226,10 +214,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/3.png",
             "large": "https://images.pokemontcg.io/bw2/3_hires.png"
@@ -239,6 +224,7 @@ let emergingPowers = [
         "id": "bw2-4",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -283,10 +269,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -301,10 +284,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/4.png",
             "large": "https://images.pokemontcg.io/bw2/4_hires.png"
@@ -314,6 +294,7 @@ let emergingPowers = [
         "id": "bw2-5",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -360,10 +341,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -378,10 +356,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/5.png",
             "large": "https://images.pokemontcg.io/bw2/5_hires.png"
@@ -391,6 +366,7 @@ let emergingPowers = [
         "id": "bw2-6",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -436,10 +412,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -454,10 +427,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/6.png",
             "large": "https://images.pokemontcg.io/bw2/6_hires.png"
@@ -467,6 +437,7 @@ let emergingPowers = [
         "id": "bw2-7",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -509,10 +480,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -527,10 +495,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/7.png",
             "large": "https://images.pokemontcg.io/bw2/7_hires.png"
@@ -540,6 +505,7 @@ let emergingPowers = [
         "id": "bw2-8",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -583,10 +549,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -601,10 +564,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/8.png",
             "large": "https://images.pokemontcg.io/bw2/8_hires.png"
@@ -614,6 +574,7 @@ let emergingPowers = [
         "id": "bw2-9",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -654,10 +615,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -672,10 +630,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/9.png",
             "large": "https://images.pokemontcg.io/bw2/9_hires.png"
@@ -685,6 +640,7 @@ let emergingPowers = [
         "id": "bw2-10",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -725,10 +681,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -743,10 +696,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/10.png",
             "large": "https://images.pokemontcg.io/bw2/10_hires.png"
@@ -756,6 +706,7 @@ let emergingPowers = [
         "id": "bw2-11",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -802,10 +753,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -820,10 +768,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/11.png",
             "large": "https://images.pokemontcg.io/bw2/11_hires.png"
@@ -833,6 +778,7 @@ let emergingPowers = [
         "id": "bw2-12",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -881,10 +827,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -899,10 +842,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/12.png",
             "large": "https://images.pokemontcg.io/bw2/12_hires.png"
@@ -912,6 +852,7 @@ let emergingPowers = [
         "id": "bw2-13",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -962,10 +903,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -980,10 +918,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             548
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/13.png",
             "large": "https://images.pokemontcg.io/bw2/13_hires.png"
@@ -993,6 +928,7 @@ let emergingPowers = [
         "id": "bw2-14",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1042,10 +978,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1060,10 +993,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             549
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/14.png",
             "large": "https://images.pokemontcg.io/bw2/14_hires.png"
@@ -1073,6 +1003,7 @@ let emergingPowers = [
         "id": "bw2-15",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1123,10 +1054,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1141,10 +1069,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             585
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/15.png",
             "large": "https://images.pokemontcg.io/bw2/15_hires.png"
@@ -1154,6 +1079,7 @@ let emergingPowers = [
         "id": "bw2-16",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1203,10 +1129,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1221,10 +1144,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             586
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/16.png",
             "large": "https://images.pokemontcg.io/bw2/16_hires.png"
@@ -1234,6 +1154,7 @@ let emergingPowers = [
         "id": "bw2-17",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1283,10 +1204,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1301,10 +1219,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/17.png",
             "large": "https://images.pokemontcg.io/bw2/17_hires.png"
@@ -1314,6 +1229,7 @@ let emergingPowers = [
         "id": "bw2-18",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1358,10 +1274,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1376,10 +1289,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/18.png",
             "large": "https://images.pokemontcg.io/bw2/18_hires.png"
@@ -1389,6 +1299,7 @@ let emergingPowers = [
         "id": "bw2-19",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1433,10 +1344,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1451,10 +1359,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/19.png",
             "large": "https://images.pokemontcg.io/bw2/19_hires.png"
@@ -1464,6 +1369,7 @@ let emergingPowers = [
         "id": "bw2-20",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1509,10 +1415,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1527,10 +1430,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/20.png",
             "large": "https://images.pokemontcg.io/bw2/20_hires.png"
@@ -1540,6 +1440,7 @@ let emergingPowers = [
         "id": "bw2-21",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1585,10 +1486,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1603,10 +1501,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/21.png",
             "large": "https://images.pokemontcg.io/bw2/21_hires.png"
@@ -1616,6 +1511,7 @@ let emergingPowers = [
         "id": "bw2-22",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1660,10 +1556,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1678,10 +1571,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/22.png",
             "large": "https://images.pokemontcg.io/bw2/22_hires.png"
@@ -1691,6 +1581,7 @@ let emergingPowers = [
         "id": "bw2-23",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1735,10 +1626,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1753,10 +1641,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/23.png",
             "large": "https://images.pokemontcg.io/bw2/23_hires.png"
@@ -1766,6 +1651,7 @@ let emergingPowers = [
         "id": "bw2-24",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1808,10 +1694,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1826,10 +1709,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/24.png",
             "large": "https://images.pokemontcg.io/bw2/24_hires.png"
@@ -1839,6 +1719,7 @@ let emergingPowers = [
         "id": "bw2-25",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1880,10 +1761,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1898,10 +1776,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/25.png",
             "large": "https://images.pokemontcg.io/bw2/25_hires.png"
@@ -1911,6 +1786,7 @@ let emergingPowers = [
         "id": "bw2-26",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1961,10 +1837,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -1979,10 +1852,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/26.png",
             "large": "https://images.pokemontcg.io/bw2/26_hires.png"
@@ -1992,6 +1862,7 @@ let emergingPowers = [
         "id": "bw2-27",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2042,10 +1913,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2060,10 +1928,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/27.png",
             "large": "https://images.pokemontcg.io/bw2/27_hires.png"
@@ -2073,6 +1938,7 @@ let emergingPowers = [
         "id": "bw2-28",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2117,10 +1983,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2135,10 +1998,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/28.png",
             "large": "https://images.pokemontcg.io/bw2/28_hires.png"
@@ -2148,6 +2008,7 @@ let emergingPowers = [
         "id": "bw2-29",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2183,10 +2044,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2201,10 +2059,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/29.png",
             "large": "https://images.pokemontcg.io/bw2/29_hires.png"
@@ -2214,6 +2069,7 @@ let emergingPowers = [
         "id": "bw2-30",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2260,10 +2116,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2278,10 +2131,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/30.png",
             "large": "https://images.pokemontcg.io/bw2/30_hires.png"
@@ -2291,6 +2141,7 @@ let emergingPowers = [
         "id": "bw2-31",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2334,10 +2185,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2352,10 +2200,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/31.png",
             "large": "https://images.pokemontcg.io/bw2/31_hires.png"
@@ -2365,6 +2210,7 @@ let emergingPowers = [
         "id": "bw2-32",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2405,10 +2251,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2423,10 +2266,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/32.png",
             "large": "https://images.pokemontcg.io/bw2/32_hires.png"
@@ -2436,6 +2276,7 @@ let emergingPowers = [
         "id": "bw2-33",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2470,10 +2311,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2488,10 +2326,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/33.png",
             "large": "https://images.pokemontcg.io/bw2/33_hires.png"
@@ -2501,6 +2336,7 @@ let emergingPowers = [
         "id": "bw2-34",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2542,10 +2378,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2560,10 +2393,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/34.png",
             "large": "https://images.pokemontcg.io/bw2/34_hires.png"
@@ -2573,6 +2403,7 @@ let emergingPowers = [
         "id": "bw2-35",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2615,10 +2446,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2633,10 +2461,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/35.png",
             "large": "https://images.pokemontcg.io/bw2/35_hires.png"
@@ -2646,6 +2471,7 @@ let emergingPowers = [
         "id": "bw2-36",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2681,10 +2507,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2699,10 +2522,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/36.png",
             "large": "https://images.pokemontcg.io/bw2/36_hires.png"
@@ -2712,6 +2532,7 @@ let emergingPowers = [
         "id": "bw2-37",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2760,10 +2581,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2778,10 +2596,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/37.png",
             "large": "https://images.pokemontcg.io/bw2/37_hires.png"
@@ -2791,6 +2606,7 @@ let emergingPowers = [
         "id": "bw2-38",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2835,10 +2651,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2853,10 +2666,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             543
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/38.png",
             "large": "https://images.pokemontcg.io/bw2/38_hires.png"
@@ -2866,6 +2676,7 @@ let emergingPowers = [
         "id": "bw2-39",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2912,10 +2723,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -2930,10 +2738,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             544
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/39.png",
             "large": "https://images.pokemontcg.io/bw2/39_hires.png"
@@ -2943,6 +2748,7 @@ let emergingPowers = [
         "id": "bw2-40",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2987,10 +2793,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3005,10 +2808,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             545
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/40.png",
             "large": "https://images.pokemontcg.io/bw2/40_hires.png"
@@ -3018,6 +2818,7 @@ let emergingPowers = [
         "id": "bw2-41",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3066,10 +2867,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3084,10 +2882,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/41.png",
             "large": "https://images.pokemontcg.io/bw2/41_hires.png"
@@ -3097,6 +2892,7 @@ let emergingPowers = [
         "id": "bw2-42",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3145,10 +2941,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3163,10 +2956,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/42.png",
             "large": "https://images.pokemontcg.io/bw2/42_hires.png"
@@ -3176,6 +2966,7 @@ let emergingPowers = [
         "id": "bw2-43",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3220,10 +3011,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3238,10 +3026,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/43.png",
             "large": "https://images.pokemontcg.io/bw2/43_hires.png"
@@ -3251,6 +3036,7 @@ let emergingPowers = [
         "id": "bw2-44",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3286,10 +3072,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3304,10 +3087,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/44.png",
             "large": "https://images.pokemontcg.io/bw2/44_hires.png"
@@ -3317,6 +3097,7 @@ let emergingPowers = [
         "id": "bw2-45",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3362,10 +3143,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3380,10 +3158,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/45.png",
             "large": "https://images.pokemontcg.io/bw2/45_hires.png"
@@ -3393,6 +3168,7 @@ let emergingPowers = [
         "id": "bw2-46",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3439,10 +3215,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3457,10 +3230,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/46.png",
             "large": "https://images.pokemontcg.io/bw2/46_hires.png"
@@ -3470,6 +3240,7 @@ let emergingPowers = [
         "id": "bw2-47",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3511,10 +3282,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3529,10 +3297,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             576
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/47.png",
             "large": "https://images.pokemontcg.io/bw2/47_hires.png"
@@ -3542,6 +3307,7 @@ let emergingPowers = [
         "id": "bw2-48",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3585,10 +3351,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3603,10 +3366,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             576
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/48.png",
             "large": "https://images.pokemontcg.io/bw2/48_hires.png"
@@ -3616,6 +3376,7 @@ let emergingPowers = [
         "id": "bw2-49",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3661,10 +3422,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3679,10 +3437,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             524
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/49.png",
             "large": "https://images.pokemontcg.io/bw2/49_hires.png"
@@ -3692,6 +3447,7 @@ let emergingPowers = [
         "id": "bw2-50",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3736,10 +3492,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3754,10 +3507,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             524
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/50.png",
             "large": "https://images.pokemontcg.io/bw2/50_hires.png"
@@ -3767,6 +3517,7 @@ let emergingPowers = [
         "id": "bw2-51",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3815,10 +3566,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3833,10 +3581,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             525
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/51.png",
             "large": "https://images.pokemontcg.io/bw2/51_hires.png"
@@ -3846,6 +3591,7 @@ let emergingPowers = [
         "id": "bw2-52",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3893,10 +3639,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3911,10 +3654,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             525
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/52.png",
             "large": "https://images.pokemontcg.io/bw2/52_hires.png"
@@ -3924,6 +3664,7 @@ let emergingPowers = [
         "id": "bw2-53",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3968,10 +3709,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -3986,10 +3724,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             526
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/53.png",
             "large": "https://images.pokemontcg.io/bw2/53_hires.png"
@@ -3999,6 +3734,7 @@ let emergingPowers = [
         "id": "bw2-54",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4048,10 +3784,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4066,10 +3799,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/54.png",
             "large": "https://images.pokemontcg.io/bw2/54_hires.png"
@@ -4079,6 +3809,7 @@ let emergingPowers = [
         "id": "bw2-55",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4121,10 +3852,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4139,10 +3867,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/55.png",
             "large": "https://images.pokemontcg.io/bw2/55_hires.png"
@@ -4152,6 +3877,7 @@ let emergingPowers = [
         "id": "bw2-56",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4201,10 +3927,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4219,10 +3942,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/56.png",
             "large": "https://images.pokemontcg.io/bw2/56_hires.png"
@@ -4232,6 +3952,7 @@ let emergingPowers = [
         "id": "bw2-57",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4282,10 +4003,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4300,10 +4018,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/57.png",
             "large": "https://images.pokemontcg.io/bw2/57_hires.png"
@@ -4313,6 +4028,7 @@ let emergingPowers = [
         "id": "bw2-58",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4345,10 +4061,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4363,10 +4076,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             538
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/58.png",
             "large": "https://images.pokemontcg.io/bw2/58_hires.png"
@@ -4376,6 +4086,7 @@ let emergingPowers = [
         "id": "bw2-59",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4408,10 +4119,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4426,10 +4134,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             539
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/59.png",
             "large": "https://images.pokemontcg.io/bw2/59_hires.png"
@@ -4439,6 +4144,7 @@ let emergingPowers = [
         "id": "bw2-60",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4474,10 +4180,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4492,10 +4195,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/60.png",
             "large": "https://images.pokemontcg.io/bw2/60_hires.png"
@@ -4505,6 +4205,7 @@ let emergingPowers = [
         "id": "bw2-61",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4551,10 +4252,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4569,10 +4267,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/61.png",
             "large": "https://images.pokemontcg.io/bw2/61_hires.png"
@@ -4582,6 +4277,7 @@ let emergingPowers = [
         "id": "bw2-62",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -4629,10 +4325,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4647,10 +4340,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/62.png",
             "large": "https://images.pokemontcg.io/bw2/62_hires.png"
@@ -4660,6 +4350,7 @@ let emergingPowers = [
         "id": "bw2-63",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4703,10 +4394,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4721,10 +4409,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/63.png",
             "large": "https://images.pokemontcg.io/bw2/63_hires.png"
@@ -4734,6 +4419,7 @@ let emergingPowers = [
         "id": "bw2-64",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4775,10 +4461,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4793,10 +4476,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/64.png",
             "large": "https://images.pokemontcg.io/bw2/64_hires.png"
@@ -4806,6 +4486,7 @@ let emergingPowers = [
         "id": "bw2-65",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4855,10 +4536,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4873,10 +4551,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/65.png",
             "large": "https://images.pokemontcg.io/bw2/65_hires.png"
@@ -4886,6 +4561,7 @@ let emergingPowers = [
         "id": "bw2-66",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4936,10 +4612,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -4954,10 +4627,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/66.png",
             "large": "https://images.pokemontcg.io/bw2/66_hires.png"
@@ -4967,6 +4637,7 @@ let emergingPowers = [
         "id": "bw2-67",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5016,10 +4687,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5034,10 +4702,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/67.png",
             "large": "https://images.pokemontcg.io/bw2/67_hires.png"
@@ -5047,6 +4712,7 @@ let emergingPowers = [
         "id": "bw2-68",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5097,10 +4763,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5115,10 +4778,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/68.png",
             "large": "https://images.pokemontcg.io/bw2/68_hires.png"
@@ -5128,6 +4788,7 @@ let emergingPowers = [
         "id": "bw2-69",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5176,10 +4837,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5194,10 +4852,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/69.png",
             "large": "https://images.pokemontcg.io/bw2/69_hires.png"
@@ -5207,6 +4862,7 @@ let emergingPowers = [
         "id": "bw2-70",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5248,10 +4904,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5266,10 +4919,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/70.png",
             "large": "https://images.pokemontcg.io/bw2/70_hires.png"
@@ -5279,6 +4929,7 @@ let emergingPowers = [
         "id": "bw2-71",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5320,10 +4971,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5338,10 +4986,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/71.png",
             "large": "https://images.pokemontcg.io/bw2/71_hires.png"
@@ -5351,6 +4996,7 @@ let emergingPowers = [
         "id": "bw2-72",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5400,10 +5046,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5418,10 +5061,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/72.png",
             "large": "https://images.pokemontcg.io/bw2/72_hires.png"
@@ -5431,6 +5071,7 @@ let emergingPowers = [
         "id": "bw2-73",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5479,10 +5120,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5497,10 +5135,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/73.png",
             "large": "https://images.pokemontcg.io/bw2/73_hires.png"
@@ -5510,6 +5145,7 @@ let emergingPowers = [
         "id": "bw2-74",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5561,10 +5197,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5579,10 +5212,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/74.png",
             "large": "https://images.pokemontcg.io/bw2/74_hires.png"
@@ -5592,6 +5222,7 @@ let emergingPowers = [
         "id": "bw2-75",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5644,10 +5275,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5662,10 +5290,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/75.png",
             "large": "https://images.pokemontcg.io/bw2/75_hires.png"
@@ -5675,6 +5300,7 @@ let emergingPowers = [
         "id": "bw2-76",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -5724,10 +5350,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5742,10 +5365,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/76.png",
             "large": "https://images.pokemontcg.io/bw2/76_hires.png"
@@ -5755,6 +5375,7 @@ let emergingPowers = [
         "id": "bw2-77",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5804,10 +5425,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5822,10 +5440,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/77.png",
             "large": "https://images.pokemontcg.io/bw2/77_hires.png"
@@ -5835,6 +5450,7 @@ let emergingPowers = [
         "id": "bw2-78",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5869,10 +5485,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5887,10 +5500,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/78.png",
             "large": "https://images.pokemontcg.io/bw2/78_hires.png"
@@ -5900,6 +5510,7 @@ let emergingPowers = [
         "id": "bw2-79",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5942,10 +5553,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -5960,10 +5568,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             505
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/79.png",
             "large": "https://images.pokemontcg.io/bw2/79_hires.png"
@@ -5973,6 +5578,7 @@ let emergingPowers = [
         "id": "bw2-80",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6014,10 +5620,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6032,10 +5635,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/80.png",
             "large": "https://images.pokemontcg.io/bw2/80_hires.png"
@@ -6045,6 +5645,7 @@ let emergingPowers = [
         "id": "bw2-81",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6097,10 +5698,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6115,10 +5713,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             520
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/81.png",
             "large": "https://images.pokemontcg.io/bw2/81_hires.png"
@@ -6128,6 +5723,7 @@ let emergingPowers = [
         "id": "bw2-82",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -6176,10 +5772,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6194,10 +5787,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             521
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/82.png",
             "large": "https://images.pokemontcg.io/bw2/82_hires.png"
@@ -6207,6 +5797,7 @@ let emergingPowers = [
         "id": "bw2-83",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6249,10 +5840,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6267,10 +5855,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/83.png",
             "large": "https://images.pokemontcg.io/bw2/83_hires.png"
@@ -6280,6 +5865,7 @@ let emergingPowers = [
         "id": "bw2-84",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6314,10 +5900,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6332,10 +5915,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/84.png",
             "large": "https://images.pokemontcg.io/bw2/84_hires.png"
@@ -6345,6 +5925,7 @@ let emergingPowers = [
         "id": "bw2-85",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6387,10 +5968,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6405,10 +5983,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/85.png",
             "large": "https://images.pokemontcg.io/bw2/85_hires.png"
@@ -6418,6 +5993,7 @@ let emergingPowers = [
         "id": "bw2-86",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6468,10 +6044,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6486,10 +6059,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/86.png",
             "large": "https://images.pokemontcg.io/bw2/86_hires.png"
@@ -6499,6 +6069,7 @@ let emergingPowers = [
         "id": "bw2-87",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6549,10 +6120,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6567,10 +6135,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/87.png",
             "large": "https://images.pokemontcg.io/bw2/87_hires.png"
@@ -6580,6 +6145,7 @@ let emergingPowers = [
         "id": "bw2-88",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6630,10 +6196,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6648,10 +6211,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             628
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/88.png",
             "large": "https://images.pokemontcg.io/bw2/88_hires.png"
@@ -6661,6 +6221,7 @@ let emergingPowers = [
         "id": "bw2-89",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6709,10 +6270,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6727,10 +6285,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/89.png",
             "large": "https://images.pokemontcg.io/bw2/89_hires.png"
@@ -6740,6 +6295,7 @@ let emergingPowers = [
         "id": "bw2-90",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Supporter"
         ],
@@ -6753,10 +6309,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6767,10 +6320,7 @@ let emergingPowers = [
         "number": "90",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/90.png",
             "large": "https://images.pokemontcg.io/bw2/90_hires.png"
@@ -6780,6 +6330,7 @@ let emergingPowers = [
         "id": "bw2-91",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Supporter"
         ],
@@ -6793,10 +6344,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6807,10 +6355,7 @@ let emergingPowers = [
         "number": "91",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/91.png",
             "large": "https://images.pokemontcg.io/bw2/91_hires.png"
@@ -6820,6 +6365,7 @@ let emergingPowers = [
         "id": "bw2-92",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6833,10 +6379,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6847,11 +6390,7 @@ let emergingPowers = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/92.png",
             "large": "https://images.pokemontcg.io/bw2/92_hires.png"
@@ -6861,6 +6400,7 @@ let emergingPowers = [
         "id": "bw2-93",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6874,10 +6414,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6888,11 +6425,7 @@ let emergingPowers = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/93.png",
             "large": "https://images.pokemontcg.io/bw2/93_hires.png"
@@ -6902,6 +6435,7 @@ let emergingPowers = [
         "id": "bw2-94",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6915,10 +6449,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6929,10 +6460,7 @@ let emergingPowers = [
         "number": "94",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/94.png",
             "large": "https://images.pokemontcg.io/bw2/94_hires.png"
@@ -6942,6 +6470,7 @@ let emergingPowers = [
         "id": "bw2-95",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6955,10 +6484,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -6969,20 +6495,17 @@ let emergingPowers = [
         "number": "95",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/bw2/95.png",
-            "large": "https://images.pokemontcg.io/bw2/95_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/en_US-BW2-095-pokemon_catcher.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-BW2-095-pokemon_catcher.jpg"
         }
     },
     {
         "id": "bw2-96",
         "name": "Recycle",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6996,10 +6519,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -7010,10 +6530,7 @@ let emergingPowers = [
         "number": "96",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/96.png",
             "large": "https://images.pokemontcg.io/bw2/96_hires.png"
@@ -7023,6 +6540,7 @@ let emergingPowers = [
         "id": "bw2-97",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -7065,10 +6583,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -7083,10 +6598,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/97.png",
             "large": "https://images.pokemontcg.io/bw2/97_hires.png"
@@ -7096,6 +6608,7 @@ let emergingPowers = [
         "id": "bw2-98",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -7144,10 +6657,7 @@ let emergingPowers = [
             "series": "Black & White",
             "printedTotal": 98,
             "total": 98,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "EPO",
             "releaseDate": "2011/08/31",
             "images": {
@@ -7162,10 +6672,7 @@ let emergingPowers = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw2/98.png",
             "large": "https://images.pokemontcg.io/bw2/98_hires.png"

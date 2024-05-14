@@ -1,8 +1,9 @@
-let nextDestinies = [
+let bw4 = [
     {
         "id": "bw4-1",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -46,10 +47,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -64,10 +62,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/1.png",
             "large": "https://images.pokemontcg.io/bw4/1_hires.png"
@@ -77,6 +72,7 @@ let nextDestinies = [
         "id": "bw4-2",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -117,10 +113,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -135,10 +128,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/2.png",
             "large": "https://images.pokemontcg.io/bw4/2_hires.png"
@@ -148,6 +138,7 @@ let nextDestinies = [
         "id": "bw4-3",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -192,10 +183,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -210,10 +198,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/3.png",
             "large": "https://images.pokemontcg.io/bw4/3_hires.png"
@@ -223,6 +208,7 @@ let nextDestinies = [
         "id": "bw4-4",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -265,10 +251,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -283,10 +266,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/4.png",
             "large": "https://images.pokemontcg.io/bw4/4_hires.png"
@@ -296,6 +276,7 @@ let nextDestinies = [
         "id": "bw4-5",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -347,10 +328,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -364,10 +342,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/5.png",
             "large": "https://images.pokemontcg.io/bw4/5_hires.png"
@@ -377,6 +352,7 @@ let nextDestinies = [
         "id": "bw4-6",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -418,10 +394,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -436,10 +409,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/6.png",
             "large": "https://images.pokemontcg.io/bw4/6_hires.png"
@@ -449,6 +419,7 @@ let nextDestinies = [
         "id": "bw4-7",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -497,10 +468,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -515,10 +483,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/7.png",
             "large": "https://images.pokemontcg.io/bw4/7_hires.png"
@@ -528,6 +493,7 @@ let nextDestinies = [
         "id": "bw4-8",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -578,10 +544,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -596,10 +559,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/8.png",
             "large": "https://images.pokemontcg.io/bw4/8_hires.png"
@@ -609,6 +569,7 @@ let nextDestinies = [
         "id": "bw4-9",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -655,10 +616,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -673,10 +631,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/9.png",
             "large": "https://images.pokemontcg.io/bw4/9_hires.png"
@@ -686,6 +641,7 @@ let nextDestinies = [
         "id": "bw4-10",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -730,10 +686,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -748,10 +701,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/10.png",
             "large": "https://images.pokemontcg.io/bw4/10_hires.png"
@@ -761,6 +711,7 @@ let nextDestinies = [
         "id": "bw4-11",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -796,10 +747,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -814,10 +762,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/11.png",
             "large": "https://images.pokemontcg.io/bw4/11_hires.png"
@@ -827,6 +772,7 @@ let nextDestinies = [
         "id": "bw4-12",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -868,10 +814,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -886,10 +829,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/12.png",
             "large": "https://images.pokemontcg.io/bw4/12_hires.png"
@@ -899,6 +839,7 @@ let nextDestinies = [
         "id": "bw4-13",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -943,10 +884,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -961,10 +899,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/13.png",
             "large": "https://images.pokemontcg.io/bw4/13_hires.png"
@@ -974,6 +909,7 @@ let nextDestinies = [
         "id": "bw4-14",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1025,10 +961,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1043,10 +976,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/14.png",
             "large": "https://images.pokemontcg.io/bw4/14_hires.png"
@@ -1056,6 +986,7 @@ let nextDestinies = [
         "id": "bw4-15",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1091,10 +1022,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1109,10 +1037,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/15.png",
             "large": "https://images.pokemontcg.io/bw4/15_hires.png"
@@ -1122,6 +1047,7 @@ let nextDestinies = [
         "id": "bw4-16",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1164,10 +1090,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1182,10 +1105,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/16.png",
             "large": "https://images.pokemontcg.io/bw4/16_hires.png"
@@ -1195,6 +1115,7 @@ let nextDestinies = [
         "id": "bw4-17",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1230,10 +1151,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1248,10 +1166,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/17.png",
             "large": "https://images.pokemontcg.io/bw4/17_hires.png"
@@ -1261,6 +1176,7 @@ let nextDestinies = [
         "id": "bw4-18",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1295,10 +1211,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1313,10 +1226,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/18.png",
             "large": "https://images.pokemontcg.io/bw4/18_hires.png"
@@ -1326,6 +1236,7 @@ let nextDestinies = [
         "id": "bw4-19",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1362,10 +1273,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1380,10 +1288,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/19.png",
             "large": "https://images.pokemontcg.io/bw4/19_hires.png"
@@ -1393,6 +1298,7 @@ let nextDestinies = [
         "id": "bw4-20",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -1435,10 +1341,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1453,10 +1356,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/20.png",
             "large": "https://images.pokemontcg.io/bw4/20_hires.png"
@@ -1466,6 +1366,7 @@ let nextDestinies = [
         "id": "bw4-21",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1509,10 +1410,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1527,10 +1425,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/21.png",
             "large": "https://images.pokemontcg.io/bw4/21_hires.png"
@@ -1540,6 +1435,7 @@ let nextDestinies = [
         "id": "bw4-22",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -1589,10 +1485,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1606,10 +1499,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/22.png",
             "large": "https://images.pokemontcg.io/bw4/22_hires.png"
@@ -1619,6 +1509,7 @@ let nextDestinies = [
         "id": "bw4-23",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1662,10 +1553,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1680,10 +1568,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/23.png",
             "large": "https://images.pokemontcg.io/bw4/23_hires.png"
@@ -1693,6 +1578,7 @@ let nextDestinies = [
         "id": "bw4-24",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1733,10 +1619,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1751,10 +1634,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/24.png",
             "large": "https://images.pokemontcg.io/bw4/24_hires.png"
@@ -1764,6 +1644,7 @@ let nextDestinies = [
         "id": "bw4-25",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1805,10 +1686,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1823,10 +1701,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/25.png",
             "large": "https://images.pokemontcg.io/bw4/25_hires.png"
@@ -1836,6 +1711,7 @@ let nextDestinies = [
         "id": "bw4-26",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1879,10 +1755,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1897,10 +1770,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/26.png",
             "large": "https://images.pokemontcg.io/bw4/26_hires.png"
@@ -1910,6 +1780,7 @@ let nextDestinies = [
         "id": "bw4-27",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1961,10 +1832,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1979,10 +1847,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/27.png",
             "large": "https://images.pokemontcg.io/bw4/27_hires.png"
@@ -1992,6 +1857,7 @@ let nextDestinies = [
         "id": "bw4-28",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2027,10 +1893,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2045,10 +1908,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/28.png",
             "large": "https://images.pokemontcg.io/bw4/28_hires.png"
@@ -2058,6 +1918,7 @@ let nextDestinies = [
         "id": "bw4-29",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2100,10 +1961,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2118,10 +1976,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/29.png",
             "large": "https://images.pokemontcg.io/bw4/29_hires.png"
@@ -2131,6 +1986,7 @@ let nextDestinies = [
         "id": "bw4-30",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2171,10 +2027,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2189,10 +2042,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/30.png",
             "large": "https://images.pokemontcg.io/bw4/30_hires.png"
@@ -2202,6 +2052,7 @@ let nextDestinies = [
         "id": "bw4-31",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2246,10 +2097,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2264,10 +2112,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/31.png",
             "large": "https://images.pokemontcg.io/bw4/31_hires.png"
@@ -2277,6 +2122,7 @@ let nextDestinies = [
         "id": "bw4-32",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2323,10 +2169,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2341,10 +2184,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/32.png",
             "large": "https://images.pokemontcg.io/bw4/32_hires.png"
@@ -2354,6 +2194,7 @@ let nextDestinies = [
         "id": "bw4-33",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -2395,10 +2236,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2413,10 +2251,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/33.png",
             "large": "https://images.pokemontcg.io/bw4/33_hires.png"
@@ -2426,6 +2261,7 @@ let nextDestinies = [
         "id": "bw4-34",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2470,10 +2306,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2488,10 +2321,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/34.png",
             "large": "https://images.pokemontcg.io/bw4/34_hires.png"
@@ -2501,6 +2331,7 @@ let nextDestinies = [
         "id": "bw4-35",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2544,10 +2375,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2562,10 +2390,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/35.png",
             "large": "https://images.pokemontcg.io/bw4/35_hires.png"
@@ -2575,6 +2400,7 @@ let nextDestinies = [
         "id": "bw4-36",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2619,10 +2445,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2637,10 +2460,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/36.png",
             "large": "https://images.pokemontcg.io/bw4/36_hires.png"
@@ -2650,6 +2470,7 @@ let nextDestinies = [
         "id": "bw4-37",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2694,10 +2515,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2712,10 +2530,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/37.png",
             "large": "https://images.pokemontcg.io/bw4/37_hires.png"
@@ -2725,6 +2540,7 @@ let nextDestinies = [
         "id": "bw4-38",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -2774,10 +2590,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2791,10 +2604,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/38.png",
             "large": "https://images.pokemontcg.io/bw4/38_hires.png"
@@ -2804,6 +2614,7 @@ let nextDestinies = [
         "id": "bw4-39",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2848,10 +2659,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2866,10 +2674,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/39.png",
             "large": "https://images.pokemontcg.io/bw4/39_hires.png"
@@ -2879,6 +2684,7 @@ let nextDestinies = [
         "id": "bw4-40",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2922,10 +2728,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2940,10 +2743,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/40.png",
             "large": "https://images.pokemontcg.io/bw4/40_hires.png"
@@ -2953,6 +2753,7 @@ let nextDestinies = [
         "id": "bw4-41",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3004,10 +2805,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3022,10 +2820,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/41.png",
             "large": "https://images.pokemontcg.io/bw4/41_hires.png"
@@ -3035,6 +2830,7 @@ let nextDestinies = [
         "id": "bw4-42",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3079,10 +2875,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3097,10 +2890,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/42.png",
             "large": "https://images.pokemontcg.io/bw4/42_hires.png"
@@ -3110,6 +2900,7 @@ let nextDestinies = [
         "id": "bw4-43",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3144,10 +2935,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3162,10 +2950,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/43.png",
             "large": "https://images.pokemontcg.io/bw4/43_hires.png"
@@ -3175,6 +2960,7 @@ let nextDestinies = [
         "id": "bw4-44",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3221,10 +3007,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3239,10 +3022,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/44.png",
             "large": "https://images.pokemontcg.io/bw4/44_hires.png"
@@ -3252,6 +3032,7 @@ let nextDestinies = [
         "id": "bw4-45",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3296,10 +3077,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3314,10 +3092,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/45.png",
             "large": "https://images.pokemontcg.io/bw4/45_hires.png"
@@ -3327,6 +3102,7 @@ let nextDestinies = [
         "id": "bw4-46",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -3370,10 +3146,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3388,10 +3161,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/46.png",
             "large": "https://images.pokemontcg.io/bw4/46_hires.png"
@@ -3401,6 +3171,7 @@ let nextDestinies = [
         "id": "bw4-47",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3436,10 +3207,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3454,10 +3222,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/47.png",
             "large": "https://images.pokemontcg.io/bw4/47_hires.png"
@@ -3467,6 +3232,7 @@ let nextDestinies = [
         "id": "bw4-48",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3510,10 +3276,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3528,10 +3291,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/48.png",
             "large": "https://images.pokemontcg.io/bw4/48_hires.png"
@@ -3541,6 +3301,7 @@ let nextDestinies = [
         "id": "bw4-49",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3573,10 +3334,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3591,10 +3349,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/49.png",
             "large": "https://images.pokemontcg.io/bw4/49_hires.png"
@@ -3604,6 +3359,7 @@ let nextDestinies = [
         "id": "bw4-50",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3647,10 +3403,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3665,10 +3418,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/50.png",
             "large": "https://images.pokemontcg.io/bw4/50_hires.png"
@@ -3678,6 +3428,7 @@ let nextDestinies = [
         "id": "bw4-51",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -3727,10 +3478,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3744,10 +3492,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/51.png",
             "large": "https://images.pokemontcg.io/bw4/51_hires.png"
@@ -3757,6 +3502,7 @@ let nextDestinies = [
         "id": "bw4-52",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3792,10 +3538,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3810,10 +3553,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/52.png",
             "large": "https://images.pokemontcg.io/bw4/52_hires.png"
@@ -3823,6 +3563,7 @@ let nextDestinies = [
         "id": "bw4-53",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3868,10 +3609,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3886,10 +3624,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/53.png",
             "large": "https://images.pokemontcg.io/bw4/53_hires.png"
@@ -3899,6 +3634,7 @@ let nextDestinies = [
         "id": "bw4-54",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -3949,10 +3685,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3966,10 +3699,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/54.png",
             "large": "https://images.pokemontcg.io/bw4/54_hires.png"
@@ -3979,6 +3709,7 @@ let nextDestinies = [
         "id": "bw4-55",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4023,10 +3754,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4041,10 +3769,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/55.png",
             "large": "https://images.pokemontcg.io/bw4/55_hires.png"
@@ -4054,6 +3779,7 @@ let nextDestinies = [
         "id": "bw4-56",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4102,10 +3828,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4120,10 +3843,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/56.png",
             "large": "https://images.pokemontcg.io/bw4/56_hires.png"
@@ -4133,6 +3853,7 @@ let nextDestinies = [
         "id": "bw4-57",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -4175,10 +3896,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4193,10 +3911,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/57.png",
             "large": "https://images.pokemontcg.io/bw4/57_hires.png"
@@ -4206,6 +3921,7 @@ let nextDestinies = [
         "id": "bw4-58",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4241,10 +3957,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4259,10 +3972,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/58.png",
             "large": "https://images.pokemontcg.io/bw4/58_hires.png"
@@ -4272,6 +3982,7 @@ let nextDestinies = [
         "id": "bw4-59",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4312,10 +4023,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4330,10 +4038,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/59.png",
             "large": "https://images.pokemontcg.io/bw4/59_hires.png"
@@ -4343,6 +4048,7 @@ let nextDestinies = [
         "id": "bw4-60",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4385,10 +4091,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4403,10 +4106,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/60.png",
             "large": "https://images.pokemontcg.io/bw4/60_hires.png"
@@ -4416,6 +4116,7 @@ let nextDestinies = [
         "id": "bw4-61",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4450,10 +4151,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4468,10 +4166,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/61.png",
             "large": "https://images.pokemontcg.io/bw4/61_hires.png"
@@ -4481,6 +4176,7 @@ let nextDestinies = [
         "id": "bw4-62",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4524,10 +4220,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4542,10 +4235,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             606
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/62.png",
             "large": "https://images.pokemontcg.io/bw4/62_hires.png"
@@ -4555,6 +4245,7 @@ let nextDestinies = [
         "id": "bw4-63",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4599,10 +4290,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4617,10 +4305,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/63.png",
             "large": "https://images.pokemontcg.io/bw4/63_hires.png"
@@ -4630,6 +4315,7 @@ let nextDestinies = [
         "id": "bw4-64",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4670,10 +4356,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4688,10 +4371,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/64.png",
             "large": "https://images.pokemontcg.io/bw4/64_hires.png"
@@ -4701,6 +4381,7 @@ let nextDestinies = [
         "id": "bw4-65",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4752,10 +4433,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4770,10 +4448,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             449
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/65.png",
             "large": "https://images.pokemontcg.io/bw4/65_hires.png"
@@ -4783,6 +4458,7 @@ let nextDestinies = [
         "id": "bw4-66",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4835,10 +4511,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4853,10 +4526,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             450
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/66.png",
             "large": "https://images.pokemontcg.io/bw4/66_hires.png"
@@ -4866,6 +4536,7 @@ let nextDestinies = [
         "id": "bw4-67",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4900,10 +4571,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4918,10 +4586,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/67.png",
             "large": "https://images.pokemontcg.io/bw4/67_hires.png"
@@ -4931,6 +4596,7 @@ let nextDestinies = [
         "id": "bw4-68",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4973,10 +4639,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4991,10 +4654,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/68.png",
             "large": "https://images.pokemontcg.io/bw4/68_hires.png"
@@ -5004,6 +4664,7 @@ let nextDestinies = [
         "id": "bw4-69",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5054,10 +4715,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5072,10 +4730,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/69.png",
             "large": "https://images.pokemontcg.io/bw4/69_hires.png"
@@ -5085,6 +4740,7 @@ let nextDestinies = [
         "id": "bw4-70",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5134,10 +4790,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5152,10 +4805,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/70.png",
             "large": "https://images.pokemontcg.io/bw4/70_hires.png"
@@ -5165,6 +4815,7 @@ let nextDestinies = [
         "id": "bw4-71",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5207,10 +4858,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5225,10 +4873,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/71.png",
             "large": "https://images.pokemontcg.io/bw4/71_hires.png"
@@ -5238,6 +4883,7 @@ let nextDestinies = [
         "id": "bw4-72",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -5285,10 +4931,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5303,10 +4946,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/72.png",
             "large": "https://images.pokemontcg.io/bw4/72_hires.png"
@@ -5316,6 +4956,7 @@ let nextDestinies = [
         "id": "bw4-73",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5366,10 +5007,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5384,10 +5022,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/73.png",
             "large": "https://images.pokemontcg.io/bw4/73_hires.png"
@@ -5397,6 +5032,7 @@ let nextDestinies = [
         "id": "bw4-74",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5446,10 +5082,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5464,10 +5097,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/74.png",
             "large": "https://images.pokemontcg.io/bw4/74_hires.png"
@@ -5477,6 +5107,7 @@ let nextDestinies = [
         "id": "bw4-75",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5529,10 +5160,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5547,10 +5175,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/75.png",
             "large": "https://images.pokemontcg.io/bw4/75_hires.png"
@@ -5560,6 +5185,7 @@ let nextDestinies = [
         "id": "bw4-76",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5607,10 +5233,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5625,10 +5248,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/76.png",
             "large": "https://images.pokemontcg.io/bw4/76_hires.png"
@@ -5638,6 +5258,7 @@ let nextDestinies = [
         "id": "bw4-77",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5679,10 +5300,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5697,10 +5315,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/77.png",
             "large": "https://images.pokemontcg.io/bw4/77_hires.png"
@@ -5710,6 +5325,7 @@ let nextDestinies = [
         "id": "bw4-78",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5754,10 +5370,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5772,10 +5385,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/78.png",
             "large": "https://images.pokemontcg.io/bw4/78_hires.png"
@@ -5785,6 +5395,7 @@ let nextDestinies = [
         "id": "bw4-79",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5829,10 +5440,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5847,10 +5455,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/79.png",
             "large": "https://images.pokemontcg.io/bw4/79_hires.png"
@@ -5860,6 +5465,7 @@ let nextDestinies = [
         "id": "bw4-80",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5904,10 +5510,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5922,10 +5525,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/80.png",
             "large": "https://images.pokemontcg.io/bw4/80_hires.png"
@@ -5935,6 +5535,7 @@ let nextDestinies = [
         "id": "bw4-81",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5977,10 +5578,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5995,10 +5593,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/81.png",
             "large": "https://images.pokemontcg.io/bw4/81_hires.png"
@@ -6008,6 +5603,7 @@ let nextDestinies = [
         "id": "bw4-82",
         "name": "Regigigas-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6057,10 +5653,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6074,10 +5667,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/82.png",
             "large": "https://images.pokemontcg.io/bw4/82_hires.png"
@@ -6087,6 +5677,7 @@ let nextDestinies = [
         "id": "bw4-83",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -6137,10 +5728,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6155,10 +5743,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/83.png",
             "large": "https://images.pokemontcg.io/bw4/83_hires.png"
@@ -6168,6 +5753,7 @@ let nextDestinies = [
         "id": "bw4-84",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -6212,10 +5798,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6230,10 +5813,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/84.png",
             "large": "https://images.pokemontcg.io/bw4/84_hires.png"
@@ -6243,6 +5823,7 @@ let nextDestinies = [
         "id": "bw4-85",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -6284,10 +5865,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6302,10 +5880,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/85.png",
             "large": "https://images.pokemontcg.io/bw4/85_hires.png"
@@ -6315,6 +5890,7 @@ let nextDestinies = [
         "id": "bw4-86",
         "name": "Cilan",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Supporter"
         ],
@@ -6328,10 +5904,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6342,10 +5915,7 @@ let nextDestinies = [
         "number": "86",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/86.png",
             "large": "https://images.pokemontcg.io/bw4/86_hires.png"
@@ -6355,6 +5925,7 @@ let nextDestinies = [
         "id": "bw4-87",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6369,10 +5940,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6383,11 +5951,7 @@ let nextDestinies = [
         "number": "87",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/87.png",
             "large": "https://images.pokemontcg.io/bw4/87_hires.png"
@@ -6397,6 +5961,7 @@ let nextDestinies = [
         "id": "bw4-88",
         "name": "Heavy Ball",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Item"
         ],
@@ -6410,10 +5975,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6424,10 +5986,7 @@ let nextDestinies = [
         "number": "88",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/88.png",
             "large": "https://images.pokemontcg.io/bw4/88_hires.png"
@@ -6437,6 +5996,7 @@ let nextDestinies = [
         "id": "bw4-89",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Item"
         ],
@@ -6450,10 +6010,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6464,11 +6021,7 @@ let nextDestinies = [
         "number": "89",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/89.png",
             "large": "https://images.pokemontcg.io/bw4/89_hires.png"
@@ -6478,6 +6031,7 @@ let nextDestinies = [
         "id": "bw4-90",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stadium"
         ],
@@ -6491,10 +6045,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6505,10 +6056,7 @@ let nextDestinies = [
         "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/90.png",
             "large": "https://images.pokemontcg.io/bw4/90_hires.png"
@@ -6518,6 +6066,7 @@ let nextDestinies = [
         "id": "bw4-91",
         "name": "Skyarrow Bridge",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stadium"
         ],
@@ -6531,10 +6080,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6545,10 +6091,7 @@ let nextDestinies = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/91.png",
             "large": "https://images.pokemontcg.io/bw4/91_hires.png"
@@ -6558,6 +6101,7 @@ let nextDestinies = [
         "id": "bw4-92",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Special"
         ],
@@ -6570,10 +6114,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6584,10 +6125,7 @@ let nextDestinies = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/92.png",
             "large": "https://images.pokemontcg.io/bw4/92_hires.png"
@@ -6597,6 +6135,7 @@ let nextDestinies = [
         "id": "bw4-93",
         "name": "Prism Energy",
         "supertype": "Energy",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Special"
         ],
@@ -6610,10 +6149,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6624,10 +6160,7 @@ let nextDestinies = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/93.png",
             "large": "https://images.pokemontcg.io/bw4/93_hires.png"
@@ -6637,6 +6170,7 @@ let nextDestinies = [
         "id": "bw4-94",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6688,10 +6222,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6705,10 +6236,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/94.png",
             "large": "https://images.pokemontcg.io/bw4/94_hires.png"
@@ -6718,6 +6246,7 @@ let nextDestinies = [
         "id": "bw4-95",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6767,10 +6296,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6784,10 +6310,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/95.png",
             "large": "https://images.pokemontcg.io/bw4/95_hires.png"
@@ -6797,6 +6320,7 @@ let nextDestinies = [
         "id": "bw4-96",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6846,10 +6370,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6863,10 +6384,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/96.png",
             "large": "https://images.pokemontcg.io/bw4/96_hires.png"
@@ -6876,6 +6394,7 @@ let nextDestinies = [
         "id": "bw4-97",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6925,10 +6444,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6942,10 +6458,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/97.png",
             "large": "https://images.pokemontcg.io/bw4/97_hires.png"
@@ -6955,6 +6468,7 @@ let nextDestinies = [
         "id": "bw4-98",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -7005,10 +6519,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7022,10 +6533,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/98.png",
             "large": "https://images.pokemontcg.io/bw4/98_hires.png"
@@ -7035,6 +6543,7 @@ let nextDestinies = [
         "id": "bw4-99",
         "name": "Regigigas-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -7084,10 +6593,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7101,10 +6607,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/99.png",
             "large": "https://images.pokemontcg.io/bw4/99_hires.png"
@@ -7114,6 +6617,7 @@ let nextDestinies = [
         "id": "bw4-100",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -7156,10 +6660,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7174,10 +6675,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/100.png",
             "large": "https://images.pokemontcg.io/bw4/100_hires.png"
@@ -7187,6 +6685,7 @@ let nextDestinies = [
         "id": "bw4-101",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -7228,10 +6727,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7246,10 +6742,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/101.png",
             "large": "https://images.pokemontcg.io/bw4/101_hires.png"
@@ -7259,6 +6752,7 @@ let nextDestinies = [
         "id": "bw4-102",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -7307,10 +6801,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7325,10 +6816,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/102.png",
             "large": "https://images.pokemontcg.io/bw4/102_hires.png"
@@ -7338,6 +6826,7 @@ let nextDestinies = [
         "id": "bw4-103",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -7386,10 +6875,7 @@ let nextDestinies = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7404,10 +6890,7 @@ let nextDestinies = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/103.png",
             "large": "https://images.pokemontcg.io/bw4/103_hires.png"

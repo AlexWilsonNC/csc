@@ -3,6 +3,7 @@ let xy7 = [
         "id": "xy7-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -55,10 +53,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/1.png",
             "large": "https://images.pokemontcg.io/xy7/1_hires.png"
@@ -68,6 +63,7 @@ let xy7 = [
         "id": "xy7-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -105,10 +101,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -123,10 +116,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/2.png",
             "large": "https://images.pokemontcg.io/xy7/2_hires.png"
@@ -136,6 +126,7 @@ let xy7 = [
         "id": "xy7-3",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -177,10 +168,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -195,10 +183,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/3.png",
             "large": "https://images.pokemontcg.io/xy7/3_hires.png"
@@ -208,6 +193,7 @@ let xy7 = [
         "id": "xy7-4",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -250,10 +236,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -268,10 +251,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/4.png",
             "large": "https://images.pokemontcg.io/xy7/4_hires.png"
@@ -281,6 +261,7 @@ let xy7 = [
         "id": "xy7-5",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -315,10 +296,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -333,10 +311,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/5.png",
             "large": "https://images.pokemontcg.io/xy7/5_hires.png"
@@ -346,6 +321,7 @@ let xy7 = [
         "id": "xy7-6",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -386,10 +362,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -404,10 +377,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/6.png",
             "large": "https://images.pokemontcg.io/xy7/6_hires.png"
@@ -417,6 +387,7 @@ let xy7 = [
         "id": "xy7-7",
         "name": "Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -465,10 +436,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -482,10 +450,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/7.png",
             "large": "https://images.pokemontcg.io/xy7/7_hires.png"
@@ -495,6 +460,7 @@ let xy7 = [
         "id": "xy7-8",
         "name": "M Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -537,10 +503,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -554,10 +517,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/8.png",
             "large": "https://images.pokemontcg.io/xy7/8_hires.png"
@@ -567,6 +527,7 @@ let xy7 = [
         "id": "xy7-9",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -601,10 +562,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -619,10 +577,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/9.png",
             "large": "https://images.pokemontcg.io/xy7/9_hires.png"
@@ -632,6 +587,7 @@ let xy7 = [
         "id": "xy7-10",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -673,10 +629,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -691,10 +644,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/10.png",
             "large": "https://images.pokemontcg.io/xy7/10_hires.png"
@@ -704,6 +654,7 @@ let xy7 = [
         "id": "xy7-11",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -750,10 +701,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -768,10 +716,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/11.png",
             "large": "https://images.pokemontcg.io/xy7/11_hires.png"
@@ -781,6 +726,7 @@ let xy7 = [
         "id": "xy7-12",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -822,10 +768,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -840,10 +783,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/12.png",
             "large": "https://images.pokemontcg.io/xy7/12_hires.png"
@@ -853,6 +793,7 @@ let xy7 = [
         "id": "xy7-13",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -894,10 +835,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -912,10 +850,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/13.png",
             "large": "https://images.pokemontcg.io/xy7/13_hires.png"
@@ -925,6 +860,7 @@ let xy7 = [
         "id": "xy7-14",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -966,10 +902,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -984,10 +917,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/14.png",
             "large": "https://images.pokemontcg.io/xy7/14_hires.png"
@@ -997,6 +927,7 @@ let xy7 = [
         "id": "xy7-15",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1045,10 +976,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1063,10 +991,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/15.png",
             "large": "https://images.pokemontcg.io/xy7/15_hires.png"
@@ -1076,6 +1001,7 @@ let xy7 = [
         "id": "xy7-16",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1111,10 +1037,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1129,10 +1052,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/16.png",
             "large": "https://images.pokemontcg.io/xy7/16_hires.png"
@@ -1142,6 +1062,7 @@ let xy7 = [
         "id": "xy7-17",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1184,10 +1105,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1202,10 +1120,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/17.png",
             "large": "https://images.pokemontcg.io/xy7/17_hires.png"
@@ -1215,6 +1130,7 @@ let xy7 = [
         "id": "xy7-18",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1262,10 +1178,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1280,10 +1193,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/18.png",
             "large": "https://images.pokemontcg.io/xy7/18_hires.png"
@@ -1293,6 +1203,7 @@ let xy7 = [
         "id": "xy7-19",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1327,10 +1238,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1345,10 +1253,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/19.png",
             "large": "https://images.pokemontcg.io/xy7/19_hires.png"
@@ -1358,6 +1263,7 @@ let xy7 = [
         "id": "xy7-20",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1404,10 +1310,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1422,10 +1325,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/20.png",
             "large": "https://images.pokemontcg.io/xy7/20_hires.png"
@@ -1435,6 +1335,7 @@ let xy7 = [
         "id": "xy7-21",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1484,10 +1385,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1502,10 +1400,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/21.png",
             "large": "https://images.pokemontcg.io/xy7/21_hires.png"
@@ -1515,6 +1410,7 @@ let xy7 = [
         "id": "xy7-22",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1556,10 +1452,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1574,10 +1467,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/22.png",
             "large": "https://images.pokemontcg.io/xy7/22_hires.png"
@@ -1587,6 +1477,7 @@ let xy7 = [
         "id": "xy7-23",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1628,10 +1519,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1646,10 +1534,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             369
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/23.png",
             "large": "https://images.pokemontcg.io/xy7/23_hires.png"
@@ -1659,6 +1544,7 @@ let xy7 = [
         "id": "xy7-24",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1702,10 +1588,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1720,10 +1603,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/24.png",
             "large": "https://images.pokemontcg.io/xy7/24_hires.png"
@@ -1733,6 +1613,7 @@ let xy7 = [
         "id": "xy7-25",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1782,10 +1663,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1799,10 +1677,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/25.png",
             "large": "https://images.pokemontcg.io/xy7/25_hires.png"
@@ -1812,6 +1687,7 @@ let xy7 = [
         "id": "xy7-26",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1858,10 +1734,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1876,10 +1749,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/26.png",
             "large": "https://images.pokemontcg.io/xy7/26_hires.png"
@@ -1889,6 +1759,7 @@ let xy7 = [
         "id": "xy7-27",
         "name": "Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1945,10 +1816,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -1962,10 +1830,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/27.png",
             "large": "https://images.pokemontcg.io/xy7/27_hires.png"
@@ -1975,6 +1840,7 @@ let xy7 = [
         "id": "xy7-28",
         "name": "M Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -2021,10 +1887,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2038,10 +1901,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/28.png",
             "large": "https://images.pokemontcg.io/xy7/28_hires.png"
@@ -2051,6 +1911,7 @@ let xy7 = [
         "id": "xy7-29",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2098,10 +1959,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2116,10 +1974,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/29.png",
             "large": "https://images.pokemontcg.io/xy7/29_hires.png"
@@ -2129,6 +1984,7 @@ let xy7 = [
         "id": "xy7-30",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2167,10 +2023,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2185,10 +2038,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/30.png",
             "large": "https://images.pokemontcg.io/xy7/30_hires.png"
@@ -2198,6 +2048,7 @@ let xy7 = [
         "id": "xy7-31",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2242,10 +2093,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2260,10 +2108,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/31.png",
             "large": "https://images.pokemontcg.io/xy7/31_hires.png"
@@ -2273,6 +2118,7 @@ let xy7 = [
         "id": "xy7-32",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2311,10 +2157,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2329,10 +2172,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/32.png",
             "large": "https://images.pokemontcg.io/xy7/32_hires.png"
@@ -2342,6 +2182,7 @@ let xy7 = [
         "id": "xy7-33",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2384,10 +2225,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2402,10 +2240,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/33.png",
             "large": "https://images.pokemontcg.io/xy7/33_hires.png"
@@ -2415,6 +2250,7 @@ let xy7 = [
         "id": "xy7-34",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2456,10 +2292,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2474,10 +2307,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/34.png",
             "large": "https://images.pokemontcg.io/xy7/34_hires.png"
@@ -2487,6 +2317,7 @@ let xy7 = [
         "id": "xy7-35",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2539,10 +2370,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2557,10 +2385,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/35.png",
             "large": "https://images.pokemontcg.io/xy7/35_hires.png"
@@ -2570,6 +2395,7 @@ let xy7 = [
         "id": "xy7-36",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2614,10 +2440,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2631,10 +2454,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/36.png",
             "large": "https://images.pokemontcg.io/xy7/36_hires.png"
@@ -2644,6 +2464,7 @@ let xy7 = [
         "id": "xy7-37",
         "name": "Machamp-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2691,10 +2512,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2708,10 +2526,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/37.png",
             "large": "https://images.pokemontcg.io/xy7/37_hires.png"
@@ -2721,6 +2536,7 @@ let xy7 = [
         "id": "xy7-38",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2765,10 +2581,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2783,10 +2596,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/38.png",
             "large": "https://images.pokemontcg.io/xy7/38_hires.png"
@@ -2796,6 +2606,7 @@ let xy7 = [
         "id": "xy7-39",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2840,10 +2651,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2858,10 +2666,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/39.png",
             "large": "https://images.pokemontcg.io/xy7/39_hires.png"
@@ -2871,6 +2676,7 @@ let xy7 = [
         "id": "xy7-40",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2914,10 +2720,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -2932,10 +2735,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/40.png",
             "large": "https://images.pokemontcg.io/xy7/40_hires.png"
@@ -2945,6 +2745,7 @@ let xy7 = [
         "id": "xy7-41",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2989,10 +2790,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3007,10 +2805,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/41.png",
             "large": "https://images.pokemontcg.io/xy7/41_hires.png"
@@ -3020,6 +2815,7 @@ let xy7 = [
         "id": "xy7-42",
         "name": "Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3078,10 +2874,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3095,10 +2888,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/42.png",
             "large": "https://images.pokemontcg.io/xy7/42_hires.png"
@@ -3108,6 +2898,7 @@ let xy7 = [
         "id": "xy7-43",
         "name": "M Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -3158,10 +2949,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3175,10 +2963,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/43.png",
             "large": "https://images.pokemontcg.io/xy7/43_hires.png"
@@ -3188,6 +2973,7 @@ let xy7 = [
         "id": "xy7-44",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3223,10 +3009,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3241,10 +3024,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/44.png",
             "large": "https://images.pokemontcg.io/xy7/44_hires.png"
@@ -3254,6 +3034,7 @@ let xy7 = [
         "id": "xy7-45",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3294,10 +3075,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3312,10 +3090,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             686
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/45.png",
             "large": "https://images.pokemontcg.io/xy7/45_hires.png"
@@ -3325,6 +3100,7 @@ let xy7 = [
         "id": "xy7-46",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3372,10 +3148,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3390,10 +3163,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             687
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/46.png",
             "large": "https://images.pokemontcg.io/xy7/46_hires.png"
@@ -3403,6 +3173,7 @@ let xy7 = [
         "id": "xy7-47",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3454,10 +3225,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3472,10 +3240,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/47.png",
             "large": "https://images.pokemontcg.io/xy7/47_hires.png"
@@ -3485,6 +3250,7 @@ let xy7 = [
         "id": "xy7-48",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3538,10 +3304,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3556,10 +3319,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/48.png",
             "large": "https://images.pokemontcg.io/xy7/48_hires.png"
@@ -3569,6 +3329,7 @@ let xy7 = [
         "id": "xy7-49",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3617,10 +3378,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3635,10 +3393,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/49.png",
             "large": "https://images.pokemontcg.io/xy7/49_hires.png"
@@ -3648,6 +3403,7 @@ let xy7 = [
         "id": "xy7-50",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3703,10 +3459,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3721,10 +3474,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/50.png",
             "large": "https://images.pokemontcg.io/xy7/50_hires.png"
@@ -3734,6 +3484,7 @@ let xy7 = [
         "id": "xy7-51",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3783,10 +3534,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3801,10 +3549,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/51.png",
             "large": "https://images.pokemontcg.io/xy7/51_hires.png"
@@ -3814,6 +3559,7 @@ let xy7 = [
         "id": "xy7-52",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3864,10 +3610,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3882,10 +3625,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/52.png",
             "large": "https://images.pokemontcg.io/xy7/52_hires.png"
@@ -3895,6 +3635,7 @@ let xy7 = [
         "id": "xy7-53",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3948,10 +3689,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -3966,10 +3704,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/53.png",
             "large": "https://images.pokemontcg.io/xy7/53_hires.png"
@@ -3979,6 +3714,7 @@ let xy7 = [
         "id": "xy7-54",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4026,10 +3762,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4044,10 +3777,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/54.png",
             "large": "https://images.pokemontcg.io/xy7/54_hires.png"
@@ -4057,6 +3787,7 @@ let xy7 = [
         "id": "xy7-55",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4097,10 +3828,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4115,10 +3843,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/55.png",
             "large": "https://images.pokemontcg.io/xy7/55_hires.png"
@@ -4128,6 +3853,7 @@ let xy7 = [
         "id": "xy7-56",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4176,10 +3902,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4194,10 +3917,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/56.png",
             "large": "https://images.pokemontcg.io/xy7/56_hires.png"
@@ -4207,6 +3927,7 @@ let xy7 = [
         "id": "xy7-57",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -4252,10 +3973,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4269,10 +3987,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/57.png",
             "large": "https://images.pokemontcg.io/xy7/57_hires.png"
@@ -4282,6 +3997,7 @@ let xy7 = [
         "id": "xy7-58",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4324,10 +4040,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4342,10 +4055,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             704
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/58.png",
             "large": "https://images.pokemontcg.io/xy7/58_hires.png"
@@ -4355,6 +4065,7 @@ let xy7 = [
         "id": "xy7-59",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4400,10 +4111,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4418,10 +4126,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             705
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/59.png",
             "large": "https://images.pokemontcg.io/xy7/59_hires.png"
@@ -4431,6 +4136,7 @@ let xy7 = [
         "id": "xy7-60",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4476,10 +4182,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4494,10 +4197,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             706
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/60.png",
             "large": "https://images.pokemontcg.io/xy7/60_hires.png"
@@ -4507,6 +4207,7 @@ let xy7 = [
         "id": "xy7-61",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4541,10 +4242,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4559,10 +4257,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/61.png",
             "large": "https://images.pokemontcg.io/xy7/61_hires.png"
@@ -4572,6 +4267,7 @@ let xy7 = [
         "id": "xy7-62",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4614,10 +4310,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4632,10 +4325,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/62.png",
             "large": "https://images.pokemontcg.io/xy7/62_hires.png"
@@ -4645,6 +4335,7 @@ let xy7 = [
         "id": "xy7-63",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4696,10 +4387,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4714,10 +4402,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/63.png",
             "large": "https://images.pokemontcg.io/xy7/63_hires.png"
@@ -4727,6 +4412,7 @@ let xy7 = [
         "id": "xy7-64",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4771,10 +4457,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4789,10 +4472,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/64.png",
             "large": "https://images.pokemontcg.io/xy7/64_hires.png"
@@ -4802,6 +4482,7 @@ let xy7 = [
         "id": "xy7-65",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4848,10 +4529,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4866,10 +4544,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/65.png",
             "large": "https://images.pokemontcg.io/xy7/65_hires.png"
@@ -4879,6 +4554,7 @@ let xy7 = [
         "id": "xy7-66",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4922,10 +4598,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -4940,10 +4613,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/66.png",
             "large": "https://images.pokemontcg.io/xy7/66_hires.png"
@@ -4953,6 +4623,7 @@ let xy7 = [
         "id": "xy7-67",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4999,10 +4670,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5017,10 +4685,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/67.png",
             "large": "https://images.pokemontcg.io/xy7/67_hires.png"
@@ -5030,6 +4695,7 @@ let xy7 = [
         "id": "xy7-68",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5084,10 +4750,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5101,10 +4764,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/68.png",
             "large": "https://images.pokemontcg.io/xy7/68_hires.png"
@@ -5114,6 +4774,7 @@ let xy7 = [
         "id": "xy7-69",
         "name": "Ace Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -5128,10 +4789,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5142,10 +4800,7 @@ let xy7 = [
         "number": "69",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/69.png",
             "large": "https://images.pokemontcg.io/xy7/69_hires.png"
@@ -5155,6 +4810,7 @@ let xy7 = [
         "id": "xy7-70",
         "name": "Ampharos Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5169,10 +4825,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5183,10 +4836,7 @@ let xy7 = [
         "number": "70",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/70.png",
             "large": "https://images.pokemontcg.io/xy7/70_hires.png"
@@ -5196,6 +4846,7 @@ let xy7 = [
         "id": "xy7-71",
         "name": "Eco Arm",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -5209,10 +4860,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5223,10 +4871,7 @@ let xy7 = [
         "number": "71",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/71.png",
             "large": "https://images.pokemontcg.io/xy7/71_hires.png"
@@ -5236,6 +4881,7 @@ let xy7 = [
         "id": "xy7-72",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -5249,10 +4895,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5263,11 +4906,7 @@ let xy7 = [
         "number": "72",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/72.png",
             "large": "https://images.pokemontcg.io/xy7/72_hires.png"
@@ -5277,6 +4916,7 @@ let xy7 = [
         "id": "xy7-73",
         "name": "Faded Town",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stadium"
         ],
@@ -5290,10 +4930,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5304,10 +4941,7 @@ let xy7 = [
         "number": "73",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/73.png",
             "large": "https://images.pokemontcg.io/xy7/73_hires.png"
@@ -5317,6 +4951,7 @@ let xy7 = [
         "id": "xy7-74",
         "name": "Forest of Giant Plants",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stadium"
         ],
@@ -5330,10 +4965,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5357,6 +4989,7 @@ let xy7 = [
         "id": "xy7-75",
         "name": "Hex Maniac",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -5370,10 +5003,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5397,6 +5027,7 @@ let xy7 = [
         "id": "xy7-76",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -5410,10 +5041,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5424,11 +5052,7 @@ let xy7 = [
         "number": "76",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/76.png",
             "large": "https://images.pokemontcg.io/xy7/76_hires.png"
@@ -5438,6 +5062,7 @@ let xy7 = [
         "id": "xy7-77",
         "name": "Lucky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5452,10 +5077,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5466,10 +5088,7 @@ let xy7 = [
         "number": "77",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/77.png",
             "large": "https://images.pokemontcg.io/xy7/77_hires.png"
@@ -5479,6 +5098,7 @@ let xy7 = [
         "id": "xy7-78",
         "name": "Lysandre",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -5492,10 +5112,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5506,10 +5123,7 @@ let xy7 = [
         "number": "78",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/78.png",
             "large": "https://images.pokemontcg.io/xy7/78_hires.png"
@@ -5519,6 +5133,7 @@ let xy7 = [
         "id": "xy7-79",
         "name": "Paint Roller",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -5532,10 +5147,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5546,10 +5158,7 @@ let xy7 = [
         "number": "79",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/79.png",
             "large": "https://images.pokemontcg.io/xy7/79_hires.png"
@@ -5559,6 +5168,7 @@ let xy7 = [
         "id": "xy7-80",
         "name": "Sceptile Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5573,10 +5183,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5587,10 +5194,7 @@ let xy7 = [
         "number": "80",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/80.png",
             "large": "https://images.pokemontcg.io/xy7/80_hires.png"
@@ -5600,6 +5204,7 @@ let xy7 = [
         "id": "xy7-81",
         "name": "Tyranitar Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5614,10 +5219,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5628,10 +5230,7 @@ let xy7 = [
         "number": "81",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/81.png",
             "large": "https://images.pokemontcg.io/xy7/81_hires.png"
@@ -5641,6 +5240,7 @@ let xy7 = [
         "id": "xy7-82",
         "name": "Dangerous Energy",
         "supertype": "Energy",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Special"
         ],
@@ -5655,10 +5255,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5669,10 +5266,7 @@ let xy7 = [
         "number": "82",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/82.png",
             "large": "https://images.pokemontcg.io/xy7/82_hires.png"
@@ -5682,6 +5276,7 @@ let xy7 = [
         "id": "xy7-83",
         "name": "Flash Energy",
         "supertype": "Energy",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Special"
         ],
@@ -5696,10 +5291,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5710,10 +5302,7 @@ let xy7 = [
         "number": "83",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/83.png",
             "large": "https://images.pokemontcg.io/xy7/83_hires.png"
@@ -5723,6 +5312,7 @@ let xy7 = [
         "id": "xy7-84",
         "name": "Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5771,10 +5361,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5788,10 +5375,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/84.png",
             "large": "https://images.pokemontcg.io/xy7/84_hires.png"
@@ -5801,6 +5385,7 @@ let xy7 = [
         "id": "xy7-85",
         "name": "M Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5843,10 +5428,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5860,10 +5442,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/85.png",
             "large": "https://images.pokemontcg.io/xy7/85_hires.png"
@@ -5873,6 +5452,7 @@ let xy7 = [
         "id": "xy7-86",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5922,10 +5502,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -5939,10 +5516,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/86.png",
             "large": "https://images.pokemontcg.io/xy7/86_hires.png"
@@ -5952,6 +5526,7 @@ let xy7 = [
         "id": "xy7-87",
         "name": "Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6008,10 +5583,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6025,10 +5597,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/87.png",
             "large": "https://images.pokemontcg.io/xy7/87_hires.png"
@@ -6038,6 +5607,7 @@ let xy7 = [
         "id": "xy7-88",
         "name": "M Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6084,10 +5654,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6101,10 +5668,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/88.png",
             "large": "https://images.pokemontcg.io/xy7/88_hires.png"
@@ -6114,6 +5678,7 @@ let xy7 = [
         "id": "xy7-89",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6158,10 +5723,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6175,10 +5737,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/89.png",
             "large": "https://images.pokemontcg.io/xy7/89_hires.png"
@@ -6188,6 +5747,7 @@ let xy7 = [
         "id": "xy7-90",
         "name": "Machamp-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6235,10 +5795,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6252,10 +5809,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/90.png",
             "large": "https://images.pokemontcg.io/xy7/90_hires.png"
@@ -6265,6 +5819,7 @@ let xy7 = [
         "id": "xy7-91",
         "name": "Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6323,10 +5878,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6340,10 +5892,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/91.png",
             "large": "https://images.pokemontcg.io/xy7/91_hires.png"
@@ -6353,6 +5902,7 @@ let xy7 = [
         "id": "xy7-92",
         "name": "M Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6403,10 +5953,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6420,10 +5967,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/92.png",
             "large": "https://images.pokemontcg.io/xy7/92_hires.png"
@@ -6433,6 +5977,7 @@ let xy7 = [
         "id": "xy7-93",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6478,10 +6023,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6495,10 +6037,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/93.png",
             "large": "https://images.pokemontcg.io/xy7/93_hires.png"
@@ -6508,6 +6047,7 @@ let xy7 = [
         "id": "xy7-94",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6562,10 +6102,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6579,10 +6116,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/94.png",
             "large": "https://images.pokemontcg.io/xy7/94_hires.png"
@@ -6592,6 +6126,7 @@ let xy7 = [
         "id": "xy7-95",
         "name": "Steven",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -6605,10 +6140,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6619,10 +6151,7 @@ let xy7 = [
         "number": "95",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/95.png",
             "large": "https://images.pokemontcg.io/xy7/95_hires.png"
@@ -6632,6 +6161,7 @@ let xy7 = [
         "id": "xy7-96",
         "name": "Primal Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6676,10 +6206,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6693,10 +6220,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/96.png",
             "large": "https://images.pokemontcg.io/xy7/96_hires.png"
@@ -6706,6 +6230,7 @@ let xy7 = [
         "id": "xy7-97",
         "name": "Primal Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6750,10 +6275,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6767,10 +6289,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/97.png",
             "large": "https://images.pokemontcg.io/xy7/97_hires.png"
@@ -6780,6 +6299,7 @@ let xy7 = [
         "id": "xy7-98",
         "name": "M Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6829,10 +6349,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6846,10 +6363,7 @@ let xy7 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/98.png",
             "large": "https://images.pokemontcg.io/xy7/98_hires.png"
@@ -6859,6 +6373,7 @@ let xy7 = [
         "id": "xy7-99",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -6872,10 +6387,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6886,11 +6398,7 @@ let xy7 = [
         "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/99.png",
             "large": "https://images.pokemontcg.io/xy7/99_hires.png"
@@ -6900,6 +6408,7 @@ let xy7 = [
         "id": "xy7-100",
         "name": "Trainers' Mail",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -6913,10 +6422,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {
@@ -6927,10 +6433,7 @@ let xy7 = [
         "number": "100",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy7/100.png",
             "large": "https://images.pokemontcg.io/xy7/100_hires.png"
@@ -6940,6 +6443,7 @@ let xy7 = [
         "id": "xy7-75a",
         "name": "Hex Maniac",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -6953,10 +6457,7 @@ let xy7 = [
             "series": "XY",
             "printedTotal": 98,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "AOR",
             "releaseDate": "2015/08/12",
             "images": {

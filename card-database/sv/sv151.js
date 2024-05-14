@@ -3,6 +3,7 @@ let sv3pt5 = [
         "id": "sv3pt5-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -42,11 +43,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -61,11 +58,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/1.png",
@@ -76,6 +68,7 @@ let sv3pt5 = [
         "id": "sv3pt5-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -128,11 +121,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -147,11 +136,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/2.png",
@@ -162,6 +146,7 @@ let sv3pt5 = [
         "id": "sv3pt5-3",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -213,11 +198,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -231,11 +212,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/3.png",
@@ -246,6 +222,7 @@ let sv3pt5 = [
         "id": "sv3pt5-4",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -293,11 +270,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -312,11 +285,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/4.png",
@@ -327,6 +295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-5",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -377,11 +346,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -396,11 +361,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/5.png",
@@ -411,6 +371,7 @@ let sv3pt5 = [
         "id": "sv3pt5-6",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -463,11 +424,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -481,11 +438,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/6.png",
@@ -496,6 +448,7 @@ let sv3pt5 = [
         "id": "sv3pt5-7",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -543,11 +496,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -562,11 +511,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/7.png",
@@ -577,6 +521,7 @@ let sv3pt5 = [
         "id": "sv3pt5-8",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -626,11 +571,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -645,11 +586,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/8.png",
@@ -660,6 +596,7 @@ let sv3pt5 = [
         "id": "sv3pt5-9",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -709,11 +646,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -727,11 +660,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/9.png",
@@ -742,6 +670,7 @@ let sv3pt5 = [
         "id": "sv3pt5-10",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -779,11 +708,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -798,11 +723,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/10.png",
@@ -813,6 +733,7 @@ let sv3pt5 = [
         "id": "sv3pt5-11",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -863,11 +784,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -882,11 +799,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/11.png",
@@ -897,6 +809,7 @@ let sv3pt5 = [
         "id": "sv3pt5-12",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -942,11 +855,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -961,11 +870,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/12.png",
@@ -976,6 +880,7 @@ let sv3pt5 = [
         "id": "sv3pt5-13",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1023,11 +928,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1042,11 +943,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/13.png",
@@ -1057,6 +953,7 @@ let sv3pt5 = [
         "id": "sv3pt5-14",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1105,11 +1002,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1124,11 +1017,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/14.png",
@@ -1139,6 +1027,7 @@ let sv3pt5 = [
         "id": "sv3pt5-15",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1185,11 +1074,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1204,11 +1089,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/15.png",
@@ -1219,6 +1099,7 @@ let sv3pt5 = [
         "id": "sv3pt5-16",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1272,11 +1153,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1291,11 +1168,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/16.png",
@@ -1306,6 +1178,7 @@ let sv3pt5 = [
         "id": "sv3pt5-17",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1346,11 +1219,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1365,11 +1234,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/17.png",
@@ -1380,6 +1244,7 @@ let sv3pt5 = [
         "id": "sv3pt5-18",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1428,11 +1293,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1447,11 +1308,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/18.png",
@@ -1462,6 +1318,7 @@ let sv3pt5 = [
         "id": "sv3pt5-19",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1500,11 +1357,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1519,11 +1372,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/19.png",
@@ -1534,6 +1382,7 @@ let sv3pt5 = [
         "id": "sv3pt5-20",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1566,11 +1415,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1585,11 +1430,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/20.png",
@@ -1600,6 +1440,7 @@ let sv3pt5 = [
         "id": "sv3pt5-21",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1650,11 +1491,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1669,11 +1506,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/21.png",
@@ -1684,6 +1516,7 @@ let sv3pt5 = [
         "id": "sv3pt5-22",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1730,11 +1563,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1749,11 +1578,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/22.png",
@@ -1764,6 +1588,7 @@ let sv3pt5 = [
         "id": "sv3pt5-23",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1803,11 +1628,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1822,11 +1643,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/23.png",
@@ -1837,6 +1653,7 @@ let sv3pt5 = [
         "id": "sv3pt5-24",
         "name": "Arbok ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -1889,11 +1706,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1907,11 +1720,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/24.png",
@@ -1922,6 +1730,7 @@ let sv3pt5 = [
         "id": "sv3pt5-25",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1970,11 +1779,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -1989,11 +1794,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/25.png",
@@ -2004,6 +1804,7 @@ let sv3pt5 = [
         "id": "sv3pt5-26",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2048,11 +1849,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2067,11 +1864,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/26.png",
@@ -2082,6 +1874,7 @@ let sv3pt5 = [
         "id": "sv3pt5-27",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2127,11 +1920,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2146,11 +1935,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/27.png",
@@ -2161,6 +1945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-28",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2208,11 +1993,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2227,11 +2008,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/28.png",
@@ -2242,6 +2018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-29",
         "name": "Nidoran♀",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2280,11 +2057,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2299,11 +2072,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/29.png",
@@ -2314,6 +2082,7 @@ let sv3pt5 = [
         "id": "sv3pt5-30",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2363,11 +2132,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2382,11 +2147,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/30.png",
@@ -2397,6 +2157,7 @@ let sv3pt5 = [
         "id": "sv3pt5-31",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2446,11 +2207,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2465,11 +2222,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/31.png",
@@ -2480,6 +2232,7 @@ let sv3pt5 = [
         "id": "sv3pt5-32",
         "name": "Nidoran♂",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2517,11 +2270,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2536,11 +2285,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/32.png",
@@ -2551,6 +2295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-33",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2601,11 +2346,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2620,11 +2361,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/33.png",
@@ -2635,6 +2371,7 @@ let sv3pt5 = [
         "id": "sv3pt5-34",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2682,11 +2419,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2701,11 +2434,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/34.png",
@@ -2716,6 +2444,7 @@ let sv3pt5 = [
         "id": "sv3pt5-35",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2763,11 +2492,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2782,11 +2507,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/35.png",
@@ -2797,6 +2517,7 @@ let sv3pt5 = [
         "id": "sv3pt5-36",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2844,11 +2565,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2863,11 +2580,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/36.png",
@@ -2878,6 +2590,7 @@ let sv3pt5 = [
         "id": "sv3pt5-37",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2916,11 +2629,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -2935,11 +2644,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/37.png",
@@ -2950,6 +2654,7 @@ let sv3pt5 = [
         "id": "sv3pt5-38",
         "name": "Ninetales ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -3000,11 +2705,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3018,11 +2719,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/38.png",
@@ -3033,6 +2729,7 @@ let sv3pt5 = [
         "id": "sv3pt5-39",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3080,11 +2777,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3099,11 +2792,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/39.png",
@@ -3114,6 +2802,7 @@ let sv3pt5 = [
         "id": "sv3pt5-40",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -3164,11 +2853,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3182,11 +2867,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/40.png",
@@ -3197,6 +2877,7 @@ let sv3pt5 = [
         "id": "sv3pt5-41",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3247,11 +2928,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3266,11 +2943,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/41.png",
@@ -3281,6 +2953,7 @@ let sv3pt5 = [
         "id": "sv3pt5-42",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3325,11 +2998,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3344,11 +3013,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/42.png",
@@ -3359,6 +3023,7 @@ let sv3pt5 = [
         "id": "sv3pt5-43",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3397,11 +3062,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3416,11 +3077,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/43.png",
@@ -3431,6 +3087,7 @@ let sv3pt5 = [
         "id": "sv3pt5-44",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3478,11 +3135,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3497,11 +3150,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/44.png",
@@ -3512,6 +3160,7 @@ let sv3pt5 = [
         "id": "sv3pt5-45",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3557,11 +3206,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3576,11 +3221,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/45.png",
@@ -3591,6 +3231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-46",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3639,11 +3280,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3658,11 +3295,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/46.png",
@@ -3673,6 +3305,7 @@ let sv3pt5 = [
         "id": "sv3pt5-47",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3719,11 +3352,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3738,11 +3367,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/47.png",
@@ -3753,6 +3377,7 @@ let sv3pt5 = [
         "id": "sv3pt5-48",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3802,11 +3427,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3821,11 +3442,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/48.png",
@@ -3836,6 +3452,7 @@ let sv3pt5 = [
         "id": "sv3pt5-49",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3882,11 +3499,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3901,11 +3514,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/49.png",
@@ -3916,6 +3524,7 @@ let sv3pt5 = [
         "id": "sv3pt5-50",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3963,11 +3572,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -3982,11 +3587,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/50.png",
@@ -3997,6 +3597,7 @@ let sv3pt5 = [
         "id": "sv3pt5-51",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4042,11 +3643,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4061,11 +3658,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/51.png",
@@ -4076,6 +3668,7 @@ let sv3pt5 = [
         "id": "sv3pt5-52",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4123,11 +3716,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4142,11 +3731,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/52.png",
@@ -4157,6 +3741,7 @@ let sv3pt5 = [
         "id": "sv3pt5-53",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4201,11 +3786,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4220,11 +3801,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/53.png",
@@ -4235,6 +3811,7 @@ let sv3pt5 = [
         "id": "sv3pt5-54",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4281,11 +3858,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4300,11 +3873,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/54.png",
@@ -4315,6 +3883,7 @@ let sv3pt5 = [
         "id": "sv3pt5-55",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4361,11 +3930,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4380,11 +3945,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/55.png",
@@ -4395,6 +3955,7 @@ let sv3pt5 = [
         "id": "sv3pt5-56",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4432,11 +3993,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4451,11 +4008,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/56.png",
@@ -4466,6 +4018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-57",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4513,11 +4066,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4532,11 +4081,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/57.png",
@@ -4547,6 +4091,7 @@ let sv3pt5 = [
         "id": "sv3pt5-58",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4585,11 +4130,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4604,11 +4145,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/58.png",
@@ -4619,6 +4155,7 @@ let sv3pt5 = [
         "id": "sv3pt5-59",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4669,11 +4206,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4688,11 +4221,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/59.png",
@@ -4703,6 +4231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-60",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4740,11 +4269,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4759,11 +4284,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/60.png",
@@ -4774,6 +4294,7 @@ let sv3pt5 = [
         "id": "sv3pt5-61",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4823,11 +4344,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4842,11 +4359,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/61.png",
@@ -4857,6 +4369,7 @@ let sv3pt5 = [
         "id": "sv3pt5-62",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4904,11 +4417,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -4923,11 +4432,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/62.png",
@@ -4938,6 +4442,7 @@ let sv3pt5 = [
         "id": "sv3pt5-63",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4981,11 +4486,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5000,11 +4501,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/63.png",
@@ -5015,6 +4511,7 @@ let sv3pt5 = [
         "id": "sv3pt5-64",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5059,11 +4556,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5078,11 +4571,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/64.png",
@@ -5093,6 +4581,7 @@ let sv3pt5 = [
         "id": "sv3pt5-65",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -5149,11 +4638,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5167,11 +4652,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/65.png",
@@ -5182,6 +4662,7 @@ let sv3pt5 = [
         "id": "sv3pt5-66",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5230,11 +4711,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5249,11 +4726,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/66.png",
@@ -5264,6 +4736,7 @@ let sv3pt5 = [
         "id": "sv3pt5-67",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5304,11 +4777,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5323,11 +4792,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/67.png",
@@ -5338,6 +4802,7 @@ let sv3pt5 = [
         "id": "sv3pt5-68",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -5382,11 +4847,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5401,11 +4862,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/68.png",
@@ -5416,6 +4872,7 @@ let sv3pt5 = [
         "id": "sv3pt5-69",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5463,11 +4920,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5482,11 +4935,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/69.png",
@@ -5497,6 +4945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-70",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5546,11 +4995,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5565,11 +5010,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/70.png",
@@ -5580,6 +5020,7 @@ let sv3pt5 = [
         "id": "sv3pt5-71",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -5627,11 +5068,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5646,11 +5083,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/71.png",
@@ -5661,6 +5093,7 @@ let sv3pt5 = [
         "id": "sv3pt5-72",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5708,11 +5141,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5727,11 +5156,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/72.png",
@@ -5742,6 +5166,7 @@ let sv3pt5 = [
         "id": "sv3pt5-73",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5790,11 +5215,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5809,11 +5230,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/73.png",
@@ -5824,6 +5240,7 @@ let sv3pt5 = [
         "id": "sv3pt5-74",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5872,11 +5289,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5891,11 +5304,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/74.png",
@@ -5906,6 +5314,7 @@ let sv3pt5 = [
         "id": "sv3pt5-75",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5957,11 +5366,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -5976,11 +5381,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/75.png",
@@ -5991,6 +5391,7 @@ let sv3pt5 = [
         "id": "sv3pt5-76",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -6044,11 +5445,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6062,11 +5459,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/76.png",
@@ -6077,6 +5469,7 @@ let sv3pt5 = [
         "id": "sv3pt5-77",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6125,11 +5518,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6144,11 +5533,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/77.png",
@@ -6159,6 +5543,7 @@ let sv3pt5 = [
         "id": "sv3pt5-78",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6205,11 +5590,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6224,11 +5605,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/78.png",
@@ -6239,6 +5615,7 @@ let sv3pt5 = [
         "id": "sv3pt5-79",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6294,11 +5671,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6313,11 +5686,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/79.png",
@@ -6328,6 +5696,7 @@ let sv3pt5 = [
         "id": "sv3pt5-80",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6381,11 +5750,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6400,11 +5765,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/80.png",
@@ -6415,6 +5775,7 @@ let sv3pt5 = [
         "id": "sv3pt5-81",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6462,11 +5823,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6481,11 +5838,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/81.png",
@@ -6496,6 +5848,7 @@ let sv3pt5 = [
         "id": "sv3pt5-82",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6546,11 +5899,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6565,11 +5914,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/82.png",
@@ -6580,6 +5924,7 @@ let sv3pt5 = [
         "id": "sv3pt5-83",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6632,11 +5977,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6651,11 +5992,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/83.png",
@@ -6666,6 +6002,7 @@ let sv3pt5 = [
         "id": "sv3pt5-84",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6709,11 +6046,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6728,11 +6061,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/84.png",
@@ -6743,6 +6071,7 @@ let sv3pt5 = [
         "id": "sv3pt5-85",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6791,11 +6120,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6810,11 +6135,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/85.png",
@@ -6825,6 +6145,7 @@ let sv3pt5 = [
         "id": "sv3pt5-86",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6863,11 +6184,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6882,11 +6199,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/86.png",
@@ -6897,6 +6209,7 @@ let sv3pt5 = [
         "id": "sv3pt5-87",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6945,11 +6258,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -6964,11 +6273,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/87.png",
@@ -6979,6 +6283,7 @@ let sv3pt5 = [
         "id": "sv3pt5-88",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7017,11 +6322,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7036,11 +6337,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/88.png",
@@ -7051,6 +6347,7 @@ let sv3pt5 = [
         "id": "sv3pt5-89",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7101,11 +6398,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7120,11 +6413,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/89.png",
@@ -7135,6 +6423,7 @@ let sv3pt5 = [
         "id": "sv3pt5-90",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7174,11 +6463,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7193,11 +6478,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/90.png",
@@ -7208,6 +6488,7 @@ let sv3pt5 = [
         "id": "sv3pt5-91",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7246,11 +6527,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7265,11 +6542,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/91.png",
@@ -7280,6 +6552,7 @@ let sv3pt5 = [
         "id": "sv3pt5-92",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7323,11 +6596,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7342,11 +6611,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/92.png",
@@ -7357,6 +6621,7 @@ let sv3pt5 = [
         "id": "sv3pt5-93",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7409,11 +6674,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7428,11 +6689,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/93.png",
@@ -7443,6 +6699,7 @@ let sv3pt5 = [
         "id": "sv3pt5-94",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -7490,11 +6747,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7509,11 +6762,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/94.png",
@@ -7524,6 +6772,7 @@ let sv3pt5 = [
         "id": "sv3pt5-95",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7577,11 +6826,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7596,11 +6841,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/95.png",
@@ -7611,6 +6851,7 @@ let sv3pt5 = [
         "id": "sv3pt5-96",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7656,11 +6897,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7675,11 +6912,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/96.png",
@@ -7690,6 +6922,7 @@ let sv3pt5 = [
         "id": "sv3pt5-97",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7741,11 +6974,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7760,11 +6989,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/97.png",
@@ -7775,6 +6999,7 @@ let sv3pt5 = [
         "id": "sv3pt5-98",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7823,11 +7048,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7842,11 +7063,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/98.png",
@@ -7857,6 +7073,7 @@ let sv3pt5 = [
         "id": "sv3pt5-99",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7908,11 +7125,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7927,11 +7140,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/99.png",
@@ -7942,6 +7150,7 @@ let sv3pt5 = [
         "id": "sv3pt5-100",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7979,11 +7188,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -7998,11 +7203,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/100.png",
@@ -8013,6 +7213,7 @@ let sv3pt5 = [
         "id": "sv3pt5-101",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8058,11 +7259,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8077,11 +7274,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/101.png",
@@ -8092,6 +7284,7 @@ let sv3pt5 = [
         "id": "sv3pt5-102",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8130,11 +7323,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8149,11 +7338,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/102.png",
@@ -8164,6 +7348,7 @@ let sv3pt5 = [
         "id": "sv3pt5-103",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8213,11 +7398,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8232,11 +7413,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/103.png",
@@ -8247,6 +7423,7 @@ let sv3pt5 = [
         "id": "sv3pt5-104",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8291,11 +7468,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8310,11 +7483,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/104.png",
@@ -8325,6 +7493,7 @@ let sv3pt5 = [
         "id": "sv3pt5-105",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8371,11 +7540,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8390,11 +7555,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/105.png",
@@ -8405,6 +7565,7 @@ let sv3pt5 = [
         "id": "sv3pt5-106",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8451,11 +7612,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8470,11 +7627,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/106.png",
@@ -8485,6 +7637,7 @@ let sv3pt5 = [
         "id": "sv3pt5-107",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8527,11 +7680,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8546,11 +7695,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/107.png",
@@ -8561,6 +7705,7 @@ let sv3pt5 = [
         "id": "sv3pt5-108",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8603,11 +7748,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8622,11 +7763,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/108.png",
@@ -8637,6 +7773,7 @@ let sv3pt5 = [
         "id": "sv3pt5-109",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8675,11 +7812,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8694,11 +7827,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/109.png",
@@ -8709,6 +7837,7 @@ let sv3pt5 = [
         "id": "sv3pt5-110",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8753,11 +7882,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8772,11 +7897,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/110.png",
@@ -8787,6 +7907,7 @@ let sv3pt5 = [
         "id": "sv3pt5-111",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8838,11 +7959,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8857,11 +7974,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/111.png",
@@ -8872,6 +7984,7 @@ let sv3pt5 = [
         "id": "sv3pt5-112",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8925,11 +8038,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -8944,11 +8053,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/112.png",
@@ -8959,6 +8063,7 @@ let sv3pt5 = [
         "id": "sv3pt5-113",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9006,11 +8111,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9025,11 +8126,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/113.png",
@@ -9040,6 +8136,7 @@ let sv3pt5 = [
         "id": "sv3pt5-114",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9078,11 +8175,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9097,11 +8190,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/114.png",
@@ -9112,6 +8200,7 @@ let sv3pt5 = [
         "id": "sv3pt5-115",
         "name": "Kangaskhan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -9162,11 +8251,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9180,11 +8265,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/115.png",
@@ -9195,6 +8275,7 @@ let sv3pt5 = [
         "id": "sv3pt5-116",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9243,11 +8324,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9262,11 +8339,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/116.png",
@@ -9277,6 +8349,7 @@ let sv3pt5 = [
         "id": "sv3pt5-117",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9317,11 +8390,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9336,11 +8405,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/117.png",
@@ -9351,6 +8415,7 @@ let sv3pt5 = [
         "id": "sv3pt5-118",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9398,11 +8463,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9417,11 +8478,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/118.png",
@@ -9432,6 +8488,7 @@ let sv3pt5 = [
         "id": "sv3pt5-119",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9479,11 +8536,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9498,11 +8551,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/119.png",
@@ -9513,6 +8561,7 @@ let sv3pt5 = [
         "id": "sv3pt5-120",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9551,11 +8600,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9570,11 +8615,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/120.png",
@@ -9585,6 +8625,7 @@ let sv3pt5 = [
         "id": "sv3pt5-121",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9628,11 +8669,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9647,11 +8684,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/121.png",
@@ -9662,6 +8694,7 @@ let sv3pt5 = [
         "id": "sv3pt5-122",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9709,11 +8742,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9725,11 +8754,7 @@ let sv3pt5 = [
         "artist": "OOYAMA",
         "rarity": "Rare",
         "flavorText": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/122.png",
@@ -9740,6 +8765,7 @@ let sv3pt5 = [
         "id": "sv3pt5-123",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9784,11 +8810,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9803,11 +8825,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/123.png",
@@ -9818,6 +8835,7 @@ let sv3pt5 = [
         "id": "sv3pt5-124",
         "name": "Jynx ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -9870,11 +8888,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9888,11 +8902,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/124.png",
@@ -9903,6 +8912,7 @@ let sv3pt5 = [
         "id": "sv3pt5-125",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9951,11 +8961,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -9970,11 +8976,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/125.png",
@@ -9985,6 +8986,7 @@ let sv3pt5 = [
         "id": "sv3pt5-126",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10034,11 +9036,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10053,11 +9051,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/126.png",
@@ -10068,6 +9061,7 @@ let sv3pt5 = [
         "id": "sv3pt5-127",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10115,11 +9109,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10134,11 +9124,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/127.png",
@@ -10149,6 +9134,7 @@ let sv3pt5 = [
         "id": "sv3pt5-128",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10194,11 +9180,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10213,11 +9195,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/128.png",
@@ -10228,6 +9205,7 @@ let sv3pt5 = [
         "id": "sv3pt5-129",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10265,11 +9243,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10284,11 +9258,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/129.png",
@@ -10299,6 +9268,7 @@ let sv3pt5 = [
         "id": "sv3pt5-130",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10347,11 +9317,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10366,11 +9332,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/130.png",
@@ -10381,6 +9342,7 @@ let sv3pt5 = [
         "id": "sv3pt5-131",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10426,11 +9388,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10445,11 +9403,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/131.png",
@@ -10460,6 +9413,7 @@ let sv3pt5 = [
         "id": "sv3pt5-132",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10501,11 +9455,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10520,11 +9470,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/132.png",
@@ -10535,6 +9480,7 @@ let sv3pt5 = [
         "id": "sv3pt5-133",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10588,11 +9534,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10607,11 +9549,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/133.png",
@@ -10622,6 +9559,7 @@ let sv3pt5 = [
         "id": "sv3pt5-134",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10669,11 +9607,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10688,11 +9622,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/134.png",
@@ -10703,6 +9632,7 @@ let sv3pt5 = [
         "id": "sv3pt5-135",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10745,11 +9675,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10764,11 +9690,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/135.png",
@@ -10779,6 +9700,7 @@ let sv3pt5 = [
         "id": "sv3pt5-136",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10826,11 +9748,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10845,11 +9763,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/136.png",
@@ -10860,6 +9773,7 @@ let sv3pt5 = [
         "id": "sv3pt5-137",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10897,11 +9811,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10916,11 +9826,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/137.png",
@@ -10931,6 +9836,7 @@ let sv3pt5 = [
         "id": "sv3pt5-138",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10971,11 +9877,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -10990,11 +9892,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/138.png",
@@ -11005,6 +9902,7 @@ let sv3pt5 = [
         "id": "sv3pt5-139",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -11050,11 +9948,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11069,11 +9963,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/139.png",
@@ -11084,6 +9973,7 @@ let sv3pt5 = [
         "id": "sv3pt5-140",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11124,11 +10014,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11143,11 +10029,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/140.png",
@@ -11158,6 +10039,7 @@ let sv3pt5 = [
         "id": "sv3pt5-141",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -11203,11 +10085,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11222,11 +10100,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/141.png",
@@ -11237,6 +10110,7 @@ let sv3pt5 = [
         "id": "sv3pt5-142",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11284,11 +10158,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11303,11 +10173,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/142.png",
@@ -11318,6 +10183,7 @@ let sv3pt5 = [
         "id": "sv3pt5-143",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11364,11 +10230,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11383,11 +10245,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/143.png",
@@ -11398,6 +10255,7 @@ let sv3pt5 = [
         "id": "sv3pt5-144",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11448,11 +10306,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11467,11 +10321,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/144.png",
@@ -11482,6 +10331,7 @@ let sv3pt5 = [
         "id": "sv3pt5-145",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -11536,11 +10386,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11554,11 +10400,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/145.png",
@@ -11569,6 +10410,7 @@ let sv3pt5 = [
         "id": "sv3pt5-146",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11619,11 +10461,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11638,11 +10476,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/146.png",
@@ -11653,6 +10486,7 @@ let sv3pt5 = [
         "id": "sv3pt5-147",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11694,11 +10528,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11713,11 +10543,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/147.png",
@@ -11728,6 +10553,7 @@ let sv3pt5 = [
         "id": "sv3pt5-148",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11771,11 +10597,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11790,11 +10612,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/148.png",
@@ -11805,6 +10622,7 @@ let sv3pt5 = [
         "id": "sv3pt5-149",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -11844,11 +10662,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11863,11 +10677,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/149.png",
@@ -11878,6 +10687,7 @@ let sv3pt5 = [
         "id": "sv3pt5-150",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11931,11 +10741,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -11950,11 +10756,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/150.png",
@@ -11965,6 +10766,7 @@ let sv3pt5 = [
         "id": "sv3pt5-151",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -12014,11 +10816,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12032,11 +10830,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/151.png",
@@ -12047,6 +10840,7 @@ let sv3pt5 = [
         "id": "sv3pt5-152",
         "name": "Antique Dome Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -12068,11 +10862,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12083,11 +10873,7 @@ let sv3pt5 = [
         "number": "152",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/152.png",
@@ -12098,6 +10884,7 @@ let sv3pt5 = [
         "id": "sv3pt5-153",
         "name": "Antique Helix Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -12119,11 +10906,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12134,11 +10917,7 @@ let sv3pt5 = [
         "number": "153",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/153.png",
@@ -12149,6 +10928,7 @@ let sv3pt5 = [
         "id": "sv3pt5-154",
         "name": "Antique Old Amber",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -12170,11 +10950,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12185,11 +10961,7 @@ let sv3pt5 = [
         "number": "154",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/154.png",
@@ -12200,6 +10972,7 @@ let sv3pt5 = [
         "id": "sv3pt5-155",
         "name": "Big Air Balloon",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12213,11 +10986,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12228,11 +10997,7 @@ let sv3pt5 = [
         "number": "155",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/155.png",
@@ -12243,6 +11008,7 @@ let sv3pt5 = [
         "id": "sv3pt5-156",
         "name": "Bill's Transfer",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -12256,11 +11022,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12271,11 +11033,7 @@ let sv3pt5 = [
         "number": "156",
         "artist": "GIDORA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/156.png",
@@ -12286,6 +11044,7 @@ let sv3pt5 = [
         "id": "sv3pt5-157",
         "name": "Cycling Road",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stadium"
         ],
@@ -12299,11 +11058,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12314,11 +11069,7 @@ let sv3pt5 = [
         "number": "157",
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/157.png",
@@ -12329,6 +11080,7 @@ let sv3pt5 = [
         "id": "sv3pt5-158",
         "name": "Daisy's Help",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -12342,11 +11094,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12357,11 +11105,7 @@ let sv3pt5 = [
         "number": "158",
         "artist": "Tomomi Kaneko",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/158.png",
@@ -12372,6 +11116,7 @@ let sv3pt5 = [
         "id": "sv3pt5-159",
         "name": "Energy Sticker",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -12385,11 +11130,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12400,11 +11141,7 @@ let sv3pt5 = [
         "number": "159",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/159.png",
@@ -12415,6 +11152,7 @@ let sv3pt5 = [
         "id": "sv3pt5-160",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -12428,11 +11166,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12443,11 +11177,7 @@ let sv3pt5 = [
         "number": "160",
         "artist": "saino misaki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/160.png",
@@ -12458,6 +11188,7 @@ let sv3pt5 = [
         "id": "sv3pt5-161",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -12471,11 +11202,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12486,11 +11213,7 @@ let sv3pt5 = [
         "number": "161",
         "artist": "hncl",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/161.png",
@@ -12501,6 +11224,7 @@ let sv3pt5 = [
         "id": "sv3pt5-162",
         "name": "Grabber",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -12514,11 +11238,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12529,11 +11249,7 @@ let sv3pt5 = [
         "number": "162",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/162.png",
@@ -12544,6 +11260,7 @@ let sv3pt5 = [
         "id": "sv3pt5-163",
         "name": "Leftovers",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12557,11 +11274,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12572,11 +11285,7 @@ let sv3pt5 = [
         "number": "163",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/163.png",
@@ -12587,6 +11296,7 @@ let sv3pt5 = [
         "id": "sv3pt5-164",
         "name": "Protective Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12600,11 +11310,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12615,11 +11321,7 @@ let sv3pt5 = [
         "number": "164",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/164.png",
@@ -12630,6 +11332,7 @@ let sv3pt5 = [
         "id": "sv3pt5-165",
         "name": "Rigid Band",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12643,11 +11346,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12658,11 +11357,7 @@ let sv3pt5 = [
         "number": "165",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/165.png",
@@ -12673,6 +11368,7 @@ let sv3pt5 = [
         "id": "sv3pt5-166",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -12712,11 +11408,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12731,11 +11423,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/166.png",
@@ -12746,6 +11433,7 @@ let sv3pt5 = [
         "id": "sv3pt5-167",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -12798,11 +11486,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12817,11 +11501,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/167.png",
@@ -12832,6 +11511,7 @@ let sv3pt5 = [
         "id": "sv3pt5-168",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -12879,11 +11559,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12898,11 +11574,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/168.png",
@@ -12913,6 +11584,7 @@ let sv3pt5 = [
         "id": "sv3pt5-169",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -12963,11 +11635,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -12982,11 +11650,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/169.png",
@@ -12997,6 +11660,7 @@ let sv3pt5 = [
         "id": "sv3pt5-170",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13044,11 +11708,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13063,11 +11723,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/170.png",
@@ -13078,6 +11733,7 @@ let sv3pt5 = [
         "id": "sv3pt5-171",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -13127,11 +11783,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13146,11 +11798,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/171.png",
@@ -13161,6 +11808,7 @@ let sv3pt5 = [
         "id": "sv3pt5-172",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13198,11 +11846,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13217,11 +11861,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/172.png",
@@ -13232,6 +11871,7 @@ let sv3pt5 = [
         "id": "sv3pt5-173",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13280,11 +11920,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13299,11 +11935,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/173.png",
@@ -13314,6 +11945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-174",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -13361,11 +11993,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13380,11 +12008,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/174.png",
@@ -13395,6 +12018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-175",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13441,11 +12065,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13460,11 +12080,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/175.png",
@@ -13475,6 +12090,7 @@ let sv3pt5 = [
         "id": "sv3pt5-176",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -13524,11 +12140,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13543,11 +12155,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/176.png",
@@ -13558,6 +12165,7 @@ let sv3pt5 = [
         "id": "sv3pt5-177",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -13598,11 +12206,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13617,11 +12221,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/177.png",
@@ -13632,6 +12231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-178",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13670,11 +12270,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13689,11 +12285,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/178.png",
@@ -13704,6 +12295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-179",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -13751,11 +12343,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13767,11 +12355,7 @@ let sv3pt5 = [
         "artist": "OKACHEKE",
         "rarity": "Illustration Rare",
         "flavorText": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/179.png",
@@ -13782,6 +12366,7 @@ let sv3pt5 = [
         "id": "sv3pt5-180",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -13822,11 +12407,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13841,11 +12422,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/180.png",
@@ -13856,6 +12432,7 @@ let sv3pt5 = [
         "id": "sv3pt5-181",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -13899,11 +12476,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -13918,11 +12491,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/181.png",
@@ -13933,6 +12501,7 @@ let sv3pt5 = [
         "id": "sv3pt5-182",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13984,11 +12553,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14002,11 +12567,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/182.png",
@@ -14017,6 +12577,7 @@ let sv3pt5 = [
         "id": "sv3pt5-183",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14069,11 +12630,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14087,11 +12644,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/183.png",
@@ -14102,6 +12654,7 @@ let sv3pt5 = [
         "id": "sv3pt5-184",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14151,11 +12704,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14169,11 +12718,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/184.png",
@@ -14184,6 +12728,7 @@ let sv3pt5 = [
         "id": "sv3pt5-185",
         "name": "Arbok ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14236,11 +12781,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14254,11 +12795,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/185.png",
@@ -14269,6 +12805,7 @@ let sv3pt5 = [
         "id": "sv3pt5-186",
         "name": "Ninetales ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14319,11 +12856,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14337,11 +12870,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/186.png",
@@ -14352,6 +12880,7 @@ let sv3pt5 = [
         "id": "sv3pt5-187",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14402,11 +12931,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14420,11 +12945,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/187.png",
@@ -14435,6 +12955,7 @@ let sv3pt5 = [
         "id": "sv3pt5-188",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14491,11 +13012,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14509,11 +13026,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/188.png",
@@ -14524,6 +13036,7 @@ let sv3pt5 = [
         "id": "sv3pt5-189",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14577,11 +13090,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14595,11 +13104,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/189.png",
@@ -14610,6 +13114,7 @@ let sv3pt5 = [
         "id": "sv3pt5-190",
         "name": "Kangaskhan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -14660,11 +13165,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14678,11 +13179,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/190.png",
@@ -14693,6 +13189,7 @@ let sv3pt5 = [
         "id": "sv3pt5-191",
         "name": "Jynx ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -14745,11 +13242,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14763,11 +13256,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/191.png",
@@ -14778,6 +13266,7 @@ let sv3pt5 = [
         "id": "sv3pt5-192",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -14832,11 +13321,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14850,11 +13335,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/192.png",
@@ -14865,6 +13345,7 @@ let sv3pt5 = [
         "id": "sv3pt5-193",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -14914,11 +13395,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14932,11 +13409,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/193.png",
@@ -14947,6 +13419,7 @@ let sv3pt5 = [
         "id": "sv3pt5-194",
         "name": "Bill's Transfer",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -14960,11 +13433,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -14975,11 +13444,7 @@ let sv3pt5 = [
         "number": "194",
         "artist": "GIDORA",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/194.png",
@@ -14990,6 +13455,7 @@ let sv3pt5 = [
         "id": "sv3pt5-195",
         "name": "Daisy's Help",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -15003,11 +13469,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15018,11 +13480,7 @@ let sv3pt5 = [
         "number": "195",
         "artist": "Fumie Kittaka",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/195.png",
@@ -15033,6 +13491,7 @@ let sv3pt5 = [
         "id": "sv3pt5-196",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -15046,11 +13505,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15061,11 +13516,7 @@ let sv3pt5 = [
         "number": "196",
         "artist": "saino misaki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/196.png",
@@ -15076,6 +13527,7 @@ let sv3pt5 = [
         "id": "sv3pt5-197",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -15089,11 +13541,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15104,11 +13552,7 @@ let sv3pt5 = [
         "number": "197",
         "artist": "hncl",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/197.png",
@@ -15119,6 +13563,7 @@ let sv3pt5 = [
         "id": "sv3pt5-198",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15170,11 +13615,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15188,11 +13629,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/198.png",
@@ -15203,6 +13639,7 @@ let sv3pt5 = [
         "id": "sv3pt5-199",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15255,11 +13692,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15273,11 +13706,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/199.png",
@@ -15288,6 +13716,7 @@ let sv3pt5 = [
         "id": "sv3pt5-200",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15337,11 +13766,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15355,11 +13780,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/200.png",
@@ -15370,6 +13790,7 @@ let sv3pt5 = [
         "id": "sv3pt5-201",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15426,11 +13847,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15444,11 +13861,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/201.png",
@@ -15459,6 +13871,7 @@ let sv3pt5 = [
         "id": "sv3pt5-202",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -15513,11 +13926,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15531,11 +13940,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/202.png",
@@ -15546,6 +13950,7 @@ let sv3pt5 = [
         "id": "sv3pt5-203",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -15559,11 +13964,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15574,11 +13975,7 @@ let sv3pt5 = [
         "number": "203",
         "artist": "Cona Nitanda",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/203.png",
@@ -15589,6 +13986,7 @@ let sv3pt5 = [
         "id": "sv3pt5-204",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -15602,11 +14000,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15617,11 +14011,7 @@ let sv3pt5 = [
         "number": "204",
         "artist": "Hideki Ishikawa",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/204.png",
@@ -15632,6 +14022,7 @@ let sv3pt5 = [
         "id": "sv3pt5-205",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -15681,11 +14072,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15699,11 +14086,6 @@ let sv3pt5 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/205.png",
@@ -15714,6 +14096,7 @@ let sv3pt5 = [
         "id": "sv3pt5-206",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -15727,11 +14110,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15742,11 +14121,7 @@ let sv3pt5 = [
         "number": "206",
         "artist": "Studio Bora Inc.",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/206.png",
@@ -15757,6 +14132,7 @@ let sv3pt5 = [
         "id": "sv3pt5-207",
         "name": "Basic Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -15769,11 +14145,7 @@ let sv3pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 165,
             "total": 207,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/09/22",
             "updatedAt": "2023/09/22 15:00:00",
             "images": {
@@ -15783,11 +14155,7 @@ let sv3pt5 = [
         },
         "number": "207",
         "rarity": "Hyper Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sv3pt5/207.png",
             "large": "https://images.pokemontcg.io/sv3pt5/207_hires.png"

@@ -7,7 +7,7 @@ const menu = document.getElementById('menu');
 const menuToggle = document.getElementById('menuToggle');
 const navleftr = document.getElementById('nav-leftr');
 const navrightr = document.getElementById('nav-rightr');
-const dropitdown1 = document.querySelector('.drop-it-down1');
+ 
 const dropitdown2 = document.querySelector('.drop-it-down2');
 const messageus = document.querySelector('.message-us');
 
@@ -26,11 +26,13 @@ const enableDarkMode = () => {
     menuToggle.classList.add('darkon');
     navleftr.classList.add('darkon');
     navrightr.classList.add('darkon');
-    dropitdown1.classList.add('darkon');
+    // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
 
     toperaselector.classList.add('darkon');
-    scrolltopbtn.classList.add('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.add('darkon');
+    }
     messageus.classList.add('darkon');
     specificformat.forEach((specificformat) => {
       specificformat.classList.add('darkon');
@@ -54,11 +56,13 @@ const enableDarkMode = () => {
     menuToggle.classList.remove('darkon');
     navleftr.classList.remove('darkon');
     navrightr.classList.remove('darkon');
-    dropitdown1.classList.remove('darkon');
+    // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
 
     toperaselector.classList.remove('darkon');
-    scrolltopbtn.classList.remove('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.remove('darkon');
+    }
     messageus.classList.remove('darkon');
     specificformat.forEach((specificformat) => {
       specificformat.classList.remove('darkon');

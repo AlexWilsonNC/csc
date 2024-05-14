@@ -1,8 +1,9 @@
-let blackWhite = [
+let bw1 = [
     {
         "id": "bw1-1",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -53,10 +54,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -71,10 +69,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/1.png",
             "large": "https://images.pokemontcg.io/bw1/1_hires.png"
@@ -84,6 +79,7 @@ let blackWhite = [
         "id": "bw1-2",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -125,10 +121,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -143,10 +136,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/2.png",
             "large": "https://images.pokemontcg.io/bw1/2_hires.png"
@@ -156,6 +146,7 @@ let blackWhite = [
         "id": "bw1-3",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -207,10 +198,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -225,10 +213,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/3.png",
             "large": "https://images.pokemontcg.io/bw1/3_hires.png"
@@ -238,6 +223,7 @@ let blackWhite = [
         "id": "bw1-4",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -280,10 +266,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -298,10 +281,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/4.png",
             "large": "https://images.pokemontcg.io/bw1/4_hires.png"
@@ -311,6 +291,7 @@ let blackWhite = [
         "id": "bw1-5",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -359,10 +340,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -377,10 +355,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/5.png",
             "large": "https://images.pokemontcg.io/bw1/5_hires.png"
@@ -390,6 +365,7 @@ let blackWhite = [
         "id": "bw1-6",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -436,10 +412,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -454,10 +427,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/6.png",
             "large": "https://images.pokemontcg.io/bw1/6_hires.png"
@@ -467,6 +437,7 @@ let blackWhite = [
         "id": "bw1-7",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -518,10 +489,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -536,10 +504,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/7.png",
             "large": "https://images.pokemontcg.io/bw1/7_hires.png"
@@ -549,6 +514,7 @@ let blackWhite = [
         "id": "bw1-8",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -598,10 +564,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -616,10 +579,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/8.png",
             "large": "https://images.pokemontcg.io/bw1/8_hires.png"
@@ -629,6 +589,7 @@ let blackWhite = [
         "id": "bw1-9",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -669,10 +630,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -687,10 +645,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             548
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/9.png",
             "large": "https://images.pokemontcg.io/bw1/9_hires.png"
@@ -700,6 +655,7 @@ let blackWhite = [
         "id": "bw1-10",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -748,10 +704,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -766,10 +719,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             549
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/10.png",
             "large": "https://images.pokemontcg.io/bw1/10_hires.png"
@@ -779,6 +729,7 @@ let blackWhite = [
         "id": "bw1-11",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -827,10 +778,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -845,10 +793,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/11.png",
             "large": "https://images.pokemontcg.io/bw1/11_hires.png"
@@ -858,6 +803,7 @@ let blackWhite = [
         "id": "bw1-12",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -906,10 +852,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -924,10 +867,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/12.png",
             "large": "https://images.pokemontcg.io/bw1/12_hires.png"
@@ -937,6 +877,7 @@ let blackWhite = [
         "id": "bw1-13",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -987,10 +928,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1005,10 +943,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             585
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/13.png",
             "large": "https://images.pokemontcg.io/bw1/13_hires.png"
@@ -1018,6 +953,7 @@ let blackWhite = [
         "id": "bw1-14",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1067,10 +1003,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1085,10 +1018,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             586
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/14.png",
             "large": "https://images.pokemontcg.io/bw1/14_hires.png"
@@ -1098,6 +1028,7 @@ let blackWhite = [
         "id": "bw1-15",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1142,10 +1073,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1160,10 +1088,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/15.png",
             "large": "https://images.pokemontcg.io/bw1/15_hires.png"
@@ -1173,6 +1098,7 @@ let blackWhite = [
         "id": "bw1-16",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1208,10 +1134,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1226,10 +1149,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/16.png",
             "large": "https://images.pokemontcg.io/bw1/16_hires.png"
@@ -1239,6 +1159,7 @@ let blackWhite = [
         "id": "bw1-17",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1285,10 +1206,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1303,10 +1221,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/17.png",
             "large": "https://images.pokemontcg.io/bw1/17_hires.png"
@@ -1316,6 +1231,7 @@ let blackWhite = [
         "id": "bw1-18",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1363,10 +1279,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1381,10 +1294,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/18.png",
             "large": "https://images.pokemontcg.io/bw1/18_hires.png"
@@ -1394,6 +1304,7 @@ let blackWhite = [
         "id": "bw1-19",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1440,10 +1351,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1458,10 +1366,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/19.png",
             "large": "https://images.pokemontcg.io/bw1/19_hires.png"
@@ -1471,6 +1376,7 @@ let blackWhite = [
         "id": "bw1-20",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1513,10 +1419,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1531,10 +1434,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/20.png",
             "large": "https://images.pokemontcg.io/bw1/20_hires.png"
@@ -1544,6 +1444,7 @@ let blackWhite = [
         "id": "bw1-21",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1589,10 +1490,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1607,10 +1505,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/21.png",
             "large": "https://images.pokemontcg.io/bw1/21_hires.png"
@@ -1620,6 +1515,7 @@ let blackWhite = [
         "id": "bw1-22",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1663,10 +1559,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1681,10 +1574,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/22.png",
             "large": "https://images.pokemontcg.io/bw1/22_hires.png"
@@ -1694,6 +1584,7 @@ let blackWhite = [
         "id": "bw1-23",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1728,10 +1619,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1746,10 +1634,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/23.png",
             "large": "https://images.pokemontcg.io/bw1/23_hires.png"
@@ -1759,6 +1644,7 @@ let blackWhite = [
         "id": "bw1-24",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1803,10 +1689,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1821,10 +1704,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/24.png",
             "large": "https://images.pokemontcg.io/bw1/24_hires.png"
@@ -1834,6 +1714,7 @@ let blackWhite = [
         "id": "bw1-25",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1878,10 +1759,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1896,10 +1774,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/25.png",
             "large": "https://images.pokemontcg.io/bw1/25_hires.png"
@@ -1909,6 +1784,7 @@ let blackWhite = [
         "id": "bw1-26",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -1952,10 +1828,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -1970,10 +1843,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/26.png",
             "large": "https://images.pokemontcg.io/bw1/26_hires.png"
@@ -1983,6 +1853,7 @@ let blackWhite = [
         "id": "bw1-27",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2027,10 +1898,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2045,10 +1913,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/27.png",
             "large": "https://images.pokemontcg.io/bw1/27_hires.png"
@@ -2058,6 +1923,7 @@ let blackWhite = [
         "id": "bw1-28",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2093,10 +1959,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2111,10 +1974,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/28.png",
             "large": "https://images.pokemontcg.io/bw1/28_hires.png"
@@ -2124,6 +1984,7 @@ let blackWhite = [
         "id": "bw1-29",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2171,10 +2032,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2189,10 +2047,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/29.png",
             "large": "https://images.pokemontcg.io/bw1/29_hires.png"
@@ -2202,6 +2057,7 @@ let blackWhite = [
         "id": "bw1-30",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2238,10 +2094,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2256,10 +2109,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/30.png",
             "large": "https://images.pokemontcg.io/bw1/30_hires.png"
@@ -2269,6 +2119,7 @@ let blackWhite = [
         "id": "bw1-31",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2313,10 +2164,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2331,10 +2179,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/31.png",
             "large": "https://images.pokemontcg.io/bw1/31_hires.png"
@@ -2344,6 +2189,7 @@ let blackWhite = [
         "id": "bw1-32",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2385,10 +2231,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2403,10 +2246,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/32.png",
             "large": "https://images.pokemontcg.io/bw1/32_hires.png"
@@ -2416,6 +2256,7 @@ let blackWhite = [
         "id": "bw1-33",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2461,10 +2302,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2479,10 +2317,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/33.png",
             "large": "https://images.pokemontcg.io/bw1/33_hires.png"
@@ -2492,6 +2327,7 @@ let blackWhite = [
         "id": "bw1-34",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2535,10 +2371,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2553,10 +2386,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/34.png",
             "large": "https://images.pokemontcg.io/bw1/34_hires.png"
@@ -2566,6 +2396,7 @@ let blackWhite = [
         "id": "bw1-35",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2598,10 +2429,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2616,10 +2444,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/35.png",
             "large": "https://images.pokemontcg.io/bw1/35_hires.png"
@@ -2629,6 +2454,7 @@ let blackWhite = [
         "id": "bw1-36",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2669,10 +2495,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2687,10 +2510,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             580
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/36.png",
             "large": "https://images.pokemontcg.io/bw1/36_hires.png"
@@ -2700,6 +2520,7 @@ let blackWhite = [
         "id": "bw1-37",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2748,10 +2569,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2766,10 +2584,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             581
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/37.png",
             "large": "https://images.pokemontcg.io/bw1/37_hires.png"
@@ -2779,6 +2594,7 @@ let blackWhite = [
         "id": "bw1-38",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2823,10 +2639,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2841,10 +2654,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             594
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/38.png",
             "large": "https://images.pokemontcg.io/bw1/38_hires.png"
@@ -2854,6 +2664,7 @@ let blackWhite = [
         "id": "bw1-39",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2897,10 +2708,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2915,10 +2723,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             594
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/39.png",
             "large": "https://images.pokemontcg.io/bw1/39_hires.png"
@@ -2928,6 +2733,7 @@ let blackWhite = [
         "id": "bw1-40",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -2963,10 +2769,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -2981,10 +2784,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/40.png",
             "large": "https://images.pokemontcg.io/bw1/40_hires.png"
@@ -2994,6 +2794,7 @@ let blackWhite = [
         "id": "bw1-41",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3028,10 +2829,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3046,10 +2844,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/41.png",
             "large": "https://images.pokemontcg.io/bw1/41_hires.png"
@@ -3059,6 +2854,7 @@ let blackWhite = [
         "id": "bw1-42",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3103,10 +2899,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3121,10 +2914,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/42.png",
             "large": "https://images.pokemontcg.io/bw1/42_hires.png"
@@ -3134,6 +2924,7 @@ let blackWhite = [
         "id": "bw1-43",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3177,10 +2968,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3195,10 +2983,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/43.png",
             "large": "https://images.pokemontcg.io/bw1/43_hires.png"
@@ -3208,6 +2993,7 @@ let blackWhite = [
         "id": "bw1-44",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3242,10 +3028,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3260,10 +3043,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/44.png",
             "large": "https://images.pokemontcg.io/bw1/44_hires.png"
@@ -3273,6 +3053,7 @@ let blackWhite = [
         "id": "bw1-45",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3307,10 +3088,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3325,10 +3103,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/45.png",
             "large": "https://images.pokemontcg.io/bw1/45_hires.png"
@@ -3338,6 +3113,7 @@ let blackWhite = [
         "id": "bw1-46",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3380,10 +3156,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3398,10 +3171,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/46.png",
             "large": "https://images.pokemontcg.io/bw1/46_hires.png"
@@ -3411,6 +3181,7 @@ let blackWhite = [
         "id": "bw1-47",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3454,10 +3225,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3472,10 +3240,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/47.png",
             "large": "https://images.pokemontcg.io/bw1/47_hires.png"
@@ -3485,6 +3250,7 @@ let blackWhite = [
         "id": "bw1-48",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3529,10 +3295,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3547,10 +3310,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/48.png",
             "large": "https://images.pokemontcg.io/bw1/48_hires.png"
@@ -3560,6 +3320,7 @@ let blackWhite = [
         "id": "bw1-49",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3602,10 +3363,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3620,10 +3378,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/49.png",
             "large": "https://images.pokemontcg.io/bw1/49_hires.png"
@@ -3633,6 +3388,7 @@ let blackWhite = [
         "id": "bw1-50",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3673,10 +3429,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3691,10 +3444,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/50.png",
             "large": "https://images.pokemontcg.io/bw1/50_hires.png"
@@ -3704,6 +3454,7 @@ let blackWhite = [
         "id": "bw1-51",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3752,10 +3503,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3770,10 +3518,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/51.png",
             "large": "https://images.pokemontcg.io/bw1/51_hires.png"
@@ -3783,6 +3528,7 @@ let blackWhite = [
         "id": "bw1-52",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -3828,10 +3574,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3846,10 +3589,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             543
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/52.png",
             "large": "https://images.pokemontcg.io/bw1/52_hires.png"
@@ -3859,6 +3599,7 @@ let blackWhite = [
         "id": "bw1-53",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3906,10 +3647,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -3924,10 +3662,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             544
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/53.png",
             "large": "https://images.pokemontcg.io/bw1/53_hires.png"
@@ -3937,6 +3672,7 @@ let blackWhite = [
         "id": "bw1-54",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3983,10 +3719,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4001,10 +3734,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             545
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/54.png",
             "large": "https://images.pokemontcg.io/bw1/54_hires.png"
@@ -4014,6 +3744,7 @@ let blackWhite = [
         "id": "bw1-55",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4058,10 +3789,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4076,10 +3804,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/55.png",
             "large": "https://images.pokemontcg.io/bw1/55_hires.png"
@@ -4089,6 +3814,7 @@ let blackWhite = [
         "id": "bw1-56",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4134,10 +3860,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4152,10 +3875,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             578
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/56.png",
             "large": "https://images.pokemontcg.io/bw1/56_hires.png"
@@ -4165,6 +3885,7 @@ let blackWhite = [
         "id": "bw1-57",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4206,10 +3927,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4224,10 +3942,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/57.png",
             "large": "https://images.pokemontcg.io/bw1/57_hires.png"
@@ -4237,6 +3952,7 @@ let blackWhite = [
         "id": "bw1-58",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4272,10 +3988,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4290,10 +4003,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/58.png",
             "large": "https://images.pokemontcg.io/bw1/58_hires.png"
@@ -4303,6 +4013,7 @@ let blackWhite = [
         "id": "bw1-59",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4347,10 +4058,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4365,10 +4073,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/59.png",
             "large": "https://images.pokemontcg.io/bw1/59_hires.png"
@@ -4378,6 +4083,7 @@ let blackWhite = [
         "id": "bw1-60",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4424,10 +4130,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4442,10 +4145,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/60.png",
             "large": "https://images.pokemontcg.io/bw1/60_hires.png"
@@ -4455,6 +4155,7 @@ let blackWhite = [
         "id": "bw1-61",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4498,10 +4199,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4516,10 +4214,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             538
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/61.png",
             "large": "https://images.pokemontcg.io/bw1/61_hires.png"
@@ -4529,6 +4224,7 @@ let blackWhite = [
         "id": "bw1-62",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4570,10 +4266,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4588,10 +4281,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             539
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/62.png",
             "large": "https://images.pokemontcg.io/bw1/62_hires.png"
@@ -4601,6 +4291,7 @@ let blackWhite = [
         "id": "bw1-63",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4652,10 +4343,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4670,10 +4358,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/63.png",
             "large": "https://images.pokemontcg.io/bw1/63_hires.png"
@@ -4683,6 +4368,7 @@ let blackWhite = [
         "id": "bw1-64",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4735,10 +4421,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4753,10 +4436,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/64.png",
             "large": "https://images.pokemontcg.io/bw1/64_hires.png"
@@ -4766,6 +4446,7 @@ let blackWhite = [
         "id": "bw1-65",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4817,10 +4498,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4835,10 +4513,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/65.png",
             "large": "https://images.pokemontcg.io/bw1/65_hires.png"
@@ -4848,6 +4523,7 @@ let blackWhite = [
         "id": "bw1-66",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -4898,10 +4574,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4916,10 +4589,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/66.png",
             "large": "https://images.pokemontcg.io/bw1/66_hires.png"
@@ -4929,6 +4599,7 @@ let blackWhite = [
         "id": "bw1-67",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4977,10 +4648,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -4995,10 +4663,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/67.png",
             "large": "https://images.pokemontcg.io/bw1/67_hires.png"
@@ -5008,6 +4673,7 @@ let blackWhite = [
         "id": "bw1-68",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5048,10 +4714,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5066,10 +4729,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/68.png",
             "large": "https://images.pokemontcg.io/bw1/68_hires.png"
@@ -5079,6 +4739,7 @@ let blackWhite = [
         "id": "bw1-69",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5128,10 +4789,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5146,10 +4804,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/69.png",
             "large": "https://images.pokemontcg.io/bw1/69_hires.png"
@@ -5159,6 +4814,7 @@ let blackWhite = [
         "id": "bw1-70",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5200,10 +4856,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5218,10 +4871,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/70.png",
             "large": "https://images.pokemontcg.io/bw1/70_hires.png"
@@ -5231,6 +4881,7 @@ let blackWhite = [
         "id": "bw1-71",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5279,10 +4930,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5297,10 +4945,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/71.png",
             "large": "https://images.pokemontcg.io/bw1/71_hires.png"
@@ -5310,6 +4955,7 @@ let blackWhite = [
         "id": "bw1-72",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5350,10 +4996,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5368,10 +5011,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/72.png",
             "large": "https://images.pokemontcg.io/bw1/72_hires.png"
@@ -5381,6 +5021,7 @@ let blackWhite = [
         "id": "bw1-73",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5430,10 +5071,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5448,10 +5086,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/73.png",
             "large": "https://images.pokemontcg.io/bw1/73_hires.png"
@@ -5461,6 +5096,7 @@ let blackWhite = [
         "id": "bw1-74",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5501,10 +5137,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5519,10 +5152,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/74.png",
             "large": "https://images.pokemontcg.io/bw1/74_hires.png"
@@ -5532,6 +5162,7 @@ let blackWhite = [
         "id": "bw1-75",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5584,10 +5215,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5602,10 +5230,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/75.png",
             "large": "https://images.pokemontcg.io/bw1/75_hires.png"
@@ -5615,6 +5240,7 @@ let blackWhite = [
         "id": "bw1-76",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -5662,10 +5288,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5680,10 +5303,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/76.png",
             "large": "https://images.pokemontcg.io/bw1/76_hires.png"
@@ -5693,6 +5313,7 @@ let blackWhite = [
         "id": "bw1-77",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5737,10 +5358,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5755,10 +5373,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/77.png",
             "large": "https://images.pokemontcg.io/bw1/77_hires.png"
@@ -5768,6 +5383,7 @@ let blackWhite = [
         "id": "bw1-78",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5802,10 +5418,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5820,10 +5433,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/78.png",
             "large": "https://images.pokemontcg.io/bw1/78_hires.png"
@@ -5833,6 +5443,7 @@ let blackWhite = [
         "id": "bw1-79",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5876,10 +5487,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5894,10 +5502,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             505
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/79.png",
             "large": "https://images.pokemontcg.io/bw1/79_hires.png"
@@ -5907,6 +5512,7 @@ let blackWhite = [
         "id": "bw1-80",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -5950,10 +5556,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -5968,10 +5571,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/80.png",
             "large": "https://images.pokemontcg.io/bw1/80_hires.png"
@@ -5981,6 +5581,7 @@ let blackWhite = [
         "id": "bw1-81",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6025,10 +5626,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6043,10 +5641,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/81.png",
             "large": "https://images.pokemontcg.io/bw1/81_hires.png"
@@ -6056,6 +5651,7 @@ let blackWhite = [
         "id": "bw1-82",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6103,10 +5699,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6121,10 +5714,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/82.png",
             "large": "https://images.pokemontcg.io/bw1/82_hires.png"
@@ -6134,6 +5724,7 @@ let blackWhite = [
         "id": "bw1-83",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -6179,10 +5770,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6197,10 +5785,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/83.png",
             "large": "https://images.pokemontcg.io/bw1/83_hires.png"
@@ -6210,6 +5795,7 @@ let blackWhite = [
         "id": "bw1-84",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6250,10 +5836,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6268,10 +5851,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/84.png",
             "large": "https://images.pokemontcg.io/bw1/84_hires.png"
@@ -6281,6 +5861,7 @@ let blackWhite = [
         "id": "bw1-85",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6332,10 +5913,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6350,10 +5928,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             520
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/85.png",
             "large": "https://images.pokemontcg.io/bw1/85_hires.png"
@@ -6363,6 +5938,7 @@ let blackWhite = [
         "id": "bw1-86",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 2"
         ],
@@ -6413,10 +5989,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6431,10 +6004,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             521
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/86.png",
             "large": "https://images.pokemontcg.io/bw1/86_hires.png"
@@ -6444,6 +6014,7 @@ let blackWhite = [
         "id": "bw1-87",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6476,10 +6047,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6494,10 +6062,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/87.png",
             "large": "https://images.pokemontcg.io/bw1/87_hires.png"
@@ -6507,6 +6072,7 @@ let blackWhite = [
         "id": "bw1-88",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6541,10 +6107,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6559,10 +6122,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/88.png",
             "large": "https://images.pokemontcg.io/bw1/88_hires.png"
@@ -6572,6 +6132,7 @@ let blackWhite = [
         "id": "bw1-89",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6614,10 +6175,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6632,10 +6190,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/89.png",
             "large": "https://images.pokemontcg.io/bw1/89_hires.png"
@@ -6645,6 +6200,7 @@ let blackWhite = [
         "id": "bw1-90",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6688,10 +6244,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6706,10 +6259,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/90.png",
             "large": "https://images.pokemontcg.io/bw1/90_hires.png"
@@ -6719,6 +6269,7 @@ let blackWhite = [
         "id": "bw1-91",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -6763,10 +6314,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6781,10 +6329,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/91.png",
             "large": "https://images.pokemontcg.io/bw1/91_hires.png"
@@ -6794,6 +6339,7 @@ let blackWhite = [
         "id": "bw1-92",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -6807,10 +6353,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6821,11 +6364,7 @@ let blackWhite = [
         "number": "92",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/92.png",
             "large": "https://images.pokemontcg.io/bw1/92_hires.png"
@@ -6835,6 +6374,7 @@ let blackWhite = [
         "id": "bw1-93",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -6848,10 +6388,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6862,11 +6399,7 @@ let blackWhite = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/93.png",
             "large": "https://images.pokemontcg.io/bw1/93_hires.png"
@@ -6876,6 +6409,7 @@ let blackWhite = [
         "id": "bw1-94",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -6889,10 +6423,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6903,11 +6434,7 @@ let blackWhite = [
         "number": "94",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/94.png",
             "large": "https://images.pokemontcg.io/bw1/94_hires.png"
@@ -6917,6 +6444,7 @@ let blackWhite = [
         "id": "bw1-95",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -6930,10 +6458,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6944,11 +6469,7 @@ let blackWhite = [
         "number": "95",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/95.png",
             "large": "https://images.pokemontcg.io/bw1/95_hires.png"
@@ -6958,6 +6479,7 @@ let blackWhite = [
         "id": "bw1-96",
         "name": "PlusPower",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -6971,10 +6493,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -6985,10 +6504,7 @@ let blackWhite = [
         "number": "96",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/96.png",
             "large": "https://images.pokemontcg.io/bw1/96_hires.png"
@@ -6998,6 +6514,7 @@ let blackWhite = [
         "id": "bw1-97",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7011,10 +6528,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7025,11 +6539,7 @@ let blackWhite = [
         "number": "97",
         "artist": "Yuri Umemura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/97.png",
             "large": "https://images.pokemontcg.io/bw1/97_hires.png"
@@ -7039,6 +6549,7 @@ let blackWhite = [
         "id": "bw1-98",
         "name": "Pokédex",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7052,10 +6563,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7066,10 +6574,7 @@ let blackWhite = [
         "number": "98",
         "artist": "Noriko Hotta",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/98.png",
             "large": "https://images.pokemontcg.io/bw1/98_hires.png"
@@ -7079,6 +6584,7 @@ let blackWhite = [
         "id": "bw1-99",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7092,10 +6598,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7106,10 +6609,7 @@ let blackWhite = [
         "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/99.png",
             "large": "https://images.pokemontcg.io/bw1/99_hires.png"
@@ -7119,6 +6619,7 @@ let blackWhite = [
         "id": "bw1-100",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7132,10 +6633,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7146,11 +6644,7 @@ let blackWhite = [
         "number": "100",
         "artist": "Ayaka Yoshida",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/100.png",
             "large": "https://images.pokemontcg.io/bw1/100_hires.png"
@@ -7160,6 +6654,7 @@ let blackWhite = [
         "id": "bw1-101",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Supporter"
         ],
@@ -7173,10 +6668,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7187,10 +6679,7 @@ let blackWhite = [
         "number": "101",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/101.png",
             "large": "https://images.pokemontcg.io/bw1/101_hires.png"
@@ -7200,6 +6689,7 @@ let blackWhite = [
         "id": "bw1-102",
         "name": "Revive",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7213,10 +6703,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7227,10 +6714,7 @@ let blackWhite = [
         "number": "102",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/102.png",
             "large": "https://images.pokemontcg.io/bw1/102_hires.png"
@@ -7240,6 +6724,7 @@ let blackWhite = [
         "id": "bw1-103",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7253,10 +6738,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7267,10 +6749,7 @@ let blackWhite = [
         "number": "103",
         "artist": "Daisuke Iwamoto",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/103.png",
             "large": "https://images.pokemontcg.io/bw1/103_hires.png"
@@ -7280,6 +6759,7 @@ let blackWhite = [
         "id": "bw1-104",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Item"
         ],
@@ -7293,10 +6773,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7307,11 +6784,7 @@ let blackWhite = [
         "number": "104",
         "artist": "Kent Kanetsuna",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/104.png",
             "large": "https://images.pokemontcg.io/bw1/104_hires.png"
@@ -7321,6 +6794,7 @@ let blackWhite = [
         "id": "bw1-105",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7330,10 +6804,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7343,20 +6814,17 @@ let blackWhite = [
         },
         "number": "105",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/bw1/105.png",
-            "large": "https://images.pokemontcg.io/bw1/105_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png"
         }
     },
     {
         "id": "bw1-106",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7366,10 +6834,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7379,20 +6844,17 @@ let blackWhite = [
         },
         "number": "106",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
-            "small": "https://images.pokemontcg.io/bw1/106.png",
-            "large": "https://images.pokemontcg.io/bw1/106_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png"
         }
     },
     {
         "id": "bw1-107",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7402,10 +6864,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7415,11 +6874,7 @@ let blackWhite = [
         },
         "number": "107",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/107.png",
             "large": "https://images.pokemontcg.io/bw1/107_hires.png"
@@ -7429,6 +6884,7 @@ let blackWhite = [
         "id": "bw1-108",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7438,10 +6894,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7451,11 +6904,7 @@ let blackWhite = [
         },
         "number": "108",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/108.png",
             "large": "https://images.pokemontcg.io/bw1/108_hires.png"
@@ -7465,6 +6914,7 @@ let blackWhite = [
         "id": "bw1-109",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7474,10 +6924,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7487,11 +6934,7 @@ let blackWhite = [
         },
         "number": "109",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/109.png",
             "large": "https://images.pokemontcg.io/bw1/109_hires.png"
@@ -7501,6 +6944,7 @@ let blackWhite = [
         "id": "bw1-110",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7510,10 +6954,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7523,11 +6964,7 @@ let blackWhite = [
         },
         "number": "110",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/110.png",
             "large": "https://images.pokemontcg.io/bw1/110_hires.png"
@@ -7537,6 +6974,7 @@ let blackWhite = [
         "id": "bw1-111",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7546,10 +6984,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7559,11 +6994,7 @@ let blackWhite = [
         },
         "number": "111",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/111.png",
             "large": "https://images.pokemontcg.io/bw1/111_hires.png"
@@ -7573,6 +7004,7 @@ let blackWhite = [
         "id": "bw1-112",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7582,10 +7014,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7595,11 +7024,7 @@ let blackWhite = [
         },
         "number": "112",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/112.png",
             "large": "https://images.pokemontcg.io/bw1/112_hires.png"
@@ -7609,6 +7034,7 @@ let blackWhite = [
         "id": "bw1-113",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7652,10 +7078,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7670,10 +7093,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/113.png",
             "large": "https://images.pokemontcg.io/bw1/113_hires.png"
@@ -7683,6 +7103,7 @@ let blackWhite = [
         "id": "bw1-114",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7726,10 +7147,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7744,10 +7162,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/114.png",
             "large": "https://images.pokemontcg.io/bw1/114_hires.png"
@@ -7757,6 +7172,7 @@ let blackWhite = [
         "id": "bw1-115",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "BLW",
         "subtypes": [
             "Basic"
         ],
@@ -7802,10 +7218,7 @@ let blackWhite = [
             "series": "Black & White",
             "printedTotal": 114,
             "total": 115,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BLW",
             "releaseDate": "2011/04/25",
             "images": {
@@ -7820,10 +7233,7 @@ let blackWhite = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw1/115.png",
             "large": "https://images.pokemontcg.io/bw1/115_hires.png"

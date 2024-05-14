@@ -58,7 +58,6 @@
     padding: 18px;
     width: 50%;
     border: none;
-    text-align: left;
     outline: none;
     font-size: 15px;
     display: flex;
@@ -67,15 +66,29 @@
     text-shadow: 1px 1px 3px black;
   }
   .collapsible2 {
-    background-color: #777;
+    background-color: #777777;
     color: white;
     cursor: pointer;
     padding: 18px;
     width: 60%;
     border: none;
-    text-align: left;
     outline: none;
     font-size: 15px;
+    max-height: 60px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .collapsible3 {
+    background-color: #9D9D9D;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    max-height: 60px;
     display: flex;
     text-align: center;
     justify-content: space-between;
@@ -98,14 +111,16 @@
   
   .hello, .collapsible:hover {
     background-color: #555;
-    /* color: rgb(187, 173, 45); */
   }
   .hello, .collapsible-alt:hover {
     background-color: #555;
-    /* color: rgb(187, 173, 45); */
   }
-  .hello, .collapsible2:hover {
-    filter:grayscale(1);
+  .hello, 
+  .collapsible2:hover {
+    background-color: #4b4b4b;
+  }
+  .collapsible3:hover {
+    background-color: #4b4b4b;
   }
   
   .collapsible:after,
@@ -117,7 +132,8 @@
     margin-left: 5px;
     text-shadow: 1px 1px 3px black;
   }
-  .collapsible2:after {
+  .collapsible2:after,
+  .collapsible3:after {
     content: '\002B';
     color: white;
     font-weight: bold;
@@ -315,6 +331,51 @@
     margin-left: 20px;
     font-size: 20px;
 }
+.country-name img {
+    opacity: 1;
+}
+.sv1 {
+    height: 35px; 
+    margin-left: 65px;
+    margin-top: -7px;
+}
+.ssh1 {
+    height: 25px;
+    margin-left: 10px; 
+}
+.sm1 {
+   height: 25px; 
+   margin-left: 20px;
+}
+.xy1 {
+    height: 23px;
+    margin-left: 23px;
+}
+.bw1 {
+    height: 18px;
+    margin-left: 25px;
+}
+.dp1 {
+    height: 24px;
+    margin-left: 18px;
+}
+.wotc111 {
+    height: 28px;
+    margin-left: 23px;
+}
+.rs11 {
+    height: 20px;
+    margin-left: 20px;
+}
+.dx1 {
+    height: 23px;
+    margin-left: 85px;
+}
+.hp1 {
+    height: 30px;
+    margin-left: 85px;
+    margin-top: -5px;
+}
 .title-flag {
     display: flex;
     flex-direction: row;
@@ -362,7 +423,8 @@
       }
 }
 @media screen and (max-width: 1200px) {
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 70%;
       }
     .country-content2 {
@@ -432,6 +494,18 @@
     .center-column img {
         width: 280px;
     }
+    .sv1 {
+        height: 32px; 
+        margin-left: 55px;
+    }
+    .dx1 {
+        height: 23px;
+        margin-left: 72px;
+    }
+    .hp1 {
+        height: 30px;
+        margin-left: 72px;
+    }
 }
 @media screen and (max-width: 803px) {
     .nats-box,
@@ -490,7 +564,8 @@
     .stipeds-right {
         text-align: center;
     }
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 80%;
       }
     .country-content2 {
@@ -523,7 +598,8 @@
     .country-content {
         width:75%;
       }
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 90%;
     }
     .country-content2 {
@@ -567,7 +643,8 @@
     }
 }
 @media screen and (max-width: 500px) {
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 92%;
     }
     .country-content2 {
@@ -598,7 +675,48 @@
     }
     .country-content {
         background-color: transparent;
-      }
+    }
+    .sv1 {
+        height: 30px; 
+        margin-left: 45px;
+    }
+    .ssh1 {
+        height: 20px;
+        margin-left: 10px; 
+    }
+    .sm1 {
+       height: 20px; 
+       margin-left: 20px;
+    }
+    .xy1 {
+        height: 20px;
+        margin-left: 23px;
+    }
+    .bw1 {
+        height: 12px;
+        margin-left: 25px;
+    }
+    .dp1 {
+        height: 20px;
+        margin-left: 18px;
+    }
+    .wotc111 {
+        height: 30px;
+        margin-left: 23px;
+    }
+    .rs11 {
+        height: 15px;
+        margin-left: 20px;
+    }
+    .dx1 {
+        height: 20px;
+        margin-left: 65px;
+    }
+    .hp1 {
+        height: 25px;
+        margin-left: 65px;
+        margin-top: -3px;
+    }
 }
 @media screen and (max-width: 370px) {
     .nats-box,

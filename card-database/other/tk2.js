@@ -1,8 +1,9 @@
-let tk2 = [
+let tk2a = [
     {
         "id": "tk2a-1",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -49,9 +50,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -64,9 +63,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/1.png",
             "large": "https://images.pokemontcg.io/tk2a/1_hires.png"
@@ -76,6 +73,7 @@ let tk2 = [
         "id": "tk2a-2",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -123,9 +121,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -138,9 +134,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/2.png",
             "large": "https://images.pokemontcg.io/tk2a/2_hires.png"
@@ -150,6 +144,7 @@ let tk2 = [
         "id": "tk2a-3",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Stage 1"
         ],
@@ -195,9 +190,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -210,9 +203,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/3.png",
             "large": "https://images.pokemontcg.io/tk2a/3_hires.png"
@@ -222,6 +213,7 @@ let tk2 = [
         "id": "tk2a-4",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -269,9 +261,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -284,9 +274,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/4.png",
             "large": "https://images.pokemontcg.io/tk2a/4_hires.png"
@@ -296,6 +284,7 @@ let tk2 = [
         "id": "tk2a-5",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Stage 1"
         ],
@@ -347,9 +336,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -362,9 +349,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/5.png",
             "large": "https://images.pokemontcg.io/tk2a/5_hires.png"
@@ -374,6 +359,7 @@ let tk2 = [
         "id": "tk2a-6",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -424,9 +410,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -439,9 +423,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/6.png",
             "large": "https://images.pokemontcg.io/tk2a/6_hires.png"
@@ -451,6 +433,7 @@ let tk2 = [
         "id": "tk2a-7",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -488,9 +471,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -503,9 +484,7 @@ let tk2 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/7.png",
             "large": "https://images.pokemontcg.io/tk2a/7_hires.png"
@@ -515,6 +494,7 @@ let tk2 = [
         "id": "tk2a-8",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Item"
         ],
@@ -527,9 +507,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -539,11 +517,7 @@ let tk2 = [
         },
         "number": "8",
         "artist": "Kai Ishikawa",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/8.png",
             "large": "https://images.pokemontcg.io/tk2a/8_hires.png"
@@ -553,6 +527,7 @@ let tk2 = [
         "id": "tk2a-9",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Item"
         ],
@@ -565,9 +540,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -577,11 +550,7 @@ let tk2 = [
         },
         "number": "9",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/9.png",
             "large": "https://images.pokemontcg.io/tk2a/9_hires.png"
@@ -591,6 +560,7 @@ let tk2 = [
         "id": "tk2a-10",
         "name": "Professor Cozmo's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Supporter"
         ],
@@ -604,9 +574,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -616,9 +584,7 @@ let tk2 = [
         },
         "number": "10",
         "artist": "Ken Sugimori",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/10.png",
             "large": "https://images.pokemontcg.io/tk2a/10_hires.png"
@@ -628,6 +594,7 @@ let tk2 = [
         "id": "tk2a-11",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -637,9 +604,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -648,11 +613,7 @@ let tk2 = [
             }
         },
         "number": "10",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/11.png",
             "large": "https://images.pokemontcg.io/tk2a/11_hires.png"
@@ -662,6 +623,7 @@ let tk2 = [
         "id": "tk2a-12",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -671,9 +633,7 @@ let tk2 = [
             "series": "EX",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -682,11 +642,7 @@ let tk2 = [
             }
         },
         "number": "12",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk2a/12.png",
             "large": "https://images.pokemontcg.io/tk2a/12_hires.png"
@@ -696,6 +652,7 @@ let tk2 = [
             "id": "tk2b-1",
             "name": "Arcanine",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Stage 1"
             ],
@@ -759,9 +716,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 59
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/1.png",
                 "large": "https://images.pokemontcg.io/tk2b/1_hires.png"
@@ -771,6 +726,7 @@ let tk2 = [
             "id": "tk2b-2",
             "name": "Charmander",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -833,9 +789,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 4
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/2.png",
                 "large": "https://images.pokemontcg.io/tk2b/2_hires.png"
@@ -845,6 +799,7 @@ let tk2 = [
             "id": "tk2b-3",
             "name": "Charmeleon",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Stage 1"
             ],
@@ -911,9 +866,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 5
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/3.png",
                 "large": "https://images.pokemontcg.io/tk2b/3_hires.png"
@@ -923,6 +876,7 @@ let tk2 = [
             "id": "tk2b-4",
             "name": "Growlithe",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -987,9 +941,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 58
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/4.png",
                 "large": "https://images.pokemontcg.io/tk2b/4_hires.png"
@@ -999,6 +951,7 @@ let tk2 = [
             "id": "tk2b-5",
             "name": "Mareep",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1061,9 +1014,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 179
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/5.png",
                 "large": "https://images.pokemontcg.io/tk2b/5_hires.png"
@@ -1073,6 +1024,7 @@ let tk2 = [
             "id": "tk2b-6",
             "name": "Minun",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1138,9 +1090,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 312
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/6.png",
                 "large": "https://images.pokemontcg.io/tk2b/6_hires.png"
@@ -1150,6 +1100,7 @@ let tk2 = [
             "id": "tk2b-7",
             "name": "Vulpix",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1212,9 +1163,7 @@ let tk2 = [
             "nationalPokedexNumbers": [
                 37
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/7.png",
                 "large": "https://images.pokemontcg.io/tk2b/7_hires.png"
@@ -1224,6 +1173,7 @@ let tk2 = [
             "id": "tk2b-8",
             "name": "Celio's Network",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Supporter"
             ],
@@ -1249,9 +1199,7 @@ let tk2 = [
             },
             "number": "8",
             "artist": "Ken Sugimori",
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/8.png",
                 "large": "https://images.pokemontcg.io/tk2b/8_hires.png"
@@ -1261,6 +1209,7 @@ let tk2 = [
             "id": "tk2b-9",
             "name": "Energy Switch",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Item"
             ],
@@ -1285,11 +1234,7 @@ let tk2 = [
             },
             "number": "8",
             "artist": "Kai Ishikawa",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/9.png",
                 "large": "https://images.pokemontcg.io/tk2b/9_hires.png"
@@ -1299,6 +1244,7 @@ let tk2 = [
             "id": "tk2b-10",
             "name": "Potion",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Item"
             ],
@@ -1323,11 +1269,7 @@ let tk2 = [
             },
             "number": "10",
             "artist": "Keiji Kinebuchi",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/10.png",
                 "large": "https://images.pokemontcg.io/tk2b/10_hires.png"
@@ -1337,6 +1279,7 @@ let tk2 = [
             "id": "tk2b-11",
             "name": "Fire Energy",
             "supertype": "Energy",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1357,11 +1300,7 @@ let tk2 = [
                 }
             },
             "number": "10",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/11.png",
                 "large": "https://images.pokemontcg.io/tk2b/11_hires.png"
@@ -1371,6 +1310,7 @@ let tk2 = [
             "id": "tk2b-12",
             "name": "Lightning Energy",
             "supertype": "Energy",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1391,11 +1331,7 @@ let tk2 = [
                 }
             },
             "number": "12",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk2b/12.png",
                 "large": "https://images.pokemontcg.io/tk2b/12_hires.png"

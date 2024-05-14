@@ -1,8 +1,9 @@
-let dragon = [
+let ex3 = [
     {
         "id": "ex3-1",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -50,9 +51,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -66,9 +65,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/1.png",
             "large": "https://images.pokemontcg.io/ex3/1_hires.png"
@@ -78,6 +75,7 @@ let dragon = [
         "id": "ex3-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -130,9 +128,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -146,9 +142,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/2.png",
             "large": "https://images.pokemontcg.io/ex3/2_hires.png"
@@ -158,6 +152,7 @@ let dragon = [
         "id": "ex3-3",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -199,9 +194,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -215,9 +208,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/3.png",
             "large": "https://images.pokemontcg.io/ex3/3_hires.png"
@@ -227,6 +218,7 @@ let dragon = [
         "id": "ex3-4",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -281,9 +273,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -297,9 +287,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/4.png",
             "large": "https://images.pokemontcg.io/ex3/4_hires.png"
@@ -309,6 +297,7 @@ let dragon = [
         "id": "ex3-5",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -356,9 +345,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -372,9 +359,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/5.png",
             "large": "https://images.pokemontcg.io/ex3/5_hires.png"
@@ -384,6 +369,7 @@ let dragon = [
         "id": "ex3-6",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -428,9 +414,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -444,9 +428,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/6.png",
             "large": "https://images.pokemontcg.io/ex3/6_hires.png"
@@ -456,6 +438,7 @@ let dragon = [
         "id": "ex3-7",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -510,9 +493,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -526,9 +507,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/7.png",
             "large": "https://images.pokemontcg.io/ex3/7_hires.png"
@@ -538,6 +517,7 @@ let dragon = [
         "id": "ex3-8",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -592,9 +572,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -608,9 +586,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/8.png",
             "large": "https://images.pokemontcg.io/ex3/8_hires.png"
@@ -620,6 +596,7 @@ let dragon = [
         "id": "ex3-9",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -670,9 +647,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -686,9 +661,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/9.png",
             "large": "https://images.pokemontcg.io/ex3/9_hires.png"
@@ -698,6 +671,7 @@ let dragon = [
         "id": "ex3-10",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -760,9 +734,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -776,9 +748,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/10.png",
             "large": "https://images.pokemontcg.io/ex3/10_hires.png"
@@ -788,6 +758,7 @@ let dragon = [
         "id": "ex3-11",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -821,9 +792,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -837,9 +806,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/11.png",
             "large": "https://images.pokemontcg.io/ex3/11_hires.png"
@@ -849,6 +816,7 @@ let dragon = [
         "id": "ex3-12",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -889,9 +857,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -905,9 +871,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/12.png",
             "large": "https://images.pokemontcg.io/ex3/12_hires.png"
@@ -917,6 +881,7 @@ let dragon = [
         "id": "ex3-13",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -960,9 +925,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -976,9 +939,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/13.png",
             "large": "https://images.pokemontcg.io/ex3/13_hires.png"
@@ -988,6 +949,7 @@ let dragon = [
         "id": "ex3-14",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1045,9 +1007,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1061,9 +1021,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/14.png",
             "large": "https://images.pokemontcg.io/ex3/14_hires.png"
@@ -1073,6 +1031,7 @@ let dragon = [
         "id": "ex3-15",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1108,9 +1067,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1124,9 +1081,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/15.png",
             "large": "https://images.pokemontcg.io/ex3/15_hires.png"
@@ -1136,6 +1091,7 @@ let dragon = [
         "id": "ex3-16",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1177,9 +1133,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1193,9 +1147,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/16.png",
             "large": "https://images.pokemontcg.io/ex3/16_hires.png"
@@ -1205,6 +1157,7 @@ let dragon = [
         "id": "ex3-17",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1254,9 +1207,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1270,9 +1221,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/17.png",
             "large": "https://images.pokemontcg.io/ex3/17_hires.png"
@@ -1282,6 +1231,7 @@ let dragon = [
         "id": "ex3-18",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1324,9 +1274,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1340,9 +1288,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/18.png",
             "large": "https://images.pokemontcg.io/ex3/18_hires.png"
@@ -1352,6 +1298,7 @@ let dragon = [
         "id": "ex3-19",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1387,9 +1334,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1403,9 +1348,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/19.png",
             "large": "https://images.pokemontcg.io/ex3/19_hires.png"
@@ -1415,6 +1358,7 @@ let dragon = [
         "id": "ex3-20",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1471,9 +1415,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1487,9 +1429,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/20.png",
             "large": "https://images.pokemontcg.io/ex3/20_hires.png"
@@ -1499,6 +1439,7 @@ let dragon = [
         "id": "ex3-21",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1546,9 +1487,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1562,9 +1501,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/21.png",
             "large": "https://images.pokemontcg.io/ex3/21_hires.png"
@@ -1574,6 +1511,7 @@ let dragon = [
         "id": "ex3-22",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1629,9 +1567,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1645,9 +1581,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/22.png",
             "large": "https://images.pokemontcg.io/ex3/22_hires.png"
@@ -1657,6 +1591,7 @@ let dragon = [
         "id": "ex3-23",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1711,9 +1646,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1727,9 +1660,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/23.png",
             "large": "https://images.pokemontcg.io/ex3/23_hires.png"
@@ -1739,6 +1670,7 @@ let dragon = [
         "id": "ex3-24",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1783,9 +1715,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1799,9 +1729,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/24.png",
             "large": "https://images.pokemontcg.io/ex3/24_hires.png"
@@ -1811,6 +1739,7 @@ let dragon = [
         "id": "ex3-25",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1858,9 +1787,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1874,9 +1801,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/25.png",
             "large": "https://images.pokemontcg.io/ex3/25_hires.png"
@@ -1886,6 +1811,7 @@ let dragon = [
         "id": "ex3-26",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1939,9 +1865,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -1955,9 +1879,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/26.png",
             "large": "https://images.pokemontcg.io/ex3/26_hires.png"
@@ -1967,6 +1889,7 @@ let dragon = [
         "id": "ex3-27",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2018,9 +1941,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2034,9 +1955,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/27.png",
             "large": "https://images.pokemontcg.io/ex3/27_hires.png"
@@ -2046,6 +1965,7 @@ let dragon = [
         "id": "ex3-28",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2096,9 +2016,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2112,9 +2030,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/28.png",
             "large": "https://images.pokemontcg.io/ex3/28_hires.png"
@@ -2124,6 +2040,7 @@ let dragon = [
         "id": "ex3-29",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2171,9 +2088,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2187,9 +2102,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/29.png",
             "large": "https://images.pokemontcg.io/ex3/29_hires.png"
@@ -2199,6 +2112,7 @@ let dragon = [
         "id": "ex3-30",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2246,9 +2160,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2262,9 +2174,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/30.png",
             "large": "https://images.pokemontcg.io/ex3/30_hires.png"
@@ -2274,6 +2184,7 @@ let dragon = [
         "id": "ex3-31",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2316,9 +2227,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2332,9 +2241,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/31.png",
             "large": "https://images.pokemontcg.io/ex3/31_hires.png"
@@ -2344,6 +2251,7 @@ let dragon = [
         "id": "ex3-32",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2389,9 +2297,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2405,9 +2311,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/32.png",
             "large": "https://images.pokemontcg.io/ex3/32_hires.png"
@@ -2417,6 +2321,7 @@ let dragon = [
         "id": "ex3-33",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -2460,9 +2365,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2476,9 +2379,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/33.png",
             "large": "https://images.pokemontcg.io/ex3/33_hires.png"
@@ -2488,6 +2389,7 @@ let dragon = [
         "id": "ex3-34",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2538,9 +2440,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2554,9 +2454,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/34.png",
             "large": "https://images.pokemontcg.io/ex3/34_hires.png"
@@ -2566,6 +2464,7 @@ let dragon = [
         "id": "ex3-35",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2613,9 +2512,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2629,9 +2526,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/35.png",
             "large": "https://images.pokemontcg.io/ex3/35_hires.png"
@@ -2641,6 +2536,7 @@ let dragon = [
         "id": "ex3-36",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2677,9 +2573,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2693,9 +2587,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/36.png",
             "large": "https://images.pokemontcg.io/ex3/36_hires.png"
@@ -2705,6 +2597,7 @@ let dragon = [
         "id": "ex3-37",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -2749,9 +2642,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2765,9 +2656,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/37.png",
             "large": "https://images.pokemontcg.io/ex3/37_hires.png"
@@ -2777,6 +2666,7 @@ let dragon = [
         "id": "ex3-38",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2821,9 +2711,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2837,9 +2725,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/38.png",
             "large": "https://images.pokemontcg.io/ex3/38_hires.png"
@@ -2849,6 +2735,7 @@ let dragon = [
         "id": "ex3-39",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2895,9 +2782,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2911,9 +2796,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/39.png",
             "large": "https://images.pokemontcg.io/ex3/39_hires.png"
@@ -2923,6 +2806,7 @@ let dragon = [
         "id": "ex3-40",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2970,9 +2854,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -2986,9 +2868,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/40.png",
             "large": "https://images.pokemontcg.io/ex3/40_hires.png"
@@ -2998,6 +2878,7 @@ let dragon = [
         "id": "ex3-41",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3035,9 +2916,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3051,9 +2930,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/41.png",
             "large": "https://images.pokemontcg.io/ex3/41_hires.png"
@@ -3063,6 +2940,7 @@ let dragon = [
         "id": "ex3-42",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3104,9 +2982,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3120,9 +2996,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/42.png",
             "large": "https://images.pokemontcg.io/ex3/42_hires.png"
@@ -3132,6 +3006,7 @@ let dragon = [
         "id": "ex3-43",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3181,9 +3056,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3197,9 +3070,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/43.png",
             "large": "https://images.pokemontcg.io/ex3/43_hires.png"
@@ -3209,6 +3080,7 @@ let dragon = [
         "id": "ex3-44",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3244,9 +3116,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3260,9 +3130,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/44.png",
             "large": "https://images.pokemontcg.io/ex3/44_hires.png"
@@ -3272,6 +3140,7 @@ let dragon = [
         "id": "ex3-45",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3319,9 +3188,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3335,9 +3202,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/45.png",
             "large": "https://images.pokemontcg.io/ex3/45_hires.png"
@@ -3347,6 +3212,7 @@ let dragon = [
         "id": "ex3-46",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3384,9 +3250,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3400,9 +3264,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/46.png",
             "large": "https://images.pokemontcg.io/ex3/46_hires.png"
@@ -3412,6 +3274,7 @@ let dragon = [
         "id": "ex3-47",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3453,9 +3316,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3469,9 +3330,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/47.png",
             "large": "https://images.pokemontcg.io/ex3/47_hires.png"
@@ -3481,6 +3340,7 @@ let dragon = [
         "id": "ex3-48",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3533,9 +3393,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3549,9 +3407,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             340
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/48.png",
             "large": "https://images.pokemontcg.io/ex3/48_hires.png"
@@ -3561,6 +3417,7 @@ let dragon = [
         "id": "ex3-49",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3599,9 +3456,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3615,9 +3470,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/49.png",
             "large": "https://images.pokemontcg.io/ex3/49_hires.png"
@@ -3627,6 +3480,7 @@ let dragon = [
         "id": "ex3-50",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3665,9 +3519,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3681,9 +3533,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/50.png",
             "large": "https://images.pokemontcg.io/ex3/50_hires.png"
@@ -3693,6 +3543,7 @@ let dragon = [
         "id": "ex3-51",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3737,9 +3588,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3753,9 +3602,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             339
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/51.png",
             "large": "https://images.pokemontcg.io/ex3/51_hires.png"
@@ -3765,6 +3612,7 @@ let dragon = [
         "id": "ex3-52",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3808,9 +3656,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3824,9 +3670,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/52.png",
             "large": "https://images.pokemontcg.io/ex3/52_hires.png"
@@ -3836,6 +3680,7 @@ let dragon = [
         "id": "ex3-53",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3880,9 +3725,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3896,9 +3739,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/53.png",
             "large": "https://images.pokemontcg.io/ex3/53_hires.png"
@@ -3908,6 +3749,7 @@ let dragon = [
         "id": "ex3-54",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3952,9 +3794,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -3968,9 +3808,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/54.png",
             "large": "https://images.pokemontcg.io/ex3/54_hires.png"
@@ -3980,6 +3818,7 @@ let dragon = [
         "id": "ex3-55",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4023,9 +3862,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4039,9 +3876,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/55.png",
             "large": "https://images.pokemontcg.io/ex3/55_hires.png"
@@ -4051,6 +3886,7 @@ let dragon = [
         "id": "ex3-56",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4085,9 +3921,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4101,9 +3935,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/56.png",
             "large": "https://images.pokemontcg.io/ex3/56_hires.png"
@@ -4113,6 +3945,7 @@ let dragon = [
         "id": "ex3-57",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4156,9 +3989,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4172,9 +4003,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/57.png",
             "large": "https://images.pokemontcg.io/ex3/57_hires.png"
@@ -4184,6 +4013,7 @@ let dragon = [
         "id": "ex3-58",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4228,9 +4058,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4244,9 +4072,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/58.png",
             "large": "https://images.pokemontcg.io/ex3/58_hires.png"
@@ -4256,6 +4082,7 @@ let dragon = [
         "id": "ex3-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4306,9 +4133,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4322,9 +4147,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/59.png",
             "large": "https://images.pokemontcg.io/ex3/59_hires.png"
@@ -4334,6 +4157,7 @@ let dragon = [
         "id": "ex3-60",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4378,9 +4202,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4394,9 +4216,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/60.png",
             "large": "https://images.pokemontcg.io/ex3/60_hires.png"
@@ -4406,6 +4226,7 @@ let dragon = [
         "id": "ex3-61",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4456,9 +4277,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4472,9 +4291,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/61.png",
             "large": "https://images.pokemontcg.io/ex3/61_hires.png"
@@ -4484,6 +4301,7 @@ let dragon = [
         "id": "ex3-62",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4524,9 +4342,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4540,9 +4356,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/62.png",
             "large": "https://images.pokemontcg.io/ex3/62_hires.png"
@@ -4552,6 +4366,7 @@ let dragon = [
         "id": "ex3-63",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4586,9 +4401,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4602,9 +4415,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/63.png",
             "large": "https://images.pokemontcg.io/ex3/63_hires.png"
@@ -4614,6 +4425,7 @@ let dragon = [
         "id": "ex3-64",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4654,9 +4466,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4670,9 +4480,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/64.png",
             "large": "https://images.pokemontcg.io/ex3/64_hires.png"
@@ -4682,6 +4490,7 @@ let dragon = [
         "id": "ex3-65",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4716,9 +4525,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4732,9 +4539,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/65.png",
             "large": "https://images.pokemontcg.io/ex3/65_hires.png"
@@ -4744,6 +4549,7 @@ let dragon = [
         "id": "ex3-66",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4778,9 +4584,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4794,9 +4598,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/66.png",
             "large": "https://images.pokemontcg.io/ex3/66_hires.png"
@@ -4806,6 +4608,7 @@ let dragon = [
         "id": "ex3-67",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4850,9 +4653,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4866,9 +4667,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/67.png",
             "large": "https://images.pokemontcg.io/ex3/67_hires.png"
@@ -4878,6 +4677,7 @@ let dragon = [
         "id": "ex3-68",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4912,9 +4712,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -4928,9 +4726,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/68.png",
             "large": "https://images.pokemontcg.io/ex3/68_hires.png"
@@ -4940,6 +4736,7 @@ let dragon = [
         "id": "ex3-69",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4984,9 +4781,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5000,9 +4795,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/69.png",
             "large": "https://images.pokemontcg.io/ex3/69_hires.png"
@@ -5012,6 +4805,7 @@ let dragon = [
         "id": "ex3-70",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5055,9 +4849,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5071,9 +4863,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/70.png",
             "large": "https://images.pokemontcg.io/ex3/70_hires.png"
@@ -5083,6 +4873,7 @@ let dragon = [
         "id": "ex3-71",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5125,9 +4916,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5141,9 +4930,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/71.png",
             "large": "https://images.pokemontcg.io/ex3/71_hires.png"
@@ -5153,6 +4940,7 @@ let dragon = [
         "id": "ex3-72",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5197,9 +4985,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5213,9 +4999,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/72.png",
             "large": "https://images.pokemontcg.io/ex3/72_hires.png"
@@ -5225,6 +5009,7 @@ let dragon = [
         "id": "ex3-73",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5259,9 +5044,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5275,9 +5058,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/73.png",
             "large": "https://images.pokemontcg.io/ex3/73_hires.png"
@@ -5287,6 +5068,7 @@ let dragon = [
         "id": "ex3-74",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5331,9 +5113,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5347,9 +5127,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/74.png",
             "large": "https://images.pokemontcg.io/ex3/74_hires.png"
@@ -5359,6 +5137,7 @@ let dragon = [
         "id": "ex3-75",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5408,9 +5187,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5424,9 +5201,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/75.png",
             "large": "https://images.pokemontcg.io/ex3/75_hires.png"
@@ -5436,6 +5211,7 @@ let dragon = [
         "id": "ex3-76",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5476,9 +5252,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5492,9 +5266,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/76.png",
             "large": "https://images.pokemontcg.io/ex3/76_hires.png"
@@ -5504,6 +5276,7 @@ let dragon = [
         "id": "ex3-77",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5539,9 +5312,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5555,9 +5326,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/77.png",
             "large": "https://images.pokemontcg.io/ex3/77_hires.png"
@@ -5567,6 +5336,7 @@ let dragon = [
         "id": "ex3-78",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5601,9 +5371,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5617,9 +5385,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/78.png",
             "large": "https://images.pokemontcg.io/ex3/78_hires.png"
@@ -5629,6 +5395,7 @@ let dragon = [
         "id": "ex3-79",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5673,9 +5440,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5689,9 +5454,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/79.png",
             "large": "https://images.pokemontcg.io/ex3/79_hires.png"
@@ -5701,6 +5464,7 @@ let dragon = [
         "id": "ex3-80",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5742,9 +5506,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5758,9 +5520,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/80.png",
             "large": "https://images.pokemontcg.io/ex3/80_hires.png"
@@ -5770,6 +5530,7 @@ let dragon = [
         "id": "ex3-81",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5814,9 +5575,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5830,9 +5589,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/81.png",
             "large": "https://images.pokemontcg.io/ex3/81_hires.png"
@@ -5842,6 +5599,7 @@ let dragon = [
         "id": "ex3-82",
         "name": "Balloon Berry",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5855,9 +5613,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5868,9 +5624,7 @@ let dragon = [
         "number": "82",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/82.png",
             "large": "https://images.pokemontcg.io/ex3/82_hires.png"
@@ -5880,6 +5634,7 @@ let dragon = [
         "id": "ex3-83",
         "name": "Buffer Piece",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5893,9 +5648,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5906,9 +5659,7 @@ let dragon = [
         "number": "83",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/83.png",
             "large": "https://images.pokemontcg.io/ex3/83_hires.png"
@@ -5918,6 +5669,7 @@ let dragon = [
         "id": "ex3-84",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Item"
         ],
@@ -5930,9 +5682,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5943,10 +5693,7 @@ let dragon = [
         "number": "84",
         "artist": "Zu-Ka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/84.png",
             "large": "https://images.pokemontcg.io/ex3/84_hires.png"
@@ -5956,6 +5703,7 @@ let dragon = [
         "id": "ex3-85",
         "name": "High Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stadium"
         ],
@@ -5969,9 +5717,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -5982,9 +5728,7 @@ let dragon = [
         "number": "85",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/85.png",
             "large": "https://images.pokemontcg.io/ex3/85_hires.png"
@@ -5994,6 +5738,7 @@ let dragon = [
         "id": "ex3-86",
         "name": "Low Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stadium"
         ],
@@ -6007,9 +5752,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6020,9 +5763,7 @@ let dragon = [
         "number": "86",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/86.png",
             "large": "https://images.pokemontcg.io/ex3/86_hires.png"
@@ -6032,6 +5773,7 @@ let dragon = [
         "id": "ex3-87",
         "name": "Mr. Briney's Compassion",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Supporter"
         ],
@@ -6045,9 +5787,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6058,9 +5798,7 @@ let dragon = [
         "number": "87",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/87.png",
             "large": "https://images.pokemontcg.io/ex3/87_hires.png"
@@ -6070,6 +5808,7 @@ let dragon = [
         "id": "ex3-88",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Supporter"
         ],
@@ -6083,9 +5822,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6096,10 +5833,7 @@ let dragon = [
         "number": "88",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/88.png",
             "large": "https://images.pokemontcg.io/ex3/88_hires.png"
@@ -6109,6 +5843,7 @@ let dragon = [
         "id": "ex3-89",
         "name": "Ampharos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6160,9 +5895,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6176,9 +5909,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/89.png",
             "large": "https://images.pokemontcg.io/ex3/89_hires.png"
@@ -6188,6 +5919,7 @@ let dragon = [
         "id": "ex3-90",
         "name": "Dragonite ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6254,9 +5986,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6270,9 +6000,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/90.png",
             "large": "https://images.pokemontcg.io/ex3/90_hires.png"
@@ -6282,6 +6010,7 @@ let dragon = [
         "id": "ex3-91",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6337,9 +6066,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6353,9 +6080,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/91.png",
             "large": "https://images.pokemontcg.io/ex3/91_hires.png"
@@ -6365,6 +6090,7 @@ let dragon = [
         "id": "ex3-92",
         "name": "Kingdra ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6416,9 +6142,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6432,9 +6156,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/92.png",
             "large": "https://images.pokemontcg.io/ex3/92_hires.png"
@@ -6444,6 +6166,7 @@ let dragon = [
         "id": "ex3-93",
         "name": "Latias ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6500,9 +6223,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6516,9 +6237,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/93.png",
             "large": "https://images.pokemontcg.io/ex3/93_hires.png"
@@ -6528,6 +6247,7 @@ let dragon = [
         "id": "ex3-94",
         "name": "Latios ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6584,9 +6304,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6600,9 +6318,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/94.png",
             "large": "https://images.pokemontcg.io/ex3/94_hires.png"
@@ -6612,6 +6328,7 @@ let dragon = [
         "id": "ex3-95",
         "name": "Magcargo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6659,9 +6376,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6675,9 +6390,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/95.png",
             "large": "https://images.pokemontcg.io/ex3/95_hires.png"
@@ -6687,6 +6400,7 @@ let dragon = [
         "id": "ex3-96",
         "name": "Muk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6741,9 +6455,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6757,9 +6469,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/96.png",
             "large": "https://images.pokemontcg.io/ex3/96_hires.png"
@@ -6769,6 +6479,7 @@ let dragon = [
         "id": "ex3-97",
         "name": "Rayquaza ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6824,9 +6535,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6840,9 +6549,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/97.png",
             "large": "https://images.pokemontcg.io/ex3/97_hires.png"
@@ -6852,6 +6559,7 @@ let dragon = [
         "id": "ex3-98",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -6896,9 +6604,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6912,9 +6618,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/98.png",
             "large": "https://images.pokemontcg.io/ex3/98_hires.png"
@@ -6924,6 +6628,7 @@ let dragon = [
         "id": "ex3-99",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6969,9 +6674,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -6985,9 +6688,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/99.png",
             "large": "https://images.pokemontcg.io/ex3/99_hires.png"
@@ -6997,6 +6698,7 @@ let dragon = [
         "id": "ex3-100",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7042,9 +6744,7 @@ let dragon = [
             "series": "EX",
             "printedTotal": 97,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DR",
             "releaseDate": "2003/09/18",
             "images": {
@@ -7058,9 +6758,7 @@ let dragon = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex3/100.png",
             "large": "https://images.pokemontcg.io/ex3/100_hires.png"

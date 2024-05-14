@@ -3,6 +3,7 @@ let sm8 = [
         "id": "sm8-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -49,10 +50,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -67,10 +65,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/1.png",
             "large": "https://images.pokemontcg.io/sm8/1_hires.png"
@@ -80,6 +75,7 @@ let sm8 = [
         "id": "sm8-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -126,10 +122,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -144,10 +137,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/2.png",
             "large": "https://images.pokemontcg.io/sm8/2_hires.png"
@@ -157,6 +147,7 @@ let sm8 = [
         "id": "sm8-3",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -192,10 +183,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -210,10 +198,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/3.png",
             "large": "https://images.pokemontcg.io/sm8/3_hires.png"
@@ -223,6 +208,7 @@ let sm8 = [
         "id": "sm8-4",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -265,10 +251,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -283,10 +266,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/4.png",
             "large": "https://images.pokemontcg.io/sm8/4_hires.png"
@@ -296,6 +276,7 @@ let sm8 = [
         "id": "sm8-5",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -340,10 +321,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -358,10 +336,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/5.png",
             "large": "https://images.pokemontcg.io/sm8/5_hires.png"
@@ -371,6 +346,7 @@ let sm8 = [
         "id": "sm8-6",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -405,10 +381,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -423,10 +396,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/6.png",
             "large": "https://images.pokemontcg.io/sm8/6_hires.png"
@@ -436,6 +406,7 @@ let sm8 = [
         "id": "sm8-7",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -482,10 +453,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -500,10 +468,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/7.png",
             "large": "https://images.pokemontcg.io/sm8/7_hires.png"
@@ -513,6 +478,7 @@ let sm8 = [
         "id": "sm8-8",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -555,10 +521,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -573,10 +536,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/8.png",
             "large": "https://images.pokemontcg.io/sm8/8_hires.png"
@@ -586,6 +546,7 @@ let sm8 = [
         "id": "sm8-9",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -629,10 +590,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -647,10 +605,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/9.png",
             "large": "https://images.pokemontcg.io/sm8/9_hires.png"
@@ -660,6 +615,7 @@ let sm8 = [
         "id": "sm8-10",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -704,10 +660,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -722,10 +675,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/10.png",
             "large": "https://images.pokemontcg.io/sm8/10_hires.png"
@@ -735,6 +685,7 @@ let sm8 = [
         "id": "sm8-11",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -775,10 +726,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -793,10 +741,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/11.png",
             "large": "https://images.pokemontcg.io/sm8/11_hires.png"
@@ -806,6 +751,7 @@ let sm8 = [
         "id": "sm8-12",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -846,10 +792,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -864,10 +807,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/12.png",
             "large": "https://images.pokemontcg.io/sm8/12_hires.png"
@@ -877,6 +817,7 @@ let sm8 = [
         "id": "sm8-13",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -924,10 +865,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -942,10 +880,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/13.png",
             "large": "https://images.pokemontcg.io/sm8/13_hires.png"
@@ -955,6 +890,7 @@ let sm8 = [
         "id": "sm8-14",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -992,10 +928,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1010,10 +943,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/14.png",
             "large": "https://images.pokemontcg.io/sm8/14_hires.png"
@@ -1023,6 +953,7 @@ let sm8 = [
         "id": "sm8-15",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1057,10 +988,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1075,10 +1003,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/15.png",
             "large": "https://images.pokemontcg.io/sm8/15_hires.png"
@@ -1088,6 +1013,7 @@ let sm8 = [
         "id": "sm8-16",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1126,10 +1052,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1144,10 +1067,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/16.png",
             "large": "https://images.pokemontcg.io/sm8/16_hires.png"
@@ -1157,6 +1077,7 @@ let sm8 = [
         "id": "sm8-17",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -1208,10 +1129,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1225,10 +1143,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/17.png",
             "large": "https://images.pokemontcg.io/sm8/17_hires.png"
@@ -1238,6 +1153,7 @@ let sm8 = [
         "id": "sm8-18",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1279,10 +1195,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1297,10 +1210,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/18.png",
             "large": "https://images.pokemontcg.io/sm8/18_hires.png"
@@ -1310,6 +1220,7 @@ let sm8 = [
         "id": "sm8-19",
         "name": "Celebi ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -1354,10 +1265,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1372,10 +1280,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/19.png",
             "large": "https://images.pokemontcg.io/sm8/19_hires.png"
@@ -1385,6 +1290,7 @@ let sm8 = [
         "id": "sm8-20",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1419,10 +1325,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1437,10 +1340,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/20.png",
             "large": "https://images.pokemontcg.io/sm8/20_hires.png"
@@ -1450,6 +1350,7 @@ let sm8 = [
         "id": "sm8-21",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1493,10 +1394,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1511,10 +1409,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/21.png",
             "large": "https://images.pokemontcg.io/sm8/21_hires.png"
@@ -1524,6 +1419,7 @@ let sm8 = [
         "id": "sm8-22",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1579,10 +1475,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1596,10 +1489,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/22.png",
             "large": "https://images.pokemontcg.io/sm8/22_hires.png"
@@ -1609,6 +1499,7 @@ let sm8 = [
         "id": "sm8-23",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1644,10 +1535,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1662,10 +1550,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/23.png",
             "large": "https://images.pokemontcg.io/sm8/23_hires.png"
@@ -1675,6 +1560,7 @@ let sm8 = [
         "id": "sm8-24",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1710,10 +1596,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1728,10 +1611,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/24.png",
             "large": "https://images.pokemontcg.io/sm8/24_hires.png"
@@ -1741,6 +1621,7 @@ let sm8 = [
         "id": "sm8-25",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1785,10 +1666,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1803,10 +1681,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             266
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/25.png",
             "large": "https://images.pokemontcg.io/sm8/25_hires.png"
@@ -1816,6 +1691,7 @@ let sm8 = [
         "id": "sm8-26",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1857,10 +1733,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1875,10 +1748,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             267
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/26.png",
             "large": "https://images.pokemontcg.io/sm8/26_hires.png"
@@ -1888,6 +1758,7 @@ let sm8 = [
         "id": "sm8-27",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1933,10 +1804,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -1951,10 +1819,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             268
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/27.png",
             "large": "https://images.pokemontcg.io/sm8/27_hires.png"
@@ -1964,6 +1829,7 @@ let sm8 = [
         "id": "sm8-28",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2004,10 +1870,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2022,10 +1885,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             269
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/28.png",
             "large": "https://images.pokemontcg.io/sm8/28_hires.png"
@@ -2035,6 +1895,7 @@ let sm8 = [
         "id": "sm8-29",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2069,10 +1930,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2087,10 +1945,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/29.png",
             "large": "https://images.pokemontcg.io/sm8/29_hires.png"
@@ -2100,6 +1955,7 @@ let sm8 = [
         "id": "sm8-30",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2141,10 +1997,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2159,10 +2012,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/30.png",
             "large": "https://images.pokemontcg.io/sm8/30_hires.png"
@@ -2172,6 +2022,7 @@ let sm8 = [
         "id": "sm8-31",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2206,10 +2057,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2224,10 +2072,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/31.png",
             "large": "https://images.pokemontcg.io/sm8/31_hires.png"
@@ -2237,6 +2082,7 @@ let sm8 = [
         "id": "sm8-32",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2269,10 +2115,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2287,10 +2130,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/32.png",
             "large": "https://images.pokemontcg.io/sm8/32_hires.png"
@@ -2300,6 +2140,7 @@ let sm8 = [
         "id": "sm8-33",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2339,10 +2180,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2357,10 +2195,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/33.png",
             "large": "https://images.pokemontcg.io/sm8/33_hires.png"
@@ -2370,6 +2205,7 @@ let sm8 = [
         "id": "sm8-34",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -2424,10 +2260,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2441,10 +2274,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/34.png",
             "large": "https://images.pokemontcg.io/sm8/34_hires.png"
@@ -2454,6 +2284,7 @@ let sm8 = [
         "id": "sm8-35",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2498,10 +2329,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2516,10 +2344,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/35.png",
             "large": "https://images.pokemontcg.io/sm8/35_hires.png"
@@ -2529,6 +2354,7 @@ let sm8 = [
         "id": "sm8-36",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2573,10 +2399,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2591,10 +2414,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/36.png",
             "large": "https://images.pokemontcg.io/sm8/36_hires.png"
@@ -2604,6 +2424,7 @@ let sm8 = [
         "id": "sm8-37",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2647,10 +2468,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2665,10 +2483,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             787
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/37.png",
             "large": "https://images.pokemontcg.io/sm8/37_hires.png"
@@ -2678,6 +2493,7 @@ let sm8 = [
         "id": "sm8-38",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2720,10 +2536,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2738,10 +2551,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/38.png",
             "large": "https://images.pokemontcg.io/sm8/38_hires.png"
@@ -2751,6 +2561,7 @@ let sm8 = [
         "id": "sm8-39",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2785,10 +2596,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2803,10 +2611,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/39.png",
             "large": "https://images.pokemontcg.io/sm8/39_hires.png"
@@ -2816,6 +2621,7 @@ let sm8 = [
         "id": "sm8-40",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2851,10 +2657,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2869,10 +2672,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/40.png",
             "large": "https://images.pokemontcg.io/sm8/40_hires.png"
@@ -2882,6 +2682,7 @@ let sm8 = [
         "id": "sm8-41",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2929,10 +2730,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -2947,10 +2745,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/41.png",
             "large": "https://images.pokemontcg.io/sm8/41_hires.png"
@@ -2960,6 +2755,7 @@ let sm8 = [
         "id": "sm8-42",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -3002,10 +2798,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3020,10 +2813,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/42.png",
             "large": "https://images.pokemontcg.io/sm8/42_hires.png"
@@ -3033,6 +2823,7 @@ let sm8 = [
         "id": "sm8-43",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3079,10 +2870,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3097,10 +2885,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/43.png",
             "large": "https://images.pokemontcg.io/sm8/43_hires.png"
@@ -3110,6 +2895,7 @@ let sm8 = [
         "id": "sm8-44",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -3164,10 +2950,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3181,10 +2964,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/44.png",
             "large": "https://images.pokemontcg.io/sm8/44_hires.png"
@@ -3194,6 +2974,7 @@ let sm8 = [
         "id": "sm8-45",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3237,10 +3018,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3255,10 +3033,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/45.png",
             "large": "https://images.pokemontcg.io/sm8/45_hires.png"
@@ -3268,6 +3043,7 @@ let sm8 = [
         "id": "sm8-46",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3310,10 +3086,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3328,10 +3101,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/46.png",
             "large": "https://images.pokemontcg.io/sm8/46_hires.png"
@@ -3341,6 +3111,7 @@ let sm8 = [
         "id": "sm8-47",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3384,10 +3155,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3402,10 +3170,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/47.png",
             "large": "https://images.pokemontcg.io/sm8/47_hires.png"
@@ -3415,6 +3180,7 @@ let sm8 = [
         "id": "sm8-48",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3460,10 +3226,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3478,10 +3241,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/48.png",
             "large": "https://images.pokemontcg.io/sm8/48_hires.png"
@@ -3491,6 +3251,7 @@ let sm8 = [
         "id": "sm8-49",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3523,10 +3284,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3541,10 +3299,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/49.png",
             "large": "https://images.pokemontcg.io/sm8/49_hires.png"
@@ -3554,6 +3309,7 @@ let sm8 = [
         "id": "sm8-50",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3596,10 +3352,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3614,10 +3367,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/50.png",
             "large": "https://images.pokemontcg.io/sm8/50_hires.png"
@@ -3627,6 +3377,7 @@ let sm8 = [
         "id": "sm8-51",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3671,10 +3422,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3689,10 +3437,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/51.png",
             "large": "https://images.pokemontcg.io/sm8/51_hires.png"
@@ -3702,6 +3447,7 @@ let sm8 = [
         "id": "sm8-52",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -3757,10 +3503,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3774,10 +3517,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             806
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/52.png",
             "large": "https://images.pokemontcg.io/sm8/52_hires.png"
@@ -3787,6 +3527,7 @@ let sm8 = [
         "id": "sm8-53",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3829,10 +3570,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3847,10 +3585,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/53.png",
             "large": "https://images.pokemontcg.io/sm8/53_hires.png"
@@ -3860,6 +3595,7 @@ let sm8 = [
         "id": "sm8-54",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3895,10 +3631,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3913,10 +3646,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/54.png",
             "large": "https://images.pokemontcg.io/sm8/54_hires.png"
@@ -3926,6 +3656,7 @@ let sm8 = [
         "id": "sm8-55",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3969,10 +3700,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -3987,10 +3715,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/55.png",
             "large": "https://images.pokemontcg.io/sm8/55_hires.png"
@@ -4000,6 +3725,7 @@ let sm8 = [
         "id": "sm8-56",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4039,10 +3765,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4057,10 +3780,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/56.png",
             "large": "https://images.pokemontcg.io/sm8/56_hires.png"
@@ -4070,6 +3790,7 @@ let sm8 = [
         "id": "sm8-57",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4111,10 +3832,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4129,10 +3847,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/57.png",
             "large": "https://images.pokemontcg.io/sm8/57_hires.png"
@@ -4142,6 +3857,7 @@ let sm8 = [
         "id": "sm8-58",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4188,10 +3904,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4206,10 +3919,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/58.png",
             "large": "https://images.pokemontcg.io/sm8/58_hires.png"
@@ -4219,6 +3929,7 @@ let sm8 = [
         "id": "sm8-59",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4259,10 +3970,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4277,10 +3985,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/59.png",
             "large": "https://images.pokemontcg.io/sm8/59_hires.png"
@@ -4290,6 +3995,7 @@ let sm8 = [
         "id": "sm8-60",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -4345,10 +4051,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4362,10 +4065,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/60.png",
             "large": "https://images.pokemontcg.io/sm8/60_hires.png"
@@ -4375,6 +4075,7 @@ let sm8 = [
         "id": "sm8-61",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4419,10 +4120,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4437,10 +4135,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/61.png",
             "large": "https://images.pokemontcg.io/sm8/61_hires.png"
@@ -4450,6 +4145,7 @@ let sm8 = [
         "id": "sm8-62",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4496,10 +4192,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4514,10 +4207,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/62.png",
             "large": "https://images.pokemontcg.io/sm8/62_hires.png"
@@ -4527,6 +4217,7 @@ let sm8 = [
         "id": "sm8-63",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4570,10 +4261,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4588,10 +4276,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/63.png",
             "large": "https://images.pokemontcg.io/sm8/63_hires.png"
@@ -4601,6 +4286,7 @@ let sm8 = [
         "id": "sm8-64",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4636,10 +4322,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4654,10 +4337,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             728
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/64.png",
             "large": "https://images.pokemontcg.io/sm8/64_hires.png"
@@ -4667,6 +4347,7 @@ let sm8 = [
         "id": "sm8-65",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4701,10 +4382,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4719,10 +4397,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             728
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/65.png",
             "large": "https://images.pokemontcg.io/sm8/65_hires.png"
@@ -4732,6 +4407,7 @@ let sm8 = [
         "id": "sm8-66",
         "name": "Brionne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4776,10 +4452,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4794,10 +4467,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             729
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/66.png",
             "large": "https://images.pokemontcg.io/sm8/66_hires.png"
@@ -4807,6 +4477,7 @@ let sm8 = [
         "id": "sm8-67",
         "name": "Primarina",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -4848,10 +4519,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4866,10 +4534,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             730
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/67.png",
             "large": "https://images.pokemontcg.io/sm8/67_hires.png"
@@ -4879,6 +4544,7 @@ let sm8 = [
         "id": "sm8-68",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4913,10 +4579,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -4931,10 +4594,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             747
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/68.png",
             "large": "https://images.pokemontcg.io/sm8/68_hires.png"
@@ -4944,6 +4604,7 @@ let sm8 = [
         "id": "sm8-69",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4986,10 +4647,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5004,10 +4662,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             748
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/69.png",
             "large": "https://images.pokemontcg.io/sm8/69_hires.png"
@@ -5017,6 +4672,7 @@ let sm8 = [
         "id": "sm8-70",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5058,10 +4714,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5076,10 +4729,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             779
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/70.png",
             "large": "https://images.pokemontcg.io/sm8/70_hires.png"
@@ -5089,6 +4739,7 @@ let sm8 = [
         "id": "sm8-71",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5130,10 +4781,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5148,10 +4796,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/71.png",
             "large": "https://images.pokemontcg.io/sm8/71_hires.png"
@@ -5161,6 +4806,7 @@ let sm8 = [
         "id": "sm8-72",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5211,10 +4857,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5229,10 +4872,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/72.png",
             "large": "https://images.pokemontcg.io/sm8/72_hires.png"
@@ -5242,6 +4882,7 @@ let sm8 = [
         "id": "sm8-73",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5292,10 +4933,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5310,10 +4948,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/73.png",
             "large": "https://images.pokemontcg.io/sm8/73_hires.png"
@@ -5323,6 +4958,7 @@ let sm8 = [
         "id": "sm8-74",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5371,10 +5007,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5389,10 +5022,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/74.png",
             "large": "https://images.pokemontcg.io/sm8/74_hires.png"
@@ -5402,6 +5032,7 @@ let sm8 = [
         "id": "sm8-75",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5450,10 +5081,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5468,10 +5096,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/75.png",
             "large": "https://images.pokemontcg.io/sm8/75_hires.png"
@@ -5481,6 +5106,7 @@ let sm8 = [
         "id": "sm8-76",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5521,10 +5147,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5539,10 +5162,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/76.png",
             "large": "https://images.pokemontcg.io/sm8/76_hires.png"
@@ -5552,6 +5172,7 @@ let sm8 = [
         "id": "sm8-77",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5594,10 +5215,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5612,10 +5230,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/77.png",
             "large": "https://images.pokemontcg.io/sm8/77_hires.png"
@@ -5625,6 +5240,7 @@ let sm8 = [
         "id": "sm8-78",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -5671,10 +5287,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5689,10 +5302,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/78.png",
             "large": "https://images.pokemontcg.io/sm8/78_hires.png"
@@ -5702,6 +5312,7 @@ let sm8 = [
         "id": "sm8-79",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5740,10 +5351,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5758,10 +5366,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/79.png",
             "large": "https://images.pokemontcg.io/sm8/79_hires.png"
@@ -5771,6 +5376,7 @@ let sm8 = [
         "id": "sm8-80",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5808,10 +5414,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5826,10 +5429,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/80.png",
             "large": "https://images.pokemontcg.io/sm8/80_hires.png"
@@ -5839,6 +5439,7 @@ let sm8 = [
         "id": "sm8-81",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5889,10 +5490,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5907,10 +5505,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/81.png",
             "large": "https://images.pokemontcg.io/sm8/81_hires.png"
@@ -5920,6 +5515,7 @@ let sm8 = [
         "id": "sm8-82",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5966,10 +5562,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -5984,10 +5577,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/82.png",
             "large": "https://images.pokemontcg.io/sm8/82_hires.png"
@@ -5997,6 +5587,7 @@ let sm8 = [
         "id": "sm8-83",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6043,10 +5634,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6061,10 +5649,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/83.png",
             "large": "https://images.pokemontcg.io/sm8/83_hires.png"
@@ -6074,6 +5659,7 @@ let sm8 = [
         "id": "sm8-84",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6120,10 +5706,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6138,10 +5721,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/84.png",
             "large": "https://images.pokemontcg.io/sm8/84_hires.png"
@@ -6151,6 +5731,7 @@ let sm8 = [
         "id": "sm8-85",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6200,10 +5781,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6218,10 +5796,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/85.png",
             "large": "https://images.pokemontcg.io/sm8/85_hires.png"
@@ -6231,6 +5806,7 @@ let sm8 = [
         "id": "sm8-86",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -6290,10 +5866,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6307,10 +5880,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/86.png",
             "large": "https://images.pokemontcg.io/sm8/86_hires.png"
@@ -6320,6 +5890,7 @@ let sm8 = [
         "id": "sm8-87",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6355,10 +5926,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6373,10 +5941,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/87.png",
             "large": "https://images.pokemontcg.io/sm8/87_hires.png"
@@ -6386,6 +5951,7 @@ let sm8 = [
         "id": "sm8-88",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6430,10 +5996,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6448,10 +6011,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/88.png",
             "large": "https://images.pokemontcg.io/sm8/88_hires.png"
@@ -6461,6 +6021,7 @@ let sm8 = [
         "id": "sm8-89",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6502,10 +6063,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6520,10 +6078,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/89.png",
             "large": "https://images.pokemontcg.io/sm8/89_hires.png"
@@ -6533,6 +6088,7 @@ let sm8 = [
         "id": "sm8-90",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6571,10 +6127,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6602,6 +6155,7 @@ let sm8 = [
         "id": "sm8-91",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6640,10 +6194,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6671,6 +6222,7 @@ let sm8 = [
         "id": "sm8-92",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6709,10 +6261,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6727,10 +6276,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/92.png",
             "large": "https://images.pokemontcg.io/sm8/92_hires.png"
@@ -6740,6 +6286,7 @@ let sm8 = [
         "id": "sm8-93",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6779,10 +6326,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6797,10 +6341,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/93.png",
             "large": "https://images.pokemontcg.io/sm8/93_hires.png"
@@ -6810,6 +6351,7 @@ let sm8 = [
         "id": "sm8-94",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6852,10 +6394,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6870,10 +6409,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/94.png",
             "large": "https://images.pokemontcg.io/sm8/94_hires.png"
@@ -6883,6 +6419,7 @@ let sm8 = [
         "id": "sm8-95",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6916,10 +6453,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6934,10 +6468,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/95.png",
             "large": "https://images.pokemontcg.io/sm8/95_hires.png"
@@ -6947,6 +6478,7 @@ let sm8 = [
         "id": "sm8-96",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6981,10 +6513,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -6999,10 +6528,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/96.png",
             "large": "https://images.pokemontcg.io/sm8/96_hires.png"
@@ -7012,6 +6538,7 @@ let sm8 = [
         "id": "sm8-97",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7058,10 +6585,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7076,10 +6600,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/97.png",
             "large": "https://images.pokemontcg.io/sm8/97_hires.png"
@@ -7089,6 +6610,7 @@ let sm8 = [
         "id": "sm8-98",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -7150,10 +6672,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7167,10 +6686,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/98.png",
             "large": "https://images.pokemontcg.io/sm8/98_hires.png"
@@ -7180,6 +6696,7 @@ let sm8 = [
         "id": "sm8-99",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7220,10 +6737,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7238,10 +6752,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/99.png",
             "large": "https://images.pokemontcg.io/sm8/99_hires.png"
@@ -7251,6 +6762,7 @@ let sm8 = [
         "id": "sm8-100",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7290,10 +6802,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7308,10 +6817,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/100.png",
             "large": "https://images.pokemontcg.io/sm8/100_hires.png"
@@ -7321,6 +6827,7 @@ let sm8 = [
         "id": "sm8-101",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7361,10 +6868,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7379,10 +6883,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/101.png",
             "large": "https://images.pokemontcg.io/sm8/101_hires.png"
@@ -7392,6 +6893,7 @@ let sm8 = [
         "id": "sm8-102",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7433,10 +6935,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7451,10 +6950,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/102.png",
             "large": "https://images.pokemontcg.io/sm8/102_hires.png"
@@ -7464,6 +6960,7 @@ let sm8 = [
         "id": "sm8-103",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -7512,10 +7009,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7530,10 +7024,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/103.png",
             "large": "https://images.pokemontcg.io/sm8/103_hires.png"
@@ -7543,6 +7034,7 @@ let sm8 = [
         "id": "sm8-104",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7585,10 +7077,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7603,10 +7092,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/104.png",
             "large": "https://images.pokemontcg.io/sm8/104_hires.png"
@@ -7616,6 +7102,7 @@ let sm8 = [
         "id": "sm8-105",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7660,10 +7147,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7678,10 +7162,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             747
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/105.png",
             "large": "https://images.pokemontcg.io/sm8/105_hires.png"
@@ -7691,6 +7172,7 @@ let sm8 = [
         "id": "sm8-106",
         "name": "Nihilego",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7732,10 +7214,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7750,10 +7229,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             793
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/106.png",
             "large": "https://images.pokemontcg.io/sm8/106_hires.png"
@@ -7763,6 +7239,7 @@ let sm8 = [
         "id": "sm8-107",
         "name": "Poipole",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7808,10 +7285,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7826,10 +7300,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             803
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/107.png",
             "large": "https://images.pokemontcg.io/sm8/107_hires.png"
@@ -7839,6 +7310,7 @@ let sm8 = [
         "id": "sm8-108",
         "name": "Naganadel",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "Ultra Beast"
@@ -7881,10 +7353,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7899,10 +7368,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/108.png",
             "large": "https://images.pokemontcg.io/sm8/108_hires.png"
@@ -7912,6 +7378,7 @@ let sm8 = [
         "id": "sm8-109",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7949,10 +7416,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -7967,10 +7431,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/109.png",
             "large": "https://images.pokemontcg.io/sm8/109_hires.png"
@@ -7980,6 +7441,7 @@ let sm8 = [
         "id": "sm8-110",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8011,10 +7473,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8029,10 +7488,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/110.png",
             "large": "https://images.pokemontcg.io/sm8/110_hires.png"
@@ -8042,6 +7498,7 @@ let sm8 = [
         "id": "sm8-111",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8077,10 +7534,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8095,10 +7549,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/111.png",
             "large": "https://images.pokemontcg.io/sm8/111_hires.png"
@@ -8108,6 +7559,7 @@ let sm8 = [
         "id": "sm8-112",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8149,10 +7601,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8167,10 +7616,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/112.png",
             "large": "https://images.pokemontcg.io/sm8/112_hires.png"
@@ -8180,6 +7626,7 @@ let sm8 = [
         "id": "sm8-113",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8222,10 +7669,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8240,10 +7684,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/113.png",
             "large": "https://images.pokemontcg.io/sm8/113_hires.png"
@@ -8253,6 +7694,7 @@ let sm8 = [
         "id": "sm8-114",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8294,10 +7736,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8312,10 +7751,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/114.png",
             "large": "https://images.pokemontcg.io/sm8/114_hires.png"
@@ -8325,6 +7761,7 @@ let sm8 = [
         "id": "sm8-115",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8360,10 +7797,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8378,10 +7812,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/115.png",
             "large": "https://images.pokemontcg.io/sm8/115_hires.png"
@@ -8391,6 +7822,7 @@ let sm8 = [
         "id": "sm8-116",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8435,10 +7867,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8453,10 +7882,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/116.png",
             "large": "https://images.pokemontcg.io/sm8/116_hires.png"
@@ -8466,6 +7892,7 @@ let sm8 = [
         "id": "sm8-117",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8508,10 +7935,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8526,10 +7950,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/117.png",
             "large": "https://images.pokemontcg.io/sm8/117_hires.png"
@@ -8539,6 +7960,7 @@ let sm8 = [
         "id": "sm8-118",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8577,10 +7999,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8595,10 +8014,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/118.png",
             "large": "https://images.pokemontcg.io/sm8/118_hires.png"
@@ -8608,6 +8024,7 @@ let sm8 = [
         "id": "sm8-119",
         "name": "Alolan Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8644,10 +8061,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8662,10 +8076,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/119.png",
             "large": "https://images.pokemontcg.io/sm8/119_hires.png"
@@ -8675,6 +8086,7 @@ let sm8 = [
         "id": "sm8-120",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8723,10 +8135,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8741,10 +8150,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/120.png",
             "large": "https://images.pokemontcg.io/sm8/120_hires.png"
@@ -8754,6 +8160,7 @@ let sm8 = [
         "id": "sm8-121",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8816,10 +8223,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8833,10 +8237,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/121.png",
             "large": "https://images.pokemontcg.io/sm8/121_hires.png"
@@ -8846,6 +8247,7 @@ let sm8 = [
         "id": "sm8-122",
         "name": "Alolan Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8884,10 +8286,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8902,10 +8301,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/122.png",
             "large": "https://images.pokemontcg.io/sm8/122_hires.png"
@@ -8915,6 +8311,7 @@ let sm8 = [
         "id": "sm8-123",
         "name": "Alolan Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8951,10 +8348,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -8969,10 +8363,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/123.png",
             "large": "https://images.pokemontcg.io/sm8/123_hires.png"
@@ -8982,6 +8373,7 @@ let sm8 = [
         "id": "sm8-124",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9031,10 +8423,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9049,10 +8438,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/124.png",
             "large": "https://images.pokemontcg.io/sm8/124_hires.png"
@@ -9062,6 +8448,7 @@ let sm8 = [
         "id": "sm8-125",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9114,10 +8501,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9132,10 +8516,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/125.png",
             "large": "https://images.pokemontcg.io/sm8/125_hires.png"
@@ -9145,6 +8526,7 @@ let sm8 = [
         "id": "sm8-126",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9191,10 +8573,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9209,10 +8588,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/126.png",
             "large": "https://images.pokemontcg.io/sm8/126_hires.png"
@@ -9222,6 +8598,7 @@ let sm8 = [
         "id": "sm8-127",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9273,10 +8650,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9291,10 +8665,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/127.png",
             "large": "https://images.pokemontcg.io/sm8/127_hires.png"
@@ -9304,6 +8675,7 @@ let sm8 = [
         "id": "sm8-128",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9351,10 +8723,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9369,10 +8738,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/128.png",
             "large": "https://images.pokemontcg.io/sm8/128_hires.png"
@@ -9382,6 +8748,7 @@ let sm8 = [
         "id": "sm8-129",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9431,10 +8798,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9449,10 +8813,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/129.png",
             "large": "https://images.pokemontcg.io/sm8/129_hires.png"
@@ -9462,6 +8823,7 @@ let sm8 = [
         "id": "sm8-130",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -9523,10 +8885,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9540,10 +8899,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/130.png",
             "large": "https://images.pokemontcg.io/sm8/130_hires.png"
@@ -9553,6 +8909,7 @@ let sm8 = [
         "id": "sm8-131",
         "name": "Magearna",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9600,10 +8957,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9618,10 +8972,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             801
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/131.png",
             "large": "https://images.pokemontcg.io/sm8/131_hires.png"
@@ -9631,6 +8982,7 @@ let sm8 = [
         "id": "sm8-132",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9691,10 +9043,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9708,10 +9057,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/132.png",
             "large": "https://images.pokemontcg.io/sm8/132_hires.png"
@@ -9721,6 +9067,7 @@ let sm8 = [
         "id": "sm8-133",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9771,10 +9118,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9789,10 +9133,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/133.png",
             "large": "https://images.pokemontcg.io/sm8/133_hires.png"
@@ -9802,6 +9143,7 @@ let sm8 = [
         "id": "sm8-134",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9852,10 +9194,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9870,10 +9209,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/134.png",
             "large": "https://images.pokemontcg.io/sm8/134_hires.png"
@@ -9883,6 +9219,7 @@ let sm8 = [
         "id": "sm8-135",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9924,10 +9261,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -9942,10 +9276,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/135.png",
             "large": "https://images.pokemontcg.io/sm8/135_hires.png"
@@ -9955,6 +9286,7 @@ let sm8 = [
         "id": "sm8-136",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10004,10 +9336,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10022,10 +9351,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/136.png",
             "large": "https://images.pokemontcg.io/sm8/136_hires.png"
@@ -10035,6 +9361,7 @@ let sm8 = [
         "id": "sm8-137",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10075,10 +9402,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10093,10 +9417,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/137.png",
             "large": "https://images.pokemontcg.io/sm8/137_hires.png"
@@ -10106,6 +9427,7 @@ let sm8 = [
         "id": "sm8-138",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10155,10 +9477,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10173,10 +9492,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/138.png",
             "large": "https://images.pokemontcg.io/sm8/138_hires.png"
@@ -10186,6 +9502,7 @@ let sm8 = [
         "id": "sm8-139",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10236,10 +9553,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10254,10 +9568,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/139.png",
             "large": "https://images.pokemontcg.io/sm8/139_hires.png"
@@ -10267,6 +9578,7 @@ let sm8 = [
         "id": "sm8-140",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10321,10 +9633,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10339,10 +9648,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/140.png",
             "large": "https://images.pokemontcg.io/sm8/140_hires.png"
@@ -10352,6 +9658,7 @@ let sm8 = [
         "id": "sm8-141",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -10401,10 +9708,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10419,10 +9723,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/141.png",
             "large": "https://images.pokemontcg.io/sm8/141_hires.png"
@@ -10432,6 +9733,7 @@ let sm8 = [
         "id": "sm8-142",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10469,10 +9771,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10487,10 +9786,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/142.png",
             "large": "https://images.pokemontcg.io/sm8/142_hires.png"
@@ -10500,6 +9796,7 @@ let sm8 = [
         "id": "sm8-143",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10549,10 +9846,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10567,10 +9861,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/143.png",
             "large": "https://images.pokemontcg.io/sm8/143_hires.png"
@@ -10580,6 +9871,7 @@ let sm8 = [
         "id": "sm8-144",
         "name": "Xerneas ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -10630,10 +9922,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10648,10 +9937,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/144.png",
             "large": "https://images.pokemontcg.io/sm8/144_hires.png"
@@ -10661,6 +9947,7 @@ let sm8 = [
         "id": "sm8-145",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10700,10 +9987,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10718,10 +10002,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             742
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/145.png",
             "large": "https://images.pokemontcg.io/sm8/145_hires.png"
@@ -10731,6 +10012,7 @@ let sm8 = [
         "id": "sm8-146",
         "name": "Ribombee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10775,10 +10057,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10793,10 +10072,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             743
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/146.png",
             "large": "https://images.pokemontcg.io/sm8/146_hires.png"
@@ -10806,6 +10082,7 @@ let sm8 = [
         "id": "sm8-147",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10846,10 +10123,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10864,10 +10138,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             755
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/147.png",
             "large": "https://images.pokemontcg.io/sm8/147_hires.png"
@@ -10877,6 +10148,7 @@ let sm8 = [
         "id": "sm8-148",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10923,10 +10195,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -10941,10 +10210,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             756
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/148.png",
             "large": "https://images.pokemontcg.io/sm8/148_hires.png"
@@ -10954,6 +10220,7 @@ let sm8 = [
         "id": "sm8-149",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -11002,10 +10269,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11019,10 +10283,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/149.png",
             "large": "https://images.pokemontcg.io/sm8/149_hires.png"
@@ -11032,6 +10293,7 @@ let sm8 = [
         "id": "sm8-150",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11078,10 +10340,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11096,10 +10355,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             786
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/150.png",
             "large": "https://images.pokemontcg.io/sm8/150_hires.png"
@@ -11109,6 +10365,7 @@ let sm8 = [
         "id": "sm8-151",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11158,10 +10415,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11176,10 +10430,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             788
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/151.png",
             "large": "https://images.pokemontcg.io/sm8/151_hires.png"
@@ -11189,6 +10440,7 @@ let sm8 = [
         "id": "sm8-152",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11234,10 +10486,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11252,10 +10501,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/152.png",
             "large": "https://images.pokemontcg.io/sm8/152_hires.png"
@@ -11265,6 +10511,7 @@ let sm8 = [
         "id": "sm8-153",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -11306,10 +10553,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11324,10 +10568,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/153.png",
             "large": "https://images.pokemontcg.io/sm8/153_hires.png"
@@ -11337,6 +10578,7 @@ let sm8 = [
         "id": "sm8-154",
         "name": "Ditto ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -11368,10 +10610,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11386,10 +10625,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/154.png",
             "large": "https://images.pokemontcg.io/sm8/154_hires.png"
@@ -11399,6 +10635,7 @@ let sm8 = [
         "id": "sm8-155",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11440,10 +10677,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11458,10 +10692,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/155.png",
             "large": "https://images.pokemontcg.io/sm8/155_hires.png"
@@ -11471,6 +10702,7 @@ let sm8 = [
         "id": "sm8-156",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11512,10 +10744,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11530,10 +10759,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/156.png",
             "large": "https://images.pokemontcg.io/sm8/156_hires.png"
@@ -11543,6 +10769,7 @@ let sm8 = [
         "id": "sm8-157",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11583,10 +10810,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11601,10 +10825,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/157.png",
             "large": "https://images.pokemontcg.io/sm8/157_hires.png"
@@ -11614,6 +10835,7 @@ let sm8 = [
         "id": "sm8-158",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11647,10 +10869,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11665,10 +10884,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/158.png",
             "large": "https://images.pokemontcg.io/sm8/158_hires.png"
@@ -11678,6 +10894,7 @@ let sm8 = [
         "id": "sm8-159",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -11744,10 +10961,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11761,10 +10975,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/159.png",
             "large": "https://images.pokemontcg.io/sm8/159_hires.png"
@@ -11774,6 +10985,7 @@ let sm8 = [
         "id": "sm8-160",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11813,10 +11025,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11831,10 +11040,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/160.png",
             "large": "https://images.pokemontcg.io/sm8/160_hires.png"
@@ -11844,6 +11050,7 @@ let sm8 = [
         "id": "sm8-161",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11882,10 +11089,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11900,10 +11104,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             352
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/161.png",
             "large": "https://images.pokemontcg.io/sm8/161_hires.png"
@@ -11913,6 +11114,7 @@ let sm8 = [
         "id": "sm8-162",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11952,10 +11154,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -11970,10 +11169,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             352
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/162.png",
             "large": "https://images.pokemontcg.io/sm8/162_hires.png"
@@ -11983,6 +11179,7 @@ let sm8 = [
         "id": "sm8-163",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -12023,10 +11220,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12041,10 +11235,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             731
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/163.png",
             "large": "https://images.pokemontcg.io/sm8/163_hires.png"
@@ -12054,6 +11245,7 @@ let sm8 = [
         "id": "sm8-164",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -12104,10 +11296,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12122,10 +11311,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             731
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/164.png",
             "large": "https://images.pokemontcg.io/sm8/164_hires.png"
@@ -12135,6 +11321,7 @@ let sm8 = [
         "id": "sm8-165",
         "name": "Trumbeak",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -12184,10 +11371,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12202,10 +11386,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             732
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/165.png",
             "large": "https://images.pokemontcg.io/sm8/165_hires.png"
@@ -12215,6 +11396,7 @@ let sm8 = [
         "id": "sm8-166",
         "name": "Toucannon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -12264,10 +11446,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12282,10 +11461,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             733
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/166.png",
             "large": "https://images.pokemontcg.io/sm8/166_hires.png"
@@ -12295,6 +11471,7 @@ let sm8 = [
         "id": "sm8-167",
         "name": "Adventure Bag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12308,10 +11485,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12322,10 +11496,7 @@ let sm8 = [
         "number": "167",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/167.png",
             "large": "https://images.pokemontcg.io/sm8/167_hires.png"
@@ -12335,6 +11506,7 @@ let sm8 = [
         "id": "sm8-168",
         "name": "Aether Foundation Employee",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12348,10 +11520,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12362,10 +11531,7 @@ let sm8 = [
         "number": "168",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/168.png",
             "large": "https://images.pokemontcg.io/sm8/168_hires.png"
@@ -12375,6 +11541,7 @@ let sm8 = [
         "id": "sm8-169",
         "name": "Choice Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12389,10 +11556,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12403,10 +11567,7 @@ let sm8 = [
         "number": "169",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/169.png",
             "large": "https://images.pokemontcg.io/sm8/169_hires.png"
@@ -12416,6 +11577,7 @@ let sm8 = [
         "id": "sm8-170",
         "name": "Counter Gain",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12430,10 +11592,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12444,10 +11603,7 @@ let sm8 = [
         "number": "170",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/170.png",
             "large": "https://images.pokemontcg.io/sm8/170_hires.png"
@@ -12457,6 +11613,7 @@ let sm8 = [
         "id": "sm8-171",
         "name": "Custom Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12470,10 +11627,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12484,10 +11638,7 @@ let sm8 = [
         "number": "171",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/171.png",
             "large": "https://images.pokemontcg.io/sm8/171_hires.png"
@@ -12497,6 +11648,7 @@ let sm8 = [
         "id": "sm8-172",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12510,10 +11662,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12524,10 +11673,7 @@ let sm8 = [
         "number": "172",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/172.png",
             "large": "https://images.pokemontcg.io/sm8/172_hires.png"
@@ -12537,6 +11683,7 @@ let sm8 = [
         "id": "sm8-172a",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12550,10 +11697,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12564,10 +11708,7 @@ let sm8 = [
         "number": "172a",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/172a.png",
             "large": "https://images.pokemontcg.io/sm8/172a_hires.png"
@@ -12577,6 +11718,7 @@ let sm8 = [
         "id": "sm8-173",
         "name": "Faba",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12590,10 +11732,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12604,10 +11743,7 @@ let sm8 = [
         "number": "173",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/173.png",
             "large": "https://images.pokemontcg.io/sm8/173_hires.png"
@@ -12617,6 +11753,7 @@ let sm8 = [
         "id": "sm8-174",
         "name": "Fairy Charm Grass",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12631,10 +11768,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12645,10 +11779,7 @@ let sm8 = [
         "number": "174",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/174.png",
             "large": "https://images.pokemontcg.io/sm8/174_hires.png"
@@ -12658,6 +11789,7 @@ let sm8 = [
         "id": "sm8-175",
         "name": "Fairy Charm Psychic",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12672,10 +11804,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12686,10 +11815,7 @@ let sm8 = [
         "number": "175",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/175.png",
             "large": "https://images.pokemontcg.io/sm8/175_hires.png"
@@ -12699,6 +11825,7 @@ let sm8 = [
         "id": "sm8-176",
         "name": "Fairy Charm Fighting",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12713,10 +11840,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12727,10 +11851,7 @@ let sm8 = [
         "number": "176",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/176.png",
             "large": "https://images.pokemontcg.io/sm8/176_hires.png"
@@ -12740,6 +11861,7 @@ let sm8 = [
         "id": "sm8-177",
         "name": "Fairy Charm Dragon",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12754,10 +11876,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12768,10 +11887,7 @@ let sm8 = [
         "number": "177",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/177.png",
             "large": "https://images.pokemontcg.io/sm8/177_hires.png"
@@ -12781,6 +11897,7 @@ let sm8 = [
         "id": "sm8-178",
         "name": "Heat Factory ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -12797,10 +11914,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12811,10 +11925,7 @@ let sm8 = [
         "number": "178",
         "artist": "5ban Graphics",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/178.png",
             "large": "https://images.pokemontcg.io/sm8/178_hires.png"
@@ -12824,6 +11935,7 @@ let sm8 = [
         "id": "sm8-179",
         "name": "Kahili",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12837,10 +11949,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12851,10 +11960,7 @@ let sm8 = [
         "number": "179",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/179.png",
             "large": "https://images.pokemontcg.io/sm8/179_hires.png"
@@ -12864,6 +11970,7 @@ let sm8 = [
         "id": "sm8-180",
         "name": "Life Forest ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -12880,10 +11987,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12894,10 +11998,7 @@ let sm8 = [
         "number": "180",
         "artist": "5ban Graphics",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/180.png",
             "large": "https://images.pokemontcg.io/sm8/180_hires.png"
@@ -12907,6 +12008,7 @@ let sm8 = [
         "id": "sm8-181",
         "name": "Lost Blender",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12920,10 +12022,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12934,10 +12033,7 @@ let sm8 = [
         "number": "181",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/181.png",
             "large": "https://images.pokemontcg.io/sm8/181_hires.png"
@@ -12947,6 +12043,7 @@ let sm8 = [
         "id": "sm8-182",
         "name": "Lusamine ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -12963,10 +12060,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -12977,10 +12071,7 @@ let sm8 = [
         "number": "182",
         "artist": "nagimiso",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/182.png",
             "large": "https://images.pokemontcg.io/sm8/182_hires.png"
@@ -12990,6 +12081,7 @@ let sm8 = [
         "id": "sm8-183",
         "name": "Mina",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13003,10 +12095,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13017,10 +12106,7 @@ let sm8 = [
         "number": "183",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/183.png",
             "large": "https://images.pokemontcg.io/sm8/183_hires.png"
@@ -13030,6 +12116,7 @@ let sm8 = [
         "id": "sm8-184",
         "name": "Mixed Herbs",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -13043,10 +12130,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13057,10 +12141,7 @@ let sm8 = [
         "number": "184",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/184.png",
             "large": "https://images.pokemontcg.io/sm8/184_hires.png"
@@ -13070,6 +12151,7 @@ let sm8 = [
         "id": "sm8-185",
         "name": "Moomoo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -13083,10 +12165,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13097,10 +12176,7 @@ let sm8 = [
         "number": "185",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/185.png",
             "large": "https://images.pokemontcg.io/sm8/185_hires.png"
@@ -13110,6 +12186,7 @@ let sm8 = [
         "id": "sm8-186",
         "name": "Morty",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13124,10 +12201,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13138,10 +12212,7 @@ let sm8 = [
         "number": "186",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/186.png",
             "large": "https://images.pokemontcg.io/sm8/186_hires.png"
@@ -13151,6 +12222,7 @@ let sm8 = [
         "id": "sm8-187",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -13164,10 +12236,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13178,10 +12247,7 @@ let sm8 = [
         "number": "187",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/187.png",
             "large": "https://images.pokemontcg.io/sm8/187_hires.png"
@@ -13191,6 +12257,7 @@ let sm8 = [
         "id": "sm8-187a",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -13204,10 +12271,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13218,10 +12282,7 @@ let sm8 = [
         "number": "187a",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/187a.png",
             "large": "https://images.pokemontcg.io/sm8/187a_hires.png"
@@ -13231,6 +12292,7 @@ let sm8 = [
         "id": "sm8-188",
         "name": "Professor Elm's Lecture",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13244,10 +12306,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13258,10 +12317,7 @@ let sm8 = [
         "number": "188",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/188.png",
             "large": "https://images.pokemontcg.io/sm8/188_hires.png"
@@ -13271,6 +12327,7 @@ let sm8 = [
         "id": "sm8-189",
         "name": "Sightseer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13284,10 +12341,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13298,10 +12352,7 @@ let sm8 = [
         "number": "189",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/189.png",
             "large": "https://images.pokemontcg.io/sm8/189_hires.png"
@@ -13311,6 +12362,7 @@ let sm8 = [
         "id": "sm8-189a",
         "name": "Sightseer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13324,10 +12376,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13338,10 +12387,7 @@ let sm8 = [
         "number": "189a",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/189a.png",
             "large": "https://images.pokemontcg.io/sm8/189a_hires.png"
@@ -13351,6 +12397,7 @@ let sm8 = [
         "id": "sm8-190",
         "name": "Spell Tag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13365,10 +12412,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13379,10 +12423,7 @@ let sm8 = [
         "number": "190",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/190.png",
             "large": "https://images.pokemontcg.io/sm8/190_hires.png"
@@ -13392,6 +12433,7 @@ let sm8 = [
         "id": "sm8-191",
         "name": "Thunder Mountain ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -13408,10 +12450,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13422,10 +12461,7 @@ let sm8 = [
         "number": "191",
         "artist": "5ban Graphics",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/191.png",
             "large": "https://images.pokemontcg.io/sm8/191_hires.png"
@@ -13435,6 +12471,7 @@ let sm8 = [
         "id": "sm8-192",
         "name": "Wait and See Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -13449,10 +12486,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13463,10 +12497,7 @@ let sm8 = [
         "number": "192",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/192.png",
             "large": "https://images.pokemontcg.io/sm8/192_hires.png"
@@ -13476,6 +12507,7 @@ let sm8 = [
         "id": "sm8-193",
         "name": "Whitney",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13489,10 +12521,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13503,10 +12532,7 @@ let sm8 = [
         "number": "193",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/193.png",
             "large": "https://images.pokemontcg.io/sm8/193_hires.png"
@@ -13516,6 +12542,7 @@ let sm8 = [
         "id": "sm8-194",
         "name": "Memory Energy",
         "supertype": "Energy",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Special"
         ],
@@ -13529,10 +12556,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13542,10 +12566,7 @@ let sm8 = [
         },
         "number": "194",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/194.png",
             "large": "https://images.pokemontcg.io/sm8/194_hires.png"
@@ -13555,6 +12576,7 @@ let sm8 = [
         "id": "sm8-195",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13606,10 +12628,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13623,10 +12642,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/195.png",
             "large": "https://images.pokemontcg.io/sm8/195_hires.png"
@@ -13636,6 +12652,7 @@ let sm8 = [
         "id": "sm8-196",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -13691,10 +12708,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13708,10 +12722,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/196.png",
             "large": "https://images.pokemontcg.io/sm8/196_hires.png"
@@ -13721,6 +12732,7 @@ let sm8 = [
         "id": "sm8-197",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13775,10 +12787,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13792,10 +12801,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/197.png",
             "large": "https://images.pokemontcg.io/sm8/197_hires.png"
@@ -13805,6 +12811,7 @@ let sm8 = [
         "id": "sm8-198",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13859,10 +12866,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13876,10 +12880,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/198.png",
             "large": "https://images.pokemontcg.io/sm8/198_hires.png"
@@ -13889,6 +12890,7 @@ let sm8 = [
         "id": "sm8-199",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -13944,10 +12946,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -13961,10 +12960,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             806
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/199.png",
             "large": "https://images.pokemontcg.io/sm8/199_hires.png"
@@ -13974,6 +12970,7 @@ let sm8 = [
         "id": "sm8-200",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14029,10 +13026,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14046,10 +13040,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/200.png",
             "large": "https://images.pokemontcg.io/sm8/200_hires.png"
@@ -14059,6 +13050,7 @@ let sm8 = [
         "id": "sm8-201",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14118,10 +13110,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14135,10 +13124,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/201.png",
             "large": "https://images.pokemontcg.io/sm8/201_hires.png"
@@ -14148,6 +13134,7 @@ let sm8 = [
         "id": "sm8-202",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14209,10 +13196,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14226,10 +13210,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/202.png",
             "large": "https://images.pokemontcg.io/sm8/202_hires.png"
@@ -14239,6 +13220,7 @@ let sm8 = [
         "id": "sm8-203",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14301,10 +13283,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14318,10 +13297,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/203.png",
             "large": "https://images.pokemontcg.io/sm8/203_hires.png"
@@ -14331,6 +13307,7 @@ let sm8 = [
         "id": "sm8-204",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14392,10 +13369,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14409,10 +13383,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/204.png",
             "large": "https://images.pokemontcg.io/sm8/204_hires.png"
@@ -14422,6 +13393,7 @@ let sm8 = [
         "id": "sm8-205",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14482,10 +13454,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14499,10 +13468,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/205.png",
             "large": "https://images.pokemontcg.io/sm8/205_hires.png"
@@ -14512,6 +13478,7 @@ let sm8 = [
         "id": "sm8-206",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14560,10 +13527,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14577,10 +13541,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/206.png",
             "large": "https://images.pokemontcg.io/sm8/206_hires.png"
@@ -14590,6 +13551,7 @@ let sm8 = [
         "id": "sm8-207",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14656,10 +13618,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14673,10 +13632,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/207.png",
             "large": "https://images.pokemontcg.io/sm8/207_hires.png"
@@ -14686,6 +13642,7 @@ let sm8 = [
         "id": "sm8-208",
         "name": "Faba",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14699,10 +13656,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14713,10 +13667,7 @@ let sm8 = [
         "number": "208",
         "artist": "take",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/208.png",
             "large": "https://images.pokemontcg.io/sm8/208_hires.png"
@@ -14726,6 +13677,7 @@ let sm8 = [
         "id": "sm8-209",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14739,10 +13691,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14753,10 +13702,7 @@ let sm8 = [
         "number": "209",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/209.png",
             "large": "https://images.pokemontcg.io/sm8/209_hires.png"
@@ -14766,6 +13712,7 @@ let sm8 = [
         "id": "sm8-210",
         "name": "Kahili",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14779,10 +13726,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14793,10 +13737,7 @@ let sm8 = [
         "number": "210",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/210.png",
             "large": "https://images.pokemontcg.io/sm8/210_hires.png"
@@ -14806,6 +13747,7 @@ let sm8 = [
         "id": "sm8-211",
         "name": "Mina",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14819,10 +13761,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14833,10 +13772,7 @@ let sm8 = [
         "number": "211",
         "artist": "You Iribi",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/211.png",
             "large": "https://images.pokemontcg.io/sm8/211_hires.png"
@@ -14846,6 +13782,7 @@ let sm8 = [
         "id": "sm8-212",
         "name": "Morty",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14860,10 +13797,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14874,10 +13808,7 @@ let sm8 = [
         "number": "212",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/212.png",
             "large": "https://images.pokemontcg.io/sm8/212_hires.png"
@@ -14887,6 +13818,7 @@ let sm8 = [
         "id": "sm8-213",
         "name": "Professor Elm's Lecture",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14900,10 +13832,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14914,10 +13843,7 @@ let sm8 = [
         "number": "213",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/213.png",
             "large": "https://images.pokemontcg.io/sm8/213_hires.png"
@@ -14927,6 +13853,7 @@ let sm8 = [
         "id": "sm8-214",
         "name": "Whitney",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -14940,10 +13867,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -14954,10 +13878,7 @@ let sm8 = [
         "number": "214",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/214.png",
             "large": "https://images.pokemontcg.io/sm8/214_hires.png"
@@ -14967,6 +13888,7 @@ let sm8 = [
         "id": "sm8-215",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15018,10 +13940,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15035,10 +13954,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/215.png",
             "large": "https://images.pokemontcg.io/sm8/215_hires.png"
@@ -15048,6 +13964,7 @@ let sm8 = [
         "id": "sm8-216",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15103,10 +14020,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15120,10 +14034,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/216.png",
             "large": "https://images.pokemontcg.io/sm8/216_hires.png"
@@ -15133,6 +14044,7 @@ let sm8 = [
         "id": "sm8-217",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15187,10 +14099,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15204,10 +14113,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/217.png",
             "large": "https://images.pokemontcg.io/sm8/217_hires.png"
@@ -15217,6 +14123,7 @@ let sm8 = [
         "id": "sm8-218",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15271,10 +14178,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15288,10 +14192,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/218.png",
             "large": "https://images.pokemontcg.io/sm8/218_hires.png"
@@ -15301,6 +14202,7 @@ let sm8 = [
         "id": "sm8-219",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -15356,10 +14258,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15373,10 +14272,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             806
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/219.png",
             "large": "https://images.pokemontcg.io/sm8/219_hires.png"
@@ -15386,6 +14282,7 @@ let sm8 = [
         "id": "sm8-220",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15441,10 +14338,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15458,10 +14352,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/220.png",
             "large": "https://images.pokemontcg.io/sm8/220_hires.png"
@@ -15471,6 +14362,7 @@ let sm8 = [
         "id": "sm8-221",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15530,10 +14422,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15547,10 +14436,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/221.png",
             "large": "https://images.pokemontcg.io/sm8/221_hires.png"
@@ -15560,6 +14446,7 @@ let sm8 = [
         "id": "sm8-222",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15621,10 +14508,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15638,10 +14522,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/222.png",
             "large": "https://images.pokemontcg.io/sm8/222_hires.png"
@@ -15651,6 +14532,7 @@ let sm8 = [
         "id": "sm8-223",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15713,10 +14595,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15730,10 +14609,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/223.png",
             "large": "https://images.pokemontcg.io/sm8/223_hires.png"
@@ -15743,6 +14619,7 @@ let sm8 = [
         "id": "sm8-224",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15804,10 +14681,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15821,10 +14695,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/224.png",
             "large": "https://images.pokemontcg.io/sm8/224_hires.png"
@@ -15834,6 +14705,7 @@ let sm8 = [
         "id": "sm8-225",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15894,10 +14766,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15911,10 +14780,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/225.png",
             "large": "https://images.pokemontcg.io/sm8/225_hires.png"
@@ -15924,6 +14790,7 @@ let sm8 = [
         "id": "sm8-226",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -15972,10 +14839,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -15989,10 +14853,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/226.png",
             "large": "https://images.pokemontcg.io/sm8/226_hires.png"
@@ -16002,6 +14863,7 @@ let sm8 = [
         "id": "sm8-227",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -16068,10 +14930,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16085,10 +14944,7 @@ let sm8 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/227.png",
             "large": "https://images.pokemontcg.io/sm8/227_hires.png"
@@ -16098,6 +14954,7 @@ let sm8 = [
         "id": "sm8-228",
         "name": "Adventure Bag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16111,10 +14968,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16125,10 +14979,7 @@ let sm8 = [
         "number": "228",
         "artist": "Yoshinobu Saito",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/228.png",
             "large": "https://images.pokemontcg.io/sm8/228_hires.png"
@@ -16138,6 +14989,7 @@ let sm8 = [
         "id": "sm8-229",
         "name": "Choice Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16152,10 +15004,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16166,10 +15015,7 @@ let sm8 = [
         "number": "229",
         "artist": "Eske Yoshinob",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/229.png",
             "large": "https://images.pokemontcg.io/sm8/229_hires.png"
@@ -16179,6 +15025,7 @@ let sm8 = [
         "id": "sm8-230",
         "name": "Counter Gain",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16193,10 +15040,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16207,10 +15051,7 @@ let sm8 = [
         "number": "230",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/230.png",
             "large": "https://images.pokemontcg.io/sm8/230_hires.png"
@@ -16220,6 +15061,7 @@ let sm8 = [
         "id": "sm8-231",
         "name": "Custom Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16233,10 +15075,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16247,10 +15086,7 @@ let sm8 = [
         "number": "231",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/231.png",
             "large": "https://images.pokemontcg.io/sm8/231_hires.png"
@@ -16260,6 +15096,7 @@ let sm8 = [
         "id": "sm8-232",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16273,10 +15110,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16287,10 +15121,7 @@ let sm8 = [
         "number": "232",
         "artist": "Eske Yoshinob",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/232.png",
             "large": "https://images.pokemontcg.io/sm8/232_hires.png"
@@ -16300,6 +15131,7 @@ let sm8 = [
         "id": "sm8-233",
         "name": "Lost Blender",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16313,10 +15145,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16327,10 +15156,7 @@ let sm8 = [
         "number": "233",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/233.png",
             "large": "https://images.pokemontcg.io/sm8/233_hires.png"
@@ -16340,6 +15166,7 @@ let sm8 = [
         "id": "sm8-234",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16353,10 +15180,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16367,10 +15191,7 @@ let sm8 = [
         "number": "234",
         "artist": "Ryo Ueda",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/234.png",
             "large": "https://images.pokemontcg.io/sm8/234_hires.png"
@@ -16380,6 +15201,7 @@ let sm8 = [
         "id": "sm8-235",
         "name": "Spell Tag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16394,10 +15216,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16408,10 +15227,7 @@ let sm8 = [
         "number": "235",
         "artist": "Ayaka Yoshida",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/235.png",
             "large": "https://images.pokemontcg.io/sm8/235_hires.png"
@@ -16421,6 +15237,7 @@ let sm8 = [
         "id": "sm8-236",
         "name": "Wait and See Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -16435,10 +15252,7 @@ let sm8 = [
             "series": "Sun & Moon",
             "printedTotal": 214,
             "total": 240,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LOT",
             "releaseDate": "2018/11/02",
             "images": {
@@ -16449,10 +15263,7 @@ let sm8 = [
         "number": "236",
         "artist": "Yoshinobu Saito",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm8/236.png",
             "large": "https://images.pokemontcg.io/sm8/236_hires.png"

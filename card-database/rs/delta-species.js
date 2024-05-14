@@ -1,8 +1,9 @@
-let deltaSpecies = [
+let ex11 = [
     {
         "id": "ex11-1",
         "name": "Beedrill δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -47,9 +48,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -63,9 +62,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/1.png",
             "large": "https://images.pokemontcg.io/ex11/1_hires.png"
@@ -75,6 +72,7 @@ let deltaSpecies = [
         "id": "ex11-2",
         "name": "Crobat δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -122,9 +120,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -138,9 +134,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/2.png",
             "large": "https://images.pokemontcg.io/ex11/2_hires.png"
@@ -150,6 +144,7 @@ let deltaSpecies = [
         "id": "ex11-3",
         "name": "Dragonite δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -216,9 +211,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -232,9 +225,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/3.png",
             "large": "https://images.pokemontcg.io/ex11/3_hires.png"
@@ -244,6 +235,7 @@ let deltaSpecies = [
         "id": "ex11-4",
         "name": "Espeon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -288,9 +280,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -304,9 +294,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/4.png",
             "large": "https://images.pokemontcg.io/ex11/4_hires.png"
@@ -316,6 +304,7 @@ let deltaSpecies = [
         "id": "ex11-5",
         "name": "Flareon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -363,9 +352,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -379,9 +366,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/5.png",
             "large": "https://images.pokemontcg.io/ex11/5_hires.png"
@@ -391,6 +376,7 @@ let deltaSpecies = [
         "id": "ex11-6",
         "name": "Gardevoir δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -446,9 +432,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -462,9 +446,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/6.png",
             "large": "https://images.pokemontcg.io/ex11/6_hires.png"
@@ -474,6 +456,7 @@ let deltaSpecies = [
         "id": "ex11-7",
         "name": "Jolteon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -527,9 +510,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -543,9 +524,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/7.png",
             "large": "https://images.pokemontcg.io/ex11/7_hires.png"
@@ -555,6 +534,7 @@ let deltaSpecies = [
         "id": "ex11-8",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -621,9 +601,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -637,9 +615,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/8.png",
             "large": "https://images.pokemontcg.io/ex11/8_hires.png"
@@ -649,6 +625,7 @@ let deltaSpecies = [
         "id": "ex11-9",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -715,9 +692,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -731,9 +706,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/9.png",
             "large": "https://images.pokemontcg.io/ex11/9_hires.png"
@@ -743,6 +716,7 @@ let deltaSpecies = [
         "id": "ex11-10",
         "name": "Marowak δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -791,9 +765,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -807,9 +779,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/10.png",
             "large": "https://images.pokemontcg.io/ex11/10_hires.png"
@@ -819,6 +789,7 @@ let deltaSpecies = [
         "id": "ex11-11",
         "name": "Metagross δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -869,9 +840,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -885,9 +854,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/11.png",
             "large": "https://images.pokemontcg.io/ex11/11_hires.png"
@@ -897,6 +864,7 @@ let deltaSpecies = [
         "id": "ex11-12",
         "name": "Mewtwo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -940,9 +908,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -956,9 +922,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/12.png",
             "large": "https://images.pokemontcg.io/ex11/12_hires.png"
@@ -968,6 +932,7 @@ let deltaSpecies = [
         "id": "ex11-13",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -1032,9 +997,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1048,9 +1011,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/13.png",
             "large": "https://images.pokemontcg.io/ex11/13_hires.png"
@@ -1060,6 +1021,7 @@ let deltaSpecies = [
         "id": "ex11-14",
         "name": "Salamence δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1119,9 +1081,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1135,9 +1095,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/14.png",
             "large": "https://images.pokemontcg.io/ex11/14_hires.png"
@@ -1147,6 +1105,7 @@ let deltaSpecies = [
         "id": "ex11-15",
         "name": "Starmie δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1198,9 +1157,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1214,9 +1171,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/15.png",
             "large": "https://images.pokemontcg.io/ex11/15_hires.png"
@@ -1226,6 +1181,7 @@ let deltaSpecies = [
         "id": "ex11-16",
         "name": "Tyranitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1271,9 +1227,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1287,9 +1241,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/16.png",
             "large": "https://images.pokemontcg.io/ex11/16_hires.png"
@@ -1299,6 +1251,7 @@ let deltaSpecies = [
         "id": "ex11-17",
         "name": "Umbreon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1349,9 +1302,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1365,9 +1316,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/17.png",
             "large": "https://images.pokemontcg.io/ex11/17_hires.png"
@@ -1377,6 +1326,7 @@ let deltaSpecies = [
         "id": "ex11-18",
         "name": "Vaporeon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1424,9 +1374,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1440,9 +1388,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/18.png",
             "large": "https://images.pokemontcg.io/ex11/18_hires.png"
@@ -1452,6 +1398,7 @@ let deltaSpecies = [
         "id": "ex11-19",
         "name": "Azumarill δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1500,9 +1447,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1516,9 +1461,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/19.png",
             "large": "https://images.pokemontcg.io/ex11/19_hires.png"
@@ -1528,6 +1471,7 @@ let deltaSpecies = [
         "id": "ex11-20",
         "name": "Azurill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -1569,9 +1513,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1585,9 +1527,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             298
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/20.png",
             "large": "https://images.pokemontcg.io/ex11/20_hires.png"
@@ -1597,6 +1537,7 @@ let deltaSpecies = [
         "id": "ex11-21",
         "name": "Holon's Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1632,9 +1573,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1648,9 +1587,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/21.png",
             "large": "https://images.pokemontcg.io/ex11/21_hires.png"
@@ -1660,6 +1597,7 @@ let deltaSpecies = [
         "id": "ex11-22",
         "name": "Holon's Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1705,9 +1643,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1721,9 +1657,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/22.png",
             "large": "https://images.pokemontcg.io/ex11/22_hires.png"
@@ -1733,6 +1667,7 @@ let deltaSpecies = [
         "id": "ex11-23",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1782,9 +1717,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1798,9 +1731,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/23.png",
             "large": "https://images.pokemontcg.io/ex11/23_hires.png"
@@ -1810,6 +1741,7 @@ let deltaSpecies = [
         "id": "ex11-24",
         "name": "Mightyena δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1863,9 +1795,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1879,9 +1809,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/24.png",
             "large": "https://images.pokemontcg.io/ex11/24_hires.png"
@@ -1891,6 +1819,7 @@ let deltaSpecies = [
         "id": "ex11-25",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1934,9 +1863,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -1950,9 +1877,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/25.png",
             "large": "https://images.pokemontcg.io/ex11/25_hires.png"
@@ -1962,6 +1887,7 @@ let deltaSpecies = [
         "id": "ex11-26",
         "name": "Rain Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2002,9 +1928,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2018,9 +1942,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/26.png",
             "large": "https://images.pokemontcg.io/ex11/26_hires.png"
@@ -2030,6 +1952,7 @@ let deltaSpecies = [
         "id": "ex11-27",
         "name": "Sandslash δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2085,9 +2008,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2101,9 +2022,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/27.png",
             "large": "https://images.pokemontcg.io/ex11/27_hires.png"
@@ -2113,6 +2032,7 @@ let deltaSpecies = [
         "id": "ex11-28",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2153,9 +2073,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2169,9 +2087,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/28.png",
             "large": "https://images.pokemontcg.io/ex11/28_hires.png"
@@ -2181,6 +2097,7 @@ let deltaSpecies = [
         "id": "ex11-29",
         "name": "Snow-cloud Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2220,9 +2137,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2236,9 +2151,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/29.png",
             "large": "https://images.pokemontcg.io/ex11/29_hires.png"
@@ -2248,6 +2161,7 @@ let deltaSpecies = [
         "id": "ex11-30",
         "name": "Starmie δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2295,9 +2209,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2311,9 +2223,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/30.png",
             "large": "https://images.pokemontcg.io/ex11/30_hires.png"
@@ -2323,6 +2233,7 @@ let deltaSpecies = [
         "id": "ex11-31",
         "name": "Sunny Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2362,9 +2273,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2378,9 +2287,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/31.png",
             "large": "https://images.pokemontcg.io/ex11/31_hires.png"
@@ -2390,6 +2297,7 @@ let deltaSpecies = [
         "id": "ex11-32",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2438,9 +2346,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2454,9 +2360,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/32.png",
             "large": "https://images.pokemontcg.io/ex11/32_hires.png"
@@ -2466,6 +2370,7 @@ let deltaSpecies = [
         "id": "ex11-33",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2516,9 +2421,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2532,9 +2435,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/33.png",
             "large": "https://images.pokemontcg.io/ex11/33_hires.png"
@@ -2544,6 +2445,7 @@ let deltaSpecies = [
         "id": "ex11-34",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2582,9 +2484,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2598,9 +2498,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/34.png",
             "large": "https://images.pokemontcg.io/ex11/34_hires.png"
@@ -2610,6 +2508,7 @@ let deltaSpecies = [
         "id": "ex11-35",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2648,9 +2547,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2664,9 +2561,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/35.png",
             "large": "https://images.pokemontcg.io/ex11/35_hires.png"
@@ -2676,6 +2571,7 @@ let deltaSpecies = [
         "id": "ex11-36",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2715,9 +2611,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2731,9 +2625,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/36.png",
             "large": "https://images.pokemontcg.io/ex11/36_hires.png"
@@ -2743,6 +2635,7 @@ let deltaSpecies = [
         "id": "ex11-37",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2782,9 +2675,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2798,9 +2689,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/37.png",
             "large": "https://images.pokemontcg.io/ex11/37_hires.png"
@@ -2810,6 +2699,7 @@ let deltaSpecies = [
         "id": "ex11-38",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2848,9 +2738,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2864,9 +2752,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/38.png",
             "large": "https://images.pokemontcg.io/ex11/38_hires.png"
@@ -2876,6 +2762,7 @@ let deltaSpecies = [
         "id": "ex11-39",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2915,9 +2802,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2931,9 +2816,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/39.png",
             "large": "https://images.pokemontcg.io/ex11/39_hires.png"
@@ -2943,6 +2826,7 @@ let deltaSpecies = [
         "id": "ex11-40",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2982,9 +2866,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -2998,9 +2880,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/40.png",
             "large": "https://images.pokemontcg.io/ex11/40_hires.png"
@@ -3010,6 +2890,7 @@ let deltaSpecies = [
         "id": "ex11-41",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3067,9 +2948,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3083,9 +2962,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/41.png",
             "large": "https://images.pokemontcg.io/ex11/41_hires.png"
@@ -3095,6 +2972,7 @@ let deltaSpecies = [
         "id": "ex11-42",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3141,9 +3019,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3157,9 +3033,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/42.png",
             "large": "https://images.pokemontcg.io/ex11/42_hires.png"
@@ -3169,6 +3043,7 @@ let deltaSpecies = [
         "id": "ex11-43",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3214,9 +3089,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3230,9 +3103,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/43.png",
             "large": "https://images.pokemontcg.io/ex11/43_hires.png"
@@ -3242,6 +3113,7 @@ let deltaSpecies = [
         "id": "ex11-44",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3293,9 +3165,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3309,9 +3179,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/44.png",
             "large": "https://images.pokemontcg.io/ex11/44_hires.png"
@@ -3321,6 +3189,7 @@ let deltaSpecies = [
         "id": "ex11-45",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -3369,9 +3238,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3385,9 +3252,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/45.png",
             "large": "https://images.pokemontcg.io/ex11/45_hires.png"
@@ -3397,6 +3262,7 @@ let deltaSpecies = [
         "id": "ex11-46",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3443,9 +3309,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3459,9 +3323,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/46.png",
             "large": "https://images.pokemontcg.io/ex11/46_hires.png"
@@ -3471,6 +3333,7 @@ let deltaSpecies = [
         "id": "ex11-47",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3517,9 +3380,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3533,9 +3394,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/47.png",
             "large": "https://images.pokemontcg.io/ex11/47_hires.png"
@@ -3545,6 +3404,7 @@ let deltaSpecies = [
         "id": "ex11-48",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3598,9 +3458,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3614,9 +3472,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/48.png",
             "large": "https://images.pokemontcg.io/ex11/48_hires.png"
@@ -3626,6 +3482,7 @@ let deltaSpecies = [
         "id": "ex11-49",
         "name": "Metang δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3679,9 +3536,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3695,9 +3550,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/49.png",
             "large": "https://images.pokemontcg.io/ex11/49_hires.png"
@@ -3707,6 +3560,7 @@ let deltaSpecies = [
         "id": "ex11-50",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3747,9 +3601,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3763,9 +3615,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/50.png",
             "large": "https://images.pokemontcg.io/ex11/50_hires.png"
@@ -3775,6 +3625,7 @@ let deltaSpecies = [
         "id": "ex11-51",
         "name": "Pupitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3820,9 +3671,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3836,9 +3685,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/51.png",
             "large": "https://images.pokemontcg.io/ex11/51_hires.png"
@@ -3848,6 +3695,7 @@ let deltaSpecies = [
         "id": "ex11-52",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3889,9 +3737,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3905,9 +3751,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/52.png",
             "large": "https://images.pokemontcg.io/ex11/52_hires.png"
@@ -3917,6 +3761,7 @@ let deltaSpecies = [
         "id": "ex11-53",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3973,9 +3818,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -3989,9 +3832,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/53.png",
             "large": "https://images.pokemontcg.io/ex11/53_hires.png"
@@ -4001,6 +3842,7 @@ let deltaSpecies = [
         "id": "ex11-54",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4054,9 +3896,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4070,9 +3910,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/54.png",
             "large": "https://images.pokemontcg.io/ex11/54_hires.png"
@@ -4082,6 +3920,7 @@ let deltaSpecies = [
         "id": "ex11-55",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4136,9 +3975,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4152,9 +3989,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/55.png",
             "large": "https://images.pokemontcg.io/ex11/55_hires.png"
@@ -4164,6 +3999,7 @@ let deltaSpecies = [
         "id": "ex11-56",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4203,9 +4039,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4219,9 +4053,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/56.png",
             "large": "https://images.pokemontcg.io/ex11/56_hires.png"
@@ -4231,6 +4063,7 @@ let deltaSpecies = [
         "id": "ex11-57",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4275,9 +4108,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4291,9 +4122,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/57.png",
             "large": "https://images.pokemontcg.io/ex11/57_hires.png"
@@ -4303,6 +4132,7 @@ let deltaSpecies = [
         "id": "ex11-58",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4348,9 +4178,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4364,9 +4192,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/58.png",
             "large": "https://images.pokemontcg.io/ex11/58_hires.png"
@@ -4376,6 +4202,7 @@ let deltaSpecies = [
         "id": "ex11-59",
         "name": "Beldum δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4424,9 +4251,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4440,9 +4265,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/59.png",
             "large": "https://images.pokemontcg.io/ex11/59_hires.png"
@@ -4452,6 +4275,7 @@ let deltaSpecies = [
         "id": "ex11-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4496,9 +4320,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4512,9 +4334,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/60.png",
             "large": "https://images.pokemontcg.io/ex11/60_hires.png"
@@ -4524,6 +4344,7 @@ let deltaSpecies = [
         "id": "ex11-61",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4563,9 +4384,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4579,9 +4398,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/61.png",
             "large": "https://images.pokemontcg.io/ex11/61_hires.png"
@@ -4591,6 +4408,7 @@ let deltaSpecies = [
         "id": "ex11-62",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4630,9 +4448,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4646,9 +4462,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/62.png",
             "large": "https://images.pokemontcg.io/ex11/62_hires.png"
@@ -4658,6 +4472,7 @@ let deltaSpecies = [
         "id": "ex11-63",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4697,9 +4512,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4713,9 +4526,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/63.png",
             "large": "https://images.pokemontcg.io/ex11/63_hires.png"
@@ -4725,6 +4536,7 @@ let deltaSpecies = [
         "id": "ex11-64",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4764,9 +4576,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4780,9 +4590,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/64.png",
             "large": "https://images.pokemontcg.io/ex11/64_hires.png"
@@ -4792,6 +4600,7 @@ let deltaSpecies = [
         "id": "ex11-65",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4846,9 +4655,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4862,9 +4669,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/65.png",
             "large": "https://images.pokemontcg.io/ex11/65_hires.png"
@@ -4874,6 +4679,7 @@ let deltaSpecies = [
         "id": "ex11-66",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4918,9 +4724,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -4934,9 +4738,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/66.png",
             "large": "https://images.pokemontcg.io/ex11/66_hires.png"
@@ -4946,6 +4748,7 @@ let deltaSpecies = [
         "id": "ex11-67",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4990,9 +4793,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5006,9 +4807,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/67.png",
             "large": "https://images.pokemontcg.io/ex11/67_hires.png"
@@ -5018,6 +4817,7 @@ let deltaSpecies = [
         "id": "ex11-68",
         "name": "Eevee δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5059,9 +4859,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5075,9 +4873,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/68.png",
             "large": "https://images.pokemontcg.io/ex11/68_hires.png"
@@ -5087,6 +4883,7 @@ let deltaSpecies = [
         "id": "ex11-69",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5138,9 +4935,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5154,9 +4949,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/69.png",
             "large": "https://images.pokemontcg.io/ex11/69_hires.png"
@@ -5166,6 +4959,7 @@ let deltaSpecies = [
         "id": "ex11-70",
         "name": "Holon's Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5209,9 +5003,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5225,9 +5017,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/70.png",
             "large": "https://images.pokemontcg.io/ex11/70_hires.png"
@@ -5237,6 +5027,7 @@ let deltaSpecies = [
         "id": "ex11-71",
         "name": "Holon's Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5274,9 +5065,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5290,9 +5079,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/71.png",
             "large": "https://images.pokemontcg.io/ex11/71_hires.png"
@@ -5302,6 +5089,7 @@ let deltaSpecies = [
         "id": "ex11-72",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5346,9 +5134,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5362,9 +5148,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/72.png",
             "large": "https://images.pokemontcg.io/ex11/72_hires.png"
@@ -5374,6 +5158,7 @@ let deltaSpecies = [
         "id": "ex11-73",
         "name": "Larvitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5418,9 +5203,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5434,9 +5217,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/73.png",
             "large": "https://images.pokemontcg.io/ex11/73_hires.png"
@@ -5446,6 +5227,7 @@ let deltaSpecies = [
         "id": "ex11-74",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5495,9 +5277,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5511,9 +5291,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/74.png",
             "large": "https://images.pokemontcg.io/ex11/74_hires.png"
@@ -5523,6 +5301,7 @@ let deltaSpecies = [
         "id": "ex11-75",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5557,9 +5336,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5573,9 +5350,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/75.png",
             "large": "https://images.pokemontcg.io/ex11/75_hires.png"
@@ -5585,6 +5360,7 @@ let deltaSpecies = [
         "id": "ex11-76",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5629,9 +5405,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5645,9 +5419,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/76.png",
             "large": "https://images.pokemontcg.io/ex11/76_hires.png"
@@ -5657,6 +5429,7 @@ let deltaSpecies = [
         "id": "ex11-77",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5700,9 +5473,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5716,9 +5487,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/77.png",
             "large": "https://images.pokemontcg.io/ex11/77_hires.png"
@@ -5728,6 +5497,7 @@ let deltaSpecies = [
         "id": "ex11-78",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5762,9 +5532,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5778,9 +5546,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/78.png",
             "large": "https://images.pokemontcg.io/ex11/78_hires.png"
@@ -5790,6 +5556,7 @@ let deltaSpecies = [
         "id": "ex11-79",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5840,9 +5607,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5856,9 +5621,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/79.png",
             "large": "https://images.pokemontcg.io/ex11/79_hires.png"
@@ -5868,6 +5631,7 @@ let deltaSpecies = [
         "id": "ex11-80",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5903,9 +5667,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5919,9 +5681,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/80.png",
             "large": "https://images.pokemontcg.io/ex11/80_hires.png"
@@ -5931,6 +5691,7 @@ let deltaSpecies = [
         "id": "ex11-81",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5975,9 +5736,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -5991,9 +5750,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/81.png",
             "large": "https://images.pokemontcg.io/ex11/81_hires.png"
@@ -6003,6 +5760,7 @@ let deltaSpecies = [
         "id": "ex11-82",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6047,9 +5805,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6063,9 +5819,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/82.png",
             "large": "https://images.pokemontcg.io/ex11/82_hires.png"
@@ -6075,6 +5829,7 @@ let deltaSpecies = [
         "id": "ex11-83",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6120,9 +5875,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6136,9 +5889,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/83.png",
             "large": "https://images.pokemontcg.io/ex11/83_hires.png"
@@ -6148,6 +5899,7 @@ let deltaSpecies = [
         "id": "ex11-84",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6192,9 +5944,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6208,9 +5958,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/84.png",
             "large": "https://images.pokemontcg.io/ex11/84_hires.png"
@@ -6220,6 +5968,7 @@ let deltaSpecies = [
         "id": "ex11-85",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6263,9 +6012,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6279,9 +6026,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/85.png",
             "large": "https://images.pokemontcg.io/ex11/85_hires.png"
@@ -6291,6 +6036,7 @@ let deltaSpecies = [
         "id": "ex11-86",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6331,9 +6077,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6347,9 +6091,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/86.png",
             "large": "https://images.pokemontcg.io/ex11/86_hires.png"
@@ -6359,6 +6101,7 @@ let deltaSpecies = [
         "id": "ex11-87",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6393,9 +6136,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6409,9 +6150,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/87.png",
             "large": "https://images.pokemontcg.io/ex11/87_hires.png"
@@ -6421,6 +6160,7 @@ let deltaSpecies = [
         "id": "ex11-88",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6455,9 +6195,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6471,9 +6209,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/88.png",
             "large": "https://images.pokemontcg.io/ex11/88_hires.png"
@@ -6483,6 +6219,7 @@ let deltaSpecies = [
         "id": "ex11-89",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6495,9 +6232,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6508,9 +6243,7 @@ let deltaSpecies = [
         "number": "89",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/89.png",
             "large": "https://images.pokemontcg.io/ex11/89_hires.png"
@@ -6520,6 +6253,7 @@ let deltaSpecies = [
         "id": "ex11-90",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6532,9 +6266,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6545,11 +6277,7 @@ let deltaSpecies = [
         "number": "90",
         "artist": "Nakaoka",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/90.png",
             "large": "https://images.pokemontcg.io/ex11/90_hires.png"
@@ -6559,6 +6287,7 @@ let deltaSpecies = [
         "id": "ex11-91",
         "name": "Holon Farmer",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6573,9 +6302,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6586,9 +6313,7 @@ let deltaSpecies = [
         "number": "91",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/91.png",
             "large": "https://images.pokemontcg.io/ex11/91_hires.png"
@@ -6598,6 +6323,7 @@ let deltaSpecies = [
         "id": "ex11-92",
         "name": "Holon Lass",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6612,9 +6338,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6625,9 +6349,7 @@ let deltaSpecies = [
         "number": "92",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/92.png",
             "large": "https://images.pokemontcg.io/ex11/92_hires.png"
@@ -6637,6 +6359,7 @@ let deltaSpecies = [
         "id": "ex11-93",
         "name": "Holon Mentor",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6651,9 +6374,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6664,9 +6385,7 @@ let deltaSpecies = [
         "number": "93",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/93.png",
             "large": "https://images.pokemontcg.io/ex11/93_hires.png"
@@ -6676,6 +6395,7 @@ let deltaSpecies = [
         "id": "ex11-94",
         "name": "Holon Research Tower",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stadium"
         ],
@@ -6689,9 +6409,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6702,9 +6420,7 @@ let deltaSpecies = [
         "number": "94",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/94.png",
             "large": "https://images.pokemontcg.io/ex11/94_hires.png"
@@ -6714,6 +6430,7 @@ let deltaSpecies = [
         "id": "ex11-95",
         "name": "Holon Researcher",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6728,9 +6445,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6741,9 +6456,7 @@ let deltaSpecies = [
         "number": "95",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/95.png",
             "large": "https://images.pokemontcg.io/ex11/95_hires.png"
@@ -6753,6 +6466,7 @@ let deltaSpecies = [
         "id": "ex11-96",
         "name": "Holon Ruins",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stadium"
         ],
@@ -6766,9 +6480,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6779,9 +6491,7 @@ let deltaSpecies = [
         "number": "96",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/96.png",
             "large": "https://images.pokemontcg.io/ex11/96_hires.png"
@@ -6791,6 +6501,7 @@ let deltaSpecies = [
         "id": "ex11-97",
         "name": "Holon Scientist",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6805,9 +6516,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6818,9 +6527,7 @@ let deltaSpecies = [
         "number": "97",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/97.png",
             "large": "https://images.pokemontcg.io/ex11/97_hires.png"
@@ -6830,6 +6537,7 @@ let deltaSpecies = [
         "id": "ex11-98",
         "name": "Holon Transceiver",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "rules": [
             "Search your deck for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. Or, search your discard pile for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand."
         ],
@@ -6839,9 +6547,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6852,9 +6558,7 @@ let deltaSpecies = [
         "number": "98",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/98.png",
             "large": "https://images.pokemontcg.io/ex11/98_hires.png"
@@ -6864,6 +6568,7 @@ let deltaSpecies = [
         "id": "ex11-99",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6876,9 +6581,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6889,9 +6592,7 @@ let deltaSpecies = [
         "number": "99",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/99.png",
             "large": "https://images.pokemontcg.io/ex11/99_hires.png"
@@ -6901,6 +6602,7 @@ let deltaSpecies = [
         "id": "ex11-100",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6913,9 +6615,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6926,10 +6626,7 @@ let deltaSpecies = [
         "number": "100",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/100.png",
             "large": "https://images.pokemontcg.io/ex11/100_hires.png"
@@ -6939,6 +6636,7 @@ let deltaSpecies = [
         "id": "ex11-101",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6951,9 +6649,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -6964,11 +6660,7 @@ let deltaSpecies = [
         "number": "101",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/101.png",
             "large": "https://images.pokemontcg.io/ex11/101_hires.png"
@@ -6978,6 +6670,7 @@ let deltaSpecies = [
         "id": "ex11-102",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6990,9 +6683,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7003,11 +6694,7 @@ let deltaSpecies = [
         "number": "102",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/102.png",
             "large": "https://images.pokemontcg.io/ex11/102_hires.png"
@@ -7017,6 +6704,7 @@ let deltaSpecies = [
         "id": "ex11-103",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -7029,9 +6717,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7042,9 +6728,7 @@ let deltaSpecies = [
         "number": "103",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/103.png",
             "large": "https://images.pokemontcg.io/ex11/103_hires.png"
@@ -7054,6 +6738,7 @@ let deltaSpecies = [
         "id": "ex11-104",
         "name": "Holon Energy FF",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -7067,9 +6752,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7080,9 +6763,7 @@ let deltaSpecies = [
         "number": "104",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/104.png",
             "large": "https://images.pokemontcg.io/ex11/104_hires.png"
@@ -7092,6 +6773,7 @@ let deltaSpecies = [
         "id": "ex11-105",
         "name": "Holon Energy GL",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -7105,9 +6787,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7118,9 +6798,7 @@ let deltaSpecies = [
         "number": "105",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/105.png",
             "large": "https://images.pokemontcg.io/ex11/105_hires.png"
@@ -7130,6 +6808,7 @@ let deltaSpecies = [
         "id": "ex11-106",
         "name": "Holon Energy WP",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -7143,9 +6822,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7156,9 +6833,7 @@ let deltaSpecies = [
         "number": "106",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/106.png",
             "large": "https://images.pokemontcg.io/ex11/106_hires.png"
@@ -7168,6 +6843,7 @@ let deltaSpecies = [
         "id": "ex11-107",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -7180,9 +6856,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7193,9 +6867,7 @@ let deltaSpecies = [
         "number": "107",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/107.png",
             "large": "https://images.pokemontcg.io/ex11/107_hires.png"
@@ -7205,6 +6877,7 @@ let deltaSpecies = [
         "id": "ex11-108",
         "name": "Flareon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7260,9 +6933,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7276,9 +6947,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/108.png",
             "large": "https://images.pokemontcg.io/ex11/108_hires.png"
@@ -7288,6 +6957,7 @@ let deltaSpecies = [
         "id": "ex11-109",
         "name": "Jolteon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7348,9 +7018,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7364,9 +7032,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/109.png",
             "large": "https://images.pokemontcg.io/ex11/109_hires.png"
@@ -7376,6 +7042,7 @@ let deltaSpecies = [
         "id": "ex11-110",
         "name": "Vaporeon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7431,9 +7098,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7447,9 +7112,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/110.png",
             "large": "https://images.pokemontcg.io/ex11/110_hires.png"
@@ -7459,6 +7122,7 @@ let deltaSpecies = [
         "id": "ex11-111",
         "name": "Groudon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7507,9 +7171,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7523,9 +7185,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/111.png",
             "large": "https://images.pokemontcg.io/ex11/111_hires.png"
@@ -7535,6 +7195,7 @@ let deltaSpecies = [
         "id": "ex11-112",
         "name": "Kyogre ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7583,9 +7244,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7599,9 +7258,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/112.png",
             "large": "https://images.pokemontcg.io/ex11/112_hires.png"
@@ -7611,6 +7268,7 @@ let deltaSpecies = [
         "id": "ex11-113",
         "name": "Metagross ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7665,9 +7323,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7681,9 +7337,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/113.png",
             "large": "https://images.pokemontcg.io/ex11/113_hires.png"
@@ -7693,6 +7347,7 @@ let deltaSpecies = [
         "id": "ex11-114",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7734,9 +7389,7 @@ let deltaSpecies = [
             "series": "EX",
             "printedTotal": 113,
             "total": 114,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "DS",
             "releaseDate": "2005/10/31",
             "images": {
@@ -7750,9 +7403,7 @@ let deltaSpecies = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex11/114.png",
             "large": "https://images.pokemontcg.io/ex11/114_hires.png"

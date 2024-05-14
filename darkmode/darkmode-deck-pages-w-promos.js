@@ -7,7 +7,7 @@ const menu = document.getElementById('menu');
 const menuToggle = document.getElementById('menuToggle');
 const navleftr = document.getElementById('nav-leftr');
 const navrightr = document.getElementById('nav-rightr');
-const dropitdown1 = document.querySelector('.drop-it-down1');
+ 
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const toperaselector = document.querySelector('.top-era-selector');
@@ -30,7 +30,7 @@ const enableDarkMode = () => {
     menuToggle.classList.add('darkon');
     navleftr.classList.add('darkon');
     navrightr.classList.add('darkon');
-    dropitdown1.classList.add('darkon');
+    // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
 
     toperaselector.classList.add('darkon');
@@ -38,7 +38,9 @@ const enableDarkMode = () => {
     decksmain.classList.add('darkon');
     eratocbox.classList.add('darkon');
     formatsetspromo.classList.add('darkon');
-    scrolltopbtn.classList.add('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.add('darkon');
+    }
     format.forEach((format) => {
       format.classList.add('darkon');
     })
@@ -63,13 +65,15 @@ const enableDarkMode = () => {
     menuToggle.classList.remove('darkon');
     navleftr.classList.remove('darkon');
     navrightr.classList.remove('darkon');
-    dropitdown1.classList.remove('darkon');
+    // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
 
     toperaselector.classList.remove('darkon');
     topformatgraphic.classList.remove('darkon');
     decksmain.classList.remove('darkon');
-    scrolltopbtn.classList.remove('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.remove('darkon');
+    }
     formatsetspromo.classList.remove('darkon');
     eratocbox.classList.remove('darkon');
     format.forEach((format) => {

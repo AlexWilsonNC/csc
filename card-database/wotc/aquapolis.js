@@ -1,8 +1,9 @@
-let aquapolis = [
+let ecard2 = [
     {
         "id": "ecard2-H1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -46,9 +47,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -62,9 +61,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H1.png",
             "large": "https://images.pokemontcg.io/ecard2/H1_hires.png"
@@ -74,6 +71,7 @@ let aquapolis = [
         "id": "ecard2-H2",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -115,9 +113,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -131,9 +127,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H2.png",
             "large": "https://images.pokemontcg.io/ecard2/H2_hires.png"
@@ -143,6 +137,7 @@ let aquapolis = [
         "id": "ecard2-H3",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -182,9 +177,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -198,9 +191,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H3.png",
             "large": "https://images.pokemontcg.io/ecard2/H3_hires.png"
@@ -210,6 +201,7 @@ let aquapolis = [
         "id": "ecard2-H4",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -251,9 +243,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -267,9 +257,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H4.png",
             "large": "https://images.pokemontcg.io/ecard2/H4_hires.png"
@@ -279,6 +267,7 @@ let aquapolis = [
         "id": "ecard2-H5",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -326,9 +315,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -342,9 +329,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H5.png",
             "large": "https://images.pokemontcg.io/ecard2/H5_hires.png"
@@ -354,6 +339,7 @@ let aquapolis = [
         "id": "ecard2-H6",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -395,9 +381,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -411,9 +395,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H6.png",
             "large": "https://images.pokemontcg.io/ecard2/H6_hires.png"
@@ -423,6 +405,7 @@ let aquapolis = [
         "id": "ecard2-H7",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -463,9 +446,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -479,9 +460,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H7.png",
             "large": "https://images.pokemontcg.io/ecard2/H7_hires.png"
@@ -491,6 +470,7 @@ let aquapolis = [
         "id": "ecard2-H8",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -531,9 +511,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -547,9 +525,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H8.png",
             "large": "https://images.pokemontcg.io/ecard2/H8_hires.png"
@@ -559,6 +535,7 @@ let aquapolis = [
         "id": "ecard2-H9",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -599,9 +576,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -615,9 +590,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H9.png",
             "large": "https://images.pokemontcg.io/ecard2/H9_hires.png"
@@ -627,6 +600,7 @@ let aquapolis = [
         "id": "ecard2-H10",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -668,9 +642,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -684,9 +656,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H10.png",
             "large": "https://images.pokemontcg.io/ecard2/H10_hires.png"
@@ -696,6 +666,7 @@ let aquapolis = [
         "id": "ecard2-H11",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -746,9 +717,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -762,9 +731,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H11.png",
             "large": "https://images.pokemontcg.io/ecard2/H11_hires.png"
@@ -774,6 +741,7 @@ let aquapolis = [
         "id": "ecard2-H12",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -815,9 +783,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -831,9 +797,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H12.png",
             "large": "https://images.pokemontcg.io/ecard2/H12_hires.png"
@@ -843,6 +807,7 @@ let aquapolis = [
         "id": "ecard2-H13",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -887,9 +852,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -903,9 +866,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H13.png",
             "large": "https://images.pokemontcg.io/ecard2/H13_hires.png"
@@ -915,6 +876,7 @@ let aquapolis = [
         "id": "ecard2-H14",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -957,9 +919,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -973,9 +933,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H14.png",
             "large": "https://images.pokemontcg.io/ecard2/H14_hires.png"
@@ -985,6 +943,7 @@ let aquapolis = [
         "id": "ecard2-H15",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1025,9 +984,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1041,9 +998,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H15.png",
             "large": "https://images.pokemontcg.io/ecard2/H15_hires.png"
@@ -1053,6 +1008,7 @@ let aquapolis = [
         "id": "ecard2-H16",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1103,9 +1059,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1119,9 +1073,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H16.png",
             "large": "https://images.pokemontcg.io/ecard2/H16_hires.png"
@@ -1131,6 +1083,7 @@ let aquapolis = [
         "id": "ecard2-H17",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1171,9 +1124,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1187,9 +1138,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H17.png",
             "large": "https://images.pokemontcg.io/ecard2/H17_hires.png"
@@ -1199,6 +1148,7 @@ let aquapolis = [
         "id": "ecard2-H18",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -1247,9 +1197,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1263,9 +1211,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H18.png",
             "large": "https://images.pokemontcg.io/ecard2/H18_hires.png"
@@ -1275,6 +1221,7 @@ let aquapolis = [
         "id": "ecard2-H19",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1318,9 +1265,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1334,9 +1279,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H19.png",
             "large": "https://images.pokemontcg.io/ecard2/H19_hires.png"
@@ -1346,6 +1289,7 @@ let aquapolis = [
         "id": "ecard2-H20",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1387,9 +1331,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1403,9 +1345,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H20.png",
             "large": "https://images.pokemontcg.io/ecard2/H20_hires.png"
@@ -1415,6 +1355,7 @@ let aquapolis = [
         "id": "ecard2-H21",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1466,9 +1407,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1482,9 +1421,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H21.png",
             "large": "https://images.pokemontcg.io/ecard2/H21_hires.png"
@@ -1494,6 +1431,7 @@ let aquapolis = [
         "id": "ecard2-H22",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1537,9 +1475,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1553,9 +1489,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H22.png",
             "large": "https://images.pokemontcg.io/ecard2/H22_hires.png"
@@ -1565,6 +1499,7 @@ let aquapolis = [
         "id": "ecard2-H23",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1616,9 +1551,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1632,9 +1565,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H23.png",
             "large": "https://images.pokemontcg.io/ecard2/H23_hires.png"
@@ -1644,6 +1575,7 @@ let aquapolis = [
         "id": "ecard2-H24",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -1684,9 +1616,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1700,9 +1630,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H24.png",
             "large": "https://images.pokemontcg.io/ecard2/H24_hires.png"
@@ -1712,6 +1640,7 @@ let aquapolis = [
         "id": "ecard2-H25",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -1752,9 +1681,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1768,9 +1695,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H25.png",
             "large": "https://images.pokemontcg.io/ecard2/H25_hires.png"
@@ -1780,6 +1705,7 @@ let aquapolis = [
         "id": "ecard2-H26",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1819,9 +1745,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1835,9 +1759,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H26.png",
             "large": "https://images.pokemontcg.io/ecard2/H26_hires.png"
@@ -1847,6 +1769,7 @@ let aquapolis = [
         "id": "ecard2-H27",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1895,9 +1818,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -1911,9 +1832,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H27.png",
             "large": "https://images.pokemontcg.io/ecard2/H27_hires.png"
@@ -1923,6 +1842,7 @@ let aquapolis = [
         "id": "ecard2-H28",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -1985,9 +1905,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2001,9 +1919,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H28.png",
             "large": "https://images.pokemontcg.io/ecard2/H28_hires.png"
@@ -2013,6 +1929,7 @@ let aquapolis = [
         "id": "ecard2-H29",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2060,9 +1977,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2076,9 +1991,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H29.png",
             "large": "https://images.pokemontcg.io/ecard2/H29_hires.png"
@@ -2088,6 +2001,7 @@ let aquapolis = [
         "id": "ecard2-H30",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -2129,9 +2043,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2145,9 +2057,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H30.png",
             "large": "https://images.pokemontcg.io/ecard2/H30_hires.png"
@@ -2157,6 +2067,7 @@ let aquapolis = [
         "id": "ecard2-H31",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -2200,9 +2111,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2216,9 +2125,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H31.png",
             "large": "https://images.pokemontcg.io/ecard2/H31_hires.png"
@@ -2228,6 +2135,7 @@ let aquapolis = [
         "id": "ecard2-H32",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -2284,9 +2192,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2300,9 +2206,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/H32.png",
             "large": "https://images.pokemontcg.io/ecard2/H32_hires.png"
@@ -2312,6 +2216,7 @@ let aquapolis = [
         "id": "ecard2-1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -2355,9 +2260,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2371,9 +2274,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/1.png",
             "large": "https://images.pokemontcg.io/ecard2/1_hires.png"
@@ -2383,6 +2284,7 @@ let aquapolis = [
         "id": "ecard2-2",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2424,9 +2326,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2440,9 +2340,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/2.png",
             "large": "https://images.pokemontcg.io/ecard2/2_hires.png"
@@ -2452,6 +2350,7 @@ let aquapolis = [
         "id": "ecard2-3",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2491,9 +2390,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2507,9 +2404,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/3.png",
             "large": "https://images.pokemontcg.io/ecard2/3_hires.png"
@@ -2519,6 +2414,7 @@ let aquapolis = [
         "id": "ecard2-4",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2560,9 +2456,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2576,9 +2470,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/4.png",
             "large": "https://images.pokemontcg.io/ecard2/4_hires.png"
@@ -2588,6 +2480,7 @@ let aquapolis = [
         "id": "ecard2-5",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -2635,9 +2528,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2651,9 +2542,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/5.png",
             "large": "https://images.pokemontcg.io/ecard2/5_hires.png"
@@ -2663,6 +2552,7 @@ let aquapolis = [
         "id": "ecard2-6",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2704,9 +2594,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2720,9 +2608,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/6.png",
             "large": "https://images.pokemontcg.io/ecard2/6_hires.png"
@@ -2732,6 +2618,7 @@ let aquapolis = [
         "id": "ecard2-7",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2781,9 +2668,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2797,9 +2682,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/7.png",
             "large": "https://images.pokemontcg.io/ecard2/7_hires.png"
@@ -2809,6 +2692,7 @@ let aquapolis = [
         "id": "ecard2-8",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2849,9 +2733,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2865,9 +2747,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/8.png",
             "large": "https://images.pokemontcg.io/ecard2/8_hires.png"
@@ -2877,6 +2757,7 @@ let aquapolis = [
         "id": "ecard2-9",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Baby"
         ],
@@ -2909,9 +2790,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2925,9 +2804,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/9.png",
             "large": "https://images.pokemontcg.io/ecard2/9_hires.png"
@@ -2937,6 +2814,7 @@ let aquapolis = [
         "id": "ecard2-10",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -2977,9 +2855,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -2993,9 +2869,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/10.png",
             "large": "https://images.pokemontcg.io/ecard2/10_hires.png"
@@ -3005,6 +2879,7 @@ let aquapolis = [
         "id": "ecard2-11",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3045,9 +2920,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3061,9 +2934,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/11.png",
             "large": "https://images.pokemontcg.io/ecard2/11_hires.png"
@@ -3073,6 +2944,7 @@ let aquapolis = [
         "id": "ecard2-12",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3114,9 +2986,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3130,9 +3000,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/12.png",
             "large": "https://images.pokemontcg.io/ecard2/12_hires.png"
@@ -3142,6 +3010,7 @@ let aquapolis = [
         "id": "ecard2-13",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3185,9 +3054,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3201,9 +3068,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/13.png",
             "large": "https://images.pokemontcg.io/ecard2/13_hires.png"
@@ -3213,6 +3078,7 @@ let aquapolis = [
         "id": "ecard2-14",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3256,9 +3122,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3272,9 +3136,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/14.png",
             "large": "https://images.pokemontcg.io/ecard2/14_hires.png"
@@ -3284,6 +3146,7 @@ let aquapolis = [
         "id": "ecard2-15",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3334,9 +3197,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3350,9 +3211,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/15.png",
             "large": "https://images.pokemontcg.io/ecard2/15_hires.png"
@@ -3362,6 +3221,7 @@ let aquapolis = [
         "id": "ecard2-16",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3403,9 +3263,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3419,9 +3277,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/16.png",
             "large": "https://images.pokemontcg.io/ecard2/16_hires.png"
@@ -3431,6 +3287,7 @@ let aquapolis = [
         "id": "ecard2-17",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -3475,9 +3332,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3491,9 +3346,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/17.png",
             "large": "https://images.pokemontcg.io/ecard2/17_hires.png"
@@ -3503,6 +3356,7 @@ let aquapolis = [
         "id": "ecard2-18",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -3546,9 +3400,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3562,9 +3414,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/18.png",
             "large": "https://images.pokemontcg.io/ecard2/18_hires.png"
@@ -3574,6 +3424,7 @@ let aquapolis = [
         "id": "ecard2-19",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -3616,9 +3467,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3632,9 +3481,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/19.png",
             "large": "https://images.pokemontcg.io/ecard2/19_hires.png"
@@ -3644,6 +3491,7 @@ let aquapolis = [
         "id": "ecard2-20",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3687,9 +3535,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3703,9 +3549,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/20.png",
             "large": "https://images.pokemontcg.io/ecard2/20_hires.png"
@@ -3715,6 +3559,7 @@ let aquapolis = [
         "id": "ecard2-21",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3755,9 +3600,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3771,9 +3614,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/21.png",
             "large": "https://images.pokemontcg.io/ecard2/21_hires.png"
@@ -3783,6 +3624,7 @@ let aquapolis = [
         "id": "ecard2-22",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3833,9 +3675,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3849,9 +3689,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/22.png",
             "large": "https://images.pokemontcg.io/ecard2/22_hires.png"
@@ -3861,6 +3699,7 @@ let aquapolis = [
         "id": "ecard2-23",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3901,9 +3740,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3917,9 +3754,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/23.png",
             "large": "https://images.pokemontcg.io/ecard2/23_hires.png"
@@ -3929,6 +3764,7 @@ let aquapolis = [
         "id": "ecard2-24",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -3977,9 +3813,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -3993,9 +3827,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/24.png",
             "large": "https://images.pokemontcg.io/ecard2/24_hires.png"
@@ -4005,6 +3837,7 @@ let aquapolis = [
         "id": "ecard2-25",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4048,9 +3881,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4064,9 +3895,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/25.png",
             "large": "https://images.pokemontcg.io/ecard2/25_hires.png"
@@ -4076,6 +3905,7 @@ let aquapolis = [
         "id": "ecard2-26",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4117,9 +3947,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4133,9 +3961,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/26.png",
             "large": "https://images.pokemontcg.io/ecard2/26_hires.png"
@@ -4145,6 +3971,7 @@ let aquapolis = [
         "id": "ecard2-27",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4187,9 +4014,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4203,9 +4028,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/27.png",
             "large": "https://images.pokemontcg.io/ecard2/27_hires.png"
@@ -4215,6 +4038,7 @@ let aquapolis = [
         "id": "ecard2-28",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4258,9 +4082,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4274,9 +4096,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/28.png",
             "large": "https://images.pokemontcg.io/ecard2/28_hires.png"
@@ -4286,6 +4106,7 @@ let aquapolis = [
         "id": "ecard2-29",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4330,9 +4151,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4346,9 +4165,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/29.png",
             "large": "https://images.pokemontcg.io/ecard2/29_hires.png"
@@ -4358,6 +4175,7 @@ let aquapolis = [
         "id": "ecard2-30",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4402,9 +4220,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4418,9 +4234,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/30.png",
             "large": "https://images.pokemontcg.io/ecard2/30_hires.png"
@@ -4430,6 +4244,7 @@ let aquapolis = [
         "id": "ecard2-31",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4473,9 +4288,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4489,9 +4302,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/31.png",
             "large": "https://images.pokemontcg.io/ecard2/31_hires.png"
@@ -4501,6 +4312,7 @@ let aquapolis = [
         "id": "ecard2-32",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4552,9 +4364,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4568,9 +4378,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/32.png",
             "large": "https://images.pokemontcg.io/ecard2/32_hires.png"
@@ -4580,6 +4388,7 @@ let aquapolis = [
         "id": "ecard2-33",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4620,9 +4429,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4636,9 +4443,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/33.png",
             "large": "https://images.pokemontcg.io/ecard2/33_hires.png"
@@ -4648,6 +4453,7 @@ let aquapolis = [
         "id": "ecard2-34",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4691,9 +4497,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4707,9 +4511,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/34.png",
             "large": "https://images.pokemontcg.io/ecard2/34_hires.png"
@@ -4719,6 +4521,7 @@ let aquapolis = [
         "id": "ecard2-35",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4770,9 +4573,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4786,9 +4587,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/35.png",
             "large": "https://images.pokemontcg.io/ecard2/35_hires.png"
@@ -4798,6 +4597,7 @@ let aquapolis = [
         "id": "ecard2-36",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -4838,9 +4638,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4854,9 +4652,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/36.png",
             "large": "https://images.pokemontcg.io/ecard2/36_hires.png"
@@ -4866,6 +4662,7 @@ let aquapolis = [
         "id": "ecard2-37",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -4906,9 +4703,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4922,9 +4717,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/37.png",
             "large": "https://images.pokemontcg.io/ecard2/37_hires.png"
@@ -4934,6 +4727,7 @@ let aquapolis = [
         "id": "ecard2-38",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4973,9 +4767,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -4989,9 +4781,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/38.png",
             "large": "https://images.pokemontcg.io/ecard2/38_hires.png"
@@ -5001,6 +4791,7 @@ let aquapolis = [
         "id": "ecard2-39",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5049,9 +4840,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5065,9 +4854,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/39.png",
             "large": "https://images.pokemontcg.io/ecard2/39_hires.png"
@@ -5077,6 +4864,7 @@ let aquapolis = [
         "id": "ecard2-40",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -5139,9 +4927,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5155,9 +4941,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/40.png",
             "large": "https://images.pokemontcg.io/ecard2/40_hires.png"
@@ -5167,6 +4951,7 @@ let aquapolis = [
         "id": "ecard2-41",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5214,9 +4999,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5230,9 +5013,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/41.png",
             "large": "https://images.pokemontcg.io/ecard2/41_hires.png"
@@ -5242,6 +5023,7 @@ let aquapolis = [
         "id": "ecard2-42",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -5283,9 +5065,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5299,9 +5079,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/42.png",
             "large": "https://images.pokemontcg.io/ecard2/42_hires.png"
@@ -5311,6 +5089,7 @@ let aquapolis = [
         "id": "ecard2-43",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -5354,9 +5133,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5370,9 +5147,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/43.png",
             "large": "https://images.pokemontcg.io/ecard2/43_hires.png"
@@ -5382,6 +5157,7 @@ let aquapolis = [
         "id": "ecard2-44",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -5438,9 +5214,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5454,9 +5228,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/44.png",
             "large": "https://images.pokemontcg.io/ecard2/44_hires.png"
@@ -5466,6 +5238,7 @@ let aquapolis = [
         "id": "ecard2-45",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -5501,9 +5274,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5517,9 +5288,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/45.png",
             "large": "https://images.pokemontcg.io/ecard2/45_hires.png"
@@ -5529,6 +5298,7 @@ let aquapolis = [
         "id": "ecard2-46",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5577,9 +5347,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5593,9 +5361,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/46.png",
             "large": "https://images.pokemontcg.io/ecard2/46_hires.png"
@@ -5605,6 +5371,7 @@ let aquapolis = [
         "id": "ecard2-47",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5651,9 +5418,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5667,9 +5432,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/47.png",
             "large": "https://images.pokemontcg.io/ecard2/47_hires.png"
@@ -5679,6 +5442,7 @@ let aquapolis = [
         "id": "ecard2-48",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5719,9 +5483,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5735,9 +5497,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/48.png",
             "large": "https://images.pokemontcg.io/ecard2/48_hires.png"
@@ -5747,6 +5507,7 @@ let aquapolis = [
         "id": "ecard2-49",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5791,9 +5552,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5807,9 +5566,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/49.png",
             "large": "https://images.pokemontcg.io/ecard2/49_hires.png"
@@ -5819,6 +5576,7 @@ let aquapolis = [
         "id": "ecard2-50",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5863,9 +5621,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5879,9 +5635,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/50.png",
             "large": "https://images.pokemontcg.io/ecard2/50_hires.png"
@@ -5891,6 +5645,7 @@ let aquapolis = [
         "id": "ecard2-51",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -5926,9 +5681,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -5942,9 +5695,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/51.png",
             "large": "https://images.pokemontcg.io/ecard2/51_hires.png"
@@ -5954,6 +5705,7 @@ let aquapolis = [
         "id": "ecard2-52",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6004,9 +5756,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6020,9 +5770,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/52.png",
             "large": "https://images.pokemontcg.io/ecard2/52_hires.png"
@@ -6032,6 +5780,7 @@ let aquapolis = [
         "id": "ecard2-53",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6076,9 +5825,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6092,9 +5839,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/53.png",
             "large": "https://images.pokemontcg.io/ecard2/53_hires.png"
@@ -6104,6 +5849,7 @@ let aquapolis = [
         "id": "ecard2-54",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6154,9 +5900,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6170,9 +5914,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/54.png",
             "large": "https://images.pokemontcg.io/ecard2/54_hires.png"
@@ -6182,6 +5924,7 @@ let aquapolis = [
         "id": "ecard2-55",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6228,9 +5971,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6244,9 +5985,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/55.png",
             "large": "https://images.pokemontcg.io/ecard2/55_hires.png"
@@ -6256,6 +5995,7 @@ let aquapolis = [
         "id": "ecard2-56",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6293,9 +6033,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6309,9 +6047,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/56.png",
             "large": "https://images.pokemontcg.io/ecard2/56_hires.png"
@@ -6321,6 +6057,7 @@ let aquapolis = [
         "id": "ecard2-57",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6366,9 +6103,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6382,9 +6117,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/57.png",
             "large": "https://images.pokemontcg.io/ecard2/57_hires.png"
@@ -6394,6 +6127,7 @@ let aquapolis = [
         "id": "ecard2-58",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6440,9 +6174,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6456,9 +6188,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/58.png",
             "large": "https://images.pokemontcg.io/ecard2/58_hires.png"
@@ -6468,6 +6198,7 @@ let aquapolis = [
         "id": "ecard2-59",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6512,9 +6243,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6528,9 +6257,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/59.png",
             "large": "https://images.pokemontcg.io/ecard2/59_hires.png"
@@ -6540,6 +6267,7 @@ let aquapolis = [
         "id": "ecard2-60",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6588,9 +6316,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6604,9 +6330,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/60.png",
             "large": "https://images.pokemontcg.io/ecard2/60_hires.png"
@@ -6616,6 +6340,7 @@ let aquapolis = [
         "id": "ecard2-61",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Baby"
         ],
@@ -6648,9 +6373,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6664,9 +6387,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/61.png",
             "large": "https://images.pokemontcg.io/ecard2/61_hires.png"
@@ -6676,6 +6397,7 @@ let aquapolis = [
         "id": "ecard2-62",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6720,9 +6442,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6736,9 +6456,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/62.png",
             "large": "https://images.pokemontcg.io/ecard2/62_hires.png"
@@ -6748,6 +6466,7 @@ let aquapolis = [
         "id": "ecard2-63",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Baby"
         ],
@@ -6781,9 +6500,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6797,9 +6514,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             236
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/63.png",
             "large": "https://images.pokemontcg.io/ecard2/63_hires.png"
@@ -6809,6 +6524,7 @@ let aquapolis = [
         "id": "ecard2-64",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6853,9 +6569,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6869,9 +6583,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/64.png",
             "large": "https://images.pokemontcg.io/ecard2/64_hires.png"
@@ -6881,6 +6593,7 @@ let aquapolis = [
         "id": "ecard2-65",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6926,9 +6639,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -6942,9 +6653,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/65.png",
             "large": "https://images.pokemontcg.io/ecard2/65_hires.png"
@@ -6954,6 +6663,7 @@ let aquapolis = [
         "id": "ecard2-66",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -6997,9 +6707,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7013,9 +6721,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/66.png",
             "large": "https://images.pokemontcg.io/ecard2/66_hires.png"
@@ -7025,6 +6731,7 @@ let aquapolis = [
         "id": "ecard2-67",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7069,9 +6776,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7085,9 +6790,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/aipom-aquapolis-aq-67.jpg?fit=600%2C825&ssl=1",
             "large": "https://images.pokemontcg.io/ecard2/67_hires.png"
@@ -7097,6 +6800,7 @@ let aquapolis = [
         "id": "ecard2-68",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7140,9 +6844,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7156,9 +6858,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/68.png",
             "large": "https://images.pokemontcg.io/ecard2/68_hires.png"
@@ -7168,6 +6868,7 @@ let aquapolis = [
         "id": "ecard2-69",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7213,9 +6914,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7229,9 +6928,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/69.png",
             "large": "https://images.pokemontcg.io/ecard2/69_hires.png"
@@ -7241,6 +6938,7 @@ let aquapolis = [
         "id": "ecard2-70",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7285,9 +6983,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7301,9 +6997,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/70.png",
             "large": "https://images.pokemontcg.io/ecard2/70_hires.png"
@@ -7313,6 +7007,7 @@ let aquapolis = [
         "id": "ecard2-71",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7357,9 +7052,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7373,9 +7066,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/71.png",
             "large": "https://images.pokemontcg.io/ecard2/71_hires.png"
@@ -7385,6 +7076,7 @@ let aquapolis = [
         "id": "ecard2-72",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7434,9 +7126,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7450,9 +7140,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/72.png",
             "large": "https://images.pokemontcg.io/ecard2/72_hires.png"
@@ -7462,6 +7150,7 @@ let aquapolis = [
         "id": "ecard2-73",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7512,9 +7201,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7528,9 +7215,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/73.png",
             "large": "https://images.pokemontcg.io/ecard2/73_hires.png"
@@ -7540,6 +7225,7 @@ let aquapolis = [
         "id": "ecard2-74",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7584,9 +7270,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7600,9 +7284,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/74.png",
             "large": "https://images.pokemontcg.io/ecard2/74_hires.png"
@@ -7612,6 +7294,7 @@ let aquapolis = [
         "id": "ecard2-75",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7662,9 +7345,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7678,9 +7359,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/75.png",
             "large": "https://images.pokemontcg.io/ecard2/75_hires.png"
@@ -7690,6 +7369,7 @@ let aquapolis = [
         "id": "ecard2-76",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7733,9 +7413,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7749,9 +7427,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/76.png",
             "large": "https://images.pokemontcg.io/ecard2/76_hires.png"
@@ -7761,6 +7437,7 @@ let aquapolis = [
         "id": "ecard2-77",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7804,9 +7481,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7820,9 +7495,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/77.png",
             "large": "https://images.pokemontcg.io/ecard2/77_hires.png"
@@ -7832,6 +7505,7 @@ let aquapolis = [
         "id": "ecard2-78",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7866,9 +7540,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7882,9 +7554,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/78.png",
             "large": "https://images.pokemontcg.io/ecard2/78_hires.png"
@@ -7894,6 +7564,7 @@ let aquapolis = [
         "id": "ecard2-79",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7928,9 +7599,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -7944,9 +7613,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/79.png",
             "large": "https://images.pokemontcg.io/ecard2/79_hires.png"
@@ -7956,6 +7623,7 @@ let aquapolis = [
         "id": "ecard2-80",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -7999,9 +7667,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8015,9 +7681,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/80.png",
             "large": "https://images.pokemontcg.io/ecard2/80_hires.png"
@@ -8027,6 +7691,7 @@ let aquapolis = [
         "id": "ecard2-81",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8070,9 +7735,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8086,9 +7749,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/81.png",
             "large": "https://images.pokemontcg.io/ecard2/81_hires.png"
@@ -8098,6 +7759,7 @@ let aquapolis = [
         "id": "ecard2-82",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8141,9 +7803,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8157,9 +7817,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/82.png",
             "large": "https://images.pokemontcg.io/ecard2/82_hires.png"
@@ -8169,6 +7827,7 @@ let aquapolis = [
         "id": "ecard2-83",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8216,9 +7875,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8232,9 +7889,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/83.png",
             "large": "https://images.pokemontcg.io/ecard2/83_hires.png"
@@ -8244,6 +7899,7 @@ let aquapolis = [
         "id": "ecard2-84",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8278,9 +7934,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8294,9 +7948,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/84.png",
             "large": "https://images.pokemontcg.io/ecard2/84_hires.png"
@@ -8306,6 +7958,7 @@ let aquapolis = [
         "id": "ecard2-85",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8341,9 +7994,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8357,9 +8008,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/85.png",
             "large": "https://images.pokemontcg.io/ecard2/85_hires.png"
@@ -8369,6 +8018,7 @@ let aquapolis = [
         "id": "ecard2-86",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8413,9 +8063,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8429,9 +8077,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/86.png",
             "large": "https://images.pokemontcg.io/ecard2/86_hires.png"
@@ -8441,6 +8087,7 @@ let aquapolis = [
         "id": "ecard2-87",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8482,9 +8129,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8498,9 +8143,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/87.png",
             "large": "https://images.pokemontcg.io/ecard2/87_hires.png"
@@ -8510,6 +8153,7 @@ let aquapolis = [
         "id": "ecard2-88",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8553,9 +8197,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8569,9 +8211,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/88.png",
             "large": "https://images.pokemontcg.io/ecard2/88_hires.png"
@@ -8581,6 +8221,7 @@ let aquapolis = [
         "id": "ecard2-89",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8624,9 +8265,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8640,9 +8279,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/89.png",
             "large": "https://images.pokemontcg.io/ecard2/89_hires.png"
@@ -8652,6 +8289,7 @@ let aquapolis = [
         "id": "ecard2-90",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8698,9 +8336,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8714,9 +8350,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/90.png",
             "large": "https://images.pokemontcg.io/ecard2/90_hires.png"
@@ -8726,6 +8360,7 @@ let aquapolis = [
         "id": "ecard2-91",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8768,9 +8403,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8784,9 +8417,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/91.png",
             "large": "https://images.pokemontcg.io/ecard2/91_hires.png"
@@ -8796,6 +8427,7 @@ let aquapolis = [
         "id": "ecard2-92",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8840,9 +8472,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8856,9 +8486,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/92.png",
             "large": "https://images.pokemontcg.io/ecard2/92_hires.png"
@@ -8868,6 +8496,7 @@ let aquapolis = [
         "id": "ecard2-93",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8912,9 +8541,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8928,9 +8555,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/93.png",
             "large": "https://images.pokemontcg.io/ecard2/93_hires.png"
@@ -8940,6 +8565,7 @@ let aquapolis = [
         "id": "ecard2-94",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -8982,9 +8608,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -8998,9 +8622,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/94.png",
             "large": "https://images.pokemontcg.io/ecard2/94_hires.png"
@@ -9010,6 +8632,7 @@ let aquapolis = [
         "id": "ecard2-95",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9049,9 +8672,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9065,9 +8686,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/95.png",
             "large": "https://images.pokemontcg.io/ecard2/95_hires.png"
@@ -9077,6 +8696,7 @@ let aquapolis = [
         "id": "ecard2-96",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9121,9 +8741,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9137,9 +8755,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/96.png",
             "large": "https://images.pokemontcg.io/ecard2/96_hires.png"
@@ -9149,6 +8765,7 @@ let aquapolis = [
         "id": "ecard2-97",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9193,9 +8810,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9209,9 +8824,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/97.png",
             "large": "https://images.pokemontcg.io/ecard2/97_hires.png"
@@ -9221,6 +8834,7 @@ let aquapolis = [
         "id": "ecard2-98",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9256,9 +8870,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9272,9 +8884,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/98.png",
             "large": "https://images.pokemontcg.io/ecard2/98_hires.png"
@@ -9284,6 +8894,7 @@ let aquapolis = [
         "id": "ecard2-99",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9328,9 +8939,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9344,9 +8953,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/99.png",
             "large": "https://images.pokemontcg.io/ecard2/99_hires.png"
@@ -9356,6 +8963,7 @@ let aquapolis = [
         "id": "ecard2-100",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9406,9 +9014,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9422,9 +9028,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/100.png",
             "large": "https://images.pokemontcg.io/ecard2/100_hires.png"
@@ -9434,6 +9038,7 @@ let aquapolis = [
         "id": "ecard2-101",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9477,9 +9082,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9493,9 +9096,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/101.png",
             "large": "https://images.pokemontcg.io/ecard2/101_hires.png"
@@ -9505,6 +9106,7 @@ let aquapolis = [
         "id": "ecard2-102",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9549,9 +9151,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9565,9 +9165,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/102.png",
             "large": "https://images.pokemontcg.io/ecard2/102_hires.png"
@@ -9577,6 +9175,7 @@ let aquapolis = [
         "id": "ecard2-103",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9620,9 +9219,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9636,9 +9233,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/103.png",
             "large": "https://images.pokemontcg.io/ecard2/103_hires.png"
@@ -9648,6 +9243,7 @@ let aquapolis = [
         "id": "ecard2-104",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9692,9 +9288,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9708,9 +9302,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/104.png",
             "large": "https://images.pokemontcg.io/ecard2/104_hires.png"
@@ -9720,6 +9312,7 @@ let aquapolis = [
         "id": "ecard2-105",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9754,9 +9347,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9770,9 +9361,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/105.png",
             "large": "https://images.pokemontcg.io/ecard2/105_hires.png"
@@ -9782,6 +9371,7 @@ let aquapolis = [
         "id": "ecard2-106",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9832,9 +9422,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9848,9 +9436,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/106.png",
             "large": "https://images.pokemontcg.io/ecard2/106_hires.png"
@@ -9860,6 +9446,7 @@ let aquapolis = [
         "id": "ecard2-107",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9903,9 +9490,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9919,9 +9504,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/107.png",
             "large": "https://images.pokemontcg.io/ecard2/107_hires.png"
@@ -9931,6 +9514,7 @@ let aquapolis = [
         "id": "ecard2-108",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -9976,9 +9560,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -9992,9 +9574,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/108.png",
             "large": "https://images.pokemontcg.io/ecard2/108_hires.png"
@@ -10004,6 +9584,7 @@ let aquapolis = [
         "id": "ecard2-109",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10045,9 +9626,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10061,9 +9640,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/109.png",
             "large": "https://images.pokemontcg.io/ecard2/109_hires.png"
@@ -10073,6 +9650,7 @@ let aquapolis = [
         "id": "ecard2-110",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10123,9 +9701,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10139,9 +9715,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/110.png",
             "large": "https://images.pokemontcg.io/ecard2/110_hires.png"
@@ -10151,6 +9725,7 @@ let aquapolis = [
         "id": "ecard2-111",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10185,9 +9760,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10201,9 +9774,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/111.png",
             "large": "https://images.pokemontcg.io/ecard2/111_hires.png"
@@ -10213,6 +9784,7 @@ let aquapolis = [
         "id": "ecard2-112",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10265,9 +9837,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10281,9 +9851,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/112.png",
             "large": "https://images.pokemontcg.io/ecard2/112_hires.png"
@@ -10293,6 +9861,7 @@ let aquapolis = [
         "id": "ecard2-113",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10336,9 +9905,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10352,9 +9919,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/113.png",
             "large": "https://images.pokemontcg.io/ecard2/113_hires.png"
@@ -10364,6 +9929,7 @@ let aquapolis = [
         "id": "ecard2-114",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10407,9 +9973,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10423,9 +9987,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/114.png",
             "large": "https://images.pokemontcg.io/ecard2/114_hires.png"
@@ -10435,6 +9997,7 @@ let aquapolis = [
         "id": "ecard2-115",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10469,9 +10032,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10485,9 +10046,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/115.png",
             "large": "https://images.pokemontcg.io/ecard2/115_hires.png"
@@ -10497,6 +10056,7 @@ let aquapolis = [
         "id": "ecard2-116",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10531,9 +10091,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10547,9 +10105,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/116.png",
             "large": "https://images.pokemontcg.io/ecard2/116_hires.png"
@@ -10559,6 +10115,7 @@ let aquapolis = [
         "id": "ecard2-117",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -10603,9 +10160,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10619,9 +10174,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/117.png",
             "large": "https://images.pokemontcg.io/ecard2/117_hires.png"
@@ -10631,6 +10184,7 @@ let aquapolis = [
         "id": "ecard2-118",
         "name": "Apricorn Forest",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stadium"
         ],
@@ -10644,9 +10198,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10657,9 +10209,7 @@ let aquapolis = [
         "number": "118",
         "artist": "Midori Harada",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/118.png",
             "large": "https://images.pokemontcg.io/ecard2/118_hires.png"
@@ -10669,6 +10219,7 @@ let aquapolis = [
         "id": "ecard2-119",
         "name": "Darkness Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -10692,9 +10243,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10705,9 +10254,7 @@ let aquapolis = [
         "number": "119",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/119.png",
             "large": "https://images.pokemontcg.io/ecard2/119_hires.png"
@@ -10717,6 +10264,7 @@ let aquapolis = [
         "id": "ecard2-120",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "rules": [
             "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon."
         ],
@@ -10726,9 +10274,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10739,11 +10285,7 @@ let aquapolis = [
         "number": "120",
         "artist": "Mikio Menjo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/120.png",
             "large": "https://images.pokemontcg.io/ecard2/120_hires.png"
@@ -10753,6 +10295,7 @@ let aquapolis = [
         "id": "ecard2-121",
         "name": "Fighting Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -10776,9 +10319,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10789,9 +10330,7 @@ let aquapolis = [
         "number": "121",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/121.png",
             "large": "https://images.pokemontcg.io/ecard2/121_hires.png"
@@ -10801,6 +10340,7 @@ let aquapolis = [
         "id": "ecard2-122",
         "name": "Fire Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -10824,9 +10364,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10837,9 +10375,7 @@ let aquapolis = [
         "number": "122",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/122.png",
             "large": "https://images.pokemontcg.io/ecard2/122_hires.png"
@@ -10849,6 +10385,7 @@ let aquapolis = [
         "id": "ecard2-123",
         "name": "Forest Guardian",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -10862,9 +10399,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10875,9 +10410,7 @@ let aquapolis = [
         "number": "123",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/123.png",
             "large": "https://images.pokemontcg.io/ecard2/123_hires.png"
@@ -10887,6 +10420,7 @@ let aquapolis = [
         "id": "ecard2-124",
         "name": "Grass Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -10910,9 +10444,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10923,9 +10455,7 @@ let aquapolis = [
         "number": "124",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/124.png",
             "large": "https://images.pokemontcg.io/ecard2/124_hires.png"
@@ -10935,6 +10465,7 @@ let aquapolis = [
         "id": "ecard2-125",
         "name": "Healing Berry",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10948,9 +10479,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10961,9 +10490,7 @@ let aquapolis = [
         "number": "125",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/125.png",
             "large": "https://images.pokemontcg.io/ecard2/125_hires.png"
@@ -10973,6 +10500,7 @@ let aquapolis = [
         "id": "ecard2-126",
         "name": "Juggler",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -10986,9 +10514,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -10999,9 +10525,7 @@ let aquapolis = [
         "number": "126",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/126.png",
             "large": "https://images.pokemontcg.io/ecard2/126_hires.png"
@@ -11011,6 +10535,7 @@ let aquapolis = [
         "id": "ecard2-127",
         "name": "Lightning Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11034,9 +10559,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11047,9 +10570,7 @@ let aquapolis = [
         "number": "127",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/127.png",
             "large": "https://images.pokemontcg.io/ecard2/127_hires.png"
@@ -11059,6 +10580,7 @@ let aquapolis = [
         "id": "ecard2-128",
         "name": "Memory Berry",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11072,9 +10594,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11085,9 +10605,7 @@ let aquapolis = [
         "number": "128",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/128.png",
             "large": "https://images.pokemontcg.io/ecard2/128_hires.png"
@@ -11097,6 +10615,7 @@ let aquapolis = [
         "id": "ecard2-129",
         "name": "Metal Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11120,9 +10639,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11133,9 +10650,7 @@ let aquapolis = [
         "number": "129",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/129.png",
             "large": "https://images.pokemontcg.io/ecard2/129_hires.png"
@@ -11145,6 +10660,7 @@ let aquapolis = [
         "id": "ecard2-130",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -11158,9 +10674,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11171,9 +10685,7 @@ let aquapolis = [
         "number": "130",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/130.png",
             "large": "https://images.pokemontcg.io/ecard2/130_hires.png"
@@ -11183,6 +10695,7 @@ let aquapolis = [
         "id": "ecard2-131",
         "name": "Pokémon Park",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stadium"
         ],
@@ -11196,9 +10709,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11209,9 +10720,7 @@ let aquapolis = [
         "number": "131",
         "artist": "Kazuo Yazawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/131.png",
             "large": "https://images.pokemontcg.io/ecard2/131_hires.png"
@@ -11221,6 +10730,7 @@ let aquapolis = [
         "id": "ecard2-132",
         "name": "Psychic Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11244,9 +10754,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11257,9 +10765,7 @@ let aquapolis = [
         "number": "132",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/132.png",
             "large": "https://images.pokemontcg.io/ecard2/132_hires.png"
@@ -11269,6 +10775,7 @@ let aquapolis = [
         "id": "ecard2-133",
         "name": "Seer",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -11282,9 +10789,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11295,9 +10800,7 @@ let aquapolis = [
         "number": "133",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/133.png",
             "large": "https://images.pokemontcg.io/ecard2/133_hires.png"
@@ -11307,6 +10810,7 @@ let aquapolis = [
         "id": "ecard2-134",
         "name": "Super Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "rules": [
             "Flip 2 coins. If both are heads, discard all Energy cards attached to the Defending Pokémon. If both are tails, discard all Energy cards attached to your Active Pokémon. If 1 is heads and 1 is tails, this card does nothing."
         ],
@@ -11316,9 +10820,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11329,9 +10831,7 @@ let aquapolis = [
         "number": "134",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/134.png",
             "large": "https://images.pokemontcg.io/ecard2/134_hires.png"
@@ -11341,6 +10841,7 @@ let aquapolis = [
         "id": "ecard2-135",
         "name": "Time Shard",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11354,9 +10855,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11367,9 +10866,7 @@ let aquapolis = [
         "number": "135",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/135.png",
             "large": "https://images.pokemontcg.io/ecard2/135_hires.png"
@@ -11379,6 +10876,7 @@ let aquapolis = [
         "id": "ecard2-136",
         "name": "Town Volunteers",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -11392,9 +10890,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11405,9 +10901,7 @@ let aquapolis = [
         "number": "136",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/136.png",
             "large": "https://images.pokemontcg.io/ecard2/136_hires.png"
@@ -11417,6 +10911,7 @@ let aquapolis = [
         "id": "ecard2-137",
         "name": "Traveling Salesman",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Supporter"
         ],
@@ -11430,9 +10925,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11443,9 +10936,7 @@ let aquapolis = [
         "number": "137",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/137.png",
             "large": "https://images.pokemontcg.io/ecard2/137_hires.png"
@@ -11455,6 +10946,7 @@ let aquapolis = [
         "id": "ecard2-138",
         "name": "Undersea Ruins",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stadium"
         ],
@@ -11468,9 +10960,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11481,9 +10971,7 @@ let aquapolis = [
         "number": "138",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/138.png",
             "large": "https://images.pokemontcg.io/ecard2/138_hires.png"
@@ -11493,6 +10981,7 @@ let aquapolis = [
         "id": "ecard2-139",
         "name": "Power Plant",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stadium"
         ],
@@ -11506,9 +10995,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11519,9 +11006,7 @@ let aquapolis = [
         "number": "139",
         "artist": "Kai Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/139.png",
             "large": "https://images.pokemontcg.io/ecard2/139_hires.png"
@@ -11531,6 +11016,7 @@ let aquapolis = [
         "id": "ecard2-140",
         "name": "Water Cube 01",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11554,9 +11040,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11567,9 +11051,7 @@ let aquapolis = [
         "number": "140",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/140.png",
             "large": "https://images.pokemontcg.io/ecard2/140_hires.png"
@@ -11579,6 +11061,7 @@ let aquapolis = [
         "id": "ecard2-141",
         "name": "Weakness Guard",
         "supertype": "Trainer",
+        "setAbbrev": "AQ",
         "rules": [
             "Attach this card to 1 of your Pokémon. Discard it at the end of your opponent's next turn.",
             "As long as this card is attached, this Pokémon has no Weakness."
@@ -11589,9 +11072,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11602,9 +11083,7 @@ let aquapolis = [
         "number": "141",
         "artist": "Jungo Suzuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/141.png",
             "large": "https://images.pokemontcg.io/ecard2/141_hires.png"
@@ -11614,6 +11093,7 @@ let aquapolis = [
         "id": "ecard2-142",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11626,9 +11106,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11639,9 +11117,7 @@ let aquapolis = [
         "number": "142",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/142.png",
             "large": "https://images.pokemontcg.io/ecard2/142_hires.png"
@@ -11651,6 +11127,7 @@ let aquapolis = [
         "id": "ecard2-143",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11663,9 +11140,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11676,9 +11151,7 @@ let aquapolis = [
         "number": "143",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/143.png",
             "large": "https://images.pokemontcg.io/ecard2/143_hires.png"
@@ -11688,6 +11161,7 @@ let aquapolis = [
         "id": "ecard2-144",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11700,9 +11174,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11713,10 +11185,7 @@ let aquapolis = [
         "number": "144",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/144.png",
             "large": "https://images.pokemontcg.io/ecard2/144_hires.png"
@@ -11726,6 +11195,7 @@ let aquapolis = [
         "id": "ecard2-145",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11738,9 +11208,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11751,9 +11219,7 @@ let aquapolis = [
         "number": "145",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/145.png",
             "large": "https://images.pokemontcg.io/ecard2/145_hires.png"
@@ -11763,6 +11229,7 @@ let aquapolis = [
         "id": "ecard2-146",
         "name": "Crystal Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11775,9 +11242,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11788,9 +11253,7 @@ let aquapolis = [
         "number": "146",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/146.png",
             "large": "https://images.pokemontcg.io/ecard2/146_hires.png"
@@ -11800,6 +11263,7 @@ let aquapolis = [
         "id": "ecard2-147",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Special"
         ],
@@ -11812,9 +11276,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11825,10 +11287,7 @@ let aquapolis = [
         "number": "147",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/147.png",
             "large": "https://images.pokemontcg.io/ecard2/147_hires.png"
@@ -11838,6 +11297,7 @@ let aquapolis = [
         "id": "ecard2-148",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -11891,9 +11351,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11907,9 +11365,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/148.png",
             "large": "https://images.pokemontcg.io/ecard2/148_hires.png"
@@ -11919,6 +11375,7 @@ let aquapolis = [
         "id": "ecard2-149",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Basic"
         ],
@@ -11970,9 +11427,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -11986,9 +11441,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/149.png",
             "large": "https://images.pokemontcg.io/ecard2/149_hires.png"
@@ -11998,6 +11451,7 @@ let aquapolis = [
         "id": "ecard2-150",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "AQ",
         "subtypes": [
             "Stage 2"
         ],
@@ -12051,9 +11505,7 @@ let aquapolis = [
             "series": "E-Card",
             "printedTotal": 147,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "AQ",
             "releaseDate": "2003/01/15",
             "images": {
@@ -12067,9 +11519,7 @@ let aquapolis = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard2/150.png",
             "large": "https://images.pokemontcg.io/ecard2/150_hires.png"

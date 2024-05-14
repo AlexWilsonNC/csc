@@ -1,8 +1,9 @@
-let plasmaFreeze = [
+let bw9 = [
     {
         "id": "bw9-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -55,10 +53,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/1.png",
             "large": "https://images.pokemontcg.io/bw9/1_hires.png"
@@ -68,6 +63,7 @@ let plasmaFreeze = [
         "id": "bw9-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -103,10 +99,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -121,10 +114,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/2.png",
             "large": "https://images.pokemontcg.io/bw9/2_hires.png"
@@ -134,6 +124,7 @@ let plasmaFreeze = [
         "id": "bw9-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -176,10 +167,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -194,10 +182,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/3.png",
             "large": "https://images.pokemontcg.io/bw9/3_hires.png"
@@ -207,6 +192,7 @@ let plasmaFreeze = [
         "id": "bw9-4",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -255,10 +241,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -273,10 +256,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/4.png",
             "large": "https://images.pokemontcg.io/bw9/4_hires.png"
@@ -286,6 +266,7 @@ let plasmaFreeze = [
         "id": "bw9-5",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -335,10 +316,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -353,10 +331,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/5.png",
             "large": "https://images.pokemontcg.io/bw9/5_hires.png"
@@ -366,6 +341,7 @@ let plasmaFreeze = [
         "id": "bw9-6",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -416,10 +392,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -434,10 +407,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/6.png",
             "large": "https://images.pokemontcg.io/bw9/6_hires.png"
@@ -447,6 +417,7 @@ let plasmaFreeze = [
         "id": "bw9-7",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -498,10 +469,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -516,10 +484,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/7.png",
             "large": "https://images.pokemontcg.io/bw9/7_hires.png"
@@ -529,6 +494,7 @@ let plasmaFreeze = [
         "id": "bw9-8",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -579,10 +545,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -597,10 +560,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/8.png",
             "large": "https://images.pokemontcg.io/bw9/8_hires.png"
@@ -610,6 +570,7 @@ let plasmaFreeze = [
         "id": "bw9-9",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -650,10 +611,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -668,10 +626,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/9.png",
             "large": "https://images.pokemontcg.io/bw9/9_hires.png"
@@ -681,6 +636,7 @@ let plasmaFreeze = [
         "id": "bw9-10",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -729,10 +685,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -747,10 +700,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/10.png",
             "large": "https://images.pokemontcg.io/bw9/10_hires.png"
@@ -760,6 +710,7 @@ let plasmaFreeze = [
         "id": "bw9-11",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -810,10 +761,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -828,10 +776,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             470
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/11.png",
             "large": "https://images.pokemontcg.io/bw9/11_hires.png"
@@ -841,6 +786,7 @@ let plasmaFreeze = [
         "id": "bw9-12",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -886,10 +832,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -904,10 +847,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/12.png",
             "large": "https://images.pokemontcg.io/bw9/12_hires.png"
@@ -917,6 +857,7 @@ let plasmaFreeze = [
         "id": "bw9-13",
         "name": "Heatran-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -967,10 +908,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -984,10 +922,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/13.png",
             "large": "https://images.pokemontcg.io/bw9/13_hires.png"
@@ -997,6 +932,7 @@ let plasmaFreeze = [
         "id": "bw9-14",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1041,10 +977,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1059,10 +992,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/14.png",
             "large": "https://images.pokemontcg.io/bw9/14_hires.png"
@@ -1072,6 +1002,7 @@ let plasmaFreeze = [
         "id": "bw9-15",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1119,10 +1050,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1137,10 +1065,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/15.png",
             "large": "https://images.pokemontcg.io/bw9/15_hires.png"
@@ -1150,6 +1075,7 @@ let plasmaFreeze = [
         "id": "bw9-16",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -1192,10 +1118,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1210,10 +1133,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/16.png",
             "large": "https://images.pokemontcg.io/bw9/16_hires.png"
@@ -1223,6 +1143,7 @@ let plasmaFreeze = [
         "id": "bw9-17",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1268,10 +1189,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1286,10 +1204,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/17.png",
             "large": "https://images.pokemontcg.io/bw9/17_hires.png"
@@ -1299,6 +1214,7 @@ let plasmaFreeze = [
         "id": "bw9-18",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1333,10 +1249,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1351,10 +1264,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/18.png",
             "large": "https://images.pokemontcg.io/bw9/18_hires.png"
@@ -1364,6 +1274,7 @@ let plasmaFreeze = [
         "id": "bw9-19",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1399,10 +1310,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1417,10 +1325,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/19.png",
             "large": "https://images.pokemontcg.io/bw9/19_hires.png"
@@ -1430,6 +1335,7 @@ let plasmaFreeze = [
         "id": "bw9-20",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1473,10 +1379,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1491,10 +1394,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/20.png",
             "large": "https://images.pokemontcg.io/bw9/20_hires.png"
@@ -1504,6 +1404,7 @@ let plasmaFreeze = [
         "id": "bw9-21",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1539,10 +1440,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1557,10 +1455,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/21.png",
             "large": "https://images.pokemontcg.io/bw9/21_hires.png"
@@ -1570,6 +1465,7 @@ let plasmaFreeze = [
         "id": "bw9-22",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1611,10 +1507,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1629,10 +1522,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/22.png",
             "large": "https://images.pokemontcg.io/bw9/22_hires.png"
@@ -1642,6 +1532,7 @@ let plasmaFreeze = [
         "id": "bw9-23",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1684,10 +1575,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1702,10 +1590,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/23.png",
             "large": "https://images.pokemontcg.io/bw9/23_hires.png"
@@ -1715,6 +1600,7 @@ let plasmaFreeze = [
         "id": "bw9-24",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1749,10 +1635,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1767,10 +1650,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/24.png",
             "large": "https://images.pokemontcg.io/bw9/24_hires.png"
@@ -1780,6 +1660,7 @@ let plasmaFreeze = [
         "id": "bw9-25",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1827,10 +1708,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1845,10 +1723,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/25.png",
             "large": "https://images.pokemontcg.io/bw9/25_hires.png"
@@ -1858,6 +1733,7 @@ let plasmaFreeze = [
         "id": "bw9-26",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -1904,10 +1780,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1922,10 +1795,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             537
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/26.png",
             "large": "https://images.pokemontcg.io/bw9/26_hires.png"
@@ -1935,6 +1805,7 @@ let plasmaFreeze = [
         "id": "bw9-27",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -1970,10 +1841,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -1988,10 +1856,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/27.png",
             "large": "https://images.pokemontcg.io/bw9/27_hires.png"
@@ -2001,6 +1866,7 @@ let plasmaFreeze = [
         "id": "bw9-28",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2037,10 +1903,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2055,10 +1918,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/28.png",
             "large": "https://images.pokemontcg.io/bw9/28_hires.png"
@@ -2068,6 +1928,7 @@ let plasmaFreeze = [
         "id": "bw9-29",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -2111,10 +1972,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2129,10 +1987,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/29.png",
             "large": "https://images.pokemontcg.io/bw9/29_hires.png"
@@ -2142,6 +1997,7 @@ let plasmaFreeze = [
         "id": "bw9-30",
         "name": "Cryogonal",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -2183,10 +2039,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2201,10 +2054,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             615
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/30.png",
             "large": "https://images.pokemontcg.io/bw9/30_hires.png"
@@ -2214,6 +2064,7 @@ let plasmaFreeze = [
         "id": "bw9-31",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -2258,10 +2109,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2276,10 +2124,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/31.png",
             "large": "https://images.pokemontcg.io/bw9/31_hires.png"
@@ -2289,6 +2134,7 @@ let plasmaFreeze = [
         "id": "bw9-32",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -2324,10 +2170,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2342,10 +2185,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/32.png",
             "large": "https://images.pokemontcg.io/bw9/32_hires.png"
@@ -2355,6 +2195,7 @@ let plasmaFreeze = [
         "id": "bw9-33",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2396,10 +2237,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2414,10 +2252,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/33.png",
             "large": "https://images.pokemontcg.io/bw9/33_hires.png"
@@ -2427,6 +2262,7 @@ let plasmaFreeze = [
         "id": "bw9-34",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -2470,10 +2306,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2488,10 +2321,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/34.png",
             "large": "https://images.pokemontcg.io/bw9/34_hires.png"
@@ -2501,6 +2331,7 @@ let plasmaFreeze = [
         "id": "bw9-35",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -2536,10 +2367,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2554,10 +2382,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/35.png",
             "large": "https://images.pokemontcg.io/bw9/35_hires.png"
@@ -2567,6 +2392,7 @@ let plasmaFreeze = [
         "id": "bw9-36",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2610,10 +2436,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2628,10 +2451,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/36.png",
             "large": "https://images.pokemontcg.io/bw9/36_hires.png"
@@ -2641,6 +2461,7 @@ let plasmaFreeze = [
         "id": "bw9-37",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -2681,10 +2502,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2699,10 +2517,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/37.png",
             "large": "https://images.pokemontcg.io/bw9/37_hires.png"
@@ -2712,6 +2527,7 @@ let plasmaFreeze = [
         "id": "bw9-38",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -2760,10 +2576,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2777,10 +2590,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/38.png",
             "large": "https://images.pokemontcg.io/bw9/38_hires.png"
@@ -2790,6 +2600,7 @@ let plasmaFreeze = [
         "id": "bw9-39",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -2835,10 +2646,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2853,10 +2661,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/39.png",
             "large": "https://images.pokemontcg.io/bw9/39_hires.png"
@@ -2866,6 +2671,7 @@ let plasmaFreeze = [
         "id": "bw9-40",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -2901,10 +2707,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2919,10 +2722,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/40.png",
             "large": "https://images.pokemontcg.io/bw9/40_hires.png"
@@ -2932,6 +2732,7 @@ let plasmaFreeze = [
         "id": "bw9-41",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2979,10 +2780,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -2997,10 +2795,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/41.png",
             "large": "https://images.pokemontcg.io/bw9/41_hires.png"
@@ -3010,6 +2805,7 @@ let plasmaFreeze = [
         "id": "bw9-42",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3054,10 +2850,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3072,10 +2865,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/42.png",
             "large": "https://images.pokemontcg.io/bw9/42_hires.png"
@@ -3085,6 +2875,7 @@ let plasmaFreeze = [
         "id": "bw9-43",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -3119,10 +2910,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3137,10 +2925,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/43.png",
             "large": "https://images.pokemontcg.io/bw9/43_hires.png"
@@ -3150,6 +2935,7 @@ let plasmaFreeze = [
         "id": "bw9-44",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3197,10 +2983,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3215,10 +2998,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/44.png",
             "large": "https://images.pokemontcg.io/bw9/44_hires.png"
@@ -3228,6 +3008,7 @@ let plasmaFreeze = [
         "id": "bw9-45",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -3273,10 +3054,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3291,10 +3069,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/45.png",
             "large": "https://images.pokemontcg.io/bw9/45_hires.png"
@@ -3304,6 +3079,7 @@ let plasmaFreeze = [
         "id": "bw9-46",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -3351,10 +3127,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3369,10 +3142,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/46.png",
             "large": "https://images.pokemontcg.io/bw9/46_hires.png"
@@ -3382,6 +3152,7 @@ let plasmaFreeze = [
         "id": "bw9-47",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -3421,10 +3192,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3439,10 +3207,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/47.png",
             "large": "https://images.pokemontcg.io/bw9/47_hires.png"
@@ -3452,6 +3217,7 @@ let plasmaFreeze = [
         "id": "bw9-48",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -3494,10 +3260,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3512,10 +3275,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/48.png",
             "large": "https://images.pokemontcg.io/bw9/48_hires.png"
@@ -3525,6 +3285,7 @@ let plasmaFreeze = [
         "id": "bw9-49",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -3561,10 +3322,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3579,10 +3337,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/49.png",
             "large": "https://images.pokemontcg.io/bw9/49_hires.png"
@@ -3592,6 +3347,7 @@ let plasmaFreeze = [
         "id": "bw9-50",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -3636,10 +3392,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3654,10 +3407,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/50.png",
             "large": "https://images.pokemontcg.io/bw9/50_hires.png"
@@ -3667,6 +3417,7 @@ let plasmaFreeze = [
         "id": "bw9-51",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3713,10 +3464,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3731,10 +3479,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/51.png",
             "large": "https://images.pokemontcg.io/bw9/51_hires.png"
@@ -3744,6 +3489,7 @@ let plasmaFreeze = [
         "id": "bw9-52",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -3787,10 +3533,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3805,10 +3548,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/52.png",
             "large": "https://images.pokemontcg.io/bw9/52_hires.png"
@@ -3818,6 +3558,7 @@ let plasmaFreeze = [
         "id": "bw9-53",
         "name": "Deoxys-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -3862,10 +3603,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3879,10 +3617,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/53.png",
             "large": "https://images.pokemontcg.io/bw9/53_hires.png"
@@ -3892,6 +3627,7 @@ let plasmaFreeze = [
         "id": "bw9-54",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -3926,10 +3662,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -3944,10 +3677,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/54.png",
             "large": "https://images.pokemontcg.io/bw9/54_hires.png"
@@ -3957,6 +3687,7 @@ let plasmaFreeze = [
         "id": "bw9-55",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4002,10 +3733,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4020,10 +3748,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/55.png",
             "large": "https://images.pokemontcg.io/bw9/55_hires.png"
@@ -4033,6 +3758,7 @@ let plasmaFreeze = [
         "id": "bw9-56",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4075,10 +3801,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4093,10 +3816,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/56.png",
             "large": "https://images.pokemontcg.io/bw9/56_hires.png"
@@ -4106,6 +3826,7 @@ let plasmaFreeze = [
         "id": "bw9-57",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4150,10 +3871,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4168,10 +3886,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/57.png",
             "large": "https://images.pokemontcg.io/bw9/57_hires.png"
@@ -4181,6 +3896,7 @@ let plasmaFreeze = [
         "id": "bw9-58",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -4232,10 +3948,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4250,10 +3963,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/58.png",
             "large": "https://images.pokemontcg.io/bw9/58_hires.png"
@@ -4263,6 +3973,7 @@ let plasmaFreeze = [
         "id": "bw9-59",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4297,10 +4008,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4315,10 +4023,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/59.png",
             "large": "https://images.pokemontcg.io/bw9/59_hires.png"
@@ -4328,6 +4033,7 @@ let plasmaFreeze = [
         "id": "bw9-60",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4371,10 +4077,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4389,10 +4092,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/60.png",
             "large": "https://images.pokemontcg.io/bw9/60_hires.png"
@@ -4402,6 +4102,7 @@ let plasmaFreeze = [
         "id": "bw9-61",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4450,10 +4151,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4468,10 +4166,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/61.png",
             "large": "https://images.pokemontcg.io/bw9/61_hires.png"
@@ -4481,6 +4176,7 @@ let plasmaFreeze = [
         "id": "bw9-62",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4527,10 +4223,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4545,10 +4238,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/62.png",
             "large": "https://images.pokemontcg.io/bw9/62_hires.png"
@@ -4558,6 +4248,7 @@ let plasmaFreeze = [
         "id": "bw9-63",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4602,10 +4293,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4620,10 +4308,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/63.png",
             "large": "https://images.pokemontcg.io/bw9/63_hires.png"
@@ -4633,6 +4318,7 @@ let plasmaFreeze = [
         "id": "bw9-64",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4681,10 +4367,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4699,10 +4382,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/64.png",
             "large": "https://images.pokemontcg.io/bw9/64_hires.png"
@@ -4712,6 +4392,7 @@ let plasmaFreeze = [
         "id": "bw9-65",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4753,10 +4434,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4771,10 +4449,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/65.png",
             "large": "https://images.pokemontcg.io/bw9/65_hires.png"
@@ -4784,6 +4459,7 @@ let plasmaFreeze = [
         "id": "bw9-66",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4833,10 +4509,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4851,10 +4524,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/66.png",
             "large": "https://images.pokemontcg.io/bw9/66_hires.png"
@@ -4864,6 +4534,7 @@ let plasmaFreeze = [
         "id": "bw9-67",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -4914,10 +4585,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -4932,10 +4600,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/67.png",
             "large": "https://images.pokemontcg.io/bw9/67_hires.png"
@@ -4945,6 +4610,7 @@ let plasmaFreeze = [
         "id": "bw9-68",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -4986,10 +4652,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5004,10 +4667,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/68.png",
             "large": "https://images.pokemontcg.io/bw9/68_hires.png"
@@ -5017,6 +4677,7 @@ let plasmaFreeze = [
         "id": "bw9-69",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5069,10 +4730,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5087,10 +4745,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/69.png",
             "large": "https://images.pokemontcg.io/bw9/69_hires.png"
@@ -5100,6 +4755,7 @@ let plasmaFreeze = [
         "id": "bw9-70",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -5150,10 +4806,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5168,10 +4821,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/70.png",
             "large": "https://images.pokemontcg.io/bw9/70_hires.png"
@@ -5181,6 +4831,7 @@ let plasmaFreeze = [
         "id": "bw9-71",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -5221,10 +4872,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5239,10 +4887,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/71.png",
             "large": "https://images.pokemontcg.io/bw9/71_hires.png"
@@ -5252,6 +4897,7 @@ let plasmaFreeze = [
         "id": "bw9-72",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -5293,10 +4939,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5311,10 +4954,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/72.png",
             "large": "https://images.pokemontcg.io/bw9/72_hires.png"
@@ -5324,6 +4964,7 @@ let plasmaFreeze = [
         "id": "bw9-73",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5374,10 +5015,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5392,10 +5030,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/73.png",
             "large": "https://images.pokemontcg.io/bw9/73_hires.png"
@@ -5405,6 +5040,7 @@ let plasmaFreeze = [
         "id": "bw9-74",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5456,10 +5092,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5474,10 +5107,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/74.png",
             "large": "https://images.pokemontcg.io/bw9/74_hires.png"
@@ -5487,6 +5117,7 @@ let plasmaFreeze = [
         "id": "bw9-75",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -5539,10 +5170,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5557,10 +5185,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/75.png",
             "large": "https://images.pokemontcg.io/bw9/75_hires.png"
@@ -5570,6 +5195,7 @@ let plasmaFreeze = [
         "id": "bw9-76",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -5611,10 +5237,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5629,10 +5252,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/76.png",
             "large": "https://images.pokemontcg.io/bw9/76_hires.png"
@@ -5642,6 +5262,7 @@ let plasmaFreeze = [
         "id": "bw9-77",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5695,10 +5316,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5713,10 +5331,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/77.png",
             "large": "https://images.pokemontcg.io/bw9/77_hires.png"
@@ -5726,6 +5341,7 @@ let plasmaFreeze = [
         "id": "bw9-78",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -5779,10 +5395,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5797,10 +5410,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/78.png",
             "large": "https://images.pokemontcg.io/bw9/78_hires.png"
@@ -5810,6 +5420,7 @@ let plasmaFreeze = [
         "id": "bw9-79",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5864,10 +5475,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5882,10 +5490,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/79.png",
             "large": "https://images.pokemontcg.io/bw9/79_hires.png"
@@ -5895,6 +5500,7 @@ let plasmaFreeze = [
         "id": "bw9-80",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -5943,10 +5549,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -5961,10 +5564,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/80.png",
             "large": "https://images.pokemontcg.io/bw9/80_hires.png"
@@ -5974,6 +5574,7 @@ let plasmaFreeze = [
         "id": "bw9-81",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6018,10 +5619,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6036,10 +5634,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/81.png",
             "large": "https://images.pokemontcg.io/bw9/81_hires.png"
@@ -6049,6 +5644,7 @@ let plasmaFreeze = [
         "id": "bw9-82",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6095,10 +5691,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6113,10 +5706,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/82.png",
             "large": "https://images.pokemontcg.io/bw9/82_hires.png"
@@ -6126,6 +5716,7 @@ let plasmaFreeze = [
         "id": "bw9-83",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6172,10 +5763,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6190,10 +5778,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/83.png",
             "large": "https://images.pokemontcg.io/bw9/83_hires.png"
@@ -6203,6 +5788,7 @@ let plasmaFreeze = [
         "id": "bw9-84",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6244,10 +5830,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6262,10 +5845,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/84.png",
             "large": "https://images.pokemontcg.io/bw9/84_hires.png"
@@ -6275,6 +5855,7 @@ let plasmaFreeze = [
         "id": "bw9-85",
         "name": "Latias-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6319,10 +5900,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6336,10 +5914,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/85.png",
             "large": "https://images.pokemontcg.io/bw9/85_hires.png"
@@ -6349,6 +5924,7 @@ let plasmaFreeze = [
         "id": "bw9-86",
         "name": "Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6399,10 +5975,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6416,10 +5989,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/86.png",
             "large": "https://images.pokemontcg.io/bw9/86_hires.png"
@@ -6429,6 +5999,7 @@ let plasmaFreeze = [
         "id": "bw9-87",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6464,10 +6035,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6482,10 +6050,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/87.png",
             "large": "https://images.pokemontcg.io/bw9/87_hires.png"
@@ -6495,6 +6060,7 @@ let plasmaFreeze = [
         "id": "bw9-88",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -6537,10 +6103,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6555,10 +6118,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/88.png",
             "large": "https://images.pokemontcg.io/bw9/88_hires.png"
@@ -6568,6 +6128,7 @@ let plasmaFreeze = [
         "id": "bw9-89",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6619,10 +6180,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6637,10 +6195,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/89.png",
             "large": "https://images.pokemontcg.io/bw9/89_hires.png"
@@ -6650,6 +6205,7 @@ let plasmaFreeze = [
         "id": "bw9-90",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6702,10 +6258,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6720,10 +6273,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/90.png",
             "large": "https://images.pokemontcg.io/bw9/90_hires.png"
@@ -6733,6 +6283,7 @@ let plasmaFreeze = [
         "id": "bw9-91",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6773,10 +6324,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6791,10 +6339,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/91.png",
             "large": "https://images.pokemontcg.io/bw9/91_hires.png"
@@ -6804,6 +6349,7 @@ let plasmaFreeze = [
         "id": "bw9-92",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6854,10 +6400,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6872,10 +6415,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/92.png",
             "large": "https://images.pokemontcg.io/bw9/92_hires.png"
@@ -6885,6 +6425,7 @@ let plasmaFreeze = [
         "id": "bw9-93",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6927,10 +6468,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -6945,10 +6483,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/93.png",
             "large": "https://images.pokemontcg.io/bw9/93_hires.png"
@@ -6958,6 +6493,7 @@ let plasmaFreeze = [
         "id": "bw9-94",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -6996,10 +6532,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7014,10 +6547,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             352
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/94.png",
             "large": "https://images.pokemontcg.io/bw9/94_hires.png"
@@ -7027,6 +6557,7 @@ let plasmaFreeze = [
         "id": "bw9-95",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -7067,10 +6598,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7085,10 +6613,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             396
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/95.png",
             "large": "https://images.pokemontcg.io/bw9/95_hires.png"
@@ -7098,6 +6623,7 @@ let plasmaFreeze = [
         "id": "bw9-96",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7140,10 +6666,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7158,10 +6681,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             397
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/96.png",
             "large": "https://images.pokemontcg.io/bw9/96_hires.png"
@@ -7171,6 +6691,7 @@ let plasmaFreeze = [
         "id": "bw9-97",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -7223,10 +6744,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7241,10 +6759,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             398
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/97.png",
             "large": "https://images.pokemontcg.io/bw9/97_hires.png"
@@ -7254,6 +6769,7 @@ let plasmaFreeze = [
         "id": "bw9-98",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -7308,10 +6824,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7325,10 +6838,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/98.png",
             "large": "https://images.pokemontcg.io/bw9/98_hires.png"
@@ -7338,6 +6848,7 @@ let plasmaFreeze = [
         "id": "bw9-99",
         "name": "Float Stone",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7352,10 +6863,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7366,10 +6874,7 @@ let plasmaFreeze = [
         "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/99.png",
             "large": "https://images.pokemontcg.io/bw9/99_hires.png"
@@ -7379,6 +6884,7 @@ let plasmaFreeze = [
         "id": "bw9-100",
         "name": "Frozen City",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stadium",
             "Team Plasma"
@@ -7393,10 +6899,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7407,10 +6910,7 @@ let plasmaFreeze = [
         "number": "100",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/100.png",
             "large": "https://images.pokemontcg.io/bw9/100_hires.png"
@@ -7420,6 +6920,7 @@ let plasmaFreeze = [
         "id": "bw9-101",
         "name": "Ghetsis",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -7434,10 +6935,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7461,6 +6959,7 @@ let plasmaFreeze = [
         "id": "bw9-102",
         "name": "Shadow Triad",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -7475,10 +6974,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7489,10 +6985,7 @@ let plasmaFreeze = [
         "number": "102",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/102.png",
             "large": "https://images.pokemontcg.io/bw9/102_hires.png"
@@ -7502,6 +6995,7 @@ let plasmaFreeze = [
         "id": "bw9-103",
         "name": "Superior Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Item"
         ],
@@ -7515,10 +7009,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7529,10 +7020,7 @@ let plasmaFreeze = [
         "number": "103",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/103.png",
             "large": "https://images.pokemontcg.io/bw9/103_hires.png"
@@ -7542,6 +7030,7 @@ let plasmaFreeze = [
         "id": "bw9-104",
         "name": "Team Plasma Badge",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Pokémon Tool",
             "Team Plasma"
@@ -7557,10 +7046,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7571,10 +7057,7 @@ let plasmaFreeze = [
         "number": "104",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/104.png",
             "large": "https://images.pokemontcg.io/bw9/104_hires.png"
@@ -7584,6 +7067,7 @@ let plasmaFreeze = [
         "id": "bw9-105",
         "name": "Team Plasma Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Item",
             "Team Plasma"
@@ -7598,10 +7082,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7612,10 +7093,7 @@ let plasmaFreeze = [
         "number": "105",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/105.png",
             "large": "https://images.pokemontcg.io/bw9/105_hires.png"
@@ -7625,6 +7103,7 @@ let plasmaFreeze = [
         "id": "bw9-106",
         "name": "Plasma Energy",
         "supertype": "Energy",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Special",
             "Team Plasma"
@@ -7638,10 +7117,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7652,10 +7128,7 @@ let plasmaFreeze = [
         "number": "106",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/106.png",
             "large": "https://images.pokemontcg.io/bw9/106_hires.png"
@@ -7665,6 +7138,7 @@ let plasmaFreeze = [
         "id": "bw9-107",
         "name": "Life Dew",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -7681,10 +7155,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7695,10 +7166,7 @@ let plasmaFreeze = [
         "number": "107",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/107.png",
             "large": "https://images.pokemontcg.io/bw9/107_hires.png"
@@ -7708,6 +7176,7 @@ let plasmaFreeze = [
         "id": "bw9-108",
         "name": "Rock Guard",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -7724,10 +7193,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7738,10 +7204,7 @@ let plasmaFreeze = [
         "number": "108",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/108.png",
             "large": "https://images.pokemontcg.io/bw9/108_hires.png"
@@ -7751,6 +7214,7 @@ let plasmaFreeze = [
         "id": "bw9-109",
         "name": "Heatran-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -7801,10 +7265,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7818,10 +7279,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/109.png",
             "large": "https://images.pokemontcg.io/bw9/109_hires.png"
@@ -7831,6 +7289,7 @@ let plasmaFreeze = [
         "id": "bw9-110",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -7879,10 +7338,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7896,10 +7352,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/110.png",
             "large": "https://images.pokemontcg.io/bw9/110_hires.png"
@@ -7909,6 +7362,7 @@ let plasmaFreeze = [
         "id": "bw9-111",
         "name": "Deoxys-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -7953,10 +7407,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -7970,10 +7421,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/111.png",
             "large": "https://images.pokemontcg.io/bw9/111_hires.png"
@@ -7983,6 +7431,7 @@ let plasmaFreeze = [
         "id": "bw9-112",
         "name": "Latias-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX"
@@ -8027,10 +7476,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8044,10 +7490,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/112.png",
             "large": "https://images.pokemontcg.io/bw9/112_hires.png"
@@ -8057,6 +7500,7 @@ let plasmaFreeze = [
         "id": "bw9-113",
         "name": "Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX"
@@ -8107,10 +7551,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8124,10 +7565,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/113.png",
             "large": "https://images.pokemontcg.io/bw9/113_hires.png"
@@ -8137,6 +7575,7 @@ let plasmaFreeze = [
         "id": "bw9-114",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic",
             "EX",
@@ -8191,10 +7630,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8208,10 +7644,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/114.png",
             "large": "https://images.pokemontcg.io/bw9/114_hires.png"
@@ -8221,6 +7654,7 @@ let plasmaFreeze = [
         "id": "bw9-115",
         "name": "Ghetsis",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -8235,10 +7669,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8262,6 +7693,7 @@ let plasmaFreeze = [
         "id": "bw9-116",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Supporter"
         ],
@@ -8275,10 +7707,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8289,10 +7718,7 @@ let plasmaFreeze = [
         "number": "116",
         "artist": "Kanako Eo",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/116.png",
             "large": "https://images.pokemontcg.io/bw9/116_hires.png"
@@ -8302,6 +7728,7 @@ let plasmaFreeze = [
         "id": "bw9-117",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8341,10 +7768,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8359,10 +7783,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/117.png",
             "large": "https://images.pokemontcg.io/bw9/117_hires.png"
@@ -8372,6 +7793,7 @@ let plasmaFreeze = [
         "id": "bw9-118",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Basic"
         ],
@@ -8412,10 +7834,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8430,10 +7849,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/118.png",
             "large": "https://images.pokemontcg.io/bw9/118_hires.png"
@@ -8443,6 +7859,7 @@ let plasmaFreeze = [
         "id": "bw9-119",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8484,10 +7901,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8502,10 +7916,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/119.png",
             "large": "https://images.pokemontcg.io/bw9/119_hires.png"
@@ -8515,6 +7926,7 @@ let plasmaFreeze = [
         "id": "bw9-120",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8557,10 +7969,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8575,10 +7984,7 @@ let plasmaFreeze = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/120.png",
             "large": "https://images.pokemontcg.io/bw9/120_hires.png"
@@ -8588,6 +7994,7 @@ let plasmaFreeze = [
         "id": "bw9-121",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Item"
         ],
@@ -8601,10 +8008,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8615,10 +8019,7 @@ let plasmaFreeze = [
         "number": "121",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/121.png",
             "large": "https://images.pokemontcg.io/bw9/121_hires.png"
@@ -8628,6 +8029,7 @@ let plasmaFreeze = [
         "id": "bw9-122",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLF",
         "subtypes": [
             "Item"
         ],
@@ -8641,10 +8043,7 @@ let plasmaFreeze = [
             "series": "Black & White",
             "printedTotal": 116,
             "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLF",
             "releaseDate": "2013/05/08",
             "images": {
@@ -8655,10 +8054,7 @@ let plasmaFreeze = [
         "number": "122",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw9/122.png",
             "large": "https://images.pokemontcg.io/bw9/122_hires.png"

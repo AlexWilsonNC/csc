@@ -3,6 +3,7 @@ let sm6 = [
         "id": "sm6-1",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -37,10 +38,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -55,10 +53,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/1.png",
             "large": "https://images.pokemontcg.io/sm6/1_hires.png"
@@ -68,6 +63,7 @@ let sm6 = [
         "id": "sm6-2",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -100,10 +96,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -118,10 +111,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/2.png",
             "large": "https://images.pokemontcg.io/sm6/2_hires.png"
@@ -131,6 +121,7 @@ let sm6 = [
         "id": "sm6-2a",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -163,10 +154,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -181,10 +169,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/2a.png",
             "large": "https://images.pokemontcg.io/sm6/2a_hires.png"
@@ -194,6 +179,7 @@ let sm6 = [
         "id": "sm6-3",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -229,10 +215,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -247,10 +230,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             459
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/3.png",
             "large": "https://images.pokemontcg.io/sm6/3_hires.png"
@@ -260,6 +240,7 @@ let sm6 = [
         "id": "sm6-4",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -302,10 +283,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -320,10 +298,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             460
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/4.png",
             "large": "https://images.pokemontcg.io/sm6/4_hires.png"
@@ -333,6 +308,7 @@ let sm6 = [
         "id": "sm6-5",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -375,10 +351,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -393,10 +366,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             664
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/5.png",
             "large": "https://images.pokemontcg.io/sm6/5_hires.png"
@@ -406,6 +376,7 @@ let sm6 = [
         "id": "sm6-6",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -440,10 +411,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -458,10 +426,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             664
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/6.png",
             "large": "https://images.pokemontcg.io/sm6/6_hires.png"
@@ -471,6 +436,7 @@ let sm6 = [
         "id": "sm6-7",
         "name": "Spewpa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -506,10 +472,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -524,10 +487,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             665
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/7.png",
             "large": "https://images.pokemontcg.io/sm6/7_hires.png"
@@ -537,6 +497,7 @@ let sm6 = [
         "id": "sm6-8",
         "name": "Vivillon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -575,10 +536,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -593,10 +551,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             666
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/8.png",
             "large": "https://images.pokemontcg.io/sm6/8_hires.png"
@@ -606,6 +561,7 @@ let sm6 = [
         "id": "sm6-9",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -651,10 +607,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -669,10 +622,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/9.png",
             "large": "https://images.pokemontcg.io/sm6/9_hires.png"
@@ -682,6 +632,7 @@ let sm6 = [
         "id": "sm6-10",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -725,10 +676,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -743,10 +691,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/10.png",
             "large": "https://images.pokemontcg.io/sm6/10_hires.png"
@@ -756,6 +701,7 @@ let sm6 = [
         "id": "sm6-11",
         "name": "Pheromosa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -798,10 +744,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -816,10 +759,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             795
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/11.png",
             "large": "https://images.pokemontcg.io/sm6/11_hires.png"
@@ -829,6 +769,7 @@ let sm6 = [
         "id": "sm6-12",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -869,10 +810,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -887,10 +825,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/12.png",
             "large": "https://images.pokemontcg.io/sm6/12_hires.png"
@@ -900,6 +835,7 @@ let sm6 = [
         "id": "sm6-13",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -943,10 +879,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -961,10 +894,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/13.png",
             "large": "https://images.pokemontcg.io/sm6/13_hires.png"
@@ -974,6 +904,7 @@ let sm6 = [
         "id": "sm6-14",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1008,10 +939,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1026,10 +954,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/14.png",
             "large": "https://images.pokemontcg.io/sm6/14_hires.png"
@@ -1039,6 +964,7 @@ let sm6 = [
         "id": "sm6-15",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1083,10 +1009,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1101,10 +1024,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/15.png",
             "large": "https://images.pokemontcg.io/sm6/15_hires.png"
@@ -1114,6 +1034,7 @@ let sm6 = [
         "id": "sm6-16",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1160,10 +1081,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1178,10 +1096,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/16.png",
             "large": "https://images.pokemontcg.io/sm6/16_hires.png"
@@ -1191,6 +1106,7 @@ let sm6 = [
         "id": "sm6-17",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1233,10 +1149,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1251,10 +1164,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             655
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/17.png",
             "large": "https://images.pokemontcg.io/sm6/17_hires.png"
@@ -1264,6 +1174,7 @@ let sm6 = [
         "id": "sm6-18",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1299,10 +1210,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1317,10 +1225,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/18.png",
             "large": "https://images.pokemontcg.io/sm6/18_hires.png"
@@ -1330,6 +1235,7 @@ let sm6 = [
         "id": "sm6-19",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1371,10 +1277,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1389,10 +1292,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/19.png",
             "large": "https://images.pokemontcg.io/sm6/19_hires.png"
@@ -1402,6 +1302,7 @@ let sm6 = [
         "id": "sm6-20",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -1461,10 +1362,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1478,10 +1376,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/20.png",
             "large": "https://images.pokemontcg.io/sm6/20_hires.png"
@@ -1491,6 +1386,7 @@ let sm6 = [
         "id": "sm6-21",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1533,10 +1429,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1551,10 +1444,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             656
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/21.png",
             "large": "https://images.pokemontcg.io/sm6/21_hires.png"
@@ -1564,6 +1454,7 @@ let sm6 = [
         "id": "sm6-22",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1608,10 +1499,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1626,10 +1514,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             656
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/22.png",
             "large": "https://images.pokemontcg.io/sm6/22_hires.png"
@@ -1639,6 +1524,7 @@ let sm6 = [
         "id": "sm6-23",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1681,10 +1567,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1699,10 +1582,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             657
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/23.png",
             "large": "https://images.pokemontcg.io/sm6/23_hires.png"
@@ -1712,6 +1592,7 @@ let sm6 = [
         "id": "sm6-24",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1768,10 +1649,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1785,10 +1663,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/24.png",
             "large": "https://images.pokemontcg.io/sm6/24_hires.png"
@@ -1798,6 +1673,7 @@ let sm6 = [
         "id": "sm6-25",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1832,10 +1708,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1850,10 +1723,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             692
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/25.png",
             "large": "https://images.pokemontcg.io/sm6/25_hires.png"
@@ -1863,6 +1733,7 @@ let sm6 = [
         "id": "sm6-26",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1904,10 +1775,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -1922,10 +1790,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             693
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/26.png",
             "large": "https://images.pokemontcg.io/sm6/26_hires.png"
@@ -1935,6 +1800,7 @@ let sm6 = [
         "id": "sm6-27",
         "name": "Amaura",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1982,10 +1848,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2000,10 +1863,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             698
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/27.png",
             "large": "https://images.pokemontcg.io/sm6/27_hires.png"
@@ -2013,6 +1873,7 @@ let sm6 = [
         "id": "sm6-28",
         "name": "Aurorus",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2059,10 +1920,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2077,10 +1935,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             699
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/28.png",
             "large": "https://images.pokemontcg.io/sm6/28_hires.png"
@@ -2090,6 +1945,7 @@ let sm6 = [
         "id": "sm6-29",
         "name": "Bergmite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2124,10 +1980,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2142,10 +1995,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             712
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/29.png",
             "large": "https://images.pokemontcg.io/sm6/29_hires.png"
@@ -2155,6 +2005,7 @@ let sm6 = [
         "id": "sm6-30",
         "name": "Avalugg",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2201,10 +2052,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2219,10 +2067,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             713
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/30.png",
             "large": "https://images.pokemontcg.io/sm6/30_hires.png"
@@ -2232,6 +2077,7 @@ let sm6 = [
         "id": "sm6-31",
         "name": "Volcanion ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -2276,10 +2122,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2294,10 +2137,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/31.png",
             "large": "https://images.pokemontcg.io/sm6/31_hires.png"
@@ -2307,6 +2147,7 @@ let sm6 = [
         "id": "sm6-32",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2350,10 +2191,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2368,10 +2206,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             751
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/32.png",
             "large": "https://images.pokemontcg.io/sm6/32_hires.png"
@@ -2381,6 +2216,7 @@ let sm6 = [
         "id": "sm6-33",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2423,10 +2259,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2441,10 +2274,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             752
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/33.png",
             "large": "https://images.pokemontcg.io/sm6/33_hires.png"
@@ -2454,6 +2284,7 @@ let sm6 = [
         "id": "sm6-34",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2503,10 +2334,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2521,10 +2349,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/34.png",
             "large": "https://images.pokemontcg.io/sm6/34_hires.png"
@@ -2534,6 +2359,7 @@ let sm6 = [
         "id": "sm6-35",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2586,10 +2412,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2604,10 +2427,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/35.png",
             "large": "https://images.pokemontcg.io/sm6/35_hires.png"
@@ -2617,6 +2437,7 @@ let sm6 = [
         "id": "sm6-36",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2665,10 +2486,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2683,10 +2501,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/36.png",
             "large": "https://images.pokemontcg.io/sm6/36_hires.png"
@@ -2696,6 +2511,7 @@ let sm6 = [
         "id": "sm6-37",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2746,10 +2562,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2764,10 +2577,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             694
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/37.png",
             "large": "https://images.pokemontcg.io/sm6/37_hires.png"
@@ -2777,6 +2587,7 @@ let sm6 = [
         "id": "sm6-38",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2826,10 +2637,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2844,10 +2652,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             695
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/38.png",
             "large": "https://images.pokemontcg.io/sm6/38_hires.png"
@@ -2857,6 +2662,7 @@ let sm6 = [
         "id": "sm6-39",
         "name": "Xurkitree",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -2906,10 +2712,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -2924,10 +2727,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             796
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/39.png",
             "large": "https://images.pokemontcg.io/sm6/39_hires.png"
@@ -2937,6 +2737,7 @@ let sm6 = [
         "id": "sm6-40",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2983,10 +2784,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3001,10 +2799,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/40.png",
             "large": "https://images.pokemontcg.io/sm6/40_hires.png"
@@ -3014,6 +2809,7 @@ let sm6 = [
         "id": "sm6-41",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3045,10 +2841,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3063,10 +2856,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/41.png",
             "large": "https://images.pokemontcg.io/sm6/41_hires.png"
@@ -3076,6 +2866,7 @@ let sm6 = [
         "id": "sm6-42",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3115,10 +2906,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3133,10 +2921,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/42.png",
             "large": "https://images.pokemontcg.io/sm6/42_hires.png"
@@ -3146,6 +2931,7 @@ let sm6 = [
         "id": "sm6-43",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3186,10 +2972,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3204,10 +2987,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/43.png",
             "large": "https://images.pokemontcg.io/sm6/43_hires.png"
@@ -3217,6 +2997,7 @@ let sm6 = [
         "id": "sm6-44",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3251,10 +3032,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3269,10 +3047,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             677
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/44.png",
             "large": "https://images.pokemontcg.io/sm6/44_hires.png"
@@ -3282,6 +3057,7 @@ let sm6 = [
         "id": "sm6-45",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3324,10 +3100,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3342,10 +3115,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             678
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/45.png",
             "large": "https://images.pokemontcg.io/sm6/45_hires.png"
@@ -3355,6 +3125,7 @@ let sm6 = [
         "id": "sm6-46",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3404,10 +3175,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3422,10 +3190,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/46.png",
             "large": "https://images.pokemontcg.io/sm6/46_hires.png"
@@ -3435,6 +3200,7 @@ let sm6 = [
         "id": "sm6-47",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3475,10 +3241,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3493,10 +3256,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/47.png",
             "large": "https://images.pokemontcg.io/sm6/47_hires.png"
@@ -3506,6 +3266,7 @@ let sm6 = [
         "id": "sm6-48",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3547,10 +3308,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3565,10 +3323,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/48.png",
             "large": "https://images.pokemontcg.io/sm6/48_hires.png"
@@ -3578,6 +3333,7 @@ let sm6 = [
         "id": "sm6-49",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3627,10 +3383,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3645,10 +3398,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/49.png",
             "large": "https://images.pokemontcg.io/sm6/49_hires.png"
@@ -3658,6 +3408,7 @@ let sm6 = [
         "id": "sm6-50",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3692,10 +3443,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3710,10 +3458,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             686
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/50.png",
             "large": "https://images.pokemontcg.io/sm6/50_hires.png"
@@ -3723,6 +3468,7 @@ let sm6 = [
         "id": "sm6-51",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3764,10 +3510,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3782,10 +3525,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             687
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/51.png",
             "large": "https://images.pokemontcg.io/sm6/51_hires.png"
@@ -3795,6 +3535,7 @@ let sm6 = [
         "id": "sm6-52",
         "name": "Skrelp",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3829,10 +3570,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3847,10 +3585,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             690
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/52.png",
             "large": "https://images.pokemontcg.io/sm6/52_hires.png"
@@ -3860,6 +3595,7 @@ let sm6 = [
         "id": "sm6-53",
         "name": "Dragalge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3900,10 +3636,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3918,10 +3651,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             691
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/53.png",
             "large": "https://images.pokemontcg.io/sm6/53_hires.png"
@@ -3931,6 +3661,7 @@ let sm6 = [
         "id": "sm6-54",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3971,10 +3702,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -3989,10 +3717,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/54.png",
             "large": "https://images.pokemontcg.io/sm6/54_hires.png"
@@ -4002,6 +3727,7 @@ let sm6 = [
         "id": "sm6-55",
         "name": "Poipole",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -4047,10 +3773,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4065,10 +3788,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             803
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/55.png",
             "large": "https://images.pokemontcg.io/sm6/55_hires.png"
@@ -4078,6 +3798,7 @@ let sm6 = [
         "id": "sm6-56",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -4137,10 +3858,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4154,10 +3872,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/56.png",
             "large": "https://images.pokemontcg.io/sm6/56_hires.png"
@@ -4167,6 +3882,7 @@ let sm6 = [
         "id": "sm6-57",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4202,10 +3918,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4220,10 +3933,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/57.png",
             "large": "https://images.pokemontcg.io/sm6/57_hires.png"
@@ -4233,6 +3943,7 @@ let sm6 = [
         "id": "sm6-58",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4279,10 +3990,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4297,10 +4005,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/58.png",
             "large": "https://images.pokemontcg.io/sm6/58_hires.png"
@@ -4310,6 +4015,7 @@ let sm6 = [
         "id": "sm6-59",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4350,10 +4056,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4368,10 +4071,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/59.png",
             "large": "https://images.pokemontcg.io/sm6/59_hires.png"
@@ -4381,6 +4081,7 @@ let sm6 = [
         "id": "sm6-60",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4415,10 +4116,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4433,10 +4131,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/60.png",
             "large": "https://images.pokemontcg.io/sm6/60_hires.png"
@@ -4446,6 +4141,7 @@ let sm6 = [
         "id": "sm6-61",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4491,10 +4187,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4509,10 +4202,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/61.png",
             "large": "https://images.pokemontcg.io/sm6/61_hires.png"
@@ -4522,6 +4212,7 @@ let sm6 = [
         "id": "sm6-62",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4565,10 +4256,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4583,10 +4271,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/62.png",
             "large": "https://images.pokemontcg.io/sm6/62_hires.png"
@@ -4596,6 +4281,7 @@ let sm6 = [
         "id": "sm6-63",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4630,10 +4316,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4648,10 +4331,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/63.png",
             "large": "https://images.pokemontcg.io/sm6/63_hires.png"
@@ -4661,6 +4341,7 @@ let sm6 = [
         "id": "sm6-64",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4703,10 +4384,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4721,10 +4399,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/64.png",
             "large": "https://images.pokemontcg.io/sm6/64_hires.png"
@@ -4734,6 +4409,7 @@ let sm6 = [
         "id": "sm6-65",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4768,10 +4444,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4786,10 +4459,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             674
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/65.png",
             "large": "https://images.pokemontcg.io/sm6/65_hires.png"
@@ -4799,6 +4469,7 @@ let sm6 = [
         "id": "sm6-66",
         "name": "Binacle",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4833,10 +4504,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4851,10 +4519,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             688
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/66.png",
             "large": "https://images.pokemontcg.io/sm6/66_hires.png"
@@ -4864,6 +4529,7 @@ let sm6 = [
         "id": "sm6-67",
         "name": "Barbaracle",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4908,10 +4574,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -4926,10 +4589,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             689
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/67.png",
             "large": "https://images.pokemontcg.io/sm6/67_hires.png"
@@ -4939,6 +4599,7 @@ let sm6 = [
         "id": "sm6-68",
         "name": "Tyrunt",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4984,10 +4645,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5002,10 +4660,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             696
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/68.png",
             "large": "https://images.pokemontcg.io/sm6/68_hires.png"
@@ -5015,6 +4670,7 @@ let sm6 = [
         "id": "sm6-69",
         "name": "Tyrantrum",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5056,10 +4712,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5074,10 +4727,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             697
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/69.png",
             "large": "https://images.pokemontcg.io/sm6/69_hires.png"
@@ -5087,6 +4737,7 @@ let sm6 = [
         "id": "sm6-70",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5135,10 +4786,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5153,10 +4801,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/70.png",
             "large": "https://images.pokemontcg.io/sm6/70_hires.png"
@@ -5166,6 +4811,7 @@ let sm6 = [
         "id": "sm6-71",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5204,10 +4850,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5222,10 +4865,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/71.png",
             "large": "https://images.pokemontcg.io/sm6/71_hires.png"
@@ -5235,6 +4875,7 @@ let sm6 = [
         "id": "sm6-72",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5278,10 +4919,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5296,10 +4934,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/72.png",
             "large": "https://images.pokemontcg.io/sm6/72_hires.png"
@@ -5309,6 +4944,7 @@ let sm6 = [
         "id": "sm6-73",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -5369,10 +5005,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5386,10 +5019,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/73.png",
             "large": "https://images.pokemontcg.io/sm6/73_hires.png"
@@ -5399,6 +5029,7 @@ let sm6 = [
         "id": "sm6-74",
         "name": "Diancie ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -5443,10 +5074,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5461,10 +5089,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             719
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/74.png",
             "large": "https://images.pokemontcg.io/sm6/74_hires.png"
@@ -5474,6 +5099,7 @@ let sm6 = [
         "id": "sm6-75",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5509,10 +5135,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5527,10 +5150,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             744
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/75.png",
             "large": "https://images.pokemontcg.io/sm6/75_hires.png"
@@ -5540,6 +5160,7 @@ let sm6 = [
         "id": "sm6-76",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5584,10 +5205,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5602,10 +5220,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/76.png",
             "large": "https://images.pokemontcg.io/sm6/76_hires.png"
@@ -5615,6 +5230,7 @@ let sm6 = [
         "id": "sm6-77",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5658,10 +5274,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5676,10 +5289,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             794
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/77.png",
             "large": "https://images.pokemontcg.io/sm6/77_hires.png"
@@ -5689,6 +5299,7 @@ let sm6 = [
         "id": "sm6-78",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5739,10 +5350,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5757,10 +5365,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             675
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/78.png",
             "large": "https://images.pokemontcg.io/sm6/78_hires.png"
@@ -5770,6 +5375,7 @@ let sm6 = [
         "id": "sm6-79",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -5831,10 +5437,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5848,10 +5451,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/79.png",
             "large": "https://images.pokemontcg.io/sm6/79_hires.png"
@@ -5861,6 +5461,7 @@ let sm6 = [
         "id": "sm6-80",
         "name": "Guzzlord",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5902,10 +5503,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -5920,10 +5518,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             799
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/80.png",
             "large": "https://images.pokemontcg.io/sm6/80_hires.png"
@@ -5933,6 +5528,7 @@ let sm6 = [
         "id": "sm6-81",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5983,10 +5579,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6001,10 +5594,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/81.png",
             "large": "https://images.pokemontcg.io/sm6/81_hires.png"
@@ -6014,6 +5604,7 @@ let sm6 = [
         "id": "sm6-82",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -6079,10 +5670,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6096,10 +5684,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/82.png",
             "large": "https://images.pokemontcg.io/sm6/82_hires.png"
@@ -6109,6 +5694,7 @@ let sm6 = [
         "id": "sm6-83",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6156,10 +5742,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6187,6 +5770,7 @@ let sm6 = [
         "id": "sm6-84",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6227,10 +5811,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6245,10 +5826,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/84.png",
             "large": "https://images.pokemontcg.io/sm6/84_hires.png"
@@ -6258,6 +5836,7 @@ let sm6 = [
         "id": "sm6-85",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6299,10 +5878,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6317,10 +5893,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/85.png",
             "large": "https://images.pokemontcg.io/sm6/85_hires.png"
@@ -6330,6 +5903,7 @@ let sm6 = [
         "id": "sm6-86",
         "name": "Florges",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -6377,10 +5951,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6395,10 +5966,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             671
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/86.png",
             "large": "https://images.pokemontcg.io/sm6/86_hires.png"
@@ -6408,6 +5976,7 @@ let sm6 = [
         "id": "sm6-87",
         "name": "Sylveon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6456,10 +6025,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6474,10 +6040,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             700
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/87.png",
             "large": "https://images.pokemontcg.io/sm6/87_hires.png"
@@ -6487,6 +6050,7 @@ let sm6 = [
         "id": "sm6-88",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6534,10 +6098,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6552,10 +6113,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/88.png",
             "large": "https://images.pokemontcg.io/sm6/88_hires.png"
@@ -6565,6 +6123,7 @@ let sm6 = [
         "id": "sm6-89",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6611,10 +6170,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6629,10 +6185,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             707
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/89.png",
             "large": "https://images.pokemontcg.io/sm6/89_hires.png"
@@ -6642,6 +6195,7 @@ let sm6 = [
         "id": "sm6-90",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -6705,10 +6259,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6722,10 +6273,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/90.png",
             "large": "https://images.pokemontcg.io/sm6/90_hires.png"
@@ -6735,6 +6283,7 @@ let sm6 = [
         "id": "sm6-91",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6776,10 +6325,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6794,10 +6340,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             704
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/91.png",
             "large": "https://images.pokemontcg.io/sm6/91_hires.png"
@@ -6807,6 +6350,7 @@ let sm6 = [
         "id": "sm6-92",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6851,10 +6395,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6869,10 +6410,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             704
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/92.png",
             "large": "https://images.pokemontcg.io/sm6/92_hires.png"
@@ -6882,6 +6420,7 @@ let sm6 = [
         "id": "sm6-93",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6929,10 +6468,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -6947,10 +6483,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             705
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/93.png",
             "large": "https://images.pokemontcg.io/sm6/93_hires.png"
@@ -6960,6 +6493,7 @@ let sm6 = [
         "id": "sm6-94",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -7001,10 +6535,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7019,10 +6550,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             706
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/94.png",
             "large": "https://images.pokemontcg.io/sm6/94_hires.png"
@@ -7032,6 +6560,7 @@ let sm6 = [
         "id": "sm6-95",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -7079,10 +6608,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7096,10 +6622,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/95.png",
             "large": "https://images.pokemontcg.io/sm6/95_hires.png"
@@ -7109,6 +6632,7 @@ let sm6 = [
         "id": "sm6-96",
         "name": "Arceus ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -7151,10 +6675,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7169,10 +6690,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/96.png",
             "large": "https://images.pokemontcg.io/sm6/96_hires.png"
@@ -7182,6 +6700,7 @@ let sm6 = [
         "id": "sm6-97",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -7226,10 +6745,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7244,10 +6760,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/97.png",
             "large": "https://images.pokemontcg.io/sm6/97_hires.png"
@@ -7257,6 +6770,7 @@ let sm6 = [
         "id": "sm6-98",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7303,10 +6817,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7321,10 +6832,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             660
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/98.png",
             "large": "https://images.pokemontcg.io/sm6/98_hires.png"
@@ -7334,6 +6842,7 @@ let sm6 = [
         "id": "sm6-99",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -7365,10 +6874,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7383,10 +6889,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             676
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/99.png",
             "large": "https://images.pokemontcg.io/sm6/99_hires.png"
@@ -7396,6 +6899,7 @@ let sm6 = [
         "id": "sm6-100",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -7446,10 +6950,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7464,10 +6965,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             714
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/100.png",
             "large": "https://images.pokemontcg.io/sm6/100_hires.png"
@@ -7477,6 +6975,7 @@ let sm6 = [
         "id": "sm6-101",
         "name": "Noivern",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7526,10 +7025,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7544,10 +7040,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             715
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/101.png",
             "large": "https://images.pokemontcg.io/sm6/101_hires.png"
@@ -7557,6 +7050,7 @@ let sm6 = [
         "id": "sm6-102",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7571,10 +7065,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7585,10 +7076,7 @@ let sm6 = [
         "number": "102",
         "artist": "Toyste Beach",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/102.png",
             "large": "https://images.pokemontcg.io/sm6/102_hires.png"
@@ -7598,6 +7086,7 @@ let sm6 = [
         "id": "sm6-102a",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7612,10 +7101,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7626,10 +7112,7 @@ let sm6 = [
         "number": "102a",
         "artist": "5ban Graphics",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/102a.png",
             "large": "https://images.pokemontcg.io/sm6/102a_hires.png"
@@ -7639,6 +7122,7 @@ let sm6 = [
         "id": "sm6-103",
         "name": "Bonnie",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7653,10 +7137,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7667,10 +7148,7 @@ let sm6 = [
         "number": "103",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/103.png",
             "large": "https://images.pokemontcg.io/sm6/103_hires.png"
@@ -7680,6 +7158,7 @@ let sm6 = [
         "id": "sm6-104",
         "name": "Crasher Wake",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7693,10 +7172,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7707,10 +7183,7 @@ let sm6 = [
         "number": "104",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/104.png",
             "large": "https://images.pokemontcg.io/sm6/104_hires.png"
@@ -7720,6 +7193,7 @@ let sm6 = [
         "id": "sm6-105",
         "name": "Diantha",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7734,10 +7208,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7748,10 +7219,7 @@ let sm6 = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/105.png",
             "large": "https://images.pokemontcg.io/sm6/105_hires.png"
@@ -7761,6 +7229,7 @@ let sm6 = [
         "id": "sm6-106",
         "name": "Eneporter",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7774,10 +7243,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7788,10 +7254,7 @@ let sm6 = [
         "number": "106",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/106.png",
             "large": "https://images.pokemontcg.io/sm6/106_hires.png"
@@ -7801,6 +7264,7 @@ let sm6 = [
         "id": "sm6-107",
         "name": "Fossil Excavation Map",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7814,10 +7278,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7828,10 +7289,7 @@ let sm6 = [
         "number": "107",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/107.png",
             "large": "https://images.pokemontcg.io/sm6/107_hires.png"
@@ -7841,6 +7299,7 @@ let sm6 = [
         "id": "sm6-108",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7854,10 +7313,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7868,10 +7324,7 @@ let sm6 = [
         "number": "108",
         "artist": "Sanosuke Sakuma",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/108.png",
             "large": "https://images.pokemontcg.io/sm6/108_hires.png"
@@ -7881,6 +7334,7 @@ let sm6 = [
         "id": "sm6-109",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7894,10 +7348,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7908,10 +7359,7 @@ let sm6 = [
         "number": "109",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/109.png",
             "large": "https://images.pokemontcg.io/sm6/109_hires.png"
@@ -7921,6 +7369,7 @@ let sm6 = [
         "id": "sm6-110",
         "name": "Lysandre ◇",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -7936,10 +7385,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7950,10 +7396,7 @@ let sm6 = [
         "number": "110",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/110.png",
             "large": "https://images.pokemontcg.io/sm6/110_hires.png"
@@ -7963,6 +7406,7 @@ let sm6 = [
         "id": "sm6-111",
         "name": "Lysandre Labs",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stadium"
         ],
@@ -7976,10 +7420,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -7990,10 +7431,7 @@ let sm6 = [
         "number": "111",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/111.png",
             "large": "https://images.pokemontcg.io/sm6/111_hires.png"
@@ -8003,6 +7441,7 @@ let sm6 = [
         "id": "sm6-112",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8017,10 +7456,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8031,10 +7467,7 @@ let sm6 = [
         "number": "112",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/112.png",
             "large": "https://images.pokemontcg.io/sm6/112_hires.png"
@@ -8044,6 +7477,7 @@ let sm6 = [
         "id": "sm6-112a",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8058,10 +7492,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8072,10 +7503,7 @@ let sm6 = [
         "number": "112a",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/112a.png",
             "large": "https://images.pokemontcg.io/sm6/112a_hires.png"
@@ -8085,6 +7513,7 @@ let sm6 = [
         "id": "sm6-113",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -8098,10 +7527,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8112,10 +7538,7 @@ let sm6 = [
         "number": "113",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/113.png",
             "large": "https://images.pokemontcg.io/sm6/113_hires.png"
@@ -8125,6 +7548,7 @@ let sm6 = [
         "id": "sm6-113a",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -8138,10 +7562,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8152,10 +7573,7 @@ let sm6 = [
         "number": "113a",
         "artist": "Eske Yoshinob",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/113a.png",
             "large": "https://images.pokemontcg.io/sm6/113a_hires.png"
@@ -8165,6 +7583,7 @@ let sm6 = [
         "id": "sm6-114",
         "name": "Ultra Recon Squad",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -8178,10 +7597,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8192,10 +7608,7 @@ let sm6 = [
         "number": "114",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/114.png",
             "large": "https://images.pokemontcg.io/sm6/114_hires.png"
@@ -8205,6 +7618,7 @@ let sm6 = [
         "id": "sm6-115",
         "name": "Ultra Space",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stadium"
         ],
@@ -8218,10 +7632,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8232,10 +7643,7 @@ let sm6 = [
         "number": "115",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/115.png",
             "large": "https://images.pokemontcg.io/sm6/115_hires.png"
@@ -8245,6 +7653,7 @@ let sm6 = [
         "id": "sm6-116",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -8260,10 +7669,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8274,10 +7680,7 @@ let sm6 = [
         "number": "116",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/116.png",
             "large": "https://images.pokemontcg.io/sm6/116_hires.png"
@@ -8287,6 +7690,7 @@ let sm6 = [
         "id": "sm6-117",
         "name": "Beast Energy ◇",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special",
             "Prism Star"
@@ -8302,10 +7706,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8315,10 +7716,7 @@ let sm6 = [
         },
         "number": "117",
         "rarity": "Rare Prism Star",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/117.png",
             "large": "https://images.pokemontcg.io/sm6/117_hires.png"
@@ -8328,6 +7726,7 @@ let sm6 = [
         "id": "sm6-118",
         "name": "Unit Energy FightingDarknessFairy",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special"
         ],
@@ -8341,10 +7740,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8354,10 +7750,7 @@ let sm6 = [
         },
         "number": "118",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/118.png",
             "large": "https://images.pokemontcg.io/sm6/118_hires.png"
@@ -8367,6 +7760,7 @@ let sm6 = [
         "id": "sm6-119",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8426,10 +7820,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8443,10 +7834,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/119.png",
             "large": "https://images.pokemontcg.io/sm6/119_hires.png"
@@ -8456,6 +7844,7 @@ let sm6 = [
         "id": "sm6-120",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8512,10 +7901,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8529,10 +7915,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/120.png",
             "large": "https://images.pokemontcg.io/sm6/120_hires.png"
@@ -8542,6 +7925,7 @@ let sm6 = [
         "id": "sm6-121",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -8601,10 +7985,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8618,10 +7999,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/121.png",
             "large": "https://images.pokemontcg.io/sm6/121_hires.png"
@@ -8631,6 +8009,7 @@ let sm6 = [
         "id": "sm6-122",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8688,10 +8067,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8705,10 +8081,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/122.png",
             "large": "https://images.pokemontcg.io/sm6/122_hires.png"
@@ -8718,6 +8091,7 @@ let sm6 = [
         "id": "sm6-123",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8778,10 +8152,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8795,10 +8166,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/123.png",
             "large": "https://images.pokemontcg.io/sm6/123_hires.png"
@@ -8808,6 +8176,7 @@ let sm6 = [
         "id": "sm6-124",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8869,10 +8238,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8886,10 +8252,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/124.png",
             "large": "https://images.pokemontcg.io/sm6/124_hires.png"
@@ -8899,6 +8262,7 @@ let sm6 = [
         "id": "sm6-125",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8964,10 +8328,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -8981,10 +8342,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/125.png",
             "large": "https://images.pokemontcg.io/sm6/125_hires.png"
@@ -8994,6 +8352,7 @@ let sm6 = [
         "id": "sm6-126",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9057,10 +8416,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9074,10 +8430,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/126.png",
             "large": "https://images.pokemontcg.io/sm6/126_hires.png"
@@ -9087,6 +8440,7 @@ let sm6 = [
         "id": "sm6-127",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -9134,10 +8488,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9151,10 +8502,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/127.png",
             "large": "https://images.pokemontcg.io/sm6/127_hires.png"
@@ -9164,6 +8512,7 @@ let sm6 = [
         "id": "sm6-128",
         "name": "Bonnie",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -9178,10 +8527,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9192,10 +8538,7 @@ let sm6 = [
         "number": "128",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/128.png",
             "large": "https://images.pokemontcg.io/sm6/128_hires.png"
@@ -9205,6 +8548,7 @@ let sm6 = [
         "id": "sm6-129",
         "name": "Crasher Wake",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -9218,10 +8562,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9232,10 +8573,7 @@ let sm6 = [
         "number": "129",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/129.png",
             "large": "https://images.pokemontcg.io/sm6/129_hires.png"
@@ -9245,6 +8583,7 @@ let sm6 = [
         "id": "sm6-130",
         "name": "Diantha",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -9259,10 +8598,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9273,10 +8609,7 @@ let sm6 = [
         "number": "130",
         "artist": "nagimiso",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/130.png",
             "large": "https://images.pokemontcg.io/sm6/130_hires.png"
@@ -9286,6 +8619,7 @@ let sm6 = [
         "id": "sm6-131",
         "name": "Ultra Recon Squad",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -9299,10 +8633,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9313,10 +8644,7 @@ let sm6 = [
         "number": "131",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/131.png",
             "large": "https://images.pokemontcg.io/sm6/131_hires.png"
@@ -9326,6 +8654,7 @@ let sm6 = [
         "id": "sm6-132",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9385,10 +8714,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9402,10 +8728,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/132.png",
             "large": "https://images.pokemontcg.io/sm6/132_hires.png"
@@ -9415,6 +8738,7 @@ let sm6 = [
         "id": "sm6-133",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9471,10 +8795,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9488,10 +8809,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/133.png",
             "large": "https://images.pokemontcg.io/sm6/133_hires.png"
@@ -9501,6 +8819,7 @@ let sm6 = [
         "id": "sm6-134",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -9560,10 +8879,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9577,10 +8893,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             804
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/134.png",
             "large": "https://images.pokemontcg.io/sm6/134_hires.png"
@@ -9590,6 +8903,7 @@ let sm6 = [
         "id": "sm6-135",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9647,10 +8961,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9664,10 +8975,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/135.png",
             "large": "https://images.pokemontcg.io/sm6/135_hires.png"
@@ -9677,6 +8985,7 @@ let sm6 = [
         "id": "sm6-136",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9737,10 +9046,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9754,10 +9060,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/136.png",
             "large": "https://images.pokemontcg.io/sm6/136_hires.png"
@@ -9767,6 +9070,7 @@ let sm6 = [
         "id": "sm6-137",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9828,10 +9132,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9845,10 +9146,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/137.png",
             "large": "https://images.pokemontcg.io/sm6/137_hires.png"
@@ -9858,6 +9156,7 @@ let sm6 = [
         "id": "sm6-138",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9923,10 +9222,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -9940,10 +9236,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/138.png",
             "large": "https://images.pokemontcg.io/sm6/138_hires.png"
@@ -9953,6 +9246,7 @@ let sm6 = [
         "id": "sm6-139",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -10016,10 +9310,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10033,10 +9324,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/139.png",
             "large": "https://images.pokemontcg.io/sm6/139_hires.png"
@@ -10046,6 +9334,7 @@ let sm6 = [
         "id": "sm6-140",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -10093,10 +9382,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10110,10 +9396,7 @@ let sm6 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/140.png",
             "large": "https://images.pokemontcg.io/sm6/140_hires.png"
@@ -10123,6 +9406,7 @@ let sm6 = [
         "id": "sm6-141",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -10137,10 +9421,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10151,10 +9432,7 @@ let sm6 = [
         "number": "141",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/141.png",
             "large": "https://images.pokemontcg.io/sm6/141_hires.png"
@@ -10164,6 +9442,7 @@ let sm6 = [
         "id": "sm6-142",
         "name": "Eneporter",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -10177,10 +9456,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10191,10 +9467,7 @@ let sm6 = [
         "number": "142",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/142.png",
             "large": "https://images.pokemontcg.io/sm6/142_hires.png"
@@ -10204,6 +9477,7 @@ let sm6 = [
         "id": "sm6-143",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -10217,10 +9491,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10231,11 +9502,7 @@ let sm6 = [
         "number": "143",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/143.png",
             "large": "https://images.pokemontcg.io/sm6/143_hires.png"
@@ -10245,6 +9512,7 @@ let sm6 = [
         "id": "sm6-144",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10259,10 +9527,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10273,10 +9538,7 @@ let sm6 = [
         "number": "144",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/144.png",
             "large": "https://images.pokemontcg.io/sm6/144_hires.png"
@@ -10286,6 +9548,7 @@ let sm6 = [
         "id": "sm6-145",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -10299,10 +9562,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10313,10 +9573,7 @@ let sm6 = [
         "number": "145",
         "artist": "Eske Yoshinob",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/145.png",
             "large": "https://images.pokemontcg.io/sm6/145_hires.png"
@@ -10326,6 +9583,7 @@ let sm6 = [
         "id": "sm6-146",
         "name": "Unit Energy FightingDarknessFairy",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special"
         ],
@@ -10339,10 +9597,7 @@ let sm6 = [
             "series": "Sun & Moon",
             "printedTotal": 131,
             "total": 150,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLI",
             "releaseDate": "2018/05/04",
             "images": {
@@ -10352,10 +9607,7 @@ let sm6 = [
         },
         "number": "146",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm6/146.png",
             "large": "https://images.pokemontcg.io/sm6/146_hires.png"

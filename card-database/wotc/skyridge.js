@@ -1,8 +1,9 @@
-let skyridge = [
+let ecard3 = [
     {
         "id": "ecard3-H1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -44,9 +45,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -60,9 +59,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H1.png",
             "large": "https://images.pokemontcg.io/ecard3/H1_hires.png"
@@ -72,6 +69,7 @@ let skyridge = [
         "id": "ecard3-H2",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -122,9 +120,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -138,9 +134,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H2.png",
             "large": "https://images.pokemontcg.io/ecard3/H2_hires.png"
@@ -150,6 +144,7 @@ let skyridge = [
         "id": "ecard3-H3",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -206,9 +201,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -222,9 +215,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H3.png",
             "large": "https://images.pokemontcg.io/ecard3/H3_hires.png"
@@ -234,6 +225,7 @@ let skyridge = [
         "id": "ecard3-H4",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -273,9 +265,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -289,9 +279,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H4.png",
             "large": "https://images.pokemontcg.io/ecard3/H4_hires.png"
@@ -301,6 +289,7 @@ let skyridge = [
         "id": "ecard3-H5",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -341,9 +330,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -357,9 +344,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H5.png",
             "large": "https://images.pokemontcg.io/ecard3/H5_hires.png"
@@ -369,6 +354,7 @@ let skyridge = [
         "id": "ecard3-H6",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -414,9 +400,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -430,9 +414,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H6.png",
             "large": "https://images.pokemontcg.io/ecard3/H6_hires.png"
@@ -442,6 +424,7 @@ let skyridge = [
         "id": "ecard3-H7",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -492,9 +475,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -508,9 +489,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H7.png",
             "large": "https://images.pokemontcg.io/ecard3/H7_hires.png"
@@ -520,6 +499,7 @@ let skyridge = [
         "id": "ecard3-H8",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -570,9 +550,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -586,9 +564,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H8.png",
             "large": "https://images.pokemontcg.io/ecard3/H8_hires.png"
@@ -598,6 +574,7 @@ let skyridge = [
         "id": "ecard3-H9",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -646,9 +623,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -662,9 +637,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H9.png",
             "large": "https://images.pokemontcg.io/ecard3/H9_hires.png"
@@ -674,6 +647,7 @@ let skyridge = [
         "id": "ecard3-H10",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -716,9 +690,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -732,9 +704,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H10.png",
             "large": "https://images.pokemontcg.io/ecard3/H10_hires.png"
@@ -744,6 +714,7 @@ let skyridge = [
         "id": "ecard3-H11",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -794,9 +765,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -810,9 +779,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H11.png",
             "large": "https://images.pokemontcg.io/ecard3/H11_hires.png"
@@ -822,6 +789,7 @@ let skyridge = [
         "id": "ecard3-H12",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -871,9 +839,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -887,9 +853,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H12.png",
             "large": "https://images.pokemontcg.io/ecard3/H12_hires.png"
@@ -899,6 +863,7 @@ let skyridge = [
         "id": "ecard3-H13",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -940,9 +905,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -956,9 +919,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H13.png",
             "large": "https://images.pokemontcg.io/ecard3/H13_hires.png"
@@ -968,6 +929,7 @@ let skyridge = [
         "id": "ecard3-H14",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1010,9 +972,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1026,9 +986,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H14.png",
             "large": "https://images.pokemontcg.io/ecard3/H14_hires.png"
@@ -1038,6 +996,7 @@ let skyridge = [
         "id": "ecard3-H15",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1090,9 +1049,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1106,9 +1063,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H15.png",
             "large": "https://images.pokemontcg.io/ecard3/H15_hires.png"
@@ -1118,6 +1073,7 @@ let skyridge = [
         "id": "ecard3-H16",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1163,9 +1119,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1179,9 +1133,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H16.png",
             "large": "https://images.pokemontcg.io/ecard3/H16_hires.png"
@@ -1191,6 +1143,7 @@ let skyridge = [
         "id": "ecard3-H17",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1232,9 +1185,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1248,9 +1199,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H17.png",
             "large": "https://images.pokemontcg.io/ecard3/H17_hires.png"
@@ -1260,6 +1209,7 @@ let skyridge = [
         "id": "ecard3-H18",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1304,9 +1254,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1320,9 +1268,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H18.png",
             "large": "https://images.pokemontcg.io/ecard3/H18_hires.png"
@@ -1332,6 +1278,7 @@ let skyridge = [
         "id": "ecard3-H19",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1385,9 +1332,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1401,9 +1346,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H19.png",
             "large": "https://images.pokemontcg.io/ecard3/H19_hires.png"
@@ -1413,6 +1356,7 @@ let skyridge = [
         "id": "ecard3-H20",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -1469,9 +1413,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1485,9 +1427,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H20.png",
             "large": "https://images.pokemontcg.io/ecard3/H20_hires.png"
@@ -1497,6 +1437,7 @@ let skyridge = [
         "id": "ecard3-H21",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1538,9 +1479,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1554,9 +1493,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H21.png",
             "large": "https://images.pokemontcg.io/ecard3/H21_hires.png"
@@ -1566,6 +1503,7 @@ let skyridge = [
         "id": "ecard3-H22",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1615,9 +1553,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1631,9 +1567,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H22.png",
             "large": "https://images.pokemontcg.io/ecard3/H22_hires.png"
@@ -1643,6 +1577,7 @@ let skyridge = [
         "id": "ecard3-H23",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1699,9 +1634,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1715,9 +1648,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             186
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H23.png",
             "large": "https://images.pokemontcg.io/ecard3/H23_hires.png"
@@ -1727,6 +1658,7 @@ let skyridge = [
         "id": "ecard3-H24",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1768,9 +1700,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1784,9 +1714,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H24.png",
             "large": "https://images.pokemontcg.io/ecard3/H24_hires.png"
@@ -1796,6 +1724,7 @@ let skyridge = [
         "id": "ecard3-H25",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1840,9 +1769,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1856,9 +1783,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H25.png",
             "large": "https://images.pokemontcg.io/ecard3/H25_hires.png"
@@ -1868,6 +1793,7 @@ let skyridge = [
         "id": "ecard3-H26",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -1908,9 +1834,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -1924,9 +1848,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H26.png",
             "large": "https://images.pokemontcg.io/ecard3/H26_hires.png"
@@ -1936,6 +1858,7 @@ let skyridge = [
         "id": "ecard3-H27",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1992,9 +1915,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2008,9 +1929,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H27.png",
             "large": "https://images.pokemontcg.io/ecard3/H27_hires.png"
@@ -2020,6 +1939,7 @@ let skyridge = [
         "id": "ecard3-H28",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2063,9 +1983,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2079,9 +1997,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H28.png",
             "large": "https://images.pokemontcg.io/ecard3/H28_hires.png"
@@ -2091,6 +2007,7 @@ let skyridge = [
         "id": "ecard3-H29",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2150,9 +2067,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2166,9 +2081,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H29.png",
             "large": "https://images.pokemontcg.io/ecard3/H29_hires.png"
@@ -2178,6 +2091,7 @@ let skyridge = [
         "id": "ecard3-H30",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2224,9 +2138,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2240,9 +2152,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H30.png",
             "large": "https://images.pokemontcg.io/ecard3/H30_hires.png"
@@ -2252,6 +2162,7 @@ let skyridge = [
         "id": "ecard3-H31",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2303,9 +2214,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2319,9 +2228,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H31.png",
             "large": "https://images.pokemontcg.io/ecard3/H31_hires.png"
@@ -2331,6 +2238,7 @@ let skyridge = [
         "id": "ecard3-H32",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2372,9 +2280,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2388,9 +2294,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/H32.png",
             "large": "https://images.pokemontcg.io/ecard3/H32_hires.png"
@@ -2400,6 +2304,7 @@ let skyridge = [
         "id": "ecard3-1",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2440,9 +2345,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2456,9 +2359,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/1.png",
             "large": "https://images.pokemontcg.io/ecard3/1_hires.png"
@@ -2468,6 +2369,7 @@ let skyridge = [
         "id": "ecard3-2",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -2509,9 +2411,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2525,9 +2425,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/2.png",
             "large": "https://images.pokemontcg.io/ecard3/2_hires.png"
@@ -2537,6 +2435,7 @@ let skyridge = [
         "id": "ecard3-3",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2587,9 +2486,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2603,9 +2500,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/3.png",
             "large": "https://images.pokemontcg.io/ecard3/3_hires.png"
@@ -2615,6 +2510,7 @@ let skyridge = [
         "id": "ecard3-4",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -2671,9 +2567,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2687,9 +2581,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/4.png",
             "large": "https://images.pokemontcg.io/ecard3/4_hires.png"
@@ -2699,6 +2591,7 @@ let skyridge = [
         "id": "ecard3-5",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -2738,9 +2631,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2754,9 +2645,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/5.png",
             "large": "https://images.pokemontcg.io/ecard3/5_hires.png"
@@ -2766,6 +2655,7 @@ let skyridge = [
         "id": "ecard3-6",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -2806,9 +2696,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2822,9 +2710,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/6.png",
             "large": "https://images.pokemontcg.io/ecard3/6_hires.png"
@@ -2834,6 +2720,7 @@ let skyridge = [
         "id": "ecard3-7",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2879,9 +2766,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2895,9 +2780,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/7.png",
             "large": "https://images.pokemontcg.io/ecard3/7_hires.png"
@@ -2907,6 +2790,7 @@ let skyridge = [
         "id": "ecard3-8",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2957,9 +2841,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -2973,9 +2855,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/8.png",
             "large": "https://images.pokemontcg.io/ecard3/8_hires.png"
@@ -2985,6 +2865,7 @@ let skyridge = [
         "id": "ecard3-9",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3035,9 +2916,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3051,9 +2930,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/9.png",
             "large": "https://images.pokemontcg.io/ecard3/9_hires.png"
@@ -3063,6 +2940,7 @@ let skyridge = [
         "id": "ecard3-10",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -3111,9 +2989,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3127,9 +3003,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/10.png",
             "large": "https://images.pokemontcg.io/ecard3/10_hires.png"
@@ -3139,6 +3013,7 @@ let skyridge = [
         "id": "ecard3-11",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3181,9 +3056,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3197,9 +3070,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/11.png",
             "large": "https://images.pokemontcg.io/ecard3/11_hires.png"
@@ -3209,6 +3080,7 @@ let skyridge = [
         "id": "ecard3-12",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3259,9 +3131,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3275,9 +3145,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/12.png",
             "large": "https://images.pokemontcg.io/ecard3/12_hires.png"
@@ -3287,6 +3155,7 @@ let skyridge = [
         "id": "ecard3-13",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3336,9 +3205,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3352,9 +3219,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/13.png",
             "large": "https://images.pokemontcg.io/ecard3/13_hires.png"
@@ -3364,6 +3229,7 @@ let skyridge = [
         "id": "ecard3-14",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -3405,9 +3271,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3421,9 +3285,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/14.png",
             "large": "https://images.pokemontcg.io/ecard3/14_hires.png"
@@ -3433,6 +3295,7 @@ let skyridge = [
         "id": "ecard3-15",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3475,9 +3338,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3491,9 +3352,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/15.png",
             "large": "https://images.pokemontcg.io/ecard3/15_hires.png"
@@ -3503,6 +3362,7 @@ let skyridge = [
         "id": "ecard3-16",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -3555,9 +3415,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3571,9 +3429,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/16.png",
             "large": "https://images.pokemontcg.io/ecard3/16_hires.png"
@@ -3583,6 +3439,7 @@ let skyridge = [
         "id": "ecard3-17",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3628,9 +3485,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3644,9 +3499,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/17.png",
             "large": "https://images.pokemontcg.io/ecard3/17_hires.png"
@@ -3656,6 +3509,7 @@ let skyridge = [
         "id": "ecard3-18",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3697,9 +3551,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3713,9 +3565,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/18.png",
             "large": "https://images.pokemontcg.io/ecard3/18_hires.png"
@@ -3725,6 +3575,7 @@ let skyridge = [
         "id": "ecard3-19",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3769,9 +3620,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3785,9 +3634,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/19.png",
             "large": "https://images.pokemontcg.io/ecard3/19_hires.png"
@@ -3797,6 +3644,7 @@ let skyridge = [
         "id": "ecard3-20",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3850,9 +3698,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3866,9 +3712,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/20.png",
             "large": "https://images.pokemontcg.io/ecard3/20_hires.png"
@@ -3878,6 +3722,7 @@ let skyridge = [
         "id": "ecard3-21",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -3934,9 +3779,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -3950,9 +3793,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/21.png",
             "large": "https://images.pokemontcg.io/ecard3/21_hires.png"
@@ -3962,6 +3803,7 @@ let skyridge = [
         "id": "ecard3-22",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -4003,9 +3845,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4019,9 +3859,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/22.png",
             "large": "https://images.pokemontcg.io/ecard3/22_hires.png"
@@ -4031,6 +3869,7 @@ let skyridge = [
         "id": "ecard3-23",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -4072,9 +3911,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4088,9 +3925,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/23.png",
             "large": "https://images.pokemontcg.io/ecard3/23_hires.png"
@@ -4100,6 +3935,7 @@ let skyridge = [
         "id": "ecard3-24",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4149,9 +3985,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4165,9 +3999,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/24.png",
             "large": "https://images.pokemontcg.io/ecard3/24_hires.png"
@@ -4177,6 +4009,7 @@ let skyridge = [
         "id": "ecard3-25",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -4233,9 +4066,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4249,9 +4080,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             186
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/25.png",
             "large": "https://images.pokemontcg.io/ecard3/25_hires.png"
@@ -4261,6 +4090,7 @@ let skyridge = [
         "id": "ecard3-26",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -4302,9 +4132,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4318,9 +4146,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/26.png",
             "large": "https://images.pokemontcg.io/ecard3/26_hires.png"
@@ -4330,6 +4156,7 @@ let skyridge = [
         "id": "ecard3-27",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4374,9 +4201,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4390,9 +4215,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/27.png",
             "large": "https://images.pokemontcg.io/ecard3/27_hires.png"
@@ -4402,6 +4225,7 @@ let skyridge = [
         "id": "ecard3-28",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -4442,9 +4266,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4458,9 +4280,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/28.png",
             "large": "https://images.pokemontcg.io/ecard3/28_hires.png"
@@ -4470,6 +4290,7 @@ let skyridge = [
         "id": "ecard3-29",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4526,9 +4347,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4542,9 +4361,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/29.png",
             "large": "https://images.pokemontcg.io/ecard3/29_hires.png"
@@ -4554,6 +4371,7 @@ let skyridge = [
         "id": "ecard3-30",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4597,9 +4415,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4613,9 +4429,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/30.png",
             "large": "https://images.pokemontcg.io/ecard3/30_hires.png"
@@ -4625,6 +4439,7 @@ let skyridge = [
         "id": "ecard3-31",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4684,9 +4499,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4700,9 +4513,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/31.png",
             "large": "https://images.pokemontcg.io/ecard3/31_hires.png"
@@ -4712,6 +4523,7 @@ let skyridge = [
         "id": "ecard3-32",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4758,9 +4570,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4774,9 +4584,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/32.png",
             "large": "https://images.pokemontcg.io/ecard3/32_hires.png"
@@ -4786,6 +4594,7 @@ let skyridge = [
         "id": "ecard3-33",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4837,9 +4646,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4853,9 +4660,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/33.png",
             "large": "https://images.pokemontcg.io/ecard3/33_hires.png"
@@ -4865,6 +4670,7 @@ let skyridge = [
         "id": "ecard3-34",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4905,9 +4711,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4921,9 +4725,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/34.png",
             "large": "https://images.pokemontcg.io/ecard3/34_hires.png"
@@ -4933,6 +4735,7 @@ let skyridge = [
         "id": "ecard3-35",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -4974,9 +4777,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -4990,9 +4791,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/35.png",
             "large": "https://images.pokemontcg.io/ecard3/35_hires.png"
@@ -5002,6 +4801,7 @@ let skyridge = [
         "id": "ecard3-36",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5047,9 +4847,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5063,9 +4861,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/36.png",
             "large": "https://images.pokemontcg.io/ecard3/36_hires.png"
@@ -5075,6 +4871,7 @@ let skyridge = [
         "id": "ecard3-37",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5118,9 +4915,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5134,9 +4929,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/37.png",
             "large": "https://images.pokemontcg.io/ecard3/37_hires.png"
@@ -5146,6 +4939,7 @@ let skyridge = [
         "id": "ecard3-38",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5192,9 +4986,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5208,9 +5000,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/38.png",
             "large": "https://images.pokemontcg.io/ecard3/38_hires.png"
@@ -5220,6 +5010,7 @@ let skyridge = [
         "id": "ecard3-39",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -5270,9 +5061,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5286,9 +5075,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/39.png",
             "large": "https://images.pokemontcg.io/ecard3/39_hires.png"
@@ -5298,6 +5085,7 @@ let skyridge = [
         "id": "ecard3-40",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5343,9 +5131,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5359,9 +5145,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/40.png",
             "large": "https://images.pokemontcg.io/ecard3/40_hires.png"
@@ -5371,6 +5155,7 @@ let skyridge = [
         "id": "ecard3-41",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5416,9 +5201,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5432,9 +5215,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/41.png",
             "large": "https://images.pokemontcg.io/ecard3/41_hires.png"
@@ -5444,6 +5225,7 @@ let skyridge = [
         "id": "ecard3-42",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5486,9 +5268,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5502,9 +5282,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/42.png",
             "large": "https://images.pokemontcg.io/ecard3/42_hires.png"
@@ -5514,6 +5292,7 @@ let skyridge = [
         "id": "ecard3-43",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5569,9 +5348,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5585,9 +5362,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/43.png",
             "large": "https://images.pokemontcg.io/ecard3/43_hires.png"
@@ -5597,6 +5372,7 @@ let skyridge = [
         "id": "ecard3-44",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -5640,9 +5416,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5656,9 +5430,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/44.png",
             "large": "https://images.pokemontcg.io/ecard3/44_hires.png"
@@ -5668,6 +5440,7 @@ let skyridge = [
         "id": "ecard3-45",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -5707,9 +5480,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5723,9 +5494,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/45.png",
             "large": "https://images.pokemontcg.io/ecard3/45_hires.png"
@@ -5735,6 +5504,7 @@ let skyridge = [
         "id": "ecard3-46",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -5777,9 +5547,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5793,9 +5561,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/46.png",
             "large": "https://images.pokemontcg.io/ecard3/46_hires.png"
@@ -5805,6 +5571,7 @@ let skyridge = [
         "id": "ecard3-47",
         "name": "Buried Fossil",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -5830,9 +5597,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5843,9 +5608,7 @@ let skyridge = [
         "number": "47",
         "artist": "Atsuko Ujiie",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/47.png",
             "large": "https://images.pokemontcg.io/ecard3/47_hires.png"
@@ -5855,6 +5618,7 @@ let skyridge = [
         "id": "ecard3-48",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Baby"
         ],
@@ -5887,9 +5651,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5903,9 +5665,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/48.png",
             "large": "https://images.pokemontcg.io/ecard3/48_hires.png"
@@ -5915,6 +5675,7 @@ let skyridge = [
         "id": "ecard3-49",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -5956,9 +5717,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -5972,9 +5731,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/49.png",
             "large": "https://images.pokemontcg.io/ecard3/49_hires.png"
@@ -5984,6 +5741,7 @@ let skyridge = [
         "id": "ecard3-50",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6024,9 +5782,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6040,9 +5796,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/50.png",
             "large": "https://images.pokemontcg.io/ecard3/50_hires.png"
@@ -6052,6 +5806,7 @@ let skyridge = [
         "id": "ecard3-51",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6090,9 +5845,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6106,9 +5859,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/51.png",
             "large": "https://images.pokemontcg.io/ecard3/51_hires.png"
@@ -6118,6 +5869,7 @@ let skyridge = [
         "id": "ecard3-52",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -6168,9 +5920,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6184,9 +5934,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/52.png",
             "large": "https://images.pokemontcg.io/ecard3/52_hires.png"
@@ -6196,6 +5944,7 @@ let skyridge = [
         "id": "ecard3-53",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6234,9 +5983,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6250,9 +5997,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/53.png",
             "large": "https://images.pokemontcg.io/ecard3/53_hires.png"
@@ -6262,6 +6007,7 @@ let skyridge = [
         "id": "ecard3-54",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6313,9 +6059,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6329,9 +6073,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/54.png",
             "large": "https://images.pokemontcg.io/ecard3/54_hires.png"
@@ -6341,6 +6083,7 @@ let skyridge = [
         "id": "ecard3-55",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6390,9 +6133,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6406,9 +6147,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/55.png",
             "large": "https://images.pokemontcg.io/ecard3/55_hires.png"
@@ -6418,6 +6157,7 @@ let skyridge = [
         "id": "ecard3-56",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -6469,9 +6209,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6485,9 +6223,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/56.png",
             "large": "https://images.pokemontcg.io/ecard3/56_hires.png"
@@ -6497,6 +6233,7 @@ let skyridge = [
         "id": "ecard3-57",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6537,9 +6274,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6553,9 +6288,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/57.png",
             "large": "https://images.pokemontcg.io/ecard3/57_hires.png"
@@ -6565,6 +6298,7 @@ let skyridge = [
         "id": "ecard3-58",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6606,9 +6340,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6622,9 +6354,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/58.png",
             "large": "https://images.pokemontcg.io/ecard3/58_hires.png"
@@ -6634,6 +6364,7 @@ let skyridge = [
         "id": "ecard3-59",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6678,9 +6409,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6694,9 +6423,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/59.png",
             "large": "https://images.pokemontcg.io/ecard3/59_hires.png"
@@ -6706,6 +6433,7 @@ let skyridge = [
         "id": "ecard3-60",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -6753,9 +6481,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6769,9 +6495,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/60.png",
             "large": "https://images.pokemontcg.io/ecard3/60_hires.png"
@@ -6781,6 +6505,7 @@ let skyridge = [
         "id": "ecard3-61",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -6826,9 +6551,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6842,9 +6565,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/61.png",
             "large": "https://images.pokemontcg.io/ecard3/61_hires.png"
@@ -6854,6 +6575,7 @@ let skyridge = [
         "id": "ecard3-62",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -6898,9 +6620,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6914,9 +6634,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/62.png",
             "large": "https://images.pokemontcg.io/ecard3/62_hires.png"
@@ -6926,6 +6644,7 @@ let skyridge = [
         "id": "ecard3-63",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -6979,9 +6698,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -6995,9 +6712,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/63.png",
             "large": "https://images.pokemontcg.io/ecard3/63_hires.png"
@@ -7007,6 +6722,7 @@ let skyridge = [
         "id": "ecard3-64",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7050,9 +6766,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7066,9 +6780,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/64.png",
             "large": "https://images.pokemontcg.io/ecard3/64_hires.png"
@@ -7078,6 +6790,7 @@ let skyridge = [
         "id": "ecard3-65",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7127,9 +6840,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7143,9 +6854,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/65.png",
             "large": "https://images.pokemontcg.io/ecard3/65_hires.png"
@@ -7155,6 +6864,7 @@ let skyridge = [
         "id": "ecard3-66",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7198,9 +6908,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7214,9 +6922,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/66.png",
             "large": "https://images.pokemontcg.io/ecard3/66_hires.png"
@@ -7226,6 +6932,7 @@ let skyridge = [
         "id": "ecard3-67",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Baby"
         ],
@@ -7258,9 +6965,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7274,9 +6979,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/67.png",
             "large": "https://images.pokemontcg.io/ecard3/67_hires.png"
@@ -7286,6 +6989,7 @@ let skyridge = [
         "id": "ecard3-68",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7330,9 +7034,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7346,9 +7048,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/68.png",
             "large": "https://images.pokemontcg.io/ecard3/68_hires.png"
@@ -7358,6 +7058,7 @@ let skyridge = [
         "id": "ecard3-69",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -7404,9 +7105,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7420,9 +7119,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/69.png",
             "large": "https://images.pokemontcg.io/ecard3/69_hires.png"
@@ -7432,6 +7129,7 @@ let skyridge = [
         "id": "ecard3-70",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -7474,9 +7172,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7490,9 +7186,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/70.png",
             "large": "https://images.pokemontcg.io/ecard3/70_hires.png"
@@ -7502,6 +7196,7 @@ let skyridge = [
         "id": "ecard3-71",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7545,9 +7240,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7561,9 +7254,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/71.png",
             "large": "https://images.pokemontcg.io/ecard3/71_hires.png"
@@ -7573,6 +7264,7 @@ let skyridge = [
         "id": "ecard3-72",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7622,9 +7314,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7638,9 +7328,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/72.png",
             "large": "https://images.pokemontcg.io/ecard3/72_hires.png"
@@ -7650,6 +7338,7 @@ let skyridge = [
         "id": "ecard3-73",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7694,9 +7383,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7710,9 +7397,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/73.png",
             "large": "https://images.pokemontcg.io/ecard3/73_hires.png"
@@ -7722,6 +7407,7 @@ let skyridge = [
         "id": "ecard3-74",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7766,9 +7452,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7782,9 +7466,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/74.png",
             "large": "https://images.pokemontcg.io/ecard3/74_hires.png"
@@ -7794,6 +7476,7 @@ let skyridge = [
         "id": "ecard3-75",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7837,9 +7520,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7853,9 +7534,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/75.png",
             "large": "https://images.pokemontcg.io/ecard3/75_hires.png"
@@ -7865,6 +7544,7 @@ let skyridge = [
         "id": "ecard3-76",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7908,9 +7588,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -7924,9 +7602,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/76.png",
             "large": "https://images.pokemontcg.io/ecard3/76_hires.png"
@@ -7936,6 +7612,7 @@ let skyridge = [
         "id": "ecard3-77",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -7984,9 +7661,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8000,9 +7675,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/77.png",
             "large": "https://images.pokemontcg.io/ecard3/77_hires.png"
@@ -8012,6 +7685,7 @@ let skyridge = [
         "id": "ecard3-78",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8046,9 +7720,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8062,9 +7734,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/78.png",
             "large": "https://images.pokemontcg.io/ecard3/78_hires.png"
@@ -8074,6 +7744,7 @@ let skyridge = [
         "id": "ecard3-79",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8124,9 +7795,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8140,9 +7809,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/79.png",
             "large": "https://images.pokemontcg.io/ecard3/79_hires.png"
@@ -8152,6 +7819,7 @@ let skyridge = [
         "id": "ecard3-80",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8196,9 +7864,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8212,9 +7878,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/80.png",
             "large": "https://images.pokemontcg.io/ecard3/80_hires.png"
@@ -8224,6 +7888,7 @@ let skyridge = [
         "id": "ecard3-81",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8264,9 +7929,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8280,9 +7943,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/81.png",
             "large": "https://images.pokemontcg.io/ecard3/81_hires.png"
@@ -8292,6 +7953,7 @@ let skyridge = [
         "id": "ecard3-82",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8324,9 +7986,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8340,9 +8000,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/82.png",
             "large": "https://images.pokemontcg.io/ecard3/82_hires.png"
@@ -8352,6 +8010,7 @@ let skyridge = [
         "id": "ecard3-83",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -8399,9 +8058,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8415,9 +8072,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/83.png",
             "large": "https://images.pokemontcg.io/ecard3/83_hires.png"
@@ -8427,6 +8082,7 @@ let skyridge = [
         "id": "ecard3-84",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8462,9 +8118,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8478,9 +8132,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/84.png",
             "large": "https://images.pokemontcg.io/ecard3/84_hires.png"
@@ -8490,6 +8142,7 @@ let skyridge = [
         "id": "ecard3-85",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8524,9 +8177,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8540,9 +8191,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/85.png",
             "large": "https://images.pokemontcg.io/ecard3/85_hires.png"
@@ -8552,6 +8201,7 @@ let skyridge = [
         "id": "ecard3-86",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8587,9 +8237,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8603,9 +8251,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/86.png",
             "large": "https://images.pokemontcg.io/ecard3/86_hires.png"
@@ -8615,6 +8261,7 @@ let skyridge = [
         "id": "ecard3-87",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8659,9 +8306,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8675,9 +8320,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/87.png",
             "large": "https://images.pokemontcg.io/ecard3/87_hires.png"
@@ -8687,6 +8330,7 @@ let skyridge = [
         "id": "ecard3-88",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -8734,9 +8378,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8750,9 +8392,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/88.png",
             "large": "https://images.pokemontcg.io/ecard3/88_hires.png"
@@ -8762,6 +8402,7 @@ let skyridge = [
         "id": "ecard3-89",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -8804,9 +8445,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8820,9 +8459,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/89.png",
             "large": "https://images.pokemontcg.io/ecard3/89_hires.png"
@@ -8832,6 +8469,7 @@ let skyridge = [
         "id": "ecard3-90",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8875,9 +8513,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8891,9 +8527,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/90.png",
             "large": "https://images.pokemontcg.io/ecard3/90_hires.png"
@@ -8903,6 +8537,7 @@ let skyridge = [
         "id": "ecard3-91",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -8953,9 +8588,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -8969,9 +8602,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/91.png",
             "large": "https://images.pokemontcg.io/ecard3/91_hires.png"
@@ -8981,6 +8612,7 @@ let skyridge = [
         "id": "ecard3-92",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9030,9 +8662,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9046,9 +8676,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/92.png",
             "large": "https://images.pokemontcg.io/ecard3/92_hires.png"
@@ -9058,6 +8686,7 @@ let skyridge = [
         "id": "ecard3-93",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -9108,9 +8737,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9124,9 +8751,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/93.png",
             "large": "https://images.pokemontcg.io/ecard3/93_hires.png"
@@ -9136,6 +8761,7 @@ let skyridge = [
         "id": "ecard3-94",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9170,9 +8796,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9186,9 +8810,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/94.png",
             "large": "https://images.pokemontcg.io/ecard3/94_hires.png"
@@ -9198,6 +8820,7 @@ let skyridge = [
         "id": "ecard3-95",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9242,9 +8865,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9258,9 +8879,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/95.png",
             "large": "https://images.pokemontcg.io/ecard3/95_hires.png"
@@ -9270,6 +8889,7 @@ let skyridge = [
         "id": "ecard3-96",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9309,9 +8929,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9325,9 +8943,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/96.png",
             "large": "https://images.pokemontcg.io/ecard3/96_hires.png"
@@ -9337,6 +8953,7 @@ let skyridge = [
         "id": "ecard3-97",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9385,9 +9002,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9401,9 +9016,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/97.png",
             "large": "https://images.pokemontcg.io/ecard3/97_hires.png"
@@ -9413,6 +9026,7 @@ let skyridge = [
         "id": "ecard3-98",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9456,9 +9070,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9472,9 +9084,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/98.png",
             "large": "https://images.pokemontcg.io/ecard3/98_hires.png"
@@ -9484,6 +9094,7 @@ let skyridge = [
         "id": "ecard3-99",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9519,9 +9130,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9535,9 +9144,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/99.png",
             "large": "https://images.pokemontcg.io/ecard3/99_hires.png"
@@ -9547,6 +9154,7 @@ let skyridge = [
         "id": "ecard3-100",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9587,9 +9195,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9603,9 +9209,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/100.png",
             "large": "https://images.pokemontcg.io/ecard3/100_hires.png"
@@ -9615,6 +9219,7 @@ let skyridge = [
         "id": "ecard3-101",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9659,9 +9264,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9675,9 +9278,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/101.png",
             "large": "https://images.pokemontcg.io/ecard3/101_hires.png"
@@ -9687,6 +9288,7 @@ let skyridge = [
         "id": "ecard3-102",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9728,9 +9330,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9744,9 +9344,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/102.png",
             "large": "https://images.pokemontcg.io/ecard3/102_hires.png"
@@ -9756,6 +9354,7 @@ let skyridge = [
         "id": "ecard3-103",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9799,9 +9398,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9815,9 +9412,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/103.png",
             "large": "https://images.pokemontcg.io/ecard3/103_hires.png"
@@ -9827,6 +9422,7 @@ let skyridge = [
         "id": "ecard3-104",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -9871,9 +9467,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9887,9 +9481,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/104.png",
             "large": "https://images.pokemontcg.io/ecard3/104_hires.png"
@@ -9899,6 +9491,7 @@ let skyridge = [
         "id": "ecard3-105",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -9949,9 +9542,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -9965,9 +9556,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             192
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/105.png",
             "large": "https://images.pokemontcg.io/ecard3/105_hires.png"
@@ -9977,6 +9566,7 @@ let skyridge = [
         "id": "ecard3-106",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10026,9 +9616,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10042,9 +9630,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             191
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/106.png",
             "large": "https://images.pokemontcg.io/ecard3/106_hires.png"
@@ -10054,6 +9640,7 @@ let skyridge = [
         "id": "ecard3-107",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10097,9 +9684,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10113,9 +9698,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/107.png",
             "large": "https://images.pokemontcg.io/ecard3/107_hires.png"
@@ -10125,6 +9708,7 @@ let skyridge = [
         "id": "ecard3-108",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10175,9 +9759,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10191,9 +9773,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/108.png",
             "large": "https://images.pokemontcg.io/ecard3/108_hires.png"
@@ -10203,6 +9783,7 @@ let skyridge = [
         "id": "ecard3-109",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10247,9 +9828,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10263,9 +9842,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/109.png",
             "large": "https://images.pokemontcg.io/ecard3/109_hires.png"
@@ -10275,6 +9852,7 @@ let skyridge = [
         "id": "ecard3-110",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -10321,9 +9899,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10337,9 +9913,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/110.png",
             "large": "https://images.pokemontcg.io/ecard3/110_hires.png"
@@ -10349,6 +9923,7 @@ let skyridge = [
         "id": "ecard3-111",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 1"
         ],
@@ -10392,9 +9967,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10408,9 +9981,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             49
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/111.png",
             "large": "https://images.pokemontcg.io/ecard3/111_hires.png"
@@ -10420,6 +9991,7 @@ let skyridge = [
         "id": "ecard3-112",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10464,9 +10036,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10480,9 +10050,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             48
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/112.png",
             "large": "https://images.pokemontcg.io/ecard3/112_hires.png"
@@ -10492,6 +10060,7 @@ let skyridge = [
         "id": "ecard3-113",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10536,9 +10105,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10552,9 +10119,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/113.png",
             "large": "https://images.pokemontcg.io/ecard3/113_hires.png"
@@ -10564,6 +10129,7 @@ let skyridge = [
         "id": "ecard3-114",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10598,9 +10164,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10614,9 +10178,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/114.png",
             "large": "https://images.pokemontcg.io/ecard3/114_hires.png"
@@ -10626,6 +10188,7 @@ let skyridge = [
         "id": "ecard3-115",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10669,9 +10232,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10685,9 +10246,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/115.png",
             "large": "https://images.pokemontcg.io/ecard3/115_hires.png"
@@ -10697,6 +10256,7 @@ let skyridge = [
         "id": "ecard3-116",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10749,9 +10309,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10765,9 +10323,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/116.png",
             "large": "https://images.pokemontcg.io/ecard3/116_hires.png"
@@ -10777,6 +10333,7 @@ let skyridge = [
         "id": "ecard3-117",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10826,9 +10383,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10842,9 +10397,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/117.png",
             "large": "https://images.pokemontcg.io/ecard3/117_hires.png"
@@ -10854,6 +10407,7 @@ let skyridge = [
         "id": "ecard3-118",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -10898,9 +10452,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10914,9 +10466,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/118.png",
             "large": "https://images.pokemontcg.io/ecard3/118_hires.png"
@@ -10926,6 +10476,7 @@ let skyridge = [
         "id": "ecard3-119",
         "name": "Ancient Ruins",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stadium"
         ],
@@ -10939,9 +10490,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10952,9 +10501,7 @@ let skyridge = [
         "number": "119",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/119.png",
             "large": "https://images.pokemontcg.io/ecard3/119_hires.png"
@@ -10964,6 +10511,7 @@ let skyridge = [
         "id": "ecard3-120",
         "name": "Relic Hunter",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -10977,9 +10525,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -10990,9 +10536,7 @@ let skyridge = [
         "number": "120",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/120.png",
             "large": "https://images.pokemontcg.io/ecard3/120_hires.png"
@@ -11002,6 +10546,7 @@ let skyridge = [
         "id": "ecard3-121",
         "name": "Apricorn Maker",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -11015,9 +10560,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11028,9 +10571,7 @@ let skyridge = [
         "number": "121",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/121.png",
             "large": "https://images.pokemontcg.io/ecard3/121_hires.png"
@@ -11040,6 +10581,7 @@ let skyridge = [
         "id": "ecard3-122",
         "name": "Crystal Shard",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11053,9 +10595,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11066,9 +10606,7 @@ let skyridge = [
         "number": "122",
         "artist": "Jungo Suzuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/122.png",
             "large": "https://images.pokemontcg.io/ecard3/122_hires.png"
@@ -11078,6 +10616,7 @@ let skyridge = [
         "id": "ecard3-123",
         "name": "Desert Shaman",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -11091,9 +10630,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11104,9 +10641,7 @@ let skyridge = [
         "number": "123",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/123.png",
             "large": "https://images.pokemontcg.io/ecard3/123_hires.png"
@@ -11116,6 +10651,7 @@ let skyridge = [
         "id": "ecard3-124",
         "name": "Fast Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "rules": [
             "Reveal cards from your deck until you reveal an Evolution card. Show that card to your opponent and put it into your hand. Shuffle the other revealed cards into your deck. (If you don't reveal an Evolution card, shuffle all the revealed cards back into your deck.)"
         ],
@@ -11125,9 +10661,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11138,9 +10672,7 @@ let skyridge = [
         "number": "124",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/124.png",
             "large": "https://images.pokemontcg.io/ecard3/124_hires.png"
@@ -11150,6 +10682,7 @@ let skyridge = [
         "id": "ecard3-125",
         "name": "Fisherman",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -11163,9 +10696,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11176,10 +10707,7 @@ let skyridge = [
         "number": "125",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/125.png",
             "large": "https://images.pokemontcg.io/ecard3/125_hires.png"
@@ -11189,6 +10717,7 @@ let skyridge = [
         "id": "ecard3-126",
         "name": "Friend Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "rules": [
             "Choose 1 of your opponent's Pokémon. Search your deck for a Baby Pokémon, Basic Pokémon, or Evolution card of the same type (color), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -11198,9 +10727,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11211,9 +10738,7 @@ let skyridge = [
         "number": "126",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/126.png",
             "large": "https://images.pokemontcg.io/ecard3/126_hires.png"
@@ -11223,6 +10748,7 @@ let skyridge = [
         "id": "ecard3-127",
         "name": "Hyper Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "rules": [
             "Choose 1 of your Pokémon. Discard 1 or 2 basic Energy cards attached to that Pokémon. If you discarded 1 Energy card, remove up to 3 damage counters from that Pokémon. If you discarded 2 Energy cards, remove up to 5 damage counters from that Pokémon."
         ],
@@ -11232,9 +10758,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11245,11 +10769,7 @@ let skyridge = [
         "number": "127",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/127.png",
             "large": "https://images.pokemontcg.io/ecard3/127_hires.png"
@@ -11259,6 +10779,7 @@ let skyridge = [
         "id": "ecard3-128",
         "name": "Lure Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "rules": [
             "Flip 3 coins. For each heads, choose an Evolution card from your discard pile, show it to your opponent, and put it into your hand."
         ],
@@ -11268,9 +10789,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11281,10 +10800,7 @@ let skyridge = [
         "number": "128",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/128.png",
             "large": "https://images.pokemontcg.io/ecard3/128_hires.png"
@@ -11294,6 +10810,7 @@ let skyridge = [
         "id": "ecard3-129",
         "name": "Miracle Sphere α",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11319,9 +10836,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11332,9 +10847,7 @@ let skyridge = [
         "number": "129",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/129.png",
             "large": "https://images.pokemontcg.io/ecard3/129_hires.png"
@@ -11344,6 +10857,7 @@ let skyridge = [
         "id": "ecard3-130",
         "name": "Miracle Sphere β",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11369,9 +10883,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11382,9 +10894,7 @@ let skyridge = [
         "number": "130",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/130.png",
             "large": "https://images.pokemontcg.io/ecard3/130_hires.png"
@@ -11394,6 +10904,7 @@ let skyridge = [
         "id": "ecard3-131",
         "name": "Miracle Sphere γ",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11419,9 +10930,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11432,9 +10941,7 @@ let skyridge = [
         "number": "131",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/131.png",
             "large": "https://images.pokemontcg.io/ecard3/131_hires.png"
@@ -11444,6 +10951,7 @@ let skyridge = [
         "id": "ecard3-132",
         "name": "Mirage Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stadium"
         ],
@@ -11457,9 +10965,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11470,9 +10976,7 @@ let skyridge = [
         "number": "132",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/132.png",
             "large": "https://images.pokemontcg.io/ecard3/132_hires.png"
@@ -11482,6 +10986,7 @@ let skyridge = [
         "id": "ecard3-133",
         "name": "Mystery Plate α",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11505,9 +11010,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11518,9 +11021,7 @@ let skyridge = [
         "number": "133",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/133.png",
             "large": "https://images.pokemontcg.io/ecard3/133_hires.png"
@@ -11530,6 +11031,7 @@ let skyridge = [
         "id": "ecard3-134",
         "name": "Mystery Plate β",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11553,9 +11055,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11566,9 +11066,7 @@ let skyridge = [
         "number": "134",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/134.png",
             "large": "https://images.pokemontcg.io/ecard3/134_hires.png"
@@ -11578,6 +11076,7 @@ let skyridge = [
         "id": "ecard3-135",
         "name": "Mystery Plate γ",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11601,9 +11100,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11614,9 +11111,7 @@ let skyridge = [
         "number": "135",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/135.png",
             "large": "https://images.pokemontcg.io/ecard3/135_hires.png"
@@ -11626,6 +11121,7 @@ let skyridge = [
         "id": "ecard3-136",
         "name": "Mystery Plate δ",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Technical Machine"
         ],
@@ -11649,9 +11145,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11662,9 +11156,7 @@ let skyridge = [
         "number": "136",
         "artist": "Hiromichi Sugiyama",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/136.png",
             "large": "https://images.pokemontcg.io/ecard3/136_hires.png"
@@ -11674,6 +11166,7 @@ let skyridge = [
         "id": "ecard3-137",
         "name": "Mystery Zone",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stadium"
         ],
@@ -11687,9 +11180,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11700,9 +11191,7 @@ let skyridge = [
         "number": "137",
         "artist": "Ken Ikuji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/137.png",
             "large": "https://images.pokemontcg.io/ecard3/137_hires.png"
@@ -11712,6 +11201,7 @@ let skyridge = [
         "id": "ecard3-138",
         "name": "Oracle",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -11725,9 +11215,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11738,9 +11226,7 @@ let skyridge = [
         "number": "138",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/138.png",
             "large": "https://images.pokemontcg.io/ecard3/138_hires.png"
@@ -11750,6 +11236,7 @@ let skyridge = [
         "id": "ecard3-139",
         "name": "Star Piece",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11763,9 +11250,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11776,9 +11261,7 @@ let skyridge = [
         "number": "139",
         "artist": "Jungo Suzuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/139.png",
             "large": "https://images.pokemontcg.io/ecard3/139_hires.png"
@@ -11788,6 +11271,7 @@ let skyridge = [
         "id": "ecard3-140",
         "name": "Underground Expedition",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Supporter"
         ],
@@ -11801,9 +11285,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11814,10 +11296,7 @@ let skyridge = [
         "number": "140",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/140.png",
             "large": "https://images.pokemontcg.io/ecard3/140_hires.png"
@@ -11827,6 +11306,7 @@ let skyridge = [
         "id": "ecard3-141",
         "name": "Underground Lake",
         "supertype": "Trainer",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stadium"
         ],
@@ -11840,9 +11320,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11853,9 +11331,7 @@ let skyridge = [
         "number": "141",
         "artist": "Midori Harada",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/141.png",
             "large": "https://images.pokemontcg.io/ecard3/141_hires.png"
@@ -11865,6 +11341,7 @@ let skyridge = [
         "id": "ecard3-142",
         "name": "Bounce Energy",
         "supertype": "Energy",
+        "setAbbrev": "SK",
         "subtypes": [
             "Special"
         ],
@@ -11877,9 +11354,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11890,9 +11365,7 @@ let skyridge = [
         "number": "142",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/142.png",
             "large": "https://images.pokemontcg.io/ecard3/142_hires.png"
@@ -11902,6 +11375,7 @@ let skyridge = [
         "id": "ecard3-143",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "SK",
         "subtypes": [
             "Special"
         ],
@@ -11914,9 +11388,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11927,9 +11399,7 @@ let skyridge = [
         "number": "143",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/143.png",
             "large": "https://images.pokemontcg.io/ecard3/143_hires.png"
@@ -11939,6 +11409,7 @@ let skyridge = [
         "id": "ecard3-144",
         "name": "Retro Energy",
         "supertype": "Energy",
+        "setAbbrev": "SK",
         "subtypes": [
             "Special"
         ],
@@ -11951,9 +11422,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -11964,9 +11433,7 @@ let skyridge = [
         "number": "144",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/144.png",
             "large": "https://images.pokemontcg.io/ecard3/144_hires.png"
@@ -11976,6 +11443,7 @@ let skyridge = [
         "id": "ecard3-145",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -12026,9 +11494,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12042,9 +11508,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/145.png",
             "large": "https://images.pokemontcg.io/ecard3/145_hires.png"
@@ -12054,6 +11518,7 @@ let skyridge = [
         "id": "ecard3-146",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -12107,9 +11572,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12123,9 +11586,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/146.png",
             "large": "https://images.pokemontcg.io/ecard3/146_hires.png"
@@ -12135,6 +11596,7 @@ let skyridge = [
         "id": "ecard3-147",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -12186,9 +11648,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12202,9 +11662,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/147.png",
             "large": "https://images.pokemontcg.io/ecard3/147_hires.png"
@@ -12214,6 +11672,7 @@ let skyridge = [
         "id": "ecard3-148",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -12267,9 +11726,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12283,9 +11740,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/148.png",
             "large": "https://images.pokemontcg.io/ecard3/148_hires.png"
@@ -12295,6 +11750,7 @@ let skyridge = [
         "id": "ecard3-149",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Basic"
         ],
@@ -12346,9 +11802,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12362,9 +11816,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/149.png",
             "large": "https://images.pokemontcg.io/ecard3/149_hires.png"
@@ -12374,6 +11826,7 @@ let skyridge = [
         "id": "ecard3-150",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "SK",
         "subtypes": [
             "Stage 2"
         ],
@@ -12427,9 +11880,7 @@ let skyridge = [
             "series": "E-Card",
             "printedTotal": 182,
             "total": 182,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "SK",
             "releaseDate": "2003/05/12",
             "images": {
@@ -12443,9 +11894,7 @@ let skyridge = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard3/150.png",
             "large": "https://images.pokemontcg.io/ecard3/150_hires.png"

@@ -1,8 +1,9 @@
-let fossil = [
+let base3 = [
     {
         "id": "base3-1",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -50,9 +51,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -67,9 +66,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/1.png",
             "large": "https://images.pokemontcg.io/base3/1_hires.png"
@@ -79,6 +76,7 @@ let fossil = [
         "id": "base3-2",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -124,9 +122,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -141,9 +137,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/2.png",
             "large": "https://images.pokemontcg.io/base3/2_hires.png"
@@ -153,6 +147,7 @@ let fossil = [
         "id": "base3-3",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -186,9 +181,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -203,9 +196,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/3.png",
             "large": "https://images.pokemontcg.io/base3/3_hires.png"
@@ -215,6 +206,7 @@ let fossil = [
         "id": "base3-4",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -257,9 +249,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -274,9 +264,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/4.png",
             "large": "https://images.pokemontcg.io/base3/4_hires.png"
@@ -286,6 +274,7 @@ let fossil = [
         "id": "base3-5",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -327,9 +316,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -344,9 +331,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/5.png",
             "large": "https://images.pokemontcg.io/base3/5_hires.png"
@@ -356,6 +341,7 @@ let fossil = [
         "id": "base3-6",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -398,9 +384,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -415,9 +399,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/6.png",
             "large": "https://images.pokemontcg.io/base3/6_hires.png"
@@ -427,6 +409,7 @@ let fossil = [
         "id": "base3-7",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -470,9 +453,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -487,9 +468,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/7.png",
             "large": "https://images.pokemontcg.io/base3/7_hires.png"
@@ -499,6 +478,7 @@ let fossil = [
         "id": "base3-8",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -542,9 +522,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -559,9 +537,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/8.png",
             "large": "https://images.pokemontcg.io/base3/8_hires.png"
@@ -571,6 +547,7 @@ let fossil = [
         "id": "base3-9",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -616,9 +593,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -633,9 +608,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/9.png",
             "large": "https://images.pokemontcg.io/base3/9_hires.png"
@@ -645,6 +618,7 @@ let fossil = [
         "id": "base3-10",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -686,9 +660,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -703,9 +675,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/10.png",
             "large": "https://images.pokemontcg.io/base3/10_hires.png"
@@ -715,6 +685,7 @@ let fossil = [
         "id": "base3-11",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -763,9 +734,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -780,9 +749,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/11.png",
             "large": "https://images.pokemontcg.io/base3/11_hires.png"
@@ -792,6 +759,7 @@ let fossil = [
         "id": "base3-12",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -835,9 +803,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -852,9 +818,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/12.png",
             "large": "https://images.pokemontcg.io/base3/12_hires.png"
@@ -864,6 +828,7 @@ let fossil = [
         "id": "base3-13",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -905,9 +870,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -922,9 +885,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/13.png",
             "large": "https://images.pokemontcg.io/base3/13_hires.png"
@@ -934,6 +895,7 @@ let fossil = [
         "id": "base3-14",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -969,9 +931,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -986,9 +946,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/14.png",
             "large": "https://images.pokemontcg.io/base3/14_hires.png"
@@ -998,6 +956,7 @@ let fossil = [
         "id": "base3-15",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1032,9 +991,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1049,9 +1006,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/15.png",
             "large": "https://images.pokemontcg.io/base3/15_hires.png"
@@ -1061,6 +1016,7 @@ let fossil = [
         "id": "base3-16",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1108,9 +1064,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1125,9 +1079,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/16.png",
             "large": "https://images.pokemontcg.io/base3/16_hires.png"
@@ -1137,6 +1089,7 @@ let fossil = [
         "id": "base3-17",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1182,9 +1135,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1199,9 +1150,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/17.png",
             "large": "https://images.pokemontcg.io/base3/17_hires.png"
@@ -1211,6 +1160,7 @@ let fossil = [
         "id": "base3-18",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1244,9 +1194,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1261,9 +1209,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/18.png",
             "large": "https://images.pokemontcg.io/base3/18_hires.png"
@@ -1273,6 +1219,7 @@ let fossil = [
         "id": "base3-19",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1315,9 +1262,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1332,9 +1277,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/19.png",
             "large": "https://images.pokemontcg.io/base3/19_hires.png"
@@ -1344,6 +1287,7 @@ let fossil = [
         "id": "base3-20",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1385,9 +1329,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1402,9 +1344,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/20.png",
             "large": "https://images.pokemontcg.io/base3/20_hires.png"
@@ -1414,6 +1354,7 @@ let fossil = [
         "id": "base3-21",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1456,9 +1397,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1473,9 +1412,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/21.png",
             "large": "https://images.pokemontcg.io/base3/21_hires.png"
@@ -1485,6 +1422,7 @@ let fossil = [
         "id": "base3-22",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1528,9 +1466,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1545,9 +1481,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/22.png",
             "large": "https://images.pokemontcg.io/base3/22_hires.png"
@@ -1557,6 +1491,7 @@ let fossil = [
         "id": "base3-23",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1600,9 +1535,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1617,9 +1550,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/23.png",
             "large": "https://images.pokemontcg.io/base3/23_hires.png"
@@ -1629,6 +1560,7 @@ let fossil = [
         "id": "base3-24",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1674,9 +1606,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1691,9 +1621,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/24.png",
             "large": "https://images.pokemontcg.io/base3/24_hires.png"
@@ -1703,6 +1631,7 @@ let fossil = [
         "id": "base3-25",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1744,9 +1673,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1761,9 +1688,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/25.png",
             "large": "https://images.pokemontcg.io/base3/25_hires.png"
@@ -1773,6 +1698,7 @@ let fossil = [
         "id": "base3-26",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1821,9 +1747,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1838,9 +1762,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/26.png",
             "large": "https://images.pokemontcg.io/base3/26_hires.png"
@@ -1850,6 +1772,7 @@ let fossil = [
         "id": "base3-27",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1893,9 +1816,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1910,9 +1831,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/27.png",
             "large": "https://images.pokemontcg.io/base3/27_hires.png"
@@ -1922,6 +1841,7 @@ let fossil = [
         "id": "base3-28",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1963,9 +1883,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -1980,9 +1898,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/28.png",
             "large": "https://images.pokemontcg.io/base3/28_hires.png"
@@ -1992,6 +1908,7 @@ let fossil = [
         "id": "base3-29",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2027,9 +1944,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2044,9 +1959,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/29.png",
             "large": "https://images.pokemontcg.io/base3/29_hires.png"
@@ -2056,6 +1969,7 @@ let fossil = [
         "id": "base3-30",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -2090,9 +2004,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2107,9 +2019,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/30.png",
             "large": "https://images.pokemontcg.io/base3/30_hires.png"
@@ -2119,6 +2029,7 @@ let fossil = [
         "id": "base3-31",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2162,9 +2073,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2179,9 +2088,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/31.png",
             "large": "https://images.pokemontcg.io/base3/31_hires.png"
@@ -2191,6 +2098,7 @@ let fossil = [
         "id": "base3-32",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2234,9 +2142,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2251,9 +2157,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/32.png",
             "large": "https://images.pokemontcg.io/base3/32_hires.png"
@@ -2263,6 +2167,7 @@ let fossil = [
         "id": "base3-33",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -2306,9 +2211,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2323,9 +2226,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/33.png",
             "large": "https://images.pokemontcg.io/base3/33_hires.png"
@@ -2335,6 +2236,7 @@ let fossil = [
         "id": "base3-34",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2388,9 +2290,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2405,9 +2305,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/34.png",
             "large": "https://images.pokemontcg.io/base3/34_hires.png"
@@ -2417,6 +2315,7 @@ let fossil = [
         "id": "base3-35",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2460,9 +2359,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2477,9 +2374,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/35.png",
             "large": "https://images.pokemontcg.io/base3/35_hires.png"
@@ -2489,6 +2384,7 @@ let fossil = [
         "id": "base3-36",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2536,9 +2432,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2553,9 +2447,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/36.png",
             "large": "https://images.pokemontcg.io/base3/36_hires.png"
@@ -2565,6 +2457,7 @@ let fossil = [
         "id": "base3-37",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2612,9 +2505,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2629,9 +2520,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/37.png",
             "large": "https://images.pokemontcg.io/base3/37_hires.png"
@@ -2641,6 +2530,7 @@ let fossil = [
         "id": "base3-38",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2684,9 +2574,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2701,9 +2589,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/38.png",
             "large": "https://images.pokemontcg.io/base3/38_hires.png"
@@ -2713,6 +2599,7 @@ let fossil = [
         "id": "base3-39",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -2758,9 +2645,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2775,9 +2660,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/39.png",
             "large": "https://images.pokemontcg.io/base3/39_hires.png"
@@ -2787,6 +2670,7 @@ let fossil = [
         "id": "base3-40",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2830,9 +2714,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2847,9 +2729,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/40.png",
             "large": "https://images.pokemontcg.io/base3/40_hires.png"
@@ -2859,6 +2739,7 @@ let fossil = [
         "id": "base3-41",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2908,9 +2789,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -2925,9 +2804,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/41.png",
             "large": "https://images.pokemontcg.io/base3/41_hires.png"
@@ -2937,6 +2814,7 @@ let fossil = [
         "id": "base3-42",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2984,9 +2862,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3001,9 +2877,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/42.png",
             "large": "https://images.pokemontcg.io/base3/42_hires.png"
@@ -3013,6 +2887,7 @@ let fossil = [
         "id": "base3-43",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3053,9 +2928,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3070,9 +2943,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/43.png",
             "large": "https://images.pokemontcg.io/base3/43_hires.png"
@@ -3082,6 +2953,7 @@ let fossil = [
         "id": "base3-44",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3123,9 +2995,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3140,9 +3010,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/44.png",
             "large": "https://images.pokemontcg.io/base3/44_hires.png"
@@ -3152,6 +3020,7 @@ let fossil = [
         "id": "base3-45",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3196,9 +3065,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3213,9 +3080,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/45.png",
             "large": "https://images.pokemontcg.io/base3/45_hires.png"
@@ -3225,6 +3090,7 @@ let fossil = [
         "id": "base3-46",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3269,9 +3135,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3286,9 +3150,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/46.png",
             "large": "https://images.pokemontcg.io/base3/46_hires.png"
@@ -3298,6 +3160,7 @@ let fossil = [
         "id": "base3-47",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3333,9 +3196,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3350,9 +3211,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/47.png",
             "large": "https://images.pokemontcg.io/base3/47_hires.png"
@@ -3362,6 +3221,7 @@ let fossil = [
         "id": "base3-48",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3405,9 +3265,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3422,9 +3280,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/48.png",
             "large": "https://images.pokemontcg.io/base3/48_hires.png"
@@ -3434,6 +3290,7 @@ let fossil = [
         "id": "base3-49",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3467,9 +3324,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3484,9 +3339,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/49.png",
             "large": "https://images.pokemontcg.io/base3/49_hires.png"
@@ -3496,6 +3349,7 @@ let fossil = [
         "id": "base3-50",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3538,9 +3392,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3555,9 +3407,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/50.png",
             "large": "https://images.pokemontcg.io/base3/50_hires.png"
@@ -3567,6 +3417,7 @@ let fossil = [
         "id": "base3-51",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3611,9 +3462,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3628,9 +3477,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/51.png",
             "large": "https://images.pokemontcg.io/base3/51_hires.png"
@@ -3640,6 +3487,7 @@ let fossil = [
         "id": "base3-52",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3682,9 +3530,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3699,9 +3545,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/52.png",
             "large": "https://images.pokemontcg.io/base3/52_hires.png"
@@ -3711,6 +3555,7 @@ let fossil = [
         "id": "base3-53",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3754,9 +3599,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3771,9 +3614,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/53.png",
             "large": "https://images.pokemontcg.io/base3/53_hires.png"
@@ -3783,6 +3624,7 @@ let fossil = [
         "id": "base3-54",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3826,9 +3668,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3843,9 +3683,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/54.png",
             "large": "https://images.pokemontcg.io/base3/54_hires.png"
@@ -3855,6 +3693,7 @@ let fossil = [
         "id": "base3-55",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3900,9 +3739,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3917,9 +3754,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/55.png",
             "large": "https://images.pokemontcg.io/base3/55_hires.png"
@@ -3929,6 +3764,7 @@ let fossil = [
         "id": "base3-56",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3969,9 +3805,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -3986,9 +3820,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/56.png",
             "large": "https://images.pokemontcg.io/base3/56_hires.png"
@@ -3998,6 +3830,7 @@ let fossil = [
         "id": "base3-57",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -4048,9 +3881,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4065,9 +3896,7 @@ let fossil = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/57.png",
             "large": "https://images.pokemontcg.io/base3/57_hires.png"
@@ -4077,6 +3906,7 @@ let fossil = [
         "id": "base3-58",
         "name": "Mr. Fuji",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Choose a Pokémon on your Bench. Shuffle it and any cards attached to it into your deck."
         ],
@@ -4086,9 +3916,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4099,9 +3927,7 @@ let fossil = [
         "number": "58",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/58.png",
             "large": "https://images.pokemontcg.io/base3/58_hires.png"
@@ -4111,6 +3937,7 @@ let fossil = [
         "id": "base3-59",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward."
         ],
@@ -4120,9 +3947,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4133,11 +3958,7 @@ let fossil = [
         "number": "59",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/59.png",
             "large": "https://images.pokemontcg.io/base3/59_hires.png"
@@ -4147,6 +3968,7 @@ let fossil = [
         "id": "base3-60",
         "name": "Gambler",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card."
         ],
@@ -4156,9 +3978,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4169,9 +3989,7 @@ let fossil = [
         "number": "60",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/60.png",
             "large": "https://images.pokemontcg.io/base3/60_hires.png"
@@ -4181,6 +3999,7 @@ let fossil = [
         "id": "base3-61",
         "name": "Recycle",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Flip a coin. If heads, put a card in your discard pile on top of your deck."
         ],
@@ -4190,9 +4009,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4203,10 +4020,7 @@ let fossil = [
         "number": "61",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/61.png",
             "large": "https://images.pokemontcg.io/base3/61_hires.png"
@@ -4216,6 +4030,7 @@ let fossil = [
         "id": "base3-62",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "hp": "10",
         "rules": [
             "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
@@ -4226,9 +4041,7 @@ let fossil = [
             "series": "Base",
             "printedTotal": 62,
             "total": 62,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "FO",
             "releaseDate": "1999/10/10",
             "images": {
@@ -4239,9 +4052,7 @@ let fossil = [
         "number": "62",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base3/62.png",
             "large": "https://images.pokemontcg.io/base3/62_hires.png"

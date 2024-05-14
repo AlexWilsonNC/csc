@@ -1,8 +1,9 @@
-let rumble = [
+let ru1 = [
     {
         "id": "ru1-1",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 2"
         ],
@@ -38,9 +39,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -52,9 +51,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/1.png",
             "large": "https://images.pokemontcg.io/ru1/1_hires.png"
@@ -64,6 +61,7 @@ let rumble = [
         "id": "ru1-2",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -104,9 +102,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -118,9 +114,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/2.png",
             "large": "https://images.pokemontcg.io/ru1/2_hires.png"
@@ -130,6 +124,7 @@ let rumble = [
         "id": "ru1-3",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -164,9 +159,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -178,9 +171,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/3.png",
             "large": "https://images.pokemontcg.io/ru1/3_hires.png"
@@ -190,6 +181,7 @@ let rumble = [
         "id": "ru1-4",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -224,9 +216,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -238,9 +228,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/4.png",
             "large": "https://images.pokemontcg.io/ru1/4_hires.png"
@@ -250,6 +238,7 @@ let rumble = [
         "id": "ru1-5",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -284,9 +273,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -298,9 +285,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/5.png",
             "large": "https://images.pokemontcg.io/ru1/5_hires.png"
@@ -310,6 +295,7 @@ let rumble = [
         "id": "ru1-6",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -351,9 +337,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -365,9 +349,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/6.png",
             "large": "https://images.pokemontcg.io/ru1/6_hires.png"
@@ -377,6 +359,7 @@ let rumble = [
         "id": "ru1-7",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -419,9 +402,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -433,9 +414,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/7.png",
             "large": "https://images.pokemontcg.io/ru1/7_hires.png"
@@ -445,6 +424,7 @@ let rumble = [
         "id": "ru1-8",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -485,9 +465,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -499,9 +477,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/8.png",
             "large": "https://images.pokemontcg.io/ru1/8_hires.png"
@@ -511,6 +487,7 @@ let rumble = [
         "id": "ru1-9",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -544,9 +521,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -558,9 +533,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/9.png",
             "large": "https://images.pokemontcg.io/ru1/9_hires.png"
@@ -570,6 +543,7 @@ let rumble = [
         "id": "ru1-10",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -612,9 +586,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -626,9 +598,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/10.png",
             "large": "https://images.pokemontcg.io/ru1/10_hires.png"
@@ -638,6 +608,7 @@ let rumble = [
         "id": "ru1-11",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -679,9 +650,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -693,9 +662,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/11.png",
             "large": "https://images.pokemontcg.io/ru1/11_hires.png"
@@ -705,6 +672,7 @@ let rumble = [
         "id": "ru1-12",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -751,9 +719,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -765,9 +731,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/12.png",
             "large": "https://images.pokemontcg.io/ru1/12_hires.png"
@@ -777,6 +741,7 @@ let rumble = [
         "id": "ru1-13",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -817,9 +782,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -831,9 +794,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/13.png",
             "large": "https://images.pokemontcg.io/ru1/13_hires.png"
@@ -843,6 +804,7 @@ let rumble = [
         "id": "ru1-14",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 2"
         ],
@@ -883,9 +845,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -897,9 +857,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             411
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/14.png",
             "large": "https://images.pokemontcg.io/ru1/14_hires.png"
@@ -909,6 +867,7 @@ let rumble = [
         "id": "ru1-15",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -944,9 +903,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -958,9 +915,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/15.png",
             "large": "https://images.pokemontcg.io/ru1/15_hires.png"
@@ -970,6 +925,7 @@ let rumble = [
         "id": "ru1-16",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1005,9 +961,7 @@ let rumble = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -1019,9 +973,7 @@ let rumble = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/16.png",
             "large": "https://images.pokemontcg.io/ru1/16_hires.png"

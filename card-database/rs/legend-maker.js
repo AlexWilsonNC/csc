@@ -1,8 +1,9 @@
-let legendMaker = [
+let ex12 = [
     {
         "id": "ex12-1",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -58,9 +59,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -74,9 +73,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/1.png",
             "large": "https://images.pokemontcg.io/ex12/1_hires.png"
@@ -86,6 +83,7 @@ let legendMaker = [
         "id": "ex12-2",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -138,9 +136,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -154,9 +150,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/2.png",
             "large": "https://images.pokemontcg.io/ex12/2_hires.png"
@@ -166,6 +160,7 @@ let legendMaker = [
         "id": "ex12-3",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -220,9 +215,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -236,9 +229,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/3.png",
             "large": "https://images.pokemontcg.io/ex12/3_hires.png"
@@ -248,6 +239,7 @@ let legendMaker = [
         "id": "ex12-4",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -298,9 +290,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -314,9 +304,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/4.png",
             "large": "https://images.pokemontcg.io/ex12/4_hires.png"
@@ -326,6 +314,7 @@ let legendMaker = [
         "id": "ex12-5",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -382,9 +371,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -398,9 +385,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/5.png",
             "large": "https://images.pokemontcg.io/ex12/5_hires.png"
@@ -410,6 +395,7 @@ let legendMaker = [
         "id": "ex12-6",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -464,9 +450,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -480,9 +464,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/6.png",
             "large": "https://images.pokemontcg.io/ex12/6_hires.png"
@@ -492,6 +474,7 @@ let legendMaker = [
         "id": "ex12-7",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -542,9 +525,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -558,9 +539,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/7.png",
             "large": "https://images.pokemontcg.io/ex12/7_hires.png"
@@ -570,6 +549,7 @@ let legendMaker = [
         "id": "ex12-8",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -609,9 +589,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -625,9 +603,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/8.png",
             "large": "https://images.pokemontcg.io/ex12/8_hires.png"
@@ -637,6 +613,7 @@ let legendMaker = [
         "id": "ex12-9",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -681,9 +658,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -697,9 +672,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/9.png",
             "large": "https://images.pokemontcg.io/ex12/9_hires.png"
@@ -709,6 +682,7 @@ let legendMaker = [
         "id": "ex12-10",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -748,9 +722,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -764,9 +736,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/10.png",
             "large": "https://images.pokemontcg.io/ex12/10_hires.png"
@@ -776,6 +746,7 @@ let legendMaker = [
         "id": "ex12-11",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -827,9 +798,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -843,9 +812,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/11.png",
             "large": "https://images.pokemontcg.io/ex12/11_hires.png"
@@ -855,6 +822,7 @@ let legendMaker = [
         "id": "ex12-12",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -912,9 +880,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -928,9 +894,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/12.png",
             "large": "https://images.pokemontcg.io/ex12/12_hires.png"
@@ -940,6 +904,7 @@ let legendMaker = [
         "id": "ex12-13",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -991,9 +956,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1007,9 +970,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/13.png",
             "large": "https://images.pokemontcg.io/ex12/13_hires.png"
@@ -1019,6 +980,7 @@ let legendMaker = [
         "id": "ex12-14",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1072,9 +1034,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1088,9 +1048,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/14.png",
             "large": "https://images.pokemontcg.io/ex12/14_hires.png"
@@ -1100,6 +1058,7 @@ let legendMaker = [
         "id": "ex12-15",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1154,9 +1113,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1170,9 +1127,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/15.png",
             "large": "https://images.pokemontcg.io/ex12/15_hires.png"
@@ -1182,6 +1137,7 @@ let legendMaker = [
         "id": "ex12-16",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1230,9 +1186,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1246,9 +1200,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/16.png",
             "large": "https://images.pokemontcg.io/ex12/16_hires.png"
@@ -1258,6 +1210,7 @@ let legendMaker = [
         "id": "ex12-17",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1297,9 +1250,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1313,9 +1264,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             368
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/17.png",
             "large": "https://images.pokemontcg.io/ex12/17_hires.png"
@@ -1325,6 +1274,7 @@ let legendMaker = [
         "id": "ex12-18",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1366,9 +1316,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1382,9 +1330,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             367
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/18.png",
             "large": "https://images.pokemontcg.io/ex12/18_hires.png"
@@ -1394,6 +1340,7 @@ let legendMaker = [
         "id": "ex12-19",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1445,9 +1392,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1461,9 +1406,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/19.png",
             "large": "https://images.pokemontcg.io/ex12/19_hires.png"
@@ -1473,6 +1416,7 @@ let legendMaker = [
         "id": "ex12-20",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1520,9 +1464,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1536,9 +1478,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/20.png",
             "large": "https://images.pokemontcg.io/ex12/20_hires.png"
@@ -1548,6 +1488,7 @@ let legendMaker = [
         "id": "ex12-21",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1600,9 +1541,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1616,9 +1555,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/21.png",
             "large": "https://images.pokemontcg.io/ex12/21_hires.png"
@@ -1628,6 +1565,7 @@ let legendMaker = [
         "id": "ex12-22",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1689,9 +1627,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1705,9 +1641,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/22.png",
             "large": "https://images.pokemontcg.io/ex12/22_hires.png"
@@ -1717,6 +1651,7 @@ let legendMaker = [
         "id": "ex12-23",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1767,9 +1702,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1783,9 +1716,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/23.png",
             "large": "https://images.pokemontcg.io/ex12/23_hires.png"
@@ -1795,6 +1726,7 @@ let legendMaker = [
         "id": "ex12-24",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1843,9 +1775,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1859,9 +1789,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/24.png",
             "large": "https://images.pokemontcg.io/ex12/24_hires.png"
@@ -1871,6 +1799,7 @@ let legendMaker = [
         "id": "ex12-25",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1918,9 +1847,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -1934,9 +1861,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/25.png",
             "large": "https://images.pokemontcg.io/ex12/25_hires.png"
@@ -1946,6 +1871,7 @@ let legendMaker = [
         "id": "ex12-26",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -1994,9 +1920,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2010,9 +1934,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/26.png",
             "large": "https://images.pokemontcg.io/ex12/26_hires.png"
@@ -2022,6 +1944,7 @@ let legendMaker = [
         "id": "ex12-27",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -2063,9 +1986,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2079,9 +2000,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/27.png",
             "large": "https://images.pokemontcg.io/ex12/27_hires.png"
@@ -2091,6 +2010,7 @@ let legendMaker = [
         "id": "ex12-28",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -2140,9 +2060,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2156,9 +2074,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/28.png",
             "large": "https://images.pokemontcg.io/ex12/28_hires.png"
@@ -2168,6 +2084,7 @@ let legendMaker = [
         "id": "ex12-29",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2213,9 +2130,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2229,9 +2144,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/29.png",
             "large": "https://images.pokemontcg.io/ex12/29_hires.png"
@@ -2241,6 +2154,7 @@ let legendMaker = [
         "id": "ex12-30",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2284,9 +2198,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2300,9 +2212,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             268
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/30.png",
             "large": "https://images.pokemontcg.io/ex12/30_hires.png"
@@ -2312,6 +2222,7 @@ let legendMaker = [
         "id": "ex12-31",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -2359,9 +2270,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2375,9 +2284,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/31.png",
             "large": "https://images.pokemontcg.io/ex12/31_hires.png"
@@ -2387,6 +2294,7 @@ let legendMaker = [
         "id": "ex12-32",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2430,9 +2338,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2446,9 +2352,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/32.png",
             "large": "https://images.pokemontcg.io/ex12/32_hires.png"
@@ -2458,6 +2362,7 @@ let legendMaker = [
         "id": "ex12-33",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2502,9 +2407,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2518,9 +2421,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/33.png",
             "large": "https://images.pokemontcg.io/ex12/33_hires.png"
@@ -2530,6 +2431,7 @@ let legendMaker = [
         "id": "ex12-34",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2573,9 +2475,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2589,9 +2489,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/34.png",
             "large": "https://images.pokemontcg.io/ex12/34_hires.png"
@@ -2601,6 +2499,7 @@ let legendMaker = [
         "id": "ex12-35",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2653,9 +2552,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2669,9 +2566,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/35.png",
             "large": "https://images.pokemontcg.io/ex12/35_hires.png"
@@ -2681,6 +2576,7 @@ let legendMaker = [
         "id": "ex12-36",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2724,9 +2620,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2740,9 +2634,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/36.png",
             "large": "https://images.pokemontcg.io/ex12/36_hires.png"
@@ -2752,6 +2644,7 @@ let legendMaker = [
         "id": "ex12-37",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -2800,9 +2693,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2816,9 +2707,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             352
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/37.png",
             "large": "https://images.pokemontcg.io/ex12/37_hires.png"
@@ -2828,6 +2717,7 @@ let legendMaker = [
         "id": "ex12-38",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2880,9 +2770,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2896,9 +2784,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/38.png",
             "large": "https://images.pokemontcg.io/ex12/38_hires.png"
@@ -2908,6 +2794,7 @@ let legendMaker = [
         "id": "ex12-39",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2961,9 +2848,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -2977,9 +2862,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/39.png",
             "large": "https://images.pokemontcg.io/ex12/39_hires.png"
@@ -2989,6 +2872,7 @@ let legendMaker = [
         "id": "ex12-40",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3045,9 +2929,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3061,9 +2943,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/40.png",
             "large": "https://images.pokemontcg.io/ex12/40_hires.png"
@@ -3073,6 +2953,7 @@ let legendMaker = [
         "id": "ex12-41",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3124,9 +3005,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3140,9 +3019,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/41.png",
             "large": "https://images.pokemontcg.io/ex12/41_hires.png"
@@ -3152,6 +3029,7 @@ let legendMaker = [
         "id": "ex12-42",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3193,9 +3071,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3209,9 +3085,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/42.png",
             "large": "https://images.pokemontcg.io/ex12/42_hires.png"
@@ -3221,6 +3095,7 @@ let legendMaker = [
         "id": "ex12-43",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3264,9 +3139,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3280,9 +3153,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/43.png",
             "large": "https://images.pokemontcg.io/ex12/43_hires.png"
@@ -3292,6 +3163,7 @@ let legendMaker = [
         "id": "ex12-44",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3350,9 +3222,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3366,9 +3236,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/44.png",
             "large": "https://images.pokemontcg.io/ex12/44_hires.png"
@@ -3378,6 +3246,7 @@ let legendMaker = [
         "id": "ex12-45",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3426,9 +3295,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3442,9 +3309,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/45.png",
             "large": "https://images.pokemontcg.io/ex12/45_hires.png"
@@ -3454,6 +3319,7 @@ let legendMaker = [
         "id": "ex12-46",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3505,9 +3371,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3521,9 +3385,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             329
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/46.png",
             "large": "https://images.pokemontcg.io/ex12/46_hires.png"
@@ -3533,6 +3395,7 @@ let legendMaker = [
         "id": "ex12-47",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3580,9 +3443,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3596,9 +3457,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/47.png",
             "large": "https://images.pokemontcg.io/ex12/47_hires.png"
@@ -3608,6 +3467,7 @@ let legendMaker = [
         "id": "ex12-48",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3658,9 +3518,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3674,9 +3532,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/48.png",
             "large": "https://images.pokemontcg.io/ex12/48_hires.png"
@@ -3686,6 +3542,7 @@ let legendMaker = [
         "id": "ex12-49",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3720,9 +3577,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3736,9 +3591,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/49.png",
             "large": "https://images.pokemontcg.io/ex12/49_hires.png"
@@ -3748,6 +3601,7 @@ let legendMaker = [
         "id": "ex12-50",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3792,9 +3646,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3808,9 +3660,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/50.png",
             "large": "https://images.pokemontcg.io/ex12/50_hires.png"
@@ -3820,6 +3670,7 @@ let legendMaker = [
         "id": "ex12-51",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3864,9 +3715,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3880,9 +3729,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             366
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/51.png",
             "large": "https://images.pokemontcg.io/ex12/51_hires.png"
@@ -3892,6 +3739,7 @@ let legendMaker = [
         "id": "ex12-52",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -3941,9 +3789,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -3957,9 +3803,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/52.png",
             "large": "https://images.pokemontcg.io/ex12/52_hires.png"
@@ -3969,6 +3813,7 @@ let legendMaker = [
         "id": "ex12-53",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4004,9 +3849,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4020,9 +3863,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/53.png",
             "large": "https://images.pokemontcg.io/ex12/53_hires.png"
@@ -4032,6 +3873,7 @@ let legendMaker = [
         "id": "ex12-54",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4076,9 +3918,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4092,9 +3932,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/54.png",
             "large": "https://images.pokemontcg.io/ex12/54_hires.png"
@@ -4104,6 +3942,7 @@ let legendMaker = [
         "id": "ex12-55",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4148,9 +3987,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4164,9 +4001,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/55.png",
             "large": "https://images.pokemontcg.io/ex12/55_hires.png"
@@ -4176,6 +4011,7 @@ let legendMaker = [
         "id": "ex12-56",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4221,9 +4057,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4237,9 +4071,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/56.png",
             "large": "https://images.pokemontcg.io/ex12/56_hires.png"
@@ -4249,6 +4081,7 @@ let legendMaker = [
         "id": "ex12-57",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4283,9 +4116,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4299,9 +4130,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/57.png",
             "large": "https://images.pokemontcg.io/ex12/57_hires.png"
@@ -4311,6 +4140,7 @@ let legendMaker = [
         "id": "ex12-58",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4352,9 +4182,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4368,9 +4196,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/58.png",
             "large": "https://images.pokemontcg.io/ex12/58_hires.png"
@@ -4380,6 +4206,7 @@ let legendMaker = [
         "id": "ex12-59",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4420,9 +4247,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4436,9 +4261,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/59.png",
             "large": "https://images.pokemontcg.io/ex12/59_hires.png"
@@ -4448,6 +4271,7 @@ let legendMaker = [
         "id": "ex12-60",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4491,9 +4315,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4507,9 +4329,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/60.png",
             "large": "https://images.pokemontcg.io/ex12/60_hires.png"
@@ -4519,6 +4339,7 @@ let legendMaker = [
         "id": "ex12-61",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4562,9 +4383,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4578,9 +4397,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/61.png",
             "large": "https://images.pokemontcg.io/ex12/61_hires.png"
@@ -4590,6 +4407,7 @@ let legendMaker = [
         "id": "ex12-62",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4634,9 +4452,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4650,9 +4466,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/62.png",
             "large": "https://images.pokemontcg.io/ex12/62_hires.png"
@@ -4662,6 +4476,7 @@ let legendMaker = [
         "id": "ex12-63",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4712,9 +4527,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4728,9 +4541,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/63.png",
             "large": "https://images.pokemontcg.io/ex12/63_hires.png"
@@ -4740,6 +4551,7 @@ let legendMaker = [
         "id": "ex12-64",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4784,9 +4596,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4800,9 +4610,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/64.png",
             "large": "https://images.pokemontcg.io/ex12/64_hires.png"
@@ -4812,6 +4620,7 @@ let legendMaker = [
         "id": "ex12-65",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4847,9 +4656,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4863,9 +4670,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/65.png",
             "large": "https://images.pokemontcg.io/ex12/65_hires.png"
@@ -4875,6 +4680,7 @@ let legendMaker = [
         "id": "ex12-66",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4909,9 +4715,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4925,9 +4729,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/66.png",
             "large": "https://images.pokemontcg.io/ex12/66_hires.png"
@@ -4937,6 +4739,7 @@ let legendMaker = [
         "id": "ex12-67",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -4981,9 +4784,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -4997,9 +4798,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             328
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/67.png",
             "large": "https://images.pokemontcg.io/ex12/67_hires.png"
@@ -5009,6 +4808,7 @@ let legendMaker = [
         "id": "ex12-68",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -5053,9 +4853,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5069,9 +4867,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/68.png",
             "large": "https://images.pokemontcg.io/ex12/68_hires.png"
@@ -5081,6 +4877,7 @@ let legendMaker = [
         "id": "ex12-69",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -5127,9 +4924,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5143,9 +4938,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/69.png",
             "large": "https://images.pokemontcg.io/ex12/69_hires.png"
@@ -5155,6 +4948,7 @@ let legendMaker = [
         "id": "ex12-70",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -5197,9 +4991,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5213,9 +5005,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/70.png",
             "large": "https://images.pokemontcg.io/ex12/70_hires.png"
@@ -5225,6 +5015,7 @@ let legendMaker = [
         "id": "ex12-71",
         "name": "Wynaut",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -5266,9 +5057,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5282,9 +5071,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             360
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/71.png",
             "large": "https://images.pokemontcg.io/ex12/71_hires.png"
@@ -5294,6 +5081,7 @@ let legendMaker = [
         "id": "ex12-72",
         "name": "Cursed Stone",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stadium"
         ],
@@ -5307,9 +5095,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5320,9 +5106,7 @@ let legendMaker = [
         "number": "72",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/72.png",
             "large": "https://images.pokemontcg.io/ex12/72_hires.png"
@@ -5332,6 +5116,7 @@ let legendMaker = [
         "id": "ex12-73",
         "name": "Fieldworker",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Supporter"
         ],
@@ -5345,9 +5130,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5358,9 +5141,7 @@ let legendMaker = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/73.png",
             "large": "https://images.pokemontcg.io/ex12/73_hires.png"
@@ -5370,6 +5151,7 @@ let legendMaker = [
         "id": "ex12-74",
         "name": "Full Flame",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stadium"
         ],
@@ -5383,9 +5165,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5396,9 +5176,7 @@ let legendMaker = [
         "number": "74",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/74.png",
             "large": "https://images.pokemontcg.io/ex12/74_hires.png"
@@ -5408,6 +5186,7 @@ let legendMaker = [
         "id": "ex12-75",
         "name": "Giant Stump",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stadium"
         ],
@@ -5422,9 +5201,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5435,9 +5212,7 @@ let legendMaker = [
         "number": "75",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/75.png",
             "large": "https://images.pokemontcg.io/ex12/75_hires.png"
@@ -5447,6 +5222,7 @@ let legendMaker = [
         "id": "ex12-76",
         "name": "Power Tree",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stadium"
         ],
@@ -5460,9 +5236,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5473,9 +5247,7 @@ let legendMaker = [
         "number": "76",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/76.png",
             "large": "https://images.pokemontcg.io/ex12/76_hires.png"
@@ -5485,6 +5257,7 @@ let legendMaker = [
         "id": "ex12-77",
         "name": "Strange Cave",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stadium"
         ],
@@ -5498,9 +5271,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5511,9 +5282,7 @@ let legendMaker = [
         "number": "77",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/77.png",
             "large": "https://images.pokemontcg.io/ex12/77_hires.png"
@@ -5523,6 +5292,7 @@ let legendMaker = [
         "id": "ex12-78",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Item"
         ],
@@ -5543,9 +5313,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5556,9 +5324,7 @@ let legendMaker = [
         "number": "78",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/78.png",
             "large": "https://images.pokemontcg.io/ex12/78_hires.png"
@@ -5568,6 +5334,7 @@ let legendMaker = [
         "id": "ex12-79",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Item"
         ],
@@ -5581,9 +5348,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5594,9 +5359,7 @@ let legendMaker = [
         "number": "79",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/79.png",
             "large": "https://images.pokemontcg.io/ex12/79_hires.png"
@@ -5606,6 +5369,7 @@ let legendMaker = [
         "id": "ex12-80",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LM",
         "subtypes": [
             "Item"
         ],
@@ -5626,9 +5390,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5639,9 +5401,7 @@ let legendMaker = [
         "number": "80",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/80.png",
             "large": "https://images.pokemontcg.io/ex12/80_hires.png"
@@ -5651,6 +5411,7 @@ let legendMaker = [
         "id": "ex12-81",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "LM",
         "subtypes": [
             "Special"
         ],
@@ -5663,9 +5424,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5676,10 +5435,7 @@ let legendMaker = [
         "number": "81",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/81.png",
             "large": "https://images.pokemontcg.io/ex12/81_hires.png"
@@ -5689,6 +5445,7 @@ let legendMaker = [
         "id": "ex12-82",
         "name": "React Energy",
         "supertype": "Energy",
+        "setAbbrev": "LM",
         "subtypes": [
             "Special"
         ],
@@ -5701,9 +5458,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5714,9 +5469,7 @@ let legendMaker = [
         "number": "82",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/82.png",
             "large": "https://images.pokemontcg.io/ex12/82_hires.png"
@@ -5726,6 +5479,7 @@ let legendMaker = [
         "id": "ex12-83",
         "name": "Arcanine ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5781,9 +5535,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5797,9 +5549,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/83.png",
             "large": "https://images.pokemontcg.io/ex12/83_hires.png"
@@ -5809,6 +5559,7 @@ let legendMaker = [
         "id": "ex12-84",
         "name": "Armaldo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5864,9 +5615,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5880,9 +5629,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/84.png",
             "large": "https://images.pokemontcg.io/ex12/84_hires.png"
@@ -5892,6 +5639,7 @@ let legendMaker = [
         "id": "ex12-85",
         "name": "Banette ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5942,9 +5690,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -5958,9 +5704,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/85.png",
             "large": "https://images.pokemontcg.io/ex12/85_hires.png"
@@ -5970,6 +5714,7 @@ let legendMaker = [
         "id": "ex12-86",
         "name": "Dustox ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6025,9 +5770,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6041,9 +5784,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             269
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/86.png",
             "large": "https://images.pokemontcg.io/ex12/86_hires.png"
@@ -6053,6 +5794,7 @@ let legendMaker = [
         "id": "ex12-87",
         "name": "Flygon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6116,9 +5858,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6132,9 +5872,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/87.png",
             "large": "https://images.pokemontcg.io/ex12/87_hires.png"
@@ -6144,6 +5882,7 @@ let legendMaker = [
         "id": "ex12-88",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic",
             "EX"
@@ -6187,9 +5926,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6203,9 +5940,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/88.png",
             "large": "https://images.pokemontcg.io/ex12/88_hires.png"
@@ -6215,6 +5950,7 @@ let legendMaker = [
         "id": "ex12-89",
         "name": "Walrein ex",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6275,9 +6011,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6291,9 +6025,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/89.png",
             "large": "https://images.pokemontcg.io/ex12/89_hires.png"
@@ -6303,6 +6035,7 @@ let legendMaker = [
         "id": "ex12-90",
         "name": "Regice ★",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic",
             "Star"
@@ -6349,9 +6082,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6365,9 +6096,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/90.png",
             "large": "https://images.pokemontcg.io/ex12/90_hires.png"
@@ -6377,6 +6106,7 @@ let legendMaker = [
         "id": "ex12-91",
         "name": "Regirock ★",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic",
             "Star"
@@ -6423,9 +6153,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6439,9 +6167,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/91.png",
             "large": "https://images.pokemontcg.io/ex12/91_hires.png"
@@ -6451,6 +6177,7 @@ let legendMaker = [
         "id": "ex12-92",
         "name": "Registeel ★",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic",
             "Star"
@@ -6503,9 +6230,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6519,9 +6244,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/92.png",
             "large": "https://images.pokemontcg.io/ex12/92_hires.png"
@@ -6531,6 +6254,7 @@ let legendMaker = [
         "id": "ex12-93",
         "name": "Pikachu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "LM",
         "subtypes": [
             "Basic"
         ],
@@ -6575,9 +6299,7 @@ let legendMaker = [
             "series": "EX",
             "printedTotal": 92,
             "total": 93,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LM",
             "releaseDate": "2006/02/01",
             "images": {
@@ -6591,9 +6313,7 @@ let legendMaker = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex12/93.png",
             "large": "https://images.pokemontcg.io/ex12/93_hires.png"

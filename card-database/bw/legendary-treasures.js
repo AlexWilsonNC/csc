@@ -1,8 +1,9 @@
-let legendaryTreasures = [
+let bw11 = [
     {
         "id": "bw11-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -54,10 +55,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -72,10 +70,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/1.png",
             "large": "https://images.pokemontcg.io/bw11/1_hires.png"
@@ -85,6 +80,7 @@ let legendaryTreasures = [
         "id": "bw11-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -135,10 +131,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -153,10 +146,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             465
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/2.png",
             "large": "https://images.pokemontcg.io/bw11/2_hires.png"
@@ -166,6 +156,7 @@ let legendaryTreasures = [
         "id": "bw11-3",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -208,10 +199,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -226,10 +214,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/3.png",
             "large": "https://images.pokemontcg.io/bw11/3_hires.png"
@@ -239,6 +224,7 @@ let legendaryTreasures = [
         "id": "bw11-4",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -279,10 +265,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -297,10 +280,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/4.png",
             "large": "https://images.pokemontcg.io/bw11/4_hires.png"
@@ -310,6 +290,7 @@ let legendaryTreasures = [
         "id": "bw11-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -348,10 +329,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -366,10 +344,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/5.png",
             "large": "https://images.pokemontcg.io/bw11/5_hires.png"
@@ -379,6 +354,7 @@ let legendaryTreasures = [
         "id": "bw11-6",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -420,10 +396,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -438,10 +411,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/6.png",
             "large": "https://images.pokemontcg.io/bw11/6_hires.png"
@@ -451,6 +421,7 @@ let legendaryTreasures = [
         "id": "bw11-7",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -493,10 +464,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -511,10 +479,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/7.png",
             "large": "https://images.pokemontcg.io/bw11/7_hires.png"
@@ -524,6 +489,7 @@ let legendaryTreasures = [
         "id": "bw11-8",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -570,10 +536,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -588,10 +551,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/8.png",
             "large": "https://images.pokemontcg.io/bw11/8_hires.png"
@@ -601,6 +561,7 @@ let legendaryTreasures = [
         "id": "bw11-9",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -636,10 +597,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -654,10 +612,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/9.png",
             "large": "https://images.pokemontcg.io/bw11/9_hires.png"
@@ -667,6 +622,7 @@ let legendaryTreasures = [
         "id": "bw11-10",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -702,10 +658,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -720,10 +673,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/10.png",
             "large": "https://images.pokemontcg.io/bw11/10_hires.png"
@@ -733,6 +683,7 @@ let legendaryTreasures = [
         "id": "bw11-11",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -778,10 +729,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -796,10 +744,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/11.png",
             "large": "https://images.pokemontcg.io/bw11/11_hires.png"
@@ -809,6 +754,7 @@ let legendaryTreasures = [
         "id": "bw11-12",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -850,10 +796,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -868,10 +811,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/12.png",
             "large": "https://images.pokemontcg.io/bw11/12_hires.png"
@@ -881,6 +821,7 @@ let legendaryTreasures = [
         "id": "bw11-13",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -916,10 +857,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -934,10 +872,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             557
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/13.png",
             "large": "https://images.pokemontcg.io/bw11/13_hires.png"
@@ -947,6 +882,7 @@ let legendaryTreasures = [
         "id": "bw11-14",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -991,10 +927,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1009,10 +942,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/14.png",
             "large": "https://images.pokemontcg.io/bw11/14_hires.png"
@@ -1022,6 +952,7 @@ let legendaryTreasures = [
         "id": "bw11-15",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1069,10 +1000,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1087,10 +1015,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/15.png",
             "large": "https://images.pokemontcg.io/bw11/15_hires.png"
@@ -1100,6 +1025,7 @@ let legendaryTreasures = [
         "id": "bw11-16",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1143,10 +1069,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1161,10 +1084,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/16.png",
             "large": "https://images.pokemontcg.io/bw11/16_hires.png"
@@ -1174,6 +1094,7 @@ let legendaryTreasures = [
         "id": "bw11-17",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1218,10 +1139,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1236,10 +1154,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/17.png",
             "large": "https://images.pokemontcg.io/bw11/17_hires.png"
@@ -1249,6 +1164,7 @@ let legendaryTreasures = [
         "id": "bw11-18",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1295,10 +1211,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1313,10 +1226,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/18.png",
             "large": "https://images.pokemontcg.io/bw11/18_hires.png"
@@ -1326,6 +1236,7 @@ let legendaryTreasures = [
         "id": "bw11-19",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1373,10 +1284,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1391,10 +1299,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/19.png",
             "large": "https://images.pokemontcg.io/bw11/19_hires.png"
@@ -1404,6 +1309,7 @@ let legendaryTreasures = [
         "id": "bw11-20",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1439,10 +1345,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1457,10 +1360,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/20.png",
             "large": "https://images.pokemontcg.io/bw11/20_hires.png"
@@ -1470,6 +1370,7 @@ let legendaryTreasures = [
         "id": "bw11-21",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1504,10 +1405,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1522,10 +1420,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/21.png",
             "large": "https://images.pokemontcg.io/bw11/21_hires.png"
@@ -1535,6 +1430,7 @@ let legendaryTreasures = [
         "id": "bw11-22",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1586,10 +1482,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1604,10 +1497,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/22.png",
             "large": "https://images.pokemontcg.io/bw11/22_hires.png"
@@ -1617,6 +1507,7 @@ let legendaryTreasures = [
         "id": "bw11-23",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1656,10 +1547,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1674,10 +1562,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/23.png",
             "large": "https://images.pokemontcg.io/bw11/23_hires.png"
@@ -1687,6 +1572,7 @@ let legendaryTreasures = [
         "id": "bw11-24",
         "name": "Victini-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1733,10 +1619,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1750,10 +1633,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/24.png",
             "large": "https://images.pokemontcg.io/bw11/24_hires.png"
@@ -1763,6 +1643,7 @@ let legendaryTreasures = [
         "id": "bw11-25",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1798,10 +1679,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1816,10 +1694,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/25.png",
             "large": "https://images.pokemontcg.io/bw11/25_hires.png"
@@ -1829,6 +1704,7 @@ let legendaryTreasures = [
         "id": "bw11-26",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1876,10 +1752,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1894,10 +1767,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/26.png",
             "large": "https://images.pokemontcg.io/bw11/26_hires.png"
@@ -1907,6 +1777,7 @@ let legendaryTreasures = [
         "id": "bw11-27",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1949,10 +1820,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -1967,10 +1835,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/27.png",
             "large": "https://images.pokemontcg.io/bw11/27_hires.png"
@@ -1980,6 +1845,7 @@ let legendaryTreasures = [
         "id": "bw11-28",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2023,10 +1889,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2041,10 +1904,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/28.png",
             "large": "https://images.pokemontcg.io/bw11/28_hires.png"
@@ -2054,6 +1914,7 @@ let legendaryTreasures = [
         "id": "bw11-29",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2103,10 +1964,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2120,10 +1978,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/29.png",
             "large": "https://images.pokemontcg.io/bw11/29_hires.png"
@@ -2133,6 +1988,7 @@ let legendaryTreasures = [
         "id": "bw11-30",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2167,10 +2023,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2185,10 +2038,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/30.png",
             "large": "https://images.pokemontcg.io/bw11/30_hires.png"
@@ -2198,6 +2048,7 @@ let legendaryTreasures = [
         "id": "bw11-31",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2244,10 +2095,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2262,10 +2110,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/31.png",
             "large": "https://images.pokemontcg.io/bw11/31_hires.png"
@@ -2275,6 +2120,7 @@ let legendaryTreasures = [
         "id": "bw11-32",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2326,10 +2172,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2344,10 +2187,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/32.png",
             "large": "https://images.pokemontcg.io/bw11/32_hires.png"
@@ -2357,6 +2197,7 @@ let legendaryTreasures = [
         "id": "bw11-33",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2392,10 +2233,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2410,10 +2248,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/33.png",
             "large": "https://images.pokemontcg.io/bw11/33_hires.png"
@@ -2423,6 +2258,7 @@ let legendaryTreasures = [
         "id": "bw11-34",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2459,10 +2295,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2477,10 +2310,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             394
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/34.png",
             "large": "https://images.pokemontcg.io/bw11/34_hires.png"
@@ -2490,6 +2320,7 @@ let legendaryTreasures = [
         "id": "bw11-35",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2534,10 +2365,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2552,10 +2380,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/35.png",
             "large": "https://images.pokemontcg.io/bw11/35_hires.png"
@@ -2565,6 +2390,7 @@ let legendaryTreasures = [
         "id": "bw11-36",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2605,10 +2431,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2623,10 +2446,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             489
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/36.png",
             "large": "https://images.pokemontcg.io/bw11/36_hires.png"
@@ -2636,6 +2456,7 @@ let legendaryTreasures = [
         "id": "bw11-37",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2671,10 +2492,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2689,10 +2507,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/37.png",
             "large": "https://images.pokemontcg.io/bw11/37_hires.png"
@@ -2702,6 +2517,7 @@ let legendaryTreasures = [
         "id": "bw11-38",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2738,10 +2554,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2756,10 +2569,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/38.png",
             "large": "https://images.pokemontcg.io/bw11/38_hires.png"
@@ -2769,6 +2579,7 @@ let legendaryTreasures = [
         "id": "bw11-39",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2810,10 +2621,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2828,10 +2636,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/39.png",
             "large": "https://images.pokemontcg.io/bw11/39_hires.png"
@@ -2841,6 +2646,7 @@ let legendaryTreasures = [
         "id": "bw11-40",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2885,10 +2691,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2903,10 +2706,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/40.png",
             "large": "https://images.pokemontcg.io/bw11/40_hires.png"
@@ -2916,6 +2716,7 @@ let legendaryTreasures = [
         "id": "bw11-41",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2962,10 +2763,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -2980,10 +2778,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/41.png",
             "large": "https://images.pokemontcg.io/bw11/41_hires.png"
@@ -2993,6 +2788,7 @@ let legendaryTreasures = [
         "id": "bw11-42",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3037,10 +2833,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3055,10 +2848,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             537
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/42.png",
             "large": "https://images.pokemontcg.io/bw11/42_hires.png"
@@ -3068,6 +2858,7 @@ let legendaryTreasures = [
         "id": "bw11-43",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3111,10 +2902,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3129,10 +2917,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/43.png",
             "large": "https://images.pokemontcg.io/bw11/43_hires.png"
@@ -3142,6 +2927,7 @@ let legendaryTreasures = [
         "id": "bw11-44",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3191,10 +2977,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3208,10 +2991,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/44.png",
             "large": "https://images.pokemontcg.io/bw11/44_hires.png"
@@ -3221,6 +3001,7 @@ let legendaryTreasures = [
         "id": "bw11-45",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3265,10 +3046,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3282,10 +3060,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             647
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/45.png",
             "large": "https://images.pokemontcg.io/bw11/45_hires.png"
@@ -3295,6 +3070,7 @@ let legendaryTreasures = [
         "id": "bw11-46",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3346,10 +3122,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3364,10 +3137,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/46.png",
             "large": "https://images.pokemontcg.io/bw11/46_hires.png"
@@ -3377,6 +3147,7 @@ let legendaryTreasures = [
         "id": "bw11-47",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3417,10 +3188,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3435,10 +3203,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/47.png",
             "large": "https://images.pokemontcg.io/bw11/47_hires.png"
@@ -3448,6 +3213,7 @@ let legendaryTreasures = [
         "id": "bw11-48",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3488,10 +3254,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3506,10 +3269,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/48.png",
             "large": "https://images.pokemontcg.io/bw11/48_hires.png"
@@ -3519,6 +3279,7 @@ let legendaryTreasures = [
         "id": "bw11-49",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3564,10 +3325,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3582,10 +3340,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/49.png",
             "large": "https://images.pokemontcg.io/bw11/49_hires.png"
@@ -3595,6 +3350,7 @@ let legendaryTreasures = [
         "id": "bw11-50",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3637,10 +3393,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3655,10 +3408,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             642
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/50.png",
             "large": "https://images.pokemontcg.io/bw11/50_hires.png"
@@ -3668,6 +3418,7 @@ let legendaryTreasures = [
         "id": "bw11-51",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3711,10 +3462,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3729,10 +3477,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/51.png",
             "large": "https://images.pokemontcg.io/bw11/51_hires.png"
@@ -3742,6 +3487,7 @@ let legendaryTreasures = [
         "id": "bw11-52",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3791,10 +3537,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3808,10 +3551,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/52.png",
             "large": "https://images.pokemontcg.io/bw11/52_hires.png"
@@ -3821,6 +3561,7 @@ let legendaryTreasures = [
         "id": "bw11-53",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3865,10 +3606,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3883,10 +3621,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/53.png",
             "large": "https://images.pokemontcg.io/bw11/53_hires.png"
@@ -3896,6 +3631,7 @@ let legendaryTreasures = [
         "id": "bw11-54",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3946,10 +3682,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -3963,10 +3696,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/54.png",
             "large": "https://images.pokemontcg.io/bw11/54_hires.png"
@@ -3976,6 +3706,7 @@ let legendaryTreasures = [
         "id": "bw11-55",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4011,10 +3742,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4029,10 +3757,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/55.png",
             "large": "https://images.pokemontcg.io/bw11/55_hires.png"
@@ -4042,6 +3767,7 @@ let legendaryTreasures = [
         "id": "bw11-56",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4085,10 +3811,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4103,10 +3826,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/56.png",
             "large": "https://images.pokemontcg.io/bw11/56_hires.png"
@@ -4116,6 +3836,7 @@ let legendaryTreasures = [
         "id": "bw11-57",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4151,10 +3872,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4169,10 +3887,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/57.png",
             "large": "https://images.pokemontcg.io/bw11/57_hires.png"
@@ -4182,6 +3897,7 @@ let legendaryTreasures = [
         "id": "bw11-58",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4226,10 +3942,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4243,10 +3956,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/58.png",
             "large": "https://images.pokemontcg.io/bw11/58_hires.png"
@@ -4256,6 +3966,7 @@ let legendaryTreasures = [
         "id": "bw11-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4291,10 +4002,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4309,10 +4017,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/59.png",
             "large": "https://images.pokemontcg.io/bw11/59_hires.png"
@@ -4322,6 +4027,7 @@ let legendaryTreasures = [
         "id": "bw11-60",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4370,10 +4076,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4388,10 +4091,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/60.png",
             "large": "https://images.pokemontcg.io/bw11/60_hires.png"
@@ -4401,6 +4101,7 @@ let legendaryTreasures = [
         "id": "bw11-61",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4427,10 +4128,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4445,10 +4143,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/61.png",
             "large": "https://images.pokemontcg.io/bw11/61_hires.png"
@@ -4458,6 +4153,7 @@ let legendaryTreasures = [
         "id": "bw11-62",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4493,10 +4189,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4511,10 +4204,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             453
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/62.png",
             "large": "https://images.pokemontcg.io/bw11/62_hires.png"
@@ -4524,6 +4214,7 @@ let legendaryTreasures = [
         "id": "bw11-63",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4567,10 +4258,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4585,10 +4273,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/63.png",
             "large": "https://images.pokemontcg.io/bw11/63_hires.png"
@@ -4598,6 +4283,7 @@ let legendaryTreasures = [
         "id": "bw11-64",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4638,10 +4324,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4656,10 +4339,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/64.png",
             "large": "https://images.pokemontcg.io/bw11/64_hires.png"
@@ -4669,6 +4349,7 @@ let legendaryTreasures = [
         "id": "bw11-65",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4716,10 +4397,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4734,10 +4412,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/65.png",
             "large": "https://images.pokemontcg.io/bw11/65_hires.png"
@@ -4747,6 +4422,7 @@ let legendaryTreasures = [
         "id": "bw11-66",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4787,10 +4463,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4805,10 +4478,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             561
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/66.png",
             "large": "https://images.pokemontcg.io/bw11/66_hires.png"
@@ -4818,6 +4488,7 @@ let legendaryTreasures = [
         "id": "bw11-67",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4864,10 +4535,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4882,10 +4550,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/67.png",
             "large": "https://images.pokemontcg.io/bw11/67_hires.png"
@@ -4895,6 +4560,7 @@ let legendaryTreasures = [
         "id": "bw11-68",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4936,10 +4602,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -4954,10 +4617,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/68.png",
             "large": "https://images.pokemontcg.io/bw11/68_hires.png"
@@ -4967,6 +4627,7 @@ let legendaryTreasures = [
         "id": "bw11-69",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5011,10 +4672,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5029,10 +4687,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/69.png",
             "large": "https://images.pokemontcg.io/bw11/69_hires.png"
@@ -5042,6 +4697,7 @@ let legendaryTreasures = [
         "id": "bw11-70",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5077,10 +4733,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5095,10 +4748,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/70.png",
             "large": "https://images.pokemontcg.io/bw11/70_hires.png"
@@ -5108,6 +4758,7 @@ let legendaryTreasures = [
         "id": "bw11-71",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5153,10 +4804,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5171,10 +4819,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             575
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/71.png",
             "large": "https://images.pokemontcg.io/bw11/71_hires.png"
@@ -5184,6 +4829,7 @@ let legendaryTreasures = [
         "id": "bw11-72",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5225,10 +4871,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5243,10 +4886,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             576
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/72.png",
             "large": "https://images.pokemontcg.io/bw11/72_hires.png"
@@ -5256,6 +4896,7 @@ let legendaryTreasures = [
         "id": "bw11-73",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5290,10 +4931,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5308,10 +4946,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/73.png",
             "large": "https://images.pokemontcg.io/bw11/73_hires.png"
@@ -5321,6 +4956,7 @@ let legendaryTreasures = [
         "id": "bw11-74",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5365,10 +5001,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5383,10 +5016,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/74.png",
             "large": "https://images.pokemontcg.io/bw11/74_hires.png"
@@ -5396,6 +5026,7 @@ let legendaryTreasures = [
         "id": "bw11-75",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5431,10 +5062,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5449,10 +5077,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             578
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/75.png",
             "large": "https://images.pokemontcg.io/bw11/75_hires.png"
@@ -5462,6 +5087,7 @@ let legendaryTreasures = [
         "id": "bw11-76",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5503,10 +5129,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5521,10 +5144,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/76.png",
             "large": "https://images.pokemontcg.io/bw11/76_hires.png"
@@ -5534,6 +5154,7 @@ let legendaryTreasures = [
         "id": "bw11-77",
         "name": "Chandelure-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5580,10 +5201,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5597,10 +5215,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/77.png",
             "large": "https://images.pokemontcg.io/bw11/77_hires.png"
@@ -5610,6 +5225,7 @@ let legendaryTreasures = [
         "id": "bw11-78",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5652,10 +5268,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5670,10 +5283,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/78.png",
             "large": "https://images.pokemontcg.io/bw11/78_hires.png"
@@ -5683,6 +5293,7 @@ let legendaryTreasures = [
         "id": "bw11-79",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5727,10 +5338,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5745,10 +5353,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/79.png",
             "large": "https://images.pokemontcg.io/bw11/79_hires.png"
@@ -5758,6 +5363,7 @@ let legendaryTreasures = [
         "id": "bw11-80",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5798,10 +5404,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5816,10 +5419,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/80.png",
             "large": "https://images.pokemontcg.io/bw11/80_hires.png"
@@ -5829,6 +5429,7 @@ let legendaryTreasures = [
         "id": "bw11-81",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5872,10 +5473,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5890,10 +5488,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             475
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/81.png",
             "large": "https://images.pokemontcg.io/bw11/81_hires.png"
@@ -5903,6 +5498,7 @@ let legendaryTreasures = [
         "id": "bw11-82",
         "name": "Excadrill-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5957,10 +5553,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -5974,10 +5567,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/82.png",
             "large": "https://images.pokemontcg.io/bw11/82_hires.png"
@@ -5987,6 +5577,7 @@ let legendaryTreasures = [
         "id": "bw11-83",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6034,10 +5625,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6052,10 +5640,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/83.png",
             "large": "https://images.pokemontcg.io/bw11/83_hires.png"
@@ -6065,6 +5650,7 @@ let legendaryTreasures = [
         "id": "bw11-84",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6108,10 +5694,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6126,10 +5709,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/84.png",
             "large": "https://images.pokemontcg.io/bw11/84_hires.png"
@@ -6139,6 +5719,7 @@ let legendaryTreasures = [
         "id": "bw11-85",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6187,10 +5768,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6205,10 +5783,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/85.png",
             "large": "https://images.pokemontcg.io/bw11/85_hires.png"
@@ -6218,6 +5793,7 @@ let legendaryTreasures = [
         "id": "bw11-86",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6260,10 +5836,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6278,10 +5851,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/86.png",
             "large": "https://images.pokemontcg.io/bw11/86_hires.png"
@@ -6291,6 +5861,7 @@ let legendaryTreasures = [
         "id": "bw11-87",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6323,10 +5894,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6341,10 +5909,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/87.png",
             "large": "https://images.pokemontcg.io/bw11/87_hires.png"
@@ -6354,6 +5919,7 @@ let legendaryTreasures = [
         "id": "bw11-88",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6404,10 +5970,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6421,10 +5984,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/88.png",
             "large": "https://images.pokemontcg.io/bw11/88_hires.png"
@@ -6434,6 +5994,7 @@ let legendaryTreasures = [
         "id": "bw11-89",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6484,10 +6045,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6502,10 +6060,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/89.png",
             "large": "https://images.pokemontcg.io/bw11/89_hires.png"
@@ -6515,6 +6070,7 @@ let legendaryTreasures = [
         "id": "bw11-90",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6564,10 +6120,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6582,10 +6135,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/90.png",
             "large": "https://images.pokemontcg.io/bw11/90_hires.png"
@@ -6595,6 +6145,7 @@ let legendaryTreasures = [
         "id": "bw11-91",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6644,10 +6195,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6662,10 +6210,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/91.png",
             "large": "https://images.pokemontcg.io/bw11/91_hires.png"
@@ -6675,6 +6220,7 @@ let legendaryTreasures = [
         "id": "bw11-92",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6719,10 +6265,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6737,10 +6280,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/92.png",
             "large": "https://images.pokemontcg.io/bw11/92_hires.png"
@@ -6750,6 +6290,7 @@ let legendaryTreasures = [
         "id": "bw11-93",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6792,10 +6333,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6810,10 +6348,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/93.png",
             "large": "https://images.pokemontcg.io/bw11/93_hires.png"
@@ -6823,6 +6358,7 @@ let legendaryTreasures = [
         "id": "bw11-94",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6867,10 +6403,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6885,10 +6418,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/94.png",
             "large": "https://images.pokemontcg.io/bw11/94_hires.png"
@@ -6898,6 +6428,7 @@ let legendaryTreasures = [
         "id": "bw11-95",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6943,10 +6474,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -6961,10 +6489,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/95.png",
             "large": "https://images.pokemontcg.io/bw11/95_hires.png"
@@ -6974,6 +6499,7 @@ let legendaryTreasures = [
         "id": "bw11-96",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7016,10 +6542,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7034,10 +6557,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/96.png",
             "large": "https://images.pokemontcg.io/bw11/96_hires.png"
@@ -7047,6 +6567,7 @@ let legendaryTreasures = [
         "id": "bw11-97",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7091,10 +6612,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7109,10 +6627,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/97.png",
             "large": "https://images.pokemontcg.io/bw11/97_hires.png"
@@ -7122,6 +6637,7 @@ let legendaryTreasures = [
         "id": "bw11-98",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7169,10 +6685,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7187,10 +6700,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/98.png",
             "large": "https://images.pokemontcg.io/bw11/98_hires.png"
@@ -7200,6 +6710,7 @@ let legendaryTreasures = [
         "id": "bw11-99",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7242,10 +6753,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7260,10 +6768,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/99.png",
             "large": "https://images.pokemontcg.io/bw11/99_hires.png"
@@ -7273,6 +6778,7 @@ let legendaryTreasures = [
         "id": "bw11-100",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7322,10 +6828,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7339,10 +6842,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/100.png",
             "large": "https://images.pokemontcg.io/bw11/100_hires.png"
@@ -7352,6 +6852,7 @@ let legendaryTreasures = [
         "id": "bw11-101",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7401,10 +6902,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7418,10 +6916,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/101.png",
             "large": "https://images.pokemontcg.io/bw11/101_hires.png"
@@ -7431,6 +6926,7 @@ let legendaryTreasures = [
         "id": "bw11-102",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX",
@@ -7483,10 +6979,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7500,10 +6993,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/102.png",
             "large": "https://images.pokemontcg.io/bw11/102_hires.png"
@@ -7513,6 +7003,7 @@ let legendaryTreasures = [
         "id": "bw11-103",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7554,10 +7045,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7572,10 +7060,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/103.png",
             "large": "https://images.pokemontcg.io/bw11/103_hires.png"
@@ -7585,6 +7070,7 @@ let legendaryTreasures = [
         "id": "bw11-104",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7629,10 +7115,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7647,10 +7130,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/104.png",
             "large": "https://images.pokemontcg.io/bw11/104_hires.png"
@@ -7660,6 +7140,7 @@ let legendaryTreasures = [
         "id": "bw11-105",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7701,10 +7182,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7719,10 +7197,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/105.png",
             "large": "https://images.pokemontcg.io/bw11/105_hires.png"
@@ -7732,6 +7207,7 @@ let legendaryTreasures = [
         "id": "bw11-106",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7766,10 +7242,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7784,10 +7257,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/106.png",
             "large": "https://images.pokemontcg.io/bw11/106_hires.png"
@@ -7797,6 +7267,7 @@ let legendaryTreasures = [
         "id": "bw11-107",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7841,10 +7312,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7859,10 +7327,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/107.png",
             "large": "https://images.pokemontcg.io/bw11/107_hires.png"
@@ -7872,6 +7337,7 @@ let legendaryTreasures = [
         "id": "bw11-108",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7920,10 +7386,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7938,10 +7401,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/108.png",
             "large": "https://images.pokemontcg.io/bw11/108_hires.png"
@@ -7951,6 +7411,7 @@ let legendaryTreasures = [
         "id": "bw11-109",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -7964,10 +7425,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -7978,10 +7436,7 @@ let legendaryTreasures = [
         "number": "109",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/109.png",
             "large": "https://images.pokemontcg.io/bw11/109_hires.png"
@@ -7991,6 +7446,7 @@ let legendaryTreasures = [
         "id": "bw11-110",
         "name": "Cedric Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -8004,10 +7460,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8018,10 +7471,7 @@ let legendaryTreasures = [
         "number": "110",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/110.png",
             "large": "https://images.pokemontcg.io/bw11/110_hires.png"
@@ -8031,6 +7481,7 @@ let legendaryTreasures = [
         "id": "bw11-111",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Item"
         ],
@@ -8044,10 +7495,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8058,11 +7506,7 @@ let legendaryTreasures = [
         "number": "111",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/111.png",
             "large": "https://images.pokemontcg.io/bw11/111_hires.png"
@@ -8072,6 +7516,7 @@ let legendaryTreasures = [
         "id": "bw11-112",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Item"
         ],
@@ -8085,10 +7530,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8099,11 +7541,7 @@ let legendaryTreasures = [
         "number": "112",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/112.png",
             "large": "https://images.pokemontcg.io/bw11/112_hires.png"
@@ -8113,6 +7551,7 @@ let legendaryTreasures = [
         "id": "bw11-113",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Special"
         ],
@@ -8125,10 +7564,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8139,10 +7575,7 @@ let legendaryTreasures = [
         "number": "113",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/113.png",
             "large": "https://images.pokemontcg.io/bw11/113_hires.png"
@@ -8152,6 +7585,7 @@ let legendaryTreasures = [
         "id": "bw11-114",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8195,10 +7629,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8213,10 +7644,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/114.png",
             "large": "https://images.pokemontcg.io/bw11/114_hires.png"
@@ -8226,6 +7654,7 @@ let legendaryTreasures = [
         "id": "bw11-115",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8269,10 +7698,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8287,10 +7713,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/115.png",
             "large": "https://images.pokemontcg.io/bw11/115_hires.png"
@@ -8300,6 +7723,7 @@ let legendaryTreasures = [
         "id": "bw11-RC1",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8345,10 +7769,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8363,10 +7784,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC1.png",
             "large": "https://images.pokemontcg.io/bw11/RC1_hires.png"
@@ -8376,6 +7794,7 @@ let legendaryTreasures = [
         "id": "bw11-RC2",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8422,10 +7841,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8440,10 +7856,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC2.png",
             "large": "https://images.pokemontcg.io/bw11/RC2_hires.png"
@@ -8453,6 +7866,7 @@ let legendaryTreasures = [
         "id": "bw11-RC3",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8494,10 +7908,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8512,10 +7923,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC3.png",
             "large": "https://images.pokemontcg.io/bw11/RC3_hires.png"
@@ -8525,6 +7933,7 @@ let legendaryTreasures = [
         "id": "bw11-RC4",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8571,10 +7980,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8589,10 +7995,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC4.png",
             "large": "https://images.pokemontcg.io/bw11/RC4_hires.png"
@@ -8602,6 +8005,7 @@ let legendaryTreasures = [
         "id": "bw11-RC5",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8646,10 +8050,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8664,10 +8065,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC5.png",
             "large": "https://images.pokemontcg.io/bw11/RC5_hires.png"
@@ -8677,6 +8075,7 @@ let legendaryTreasures = [
         "id": "bw11-RC6",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8721,10 +8120,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8739,10 +8135,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC6.png",
             "large": "https://images.pokemontcg.io/bw11/RC6_hires.png"
@@ -8752,6 +8145,7 @@ let legendaryTreasures = [
         "id": "bw11-RC7",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8796,10 +8190,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8814,10 +8205,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC7.png",
             "large": "https://images.pokemontcg.io/bw11/RC7_hires.png"
@@ -8827,6 +8215,7 @@ let legendaryTreasures = [
         "id": "bw11-RC8",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8871,10 +8260,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8889,10 +8275,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC8.png",
             "large": "https://images.pokemontcg.io/bw11/RC8_hires.png"
@@ -8902,6 +8285,7 @@ let legendaryTreasures = [
         "id": "bw11-RC9",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8948,10 +8332,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -8966,10 +8347,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC9.png",
             "large": "https://images.pokemontcg.io/bw11/RC9_hires.png"
@@ -8979,6 +8357,7 @@ let legendaryTreasures = [
         "id": "bw11-RC10",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9022,10 +8401,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9040,10 +8416,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC10.png",
             "large": "https://images.pokemontcg.io/bw11/RC10_hires.png"
@@ -9053,6 +8426,7 @@ let legendaryTreasures = [
         "id": "bw11-RC11",
         "name": "Meloetta-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9100,10 +8474,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9117,10 +8488,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC11.png",
             "large": "https://images.pokemontcg.io/bw11/RC11_hires.png"
@@ -9130,6 +8498,7 @@ let legendaryTreasures = [
         "id": "bw11-RC12",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9178,10 +8547,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9196,10 +8562,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC12.png",
             "large": "https://images.pokemontcg.io/bw11/RC12_hires.png"
@@ -9209,6 +8572,7 @@ let legendaryTreasures = [
         "id": "bw11-RC13",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9249,10 +8613,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9267,10 +8628,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC13.png",
             "large": "https://images.pokemontcg.io/bw11/RC13_hires.png"
@@ -9280,6 +8638,7 @@ let legendaryTreasures = [
         "id": "bw11-RC14",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9321,10 +8680,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9339,10 +8695,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC14.png",
             "large": "https://images.pokemontcg.io/bw11/RC14_hires.png"
@@ -9352,6 +8705,7 @@ let legendaryTreasures = [
         "id": "bw11-RC15",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9396,10 +8750,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9414,10 +8765,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             216
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC15.png",
             "large": "https://images.pokemontcg.io/bw11/RC15_hires.png"
@@ -9427,6 +8775,7 @@ let legendaryTreasures = [
         "id": "bw11-RC16",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9472,10 +8821,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9490,10 +8836,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             217
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC16.png",
             "large": "https://images.pokemontcg.io/bw11/RC16_hires.png"
@@ -9503,6 +8846,7 @@ let legendaryTreasures = [
         "id": "bw11-RC17",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9536,10 +8880,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9554,10 +8895,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC17.png",
             "large": "https://images.pokemontcg.io/bw11/RC17_hires.png"
@@ -9567,6 +8905,7 @@ let legendaryTreasures = [
         "id": "bw11-RC18",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9601,10 +8940,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9619,10 +8955,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC18.png",
             "large": "https://images.pokemontcg.io/bw11/RC18_hires.png"
@@ -9632,6 +8965,7 @@ let legendaryTreasures = [
         "id": "bw11-RC19",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9673,10 +9007,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9691,10 +9022,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC19.png",
             "large": "https://images.pokemontcg.io/bw11/RC19_hires.png"
@@ -9704,6 +9032,7 @@ let legendaryTreasures = [
         "id": "bw11-RC20",
         "name": "Elesa",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -9717,10 +9046,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9731,10 +9057,7 @@ let legendaryTreasures = [
         "number": "RC20",
         "artist": "Yusuke Ohmura",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC20.png",
             "large": "https://images.pokemontcg.io/bw11/RC20_hires.png"
@@ -9744,6 +9067,7 @@ let legendaryTreasures = [
         "id": "bw11-RC21",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9795,10 +9119,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9812,10 +9133,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC21.png",
             "large": "https://images.pokemontcg.io/bw11/RC21_hires.png"
@@ -9825,6 +9143,7 @@ let legendaryTreasures = [
         "id": "bw11-RC22",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9868,10 +9187,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9886,10 +9202,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC22.png",
             "large": "https://images.pokemontcg.io/bw11/RC22_hires.png"
@@ -9899,6 +9212,7 @@ let legendaryTreasures = [
         "id": "bw11-RC23",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9944,10 +9258,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -9962,10 +9273,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC23.png",
             "large": "https://images.pokemontcg.io/bw11/RC23_hires.png"
@@ -9975,6 +9283,7 @@ let legendaryTreasures = [
         "id": "bw11-RC24",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10017,10 +9326,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -10034,10 +9340,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC24.png",
             "large": "https://images.pokemontcg.io/bw11/RC24_hires.png"
@@ -10047,6 +9350,7 @@ let legendaryTreasures = [
         "id": "bw11-RC25",
         "name": "Meloetta-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -10094,10 +9398,7 @@ let legendaryTreasures = [
             "series": "Black & White",
             "printedTotal": 113,
             "total": 140,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "LTR",
             "releaseDate": "2013/11/06",
             "images": {
@@ -10111,10 +9412,7 @@ let legendaryTreasures = [
         "nationalPokedexNumbers": [
             648
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw11/RC25.png",
             "large": "https://images.pokemontcg.io/bw11/RC25_hires.png"
