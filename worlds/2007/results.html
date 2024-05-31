@@ -125,24 +125,34 @@
     
     <div id='modal-section'>
         <div class='modal'>
-            <div class='modal-top'>
-                <div class='cs-plus-ap'>
-                    <p class='playerName'>Name</p>
+            <div class='modal-top-new'>
+                <div class='modal-top-parts'>
+                    <div class='cs-plus-ap'>
+                        <p class='playerName'>Name</p>
+                    </div>
+                    <div class='modal-x'>
+                        <p>X</p>
+                    </div>
                 </div>
-                <div class='modal-x'>
-                    <p>X</p>
+                <div class='modal-buttons'>
+                    <button class='copy-to-clip'>Copy to Clipboard</button>
+                    <!-- <button class='change-list-view'>Change List View</button> -->
                 </div>
             </div>
             <div class='modal-bottom'>
                 <!-- <div class='pokemon-card'> -->
-                    <!-- <img class='pok-card-small' src=''> -->
-                    <!-- <img class='num-1' src=''> -->
+                <!-- <img class='pok-card-small' src=''> -->
+                <!-- <img class='num-1' src=''> -->
                 <!-- </div> -->
             </div>
         </div>
     </div>
-<div class='behind-modal'></div>
+    <div class='behind-modal'></div>
     <div class='second-behind-modal'></div>
+
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
     <div class='contain-event'>
          <div id="zoom-card-box"></div>
         <div class='event-content'>
@@ -226,8 +236,145 @@
     <script src='../../darkmode/darkmode-worlds-res-tweets.js'></script>
     <script src='../../../index.js'></script>
     <script src='./2007-worlds.js'></script>
-    <script src='../division.js'></script>
-    <script src="index.js"></script>
+    <script src='../../decklist-script/sort-og-events.js'></script>
+    <script src='../../decklist-script/convert-set-names.js'></script>
+
+    <script src='../../card-database/swsh/lost-origin.js'></script>
+    <script src='../../card-database/swsh/brilliant-stars.js'></script>
+    <script src='../../card-database/swsh/astral-radiance.js'></script>
+    <script src='../../card-database/swsh/battle-styles.js'></script>
+    <script src='../../card-database/swsh/celebrations.js'></script>
+    <script src='../../card-database/swsh/chilling-reign.js'></script>
+    <script src='../../card-database/swsh/crown-zenith.js'></script>
+    <script src='../../card-database/swsh/evolving-skies.js'></script>
+    <script src='../../card-database/swsh/fusion-strike.js'></script>
+    <script src='../../card-database/swsh/pokemon-go.js'></script>
+    <script src='../../card-database/swsh/shining-fates.js'></script>
+    <script src='../../card-database/swsh/silver-tempest.js'></script>
+    <script src='../../card-database/swsh/vivid-voltage.js'></script>
+    <script src='../../card-database/swsh/champions-path.js'></script>
+    <script src='../../card-database/swsh/darkness-ablaze.js'></script>
+    <script src='../../card-database/swsh/rebel-clash.js'></script>
+    <script src='../../card-database/swsh/sword-shield.js'></script>
+    <script src='../../card-database/swsh/promos.js'></script>
+
+    <script src='../../card-database/sm/burning-shadow.js'></script>
+    <script src='../../card-database/sm/celestial-storm.js'></script>
+    <script src='../../card-database/sm/cosmic-eclipse.js'></script>
+    <script src='../../card-database/sm/crimson-invasion.js'></script>
+    <script src='../../card-database/sm/detective-pikachu.js'></script>
+    <script src='../../card-database/sm/dragon-majesty.js'></script>
+    <script src='../../card-database/sm/forbidden-light.js'></script>
+    <script src='../../card-database/sm/guardians-rising.js'></script>
+    <script src='../../card-database/sm/hidden-fates.js'></script>
+    <script src='../../card-database/sm/lost-thunder.js'></script>
+    <script src='../../card-database/sm/promos.js'></script>
+    <script src='../../card-database/sm/shining-legends.js'></script>
+    <script src='../../card-database/sm/sun-moon.js'></script>
+    <script src='../../card-database/sm/team-up.js'></script>
+    <script src='../../card-database/sm/ultra-prism.js'></script>
+    <script src='../../card-database/sm/unbroken-bonds.js'></script>
+    <script src='../../card-database/sm/unified-minds.js'></script>
+
+    <script src='../../card-database/xy/ancient-origins.js'></script>
+    <script src='../../card-database/xy/breakpoint.js'></script>
+    <script src='../../card-database/xy/breakthrough.js'></script>
+    <script src='../../card-database/xy/double-crisis.js'></script>
+    <script src='../../card-database/xy/evolutions.js'></script>
+    <script src='../../card-database/xy/fates-collide.js'></script>
+    <script src='../../card-database/xy/flashfire.js'></script>
+    <script src='../../card-database/xy/furious-fists.js'></script>
+    <script src='../../card-database/xy/generations.js'></script>
+    <script src='../../card-database/xy/phantom-forces.js'></script>
+    <script src='../../card-database/xy/primal-clash.js'></script>
+    <script src='../../card-database/xy/promos.js'></script>
+    <script src='../../card-database/xy/roaring-skies.js'></script>
+    <script src='../../card-database/xy/steam-siege.js'></script>
+    <script src='../../card-database/xy/xy.js'></script>
+    <script src='../../card-database/other/kalos.js'></script>
+
+    <script src='../../card-database/bw/black-white.js'></script>
+    <script src='../../card-database/bw/boundaries-crossed.js'></script>
+    <script src='../../card-database/bw/dark-explorers.js'></script>
+    <script src='../../card-database/bw/dragon-vault.js'></script>
+    <script src='../../card-database/bw/dragons-exalted.js'></script>
+    <script src='../../card-database/bw/emerging-powers.js'></script>
+    <script src='../../card-database/bw/legendary-treasures.js'></script>
+    <script src='../../card-database/bw/next-destinies.js'></script>
+    <script src='../../card-database/bw/noble-victories.js'></script>
+    <script src='../../card-database/bw/plasma-blast.js'></script>
+    <script src='../../card-database/bw/plasma-freeze.js'></script>
+    <script src='../../card-database/bw/plasma-storm.js'></script>
+    <script src='../../card-database/bw/promos.js'></script>
+
+    <script src='../../card-database/hgss/call-of-legends.js'></script>
+    <script src='../../card-database/hgss/hgss.js'></script>
+    <script src='../../card-database/hgss/promos.js'></script>
+    <script src='../../card-database/hgss/triumphant.js'></script>
+    <script src='../../card-database/hgss/undaunted.js'></script>
+    <script src='../../card-database/hgss/unleashed.js'></script>
+
+    <script src='../../card-database/dp/arceus.js'></script>
+    <script src='../../card-database/dp/diamond-pearl.js'></script>
+    <script src='../../card-database/dp/great-encounters.js'></script>
+    <script src='../../card-database/dp/legends-awakened.js'></script>
+    <script src='../../card-database/dp/majestic-dawn.js'></script>
+    <script src='../../card-database/dp/mysterious-treasures.js'></script>
+    <script src='../../card-database/dp/platinum.js'></script>
+    <script src='../../card-database/dp/promos.js'></script>
+    <script src='../../card-database/dp/rising-rivals.js'></script>
+    <script src='../../card-database/dp/secret-wonders.js'></script>
+    <script src='../../card-database/dp/stormfront.js'></script>
+    <script src='../../card-database/dp/supreme-victores.js'></script>
+
+    <script src='../../card-database/rs/crystal-guardians.js'></script>
+    <script src='../../card-database/rs/delta-species.js'></script>
+    <script src='../../card-database/rs/deoxys.js'></script>
+    <script src='../../card-database/rs/dragon-frontiers.js'></script>
+    <script src='../../card-database/rs/dragon.js'></script>
+    <script src='../../card-database/rs/emerald.js'></script>
+    <script src='../../card-database/rs/firered-leafgreen.js'></script>
+    <script src='../../card-database/rs/hidden-legends.js'></script>
+    <script src='../../card-database/rs/holon-phantoms.js'></script>
+    <script src='../../card-database/rs/legend-maker.js'></script>
+    <script src='../../card-database/rs/magma-aqua.js'></script>
+    <script src='../../card-database/rs/power-keepers.js'></script>
+    <script src='../../card-database/rs/promos.js'></script>
+    <script src='../../card-database/rs/ruby-sapphire.js'></script>
+    <script src='../../card-database/rs/sandstorm.js'></script>
+    <script src='../../card-database/rs/team-rocket-returns.js'></script>
+    <script src='../../card-database/rs/unseen-forces.js'></script>
+
+    <script src='../../card-database/wotc/aquapolis.js'></script>
+    <script src='../../card-database/wotc/base-set.js'></script>
+    <script src='../../card-database/wotc/base-set2.js'></script>
+    <script src='../../card-database/wotc/destiny.js'></script>
+    <script src='../../card-database/wotc/discovery.js'></script>
+    <script src='../../card-database/wotc/expedition.js'></script>
+    <script src='../../card-database/wotc/fossil.js'></script>
+    <script src='../../card-database/wotc/genesis.js'></script>
+    <script src='../../card-database/wotc/gym-challenge.js'></script>
+    <script src='../../card-database/wotc/gym-heroes.js'></script>
+    <script src='../../card-database/wotc/jungle.js'></script>
+    <script src='../../card-database/wotc/legendary-collection.js'></script>
+    <script src='../../card-database/wotc/promos.js'></script>
+    <script src='../../card-database/wotc/revelation.js'></script>
+    <script src='../../card-database/wotc/skyridge.js'></script>
+    <script src='../../card-database/wotc/team-rocket.js'></script>
+
+    <script src='../../card-database/other/porganizedp9.js'></script>
+    <script src='../../card-database/other/porganizedp8.js'></script>
+    <script src='../../card-database/other/porganizedp7.js'></script>
+    <script src='../../card-database/other/porganizedp6.js'></script>
+    <script src='../../card-database/other/porganizedp5.js'></script>
+    <script src='../../card-database/other/porganizedp4.js'></script>
+    <script src='../../card-database/other/porganizedp3.js'></script>
+    <script src='../../card-database/other/porganizedp2.js'></script>
+    <script src='../../card-database/other/porganizedp1.js'></script>
+    <script src='../../card-database/other/rumble.js'></script>
+    <script src='../../card-database/other/southern-islands.js'></script>
+    <script src='../../card-database/other/tk1.js'></script>
+    <script src='../../card-database/other/tk2.js'></script>
      
 </body>
 

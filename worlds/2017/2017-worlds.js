@@ -15,7 +15,7 @@ let masters = [
     sprite1: '../../assets/sprites/golisopod.png',
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
-    deckid: "eeeeee",
+    deckid: "golisopod-garbodor",
     event: "2017 World Championships",
     decklist: {"pokemon":[{"count":4,"name":"Wimpod","set":"BUS","number":16},{"count":3,"name":"Golisopod-GX","set":"BUS","number":17},{"count":4,"name":"Trubbish","set":"BKP","number":56},{"count":2,"name":"Garbodor","set":"BKP","number":57},{"count":2,"name":"Garbodor","set":"GRI","number":51},{"count":2,"name":"Tapu Lele-GX","set":"GRI","number":60},{"count":1,"name":"Tapu Koko","set":"PR-SM","number":30}],"trainer":[{"count":4,"name":"Professor Sycamore","set":"BKP","number":107},{"count":3,"name":"N","set":"FCO","number":105},{"count":2,"name":"Guzma","set":"BUS","number":115},{"count":2,"name":"Acerola","set":"BUS","number":112},{"count":1,"name":"Brigette","set":"BKT","number":134},{"count":1,"name":"Teammates","set":"PRC","number":141},{"count":1,"name":"Hex Maniac","set":"AOR","number":75},{"count":4,"name":"VS Seeker","set":"PHF","number":109},{"count":4,"name":"Ultra Ball","set":"SUM","number":135},{"count":2,"name":"Rescue Stretcher","set":"GRI","number":130},{"count":1,"name":"Field Blower","set":"GRI","number":125},{"count":1,"name":"Heavy Ball","set":"BKT","number":140},{"count":4,"name":"Float Stone","set":"BKT","number":137},{"count":2,"name":"Choice Band","set":"GRI","number":121}],"energy":[{"count":4,"name":"Rainbow Energy","set":"SUM","number":137},{"count":3,"name":"Grass","set":"Energy","number":1},{"count":3,"name":"Double Colorless Energy","set":"SUM","number":136}]}
   },
@@ -25,99 +25,9 @@ let masters = [
     sprite1: '../../assets/sprites/espeon.png',
     sprite2: '../../assets/sprites/garbodor.png',
     list: '../../assets/list-icon.png',
-    deckid: "eeeeee",
+    deckid: "espeon-garbodor",
     event: "2017 World Championships",
     decklist: {},
-    deck: [
-      {
-        cardImg: '../../assets/cards/2018-17/espeon-gx.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/flareon.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/eevee.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/garbodor-trashalanche.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/garbodor-garbotoxin.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/trubbish-acid-spray.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/tapu-lele-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/professor-sycamore.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/n.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/guzma.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/brigette.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/hex-maniac.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/teammates.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/vs-seeker.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/ultra-ball.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/field-blower.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/float-stone.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/choice-band.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2018-17/parallel-city.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/energy-psychic.png',
-        numImg: '../../assets/08.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/dce.png',
-        numImg: '../../assets/04.png'
-      }
-    ]
   },
   {
     firstName: 'Sho Sasaki',
