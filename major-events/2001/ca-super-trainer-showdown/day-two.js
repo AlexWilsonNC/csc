@@ -13,6 +13,16 @@ let masters = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -113,6 +123,16 @@ let masters = [
     sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -228,6 +248,16 @@ let masters = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -318,6 +348,16 @@ let masters = [
     sprite2: '../../../assets/sprites/qwilfish.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -408,6 +448,16 @@ let masters = [
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
@@ -518,6 +568,16 @@ let masters = [
     sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -618,6 +678,16 @@ let masters = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -713,6 +783,16 @@ let masters = [
     sprite2: '../../../assets/sprites/entei.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/g2.001.blaines_arcanine.jpg',
@@ -779,6 +859,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -795,6 +885,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -811,6 +911,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -827,6 +937,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -843,6 +963,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -859,6 +989,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -874,6 +1014,16 @@ let masters = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -985,6 +1135,16 @@ let masters = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -1003,6 +1163,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1088,6 +1258,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1193,6 +1373,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/umbreon.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
@@ -1313,6 +1503,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1413,6 +1613,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1503,6 +1713,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1603,6 +1823,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1688,6 +1918,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -1776,6 +2016,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -1866,6 +2116,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/umbreon.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -1981,6 +2241,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -2066,6 +2336,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
@@ -2181,6 +2461,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -2271,6 +2561,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/suicune.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -2361,6 +2661,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -2456,6 +2766,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
@@ -2547,6 +2867,16 @@ let juniors = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -2563,6 +2893,16 @@ let juniors = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -2579,6 +2919,16 @@ let juniors = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -2595,6 +2945,16 @@ let juniors = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -2610,6 +2970,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/muk.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/g2.036.brocks_sandslash.jpg',
@@ -2718,6 +3088,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -2833,6 +3213,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -2928,6 +3318,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/arcanine.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.017.typhlosion.jpg',
@@ -3013,6 +3413,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/houndoom.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.017.typhlosion.jpg',
@@ -3113,6 +3523,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/feraligatr.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
@@ -3238,6 +3658,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/arcanine.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.017.typhlosion.jpg',
@@ -3323,6 +3753,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/hitmonchan.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.015.steelix.jpg',
@@ -3423,6 +3863,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.015.steelix.jpg',
@@ -3539,6 +3989,16 @@ let fourEvent = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -3555,6 +4015,16 @@ let fourEvent = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -3571,6 +4041,16 @@ let fourEvent = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -3587,6 +4067,16 @@ let fourEvent = [
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil',
@@ -3602,6 +4092,16 @@ let fourEvent = [
     sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',

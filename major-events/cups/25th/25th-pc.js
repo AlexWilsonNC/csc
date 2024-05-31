@@ -11,6 +11,16 @@ let masters = [
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
@@ -125,6 +135,16 @@ let masters = [
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
     type: 'psychic',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
@@ -231,6 +251,16 @@ let masters = [
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
@@ -333,6 +363,16 @@ let masters = [
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
     type: 'psychic',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',
@@ -423,6 +463,16 @@ let masters = [
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-ice-rider.png',
@@ -521,6 +571,16 @@ let masters = [
     sprite2: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-ice-rider.png',
@@ -611,6 +671,16 @@ let masters = [
     sprite2: '../../../assets/sprites/moltres-galar.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/victini-vmax.png',
@@ -709,6 +779,16 @@ let masters = [
     sprite2: '../../../assets/sprites/weavile.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
@@ -818,6 +898,16 @@ let boss = [
     sprite2: '../../../assets/sprites/alcremie-vmax.png',
     list: '../../../assets/list-icon.png',
     type: 'psychic',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/calyrex-vmax-shadow-rider.png',

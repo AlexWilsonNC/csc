@@ -13,6 +13,16 @@ let masters = [
     sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/altaria.png',
@@ -155,6 +165,16 @@ let masters = [
     sprite2: '../../../assets/sprites/rillaboom.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
@@ -277,6 +297,16 @@ let masters = [
     sprite2: '../../../assets/sprites/rillaboom.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
@@ -399,6 +429,16 @@ let masters = [
     sprite2: '../../../assets/sprites/cinccino.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
@@ -520,6 +560,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
@@ -622,6 +672,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/bunnelby.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/polteageist-mad-party.png',
@@ -720,6 +780,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/eternatus-eternamax.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/eternatus-vmax.png',
@@ -806,6 +876,16 @@ let seniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
@@ -903,6 +983,16 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/rs-urshifu-vmax.png',
@@ -1005,6 +1095,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/bunnelby.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/polteageist-mad-party.png',
@@ -1103,6 +1203,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
@@ -1209,6 +1319,16 @@ let juniors = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
@@ -1342,6 +1462,16 @@ let extras = [
     sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
@@ -1432,6 +1562,16 @@ let extras = [
     sprite2: '../../../assets/sprites/rillaboom.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',
@@ -1554,6 +1694,16 @@ let extras = [
     sprite2: '../../../assets/sprites/zacian-crowned.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/adp-gx.png',
@@ -1656,6 +1806,16 @@ let extras = [
     sprite2: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
+    event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
       {
         cardImg: '../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',

@@ -17,7 +17,17 @@ let masters = [
         sprite2: '../../assets/sprites/castform.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/flygon-grass.png',
                 numImg: '../../assets/03.png',
@@ -142,7 +152,17 @@ let masters = [
         sprite2: '../../assets/sprites/grumpig.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/grumpig.png',
                 numImg: '../../assets/02.png',
@@ -259,7 +279,17 @@ let masters = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -273,7 +303,17 @@ let masters = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -289,7 +329,17 @@ let seniors = [
         sprite2: '../../assets/sprites/dragonite.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/metagross-deltaspecies.png',
                 numImg: '../../assets/03.png',
@@ -400,7 +450,17 @@ let seniors = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -416,7 +476,17 @@ let juniors = [
         sprite2: '../../assets/sprites/rayquaza.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/raqyuaza-ex-lightning.png',
                 numImg: '../../assets/03.png',
@@ -545,7 +615,17 @@ let juniors = [
         sprite2: '../../assets/sprites/dragonite.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/metagross-deltaspecies.png',
                 numImg: '../../assets/03.png',
@@ -656,7 +736,17 @@ let juniors = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -670,7 +760,17 @@ let juniors = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -686,7 +786,17 @@ let tenEvent = [
         sprite2: '../../assets/sprites/ledian.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/exeggutor-fighting.png',
                 numImg: '../../assets/04.png'
@@ -805,7 +915,17 @@ let tenEvent = [
         sprite2: '../../assets/sprites/rayquaza.png',
         list: '../../assets/list-icon.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/raqyuaza-ex-lightning.png',
                 numImg: '../../assets/03.png',
@@ -943,7 +1063,17 @@ let tenEvent = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -957,7 +1087,17 @@ let tenEvent = [
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008',
                 numImg: '../../assets/04.png'
@@ -972,7 +1112,17 @@ let fiveEvent = [
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/grumpig.png',
         list: '../../assets/list-icon.png',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2007-2008/grumpig.png',
                 numImg: '../../assets/03.png',
@@ -1091,7 +1241,17 @@ let fiveEvent = [
         sprite2: '../../assets/sprites/exeggutor.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2008-2010',
                 numImg: '../../assets/04.png'
@@ -1104,7 +1264,17 @@ let fiveEvent = [
         sprite2: '../../assets/sprites/dragonite.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2008-2010',
                 numImg: '../../assets/04.png'
@@ -1117,7 +1287,17 @@ let fiveEvent = [
         sprite2: '../../assets/sprites/dragonite.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2008-2010',
                 numImg: '../../assets/04.png'
@@ -1135,7 +1315,17 @@ let sixEvent = [
         list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
         type: 'normal',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2014-2016',
                 numImg: '../../assets/04.png'
@@ -1153,7 +1343,17 @@ let sevenEvent = [
         list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
         type: 'normal',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2014-2016',
                 numImg: '../../assets/04.png'
@@ -1171,7 +1371,17 @@ let eightEvent = [
         list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
         type: 'normal',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2014-2016',
                 numImg: '../../assets/04.png'
@@ -1189,7 +1399,17 @@ let nineEvent = [
         list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
         type: 'normal',
-        deck: [
+        event: '',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: [
             {
                 cardImg: '../../assets/cards/2014-2016',
                 numImg: '../../assets/04.png'

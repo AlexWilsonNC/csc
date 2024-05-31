@@ -140,7 +140,7 @@ function displayList(array = []) {
                                 //sm
                                 sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp,
                                 //xy
-                                xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xy0, xyp, importedenergy
+                                xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xy0, xyp
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
@@ -391,7 +391,7 @@ function displayList(array = []) {
                                 //rs
                                 ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
                                 //wotc
-                                ecard3, ecard2, ecard1,
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
                                 //other
                                 pop1, si1, tk1a, tk2a
                             }
@@ -490,6 +490,15 @@ function displayList(array = []) {
                         } 
                         if (item.event.includes('Retro')) {
                             numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
+                        } 
+                        if (item.event.includes('Nationals')) {
+                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
+                        } 
+                        if (item.event.includes('Stadium Challenge')) {
+                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
+                        } 
+                        if (item.event.includes('Super Trainer Showdown')) {
+                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
                         } 
 
                         cardSpace.appendChild(pokeCard);
